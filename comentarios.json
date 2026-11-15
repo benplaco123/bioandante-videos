@@ -1797,8 +1797,13 @@
   "texto": "Te esfuerzas en que analfabetos entiendan. No saben leer...",
   "hora": "2026-11-13T19:46:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Los argumentos y los datos hablan por sí solos."
+   }
+  ],
+  "respondido": true,
   "video": "🧊 «Dos grados no son nada.» «El clima siempre ha cambiado.» «Los cient",
   "enlace": "https://www.instagram.com/reel/Dfpqh5CCgR9/"
  },
