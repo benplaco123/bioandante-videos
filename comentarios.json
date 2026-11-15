@@ -3410,8 +3410,13 @@
   "texto": "Entonces son como una especie de hermafrodita 😬",
   "hora": "2026-11-03T23:08:30Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "En los peces payaso, como Nemo, ocurre algo fascinante: son hermafroditas secuenciales. Pueden cambiar de macho a hembra; si la hembra dominante muere, el macho dominante se transforma en hembra. 🐠❤️"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/Jbe-HrCqP7I"
  },
