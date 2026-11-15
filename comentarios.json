@@ -132,8 +132,13 @@
   "texto": "esa es una vil mentira este video lo hizo alguien que esta enfermo y desinforma al adicto al internet",
   "hora": "2026-11-15T19:21:08+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "La ciencia no se basa en opiniones, sino en estudios. Indetectable = Intransmisible está demostrado científicamente."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
