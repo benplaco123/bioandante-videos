@@ -1,6 +1,30 @@
 [
  {
   "red": "instagram",
+  "id": "18098781497407007",
+  "quien": "sam_gallastegui",
+  "texto": "Os pasáis tanto con el sarcasmo que ya no sé lo que es ironía o no.",
+  "hora": "2026-11-15T23:00:25+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
+  "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
+ },
+ {
+  "red": "instagram",
+  "id": "18651026434035697",
+  "quien": "sam_gallastegui",
+  "texto": "H",
+  "hora": "2026-11-15T22:59:56+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
+  "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
+ },
+ {
+  "red": "instagram",
   "id": "18380037580244498",
   "quien": "bartbender696",
   "texto": "Muy bien explicado, no sé debe menospreciar la labor de la clase científica profesional con muchos años de estudio 🙌🙌",
@@ -255,8 +279,13 @@
   "texto": "Por eso la ventaja de estarse monitoreandose cada 6 meses , en las pruebas de HIV !!",
   "hora": "2026-11-15T19:00:13+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "on controles para comprobar que el tratamiento funciona y la carga viral sigue suprimida."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -271,9 +300,13 @@
    {
     "quien": null,
     "texto": "Jesús Dere Palacios López podrido estas tu ya imagínate con el virus"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Tener VIH no convierte a nadie en una persona podrida. El tratamiento permite vivir saludablemente y, manteniendo la carga viral indetectable, no se transmite por vía sexual."
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -288,9 +321,13 @@
    {
     "quien": null,
     "texto": "Arely Serna correcto el vih y todas las its"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Se reducirían muchísimo las transmisiones, pero todavía existen personas sin diagnóstico, sin tratamiento y reservorios del virus."
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -301,8 +338,13 @@
   "texto": "Pero los medicamentos son riesgosos, siempre están cambiando medicamentos porque traen consecuencias. El famoso Biktarvy, según los medicos puede provocar a la larga daño renal y fallo al corazón grave. Y hasta ahora se decía que era el mejor medicamento. Quizás ayude a estar indetectable, pero nos matan de a poco.",
   "hora": "2026-11-15T18:49:45+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Todos los medicamentos pueden tener efectos secundarios, pero Biktarvy es un tratamiento eficaz. Los posibles riesgos se vigilan médicamente; no hay que abandonar el tratamiento."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -2364,35 +2406,6 @@
   "oculto": false,
   "respuestas": [],
   "respondido": false,
-  "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
-  "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
- },
- {
-  "red": "instagram",
-  "id": "18134433202751605",
-  "quien": "maru.fdc",
-  "texto": "\"Fuimos a buscar otros\" solo eso le define. No es consciente de cómo se pone en evidencia, claro que como a Trump, sus seguidores tragan con todo, se arrepentirán al ver los resultados y será tarde.",
-  "hora": "2026-11-12T16:43:42+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
-  "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
- },
- {
-  "red": "instagram",
-  "id": "18137428666736518",
-  "quien": "janisisalive",
-  "texto": "Es que claro que no va a ser árbitro si es el capitán del equipo negacionista",
-  "hora": "2026-11-12T16:27:32+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "@janisisalive 👏👏🙌🙌"
-   }
-  ],
-  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
