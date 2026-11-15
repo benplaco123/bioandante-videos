@@ -3218,8 +3218,13 @@
   "texto": "Que manera de mentir, que triste que en los tiempos que estamos como manipulan la información es una vergüenza.",
   "hora": "2026-11-11T18:45:51Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Si tienes pruebas científicas que contradigan los datos, compártelas. Descalificar no es argumentar."
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/6wHJnH90t_0"
  },
