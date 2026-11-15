@@ -59,8 +59,13 @@
   "texto": "Por lo que veo quiten mas pacientes. Y pensar que por paciente te pagan un adicional...",
   "hora": "2026-11-15T20:36:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "No confundamos la atención médica con un negocio. El tratamiento del VIH salva vidas y permite que las personas vivan sanas. Acusar sin pruebas no es informar, es difundir prejuicios."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
