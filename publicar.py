@@ -67,13 +67,13 @@ def main():
     res = {'nombre': e['nombre'], 'hora_real': now.isoformat()}
     subprocess.run(['curl', '-sL', '-o', 'v.mp4', url], check=True)
     for k, f, arg in (('instagram', instagram, url), ('facebook', facebook, 'v.mp4'), ('youtube', youtube, 'v.mp4')):
-        if k != 'instagram' and not e.get(k): continue
+        if not e.get(k, k == 'instagram'): continue
         try: res[k] = f(arg, e); print(k, 'OK', res[k])
         except Exception as x: res[k] = 'FALLO ' + str(x); print(k, 'FALLO', x)
     cola.remove(e); hecho.append(res)
     json.dump(cola, open('cola.json', 'w'), ensure_ascii=False, indent=1)
     json.dump(hecho, open('hecho.json', 'w'), ensure_ascii=False, indent=1)
-    if 'FALLO' not in str(res.get('instagram')):
+    if 'FALLO' not in json.dumps(res):
         subprocess.run(['gh', 'release', 'delete-asset', 'cola', e['video'], '-y', '-R', REPO])
 
 if __name__ == '__main__': main()
