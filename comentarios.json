@@ -1,5 +1,17 @@
 [
  {
+  "red": "youtube",
+  "id": "UgyrFE5dx3KHOkxJlQZ4AaABAg",
+  "quien": "@vamonosaldesmadre",
+  "texto": "Y CON ESO QUIEREN JUSTIFICAR LA CAÍDA DE UNA PIEZA DEL COHETE EN EL GOLFO DE MÉXICO.....\nINVADIENDO E INCLUSO ESPACIO MEXICANO! 🇲🇽\nY TODAVÍA CON ELLO CAUSAR DAÑOS AL ECOSISTEMA MARÍTIMO DE NUESTRO ESTADO MEXICANO!!\nQUIEREN HACER UNA CARICATURA JUSTIFICANDO ALGO INDEBIDO, E INCLUSO UNA INVASIÓN EXTRANJERA MEDIANTE ESTOS QUE ELLOS LLAMAN ERRORES!!\n🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽",
+  "hora": "2026-11-15T23:03:07Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/Y2swtvN5Mv8"
+ },
+ {
   "red": "instagram",
   "id": "18098781497407007",
   "quien": "sam_gallastegui",
@@ -562,8 +574,13 @@
   "texto": "El truco es hacer que la gente baje la guardia, para tener todo el mundo enfermo 🤓 que miedo está sociedad",
   "hora": "2026-11-15T17:17:42+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "La ciencia no busca que nadie baje la guardia, sino combatir el miedo con información. Indetectable = Intransmisible está demostrado"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -615,9 +632,13 @@
    {
     "quien": null,
     "texto": "Oscar Serrano contagio. Que pasó? El virus no se infecta. Se transmite."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Ambos términos tienen significados diferentes. El VIH se transmite de una persona a otra y causa una infección."
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -632,9 +653,13 @@
    {
     "quien": null,
     "texto": "Alfredo Castelan bn dicho porque toma antiretroviral q bobada d resto sino lo tomara ya hubiera transmitido el virus a su pareja"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Las experiencias personales no sustituyen la evidencia científica. Si mantiene una carga viral indetectable, no transmite el VIH por vía sexual."
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -761,8 +786,13 @@
   "texto": "Marcos Herrera de la manera como te expresas es claro que eres hijo de satanás por qué una persona que ama a Dios también ama a su prójimo independiente de sus diagnósticos, así que si vas a comentar trata de hacerlo de la mejor manera para que las personas afectadas por el virus 🦠 te simpatisen, hazlo y me cuentas 👌🏼👌🏼",
   "hora": "2026-11-15T13:55:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Totalmente de acuerdo: nadie merece ser discriminado por tener VIH. La empatía y el respeto también forman parte de la salud"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
