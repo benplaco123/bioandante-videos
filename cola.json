@@ -1,15 +1,5 @@
 [
  {
-  "nombre": "01-fusi-n-nuclear",
-  "hora": "2026-11-15T22:00:00+01:00",
-  "video": "01-fusi-n-nuclear.mp4",
-  "texto": "Fusión nuclear: una IA sujeta el plasma tomando 10 000 decisiones por segundo ☀️🧲\n\nPara sujetar una estrella en la Tierra hay que decidir 10 000 veces por segundo 👇\n\n☀️ La fusión es la energía del Sol. Para conseguirla aquí hay que calentar un gas a unos 150 millones de grados.\n🍩 Ese gas, el plasma, se mantiene con imanes dentro de un reactor con forma de donut, y es inestable.\n✍️ Hasta ahora, cada forma de plasma exigía diseñar a mano su sistema de control.\n🤖 DeepMind y el Swiss Plasma Center (EPFL) entrenaron una IA solo en un simulador del reactor: 5000 simulaciones a la vez, durante 1 a 3 días.\n⚡ Luego la pusieron al mando del reactor real (TCV, en Suiza) sin volver a entrenarla: controla sus 19 imanes 10 000 veces por segundo.\n🫧 Consiguió dar al plasma formas distintas e incluso mantener dos plasmas a la vez.\n\n⚠️ TCV es un reactor de investigación, no una central: no produce electricidad. Sus autores creen que este método podría ayudar a diseñar los reactores del futuro.\n\n📄 Fuente: Degrave et al., Nature (2022). Los 150 millones de grados son la cifra general de ITER para la fusión en laboratorio.\n\n📌 Guárdalo y compártelo con quien siempre pregunta «¿y la fusión para cuándo?»\n💬 ¿Crees que veremos centrales de fusión en esta vida? Te leo\n👉 Sígueme en bio.andante: tienes la serie «IA como acelerador científico» completa en el perfil\n\n#fusionnuclear #energia #inteligenciaartificial #fisica #divulgacioncientifica",
-  "titulo": "Fusión nuclear: una IA sujeta el plasma tomando 10 000 decisiones por segundo ☀️🧲",
-  "instagram": false,
-  "facebook": false,
-  "youtube": true
- },
- {
   "nombre": "02-europa-se-arruina",
   "hora": "2026-11-16T18:00:00+01:00",
   "video": "02-europa-se-arruina.mp4",
