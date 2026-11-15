@@ -136,6 +136,10 @@
    {
     "quien": "Bioandante",
     "texto": "La ciencia no se basa en opiniones, sino en estudios. Indetectable = Intransmisible está demostrado científicamente."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "La ciencia no se basa en opiniones, sino en estudios. Indetectable = Intransmisible está demostrado científicamente."
    }
   ],
   "respondido": true,
@@ -149,8 +153,13 @@
   "texto": "Alfredo Castelan pero de tanto tener \"relaciones\"con tu mano ya la tienes llena de ampollas",
   "hora": "2026-11-15T19:19:37+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Cuando faltan argumentos, sobran los insultos. Hablemos con respeto."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -161,8 +170,13 @@
   "texto": "Revisen la 5 leyes Biológicas de Dr. Hamer, por favor ya no crean en tonterías de Virus transmisibles.",
   "hora": "2026-11-15T19:17:50+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "l VIH está científicamente demostrado. Las teorías de Hamer no sustituyen la evidencia médica."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
