@@ -94,9 +94,13 @@
    {
     "quien": null,
     "texto": "Nicole Pukkett Cuallo estudia un poco"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Es información falsa y alarmista. El VIH no mata inevitablemente ni se transmite por cualquier contacto de fluidos. Con tratamiento antirretroviral, una persona puede tener una carga viral indetectable y no transmitir el virus por vía sexual (Indetectable = Intransmisible). Informarse es importante, pero no difundir miedo ni desinformación."
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
