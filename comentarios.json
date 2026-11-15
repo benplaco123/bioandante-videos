@@ -355,8 +355,13 @@
   "texto": "Cada día hay más infectados esa es la realidad",
   "hora": "2026-11-15T18:45:51+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Precisamente por eso son importantes las pruebas, la prevención y el acceso al tratamiento."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -384,8 +389,13 @@
   "texto": "No entendí",
   "hora": "2026-11-15T18:16:24+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Significa que una persona con VIH que mantiene una carga viral indetectable no transmite el virus por vía sexual."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -396,8 +406,13 @@
   "texto": "Woooo Excelente",
   "hora": "2026-11-15T18:15:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "¡La información científica salva vidas! ❤️"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -408,8 +423,13 @@
   "texto": "Puedes estar muchos años sin síntomas. Mientras pudres un continente entero",
   "hora": "2026-11-15T18:12:08+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "El VIH no se transmite por estar cerca de alguien. Se transmite por vías específicas y puede prevenirse."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -424,9 +444,13 @@
    {
     "quien": null,
     "texto": "Felix Casanova ora que el espermatozoide puede llegar a vivir hasta 21 días dentro del ano!!!!!! Jajajajajajjajajja de donde sacas tremenda mamada?"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Eso es falso. Los espermatozoides no son portadores independientes del VIH. El virus se transmite mediante determinados fluidos y bajo condiciones específicas."
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -454,8 +478,13 @@
   "texto": ".\n😂😂😂😂😂😂😂😂\nSoló les están Diciendo qué Serán \n#Clientes_Cautivos_en_Directo\nMientras la Sobrevivan..\n.",
   "hora": "2026-11-15T18:05:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "El tratamiento antirretroviral salva vidas y está respaldado por décadas de investigación científica."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
