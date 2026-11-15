@@ -8,6 +8,18 @@ IGT, IGID = os.environ['IG_TOKEN'], os.environ['IG_USER_ID']
 PT, PID = os.environ.get('PAGE_TOKEN', ''), os.environ.get('PAGE_ID', '')
 YO = 'bio.andante'
 
+def yt_tok():
+    c = json.loads(os.environ['YT_CLIENT'])['installed']
+    return json.loads(urllib.request.urlopen(c['token_uri'], urllib.parse.urlencode(dict(refresh_token=os.environ['YT_REFRESH'],
+        client_id=c['client_id'], client_secret=c['client_secret'], grant_type='refresh_token')).encode()).read())['access_token']
+
+def yt(path, body=None, method=None):
+    r = urllib.request.Request('https://www.googleapis.com/youtube/v3/' + path, data=json.dumps(body).encode() if body is not None else None,
+        method=method, headers={'Authorization': 'Bearer ' + YTT, 'Content-Type': 'application/json'})
+    t = urllib.request.urlopen(r, timeout=60).read()
+    return json.loads(t) if t else {}
+YTT = ''
+
 def call(path, data=None, tok=IGT):
     url = API + path; body = None
     if data is not None: body = urllib.parse.urlencode(dict(data, access_token=tok)).encode()
@@ -19,6 +31,10 @@ def acciones():
     pend = json.load(open('respuestas.json')); quedan = []
     for a in pend:
         try:
+            if a['red'] == 'youtube':
+                if a.get('ocultar'): yt(f"comments/setModerationStatus?id={a['id']}&moderationStatus=heldForReview", None, 'POST')
+                else: yt('comments?part=snippet', {'snippet': {'parentId': a['id'], 'textOriginal': a['texto']}})
+                print('hecho youtube'); continue
             ig = a['red'] == 'instagram'; tok = IGT if ig else PT
             if a.get('ocultar'): call(a['id'], {'hide': 'true'} if ig else {'is_hidden': 'true'}, tok)
             else: call(f"{a['id']}/{'replies' if ig else 'comments'}", {'message': a['texto']}, tok)
@@ -46,9 +62,20 @@ def recoge():
                         respondido=any((r.get('from') or {}).get('id') == PID for r in rs), video=(v.get('description') or '')[:70],
                         enlace='https://www.facebook.com' + v.get('permalink_url', '')))
         except Exception as e: print('Facebook comentarios:', e)
+    try:
+        ch = yt('channels?part=id&mine=true')['items'][0]['id']
+        for t in yt(f'commentThreads?part=snippet,replies&allThreadsRelatedToChannelId={ch}&maxResults=100')['items']:
+            top = t['snippet']['topLevelComment']; sn = top['snippet']; rs = t.get('replies', {}).get('comments', [])
+            out.append(dict(red='youtube', id=top['id'], quien=sn.get('authorDisplayName'), texto=sn.get('textOriginal'), hora=sn.get('publishedAt'),
+                oculto=False, respuestas=[dict(quien=r['snippet'].get('authorDisplayName'), texto=r['snippet'].get('textOriginal')) for r in rs],
+                respondido=any(r['snippet'].get('authorChannelId', {}).get('value') == ch for r in rs), video='YouTube',
+                enlace='https://youtube.com/shorts/' + sn.get('videoId', '')))
+    except Exception as e: print('YouTube comentarios:', e)
     out.sort(key=lambda c: c['hora'] or '', reverse=True)
     json.dump(out, open('comentarios.json', 'w'), ensure_ascii=False, indent=1)
     print(len(out), 'comentarios')
 
 if __name__ == '__main__':
+    try: YTT = yt_tok()
+    except Exception as e: print('YouTube clave:', e)
     acciones(); recoge()

@@ -21,6 +21,8 @@ jobs:
           YT_REFRESH: ${{ secrets.YT_REFRESH }}
       - run: python3 comentarios.py || true
         env:
+          YT_CLIENT: ${{ secrets.YT_CLIENT }}
+          YT_REFRESH: ${{ secrets.YT_REFRESH }}
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           PAGE_TOKEN: ${{ secrets.PAGE_TOKEN }}
