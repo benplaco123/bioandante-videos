@@ -16,16 +16,16 @@ button.pri{background:var(--acc);color:#fff;border-color:var(--acc)}
 .t{border:1px solid var(--line);border-radius:10px;padding:8px;margin-bottom:8px;background:var(--bg);cursor:grab}
 .t .h{font-weight:700;margin-right:6px}.t .x{font-size:13px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin:4px 0}
 .chips{display:flex;gap:6px;align-items:center}.chip{font-size:12px;border-radius:99px;padding:2px 8px;border:1px solid currentColor;cursor:pointer;opacity:.35;user-select:none}
-.chip.on{opacity:1}.chip.ig{color:var(--ig)}.chip.fb{color:var(--fb)}.chip.yt{color:var(--yt)}
+.chip.on{opacity:1}.chip.ig{color:var(--ig)}.chip.fb{color:var(--fb)}.chip.yt{color:var(--yt)}.chip.pr{color:#b7791f}
 input[type=time]{font:inherit;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink);padding:2px 4px}
-.hecho{opacity:.6}.hecho .t{cursor:default}
+.c{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:10px}.c.ok{opacity:.55}.c small{color:var(--mute)}.c textarea{width:100%;font:inherit;border:1px solid var(--line);border-radius:8px;padding:6px;background:var(--bg);color:var(--ink);margin:6px 0}.rr{border-left:3px solid var(--line);padding-left:8px;margin:6px 0;font-size:14px}.hecho{opacity:.6}.hecho .t{cursor:default}
 #login{max-width:520px;margin:40px auto;padding:16px;background:var(--card);border-radius:12px;border:1px solid var(--line)}
 #login input{width:100%;padding:8px;font:inherit;margin:8px 0;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)}
 </style></head><body>
 <div id="login" hidden><h1>Calendario bio.andante</h1><p>Pega tu clave de GitHub (se guarda solo en este navegador).</p>
 <input id="tok" type="password" autocomplete="off"><button class="pri" onclick="guardaTok()">Entrar</button></div>
-<div id="app" hidden><header><h1>Calendario bio.andante</h1><button onclick="carga()">Recargar</button><button class="pri" id="g" onclick="guarda()" disabled>Guardar cambios</button></header>
-<div id="estado"></div><div class="dias" id="dias"></div><h2 style="padding:0 16px;font-size:15px">Publicado</h2><div class="dias hecho" id="hechos"></div></div>
+<div id="app" hidden><header><h1>bio.andante</h1><button onclick="vista('cal')">Calendario</button><button onclick="vista('com')">Comentarios</button><button onclick="carga()">Recargar</button><button class="pri" id="g" onclick="guarda()" disabled>Guardar cambios</button></header>
+<div id="estado"></div><div id="com" hidden style="padding:16px;max-width:760px"></div><div id="cal"><div class="dias" id="dias"></div><h2 style="padding:0 16px;font-size:15px">Publicado</h2><div class="dias hecho" id="hechos"></div></div></div>
 <script>
 const R='benplaco123/bioandante-videos';let T='',cola=[],sha='',sucio=false;
 try{T=localStorage.getItem('ghtok')||''}catch(e){}
@@ -48,14 +48,31 @@ cola.map((e,i)=>[e,i]).filter(([e])=>dia(e.hora)==d).sort((a,b)=>a[0].hora<b[0].
 hechos.innerHTML=h.slice(-12).reverse().map(x=>'<div class="dia"><h2>'+(x.hora_real||'').slice(0,16).replace('T',' ')+'</h2><div class="t"><div class="x">'+x.nombre+'</div>'+['instagram','facebook','youtube'].filter(k=>x[k]).map(k=>'<div style="font-size:12px">'+k+': '+String(x[k]).replace(/</g,'&lt;')+'</div>').join('')+'</div></div>').join('')}
 function tarjeta(e,i){const t=document.createElement('div');t.className='t';t.draggable=true;t.ondragstart=ev=>ev.dataTransfer.setData('i',i);
 const ch=(k,l,c)=>'<span class="chip '+c+(e[k]??(k=='instagram')?' on':'')+'" data-k="'+k+'">'+l+'</span>';
-t.innerHTML='<div class="chips"><input type="time" value="'+hora(e.hora)+'">'+ch('instagram','IG','ig')+ch('facebook','FB','fb')+ch('youtube','YT','yt')+'</div><div class="x"></div>';
+t.innerHTML='<div class="chips"><input type="time" value="'+hora(e.hora)+'">'+ch('instagram','IG','ig')+ch('facebook','FB','fb')+ch('youtube','YT','yt')+ch('prueba','Prueba','pr')+'</div><div class="x"></div>';
 t.querySelector('.x').textContent=e.titulo||e.texto||e.nombre;
 t.querySelector('input').onchange=ev=>{e.hora=dia(e.hora)+'T'+ev.target.value+e.hora.slice(16);cambio()};
-t.querySelectorAll('.chip').forEach(s=>s.onclick=()=>{const k=s.dataset.k;e[k]=!(e[k]??(k=='instagram'));cambio()});
+t.querySelectorAll('.chip').forEach(s=>s.onclick=()=>{const k=s.dataset.k;e[k]=!(e[k]??(k=='instagram'));if(k=='prueba'&&e.prueba){e.instagram=true;e.facebook=false;e.youtube=false}cambio()});
 // mover en el móvil: tocar el día de arriba/abajo
 return t}
 function cambio(){sucio=true;g.disabled=false;estado.textContent='Cambios sin guardar';pinta([])}
 async function guarda(){estado.textContent='Guardando…';try{const r=await gh('cola.json',{method:'PUT',body:JSON.stringify({message:'calendario: cambios desde la web',content:enc(JSON.stringify(cola,null,1)),sha,branch:'main'})});
 sha=r.content.sha;estado.textContent='Guardado ✓';sucio=false;g.disabled=true;carga()}catch(e){estado.textContent='No se pudo guardar ('+e+'). Recarga y vuelve a probar.'}}
+
+function vista(v){cal.hidden=v!='cal';com.hidden=v!='com';if(v=='com')cargaCom()}
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+async function cargaCom(){estado.textContent='Cargando comentarios…';let L=[],P=[];
+try{L=JSON.parse(dec((await gh('comentarios.json?ref=main')).content))}catch(e){}
+try{P=JSON.parse(dec((await gh('respuestas.json?ref=main')).content))}catch(e){}
+const pend=new Set(P.map(a=>a.id));L=L.filter(c=>!c.oculto);L.sort((a,b)=>(a.respondido-b.respondido)||(a.hora<b.hora?1:-1));
+const n=L.filter(c=>!c.respondido).length;estado.textContent=n+' sin responder · se actualiza cada 15 min';
+com.innerHTML=L.map((c,i)=>'<div class="c'+(c.respondido?' ok':'')+'"><small>'+(c.red=='instagram'?'IG':'FB')+' · '+esc((c.hora||'').slice(0,16).replace('T',' '))+' · <a href="'+esc(c.enlace)+'" target="_blank">'+esc(c.video)+'</a></small><div><b>'+esc(c.quien)+'</b> '+esc(c.texto)+'</div>'+
+(c.respuestas||[]).map(r=>'<div class="rr"><b>'+esc(r.quien)+'</b> '+esc(r.texto)+'</div>').join('')+
+(pend.has(c.id)?'<small>⏳ en cola, sale en menos de 15 min</small>':'<textarea rows="2" id="r'+i+'" placeholder="Tu respuesta…"></textarea><button class="pri" onclick="accion('+i+')">Responder</button> <button onclick="accion('+i+',1)">Ocultar</button>')+'</div>').join('')||'<p>No hay comentarios todavía.</p>';
+window._L=L}
+async function accion(i,ocultar){const c=_L[i];const t=ocultar?'':document.getElementById('r'+i).value.trim();if(!ocultar&&!t)return;
+if(ocultar&&!confirm('¿Ocultar este comentario?'))return;estado.textContent='Enviando…';
+for(let k=0;k<3;k++){try{const f=await gh('respuestas.json?ref=main');const P=JSON.parse(dec(f.content));P.push(ocultar?{red:c.red,id:c.id,ocultar:true}:{red:c.red,id:c.id,texto:t});
+await gh('respuestas.json',{method:'PUT',body:JSON.stringify({message:'respuesta desde la web',content:enc(JSON.stringify(P,null,1)),sha:f.sha,branch:'main'})});cargaCom();return}catch(e){}}
+estado.textContent='No se pudo enviar. Recarga y prueba otra vez.'}
 window.onbeforeunload=()=>sucio?true:undefined;inicio();
 </script></body></html>

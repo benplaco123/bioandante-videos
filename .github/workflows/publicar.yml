@@ -19,6 +19,12 @@ jobs:
           PAGE_ID: ${{ secrets.PAGE_ID }}
           YT_CLIENT: ${{ secrets.YT_CLIENT }}
           YT_REFRESH: ${{ secrets.YT_REFRESH }}
+      - run: python3 comentarios.py || true
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PAGE_TOKEN: ${{ secrets.PAGE_TOKEN }}
+          PAGE_ID: ${{ secrets.PAGE_ID }}
       - run: |
           git config user.name bioandante-bot; git config user.email bot@users.noreply.github.com
-          git add cola.json hecho.json 2>/dev/null; git diff --cached --quiet || (git commit -qm "publicado" && git push -q)
+          git add cola.json hecho.json comentarios.json respuestas.json 2>/dev/null; git diff --cached --quiet || (git commit -qm "publicado" && git pull -q --rebase && git push -q)

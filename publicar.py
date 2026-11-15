@@ -22,7 +22,8 @@ def call(path, data=None, tok=IGT):
 
 def instagram(url, e):
     d = {'media_type': 'REELS', 'video_url': url, 'caption': e['texto'], 'share_to_feed': 'true'}
-    if e.get('portada_ms') is not None: d['thumb_offset'] = str(e['portada_ms'])
+    if e.get('portada'): d['cover_url'] = f"https://github.com/{REPO}/releases/download/cola/{e['portada']}"
+    elif e.get('portada_ms') is not None: d['thumb_offset'] = str(e['portada_ms'])
     if e.get('prueba'): d['trial_params'] = json.dumps({'graduation_strategy': 'MANUAL'})
     c = call(f'{IGID}/media', d)
     for _ in range(90):
@@ -38,6 +39,7 @@ def facebook(path, e):
     r = subprocess.run(['curl', '-s', '-X', 'POST', s['upload_url'], '-H', 'Authorization: OAuth ' + PT, '-H', 'offset: 0',
         '-H', f'file_size: {os.path.getsize(path)}', '--data-binary', '@' + path], capture_output=True, text=True)
     if '"success":true' not in r.stdout: raise RuntimeError('Facebook: ' + r.stdout[:200])
+    if e.get('portada'): subprocess.run(['curl', '-s', '-X', 'POST', f"{API}{s['video_id']}/thumbnails", '-F', f'access_token={PT}', '-F', 'is_preferred=true', '-F', 'source=@p.jpg'], capture_output=True)
     call(f'{PID}/video_reels', {'upload_phase': 'finish', 'video_id': s['video_id'], 'video_state': 'PUBLISHED',
         'description': e['texto']}, tok=PT)
     return 'https://www.facebook.com/reel/' + s['video_id']
@@ -54,7 +56,9 @@ def youtube(path, e):
     loc = urllib.request.urlopen(r).headers['Location']
     out = subprocess.run(['curl', '-s', '-X', 'PUT', loc, '-H', 'Authorization: Bearer ' + a, '-H', 'Content-Type: video/mp4',
         '--data-binary', '@' + path], capture_output=True, text=True).stdout
-    return 'https://youtube.com/shorts/' + json.loads(out)['id'] + ' (privado)'
+    vid = json.loads(out)['id']
+    if e.get('portada'): subprocess.run(['curl', '-s', '-X', 'POST', f'https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}', '-H', 'Authorization: Bearer ' + a, '-H', 'Content-Type: image/jpeg', '--data-binary', '@p.jpg'], capture_output=True)
+    return 'https://youtube.com/shorts/' + vid + ' (privado)'
 
 def main():
     cola = json.load(open('cola.json'))
@@ -66,6 +70,7 @@ def main():
     url = f"https://github.com/{REPO}/releases/download/cola/{e['video']}"
     res = {'nombre': e['nombre'], 'hora_real': now.isoformat()}
     subprocess.run(['curl', '-sL', '-o', 'v.mp4', url], check=True)
+    if e.get('portada'): subprocess.run(['curl', '-sL', '-o', 'p.jpg', f"https://github.com/{REPO}/releases/download/cola/{e['portada']}"])
     for k, f, arg in (('instagram', instagram, url), ('facebook', facebook, 'v.mp4'), ('youtube', youtube, 'v.mp4')):
         if not e.get(k, k == 'instagram'): continue
         try: res[k] = f(arg, e); print(k, 'OK', res[k])
@@ -74,6 +79,7 @@ def main():
     json.dump(cola, open('cola.json', 'w'), ensure_ascii=False, indent=1)
     json.dump(hecho, open('hecho.json', 'w'), ensure_ascii=False, indent=1)
     if 'FALLO' not in json.dumps(res):
-        subprocess.run(['gh', 'release', 'delete-asset', 'cola', e['video'], '-y', '-R', REPO])
+        for a in (e['video'], e.get('portada')):
+            if a: subprocess.run(['gh', 'release', 'delete-asset', 'cola', a, '-y', '-R', REPO])
 
 if __name__ == '__main__': main()
