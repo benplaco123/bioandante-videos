@@ -49,7 +49,7 @@ hechos.innerHTML=h.slice(-12).reverse().map(x=>'<div class="dia"><h2>'+(x.hora_r
 function tarjeta(e,i){const t=document.createElement('div');t.className='t';t.draggable=true;t.ondragstart=ev=>ev.dataTransfer.setData('i',i);
 const ch=(k,l,c)=>'<span class="chip '+c+(e[k]??(k=='instagram')?' on':'')+'" data-k="'+k+'">'+l+'</span>';
 t.innerHTML='<div class="chips"><input type="time" value="'+hora(e.hora)+'">'+ch('instagram','IG','ig')+ch('facebook','FB','fb')+ch('youtube','YT','yt')+ch('prueba','Prueba','pr')+'</div><div class="x"></div>';
-t.querySelector('.x').textContent=e.titulo||e.texto||e.nombre;
+t.querySelector('.x').textContent=(e.tipo=='carrusel'?'🖼️ Carrusel · ':'')+(e.titulo||e.texto||e.nombre);if(e.tipo=='carrusel')t.querySelectorAll('[data-k=youtube],[data-k=prueba]').forEach(x=>x.remove());
 t.querySelector('input').onchange=ev=>{e.hora=dia(e.hora)+'T'+ev.target.value+e.hora.slice(16);cambio()};
 t.querySelectorAll('.chip').forEach(s=>s.onclick=()=>{const k=s.dataset.k;e[k]=!(e[k]??(k=='instagram'));if(k=='prueba'&&e.prueba){e.instagram=true;e.facebook=false;e.youtube=false}cambio()});
 // mover en el móvil: tocar el día de arriba/abajo

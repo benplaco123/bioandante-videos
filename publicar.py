@@ -34,6 +34,23 @@ def instagram(url, e):
     p = call(f'{IGID}/media_publish', {'creation_id': c['id']})
     return call(f"{p['id']}?fields=permalink").get('permalink')
 
+def carrusel(e):
+    U = f"https://github.com/{REPO}/releases/download/cola/"
+    kids = [call(f'{IGID}/media', {'image_url': U + i, 'is_carousel_item': 'true'})['id'] for i in e['imagenes']]
+    c = call(f'{IGID}/media', {'media_type': 'CAROUSEL', 'children': ','.join(kids), 'caption': e['texto']})
+    for _ in range(30):
+        if call(f"{c['id']}?fields=status_code").get('status_code') == 'FINISHED': break
+        time.sleep(5)
+    p = call(f'{IGID}/media_publish', {'creation_id': c['id']})
+    return call(f"{p['id']}?fields=permalink").get('permalink')
+
+def carrusel_fb(e):
+    U = f"https://github.com/{REPO}/releases/download/cola/"
+    ids = [call(f'{PID}/photos', {'url': U + i, 'published': 'false'}, tok=PT)['id'] for i in e['imagenes']]
+    d = {'message': e['texto']}
+    for n, i in enumerate(ids): d[f'attached_media[{n}]'] = json.dumps({'media_fbid': i})
+    return 'https://www.facebook.com/' + call(f'{PID}/feed', d, tok=PT)['id']
+
 def facebook(path, e):
     s = call(f'{PID}/video_reels', {'upload_phase': 'start'}, tok=PT)
     r = subprocess.run(['curl', '-s', '-X', 'POST', s['upload_url'], '-H', 'Authorization: OAuth ' + PT, '-H', 'offset: 0',
@@ -69,6 +86,17 @@ def main():
     e = toca[0]  # una por pasada
     url = f"https://github.com/{REPO}/releases/download/cola/{e['video']}"
     res = {'nombre': e['nombre'], 'hora_real': now.isoformat()}
+    if e.get('tipo') == 'carrusel':
+        for k, f in (('instagram', carrusel), ('facebook', carrusel_fb)):
+            if not e.get(k, k == 'instagram'): continue
+            try: res[k] = f(e); print(k, 'OK', res[k])
+            except Exception as x: res[k] = 'FALLO ' + str(x); print(k, 'FALLO', x)
+        cola.remove(e); hecho.append(res)
+        json.dump(cola, open('cola.json', 'w'), ensure_ascii=False, indent=1)
+        json.dump(hecho, open('hecho.json', 'w'), ensure_ascii=False, indent=1)
+        if 'FALLO' not in json.dumps(res):
+            for a in e['imagenes']: subprocess.run(['gh', 'release', 'delete-asset', 'cola', a, '-y', '-R', REPO])
+        return
     subprocess.run(['curl', '-sL', '-o', 'v.mp4', url], check=True)
     if e.get('portada'): subprocess.run(['curl', '-sL', '-o', 'p.jpg', f"https://github.com/{REPO}/releases/download/cola/{e['portada']}"])
     for k, f, arg in (('instagram', instagram, url), ('facebook', facebook, 'v.mp4'), ('youtube', youtube, 'v.mp4')):
