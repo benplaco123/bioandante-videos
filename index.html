@@ -61,8 +61,8 @@ sha=r.content.sha;estado.textContent='Guardado ✓';sucio=false;g.disabled=true;
 function vista(v){cal.hidden=v!='cal';com.hidden=v!='com';if(v=='com')cargaCom()}
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 async function cargaCom(){estado.textContent='Cargando comentarios…';let L=[],P=[];
-try{L=JSON.parse(dec((await gh('comentarios.json?ref=main')).content))}catch(e){}
-try{P=JSON.parse(dec((await gh('respuestas.json?ref=main')).content))}catch(e){}
+try{L=JSON.parse(dec((await gh('comentarios.json?ref=main&t='+Date.now())).content))}catch(e){}
+try{P=JSON.parse(dec((await gh('respuestas.json?ref=main&t='+Date.now())).content))}catch(e){}
 const pend=new Set(P.map(a=>a.id));L=L.filter(c=>!c.oculto);L.sort((a,b)=>(a.respondido-b.respondido)||(a.hora<b.hora?1:-1));
 const n=L.filter(c=>!c.respondido).length;estado.textContent=n+' sin responder · se actualiza cada 15 min';
 com.innerHTML=L.map((c,i)=>'<div class="c'+(c.respondido?' ok':'')+'"><small>'+(c.red=='instagram'?'IG':'FB')+' · '+esc((c.hora||'').slice(0,16).replace('T',' '))+' · <a href="'+esc(c.enlace)+'" target="_blank">'+esc(c.video)+'</a></small><div><b>'+esc(c.quien)+'</b> '+esc(c.texto)+'</div>'+
@@ -72,7 +72,7 @@ window._L=L}
 async function accion(i,ocultar){const c=_L[i];const t=ocultar?'':document.getElementById('r'+i).value.trim();if(!ocultar&&!t)return;
 if(ocultar&&!confirm('¿Ocultar este comentario?'))return;estado.textContent='Enviando…';
 for(let k=0;k<3;k++){try{const f=await gh('respuestas.json?ref=main');const P=JSON.parse(dec(f.content));P.push(ocultar?{red:c.red,id:c.id,ocultar:true}:{red:c.red,id:c.id,texto:t});
-await gh('respuestas.json',{method:'PUT',body:JSON.stringify({message:'respuesta desde la web',content:enc(JSON.stringify(P,null,1)),sha:f.sha,branch:'main'})});cargaCom();return}catch(e){}}
+await gh('respuestas.json',{method:'PUT',body:JSON.stringify({message:'respuesta desde la web',content:enc(JSON.stringify(P,null,1)),sha:f.sha,branch:'main'})});const b=document.getElementById('r'+i).parentNode;b.querySelectorAll('textarea,button').forEach(x=>x.remove());b.insertAdjacentHTML('beforeend','<small>✅ '+(ocultar?'Se ocultará':'Enviada')+'. Sale en Instagram en menos de 15 min.</small>');b.classList.add('ok');estado.textContent='Enviado ✓';return}catch(e){}}
 estado.textContent='No se pudo enviar. Recarga y prueba otra vez.'}
 window.onbeforeunload=()=>sucio?true:undefined;inicio();
 </script></body></html>
