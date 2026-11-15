@@ -108,5 +108,101 @@
   "instagram": false,
   "facebook": true,
   "youtube": true
+ },
+ {
+  "nombre": "levaduras-biofactorias",
+  "hora": "2026-11-16T20:36:00+01:00",
+  "video": "levaduras-biofactorias.mp4",
+  "texto": "🧬 La levadura que te hace subir el pan fabrica medicinas.\n\nLa misma especie que llevas en el cajón de la cocina, Saccharomyces cerevisiae, es la fábrica estándar de la biotecnología. ¿Cómo se le enseña? Clonando genes.\n\nCoges el gen de otra especie, lo copias millones de veces con una PCR y lo metes en un plásmido: un anillo de ADN que abres con enzimas de restricción, esas tijeras que cortan en un punto exacto. Metes el gen, lo sellas, y ya está clonado.\n\nPero ojo, que aquí está el truco que casi nadie cuenta: un gen suelto no se lee. Hay que ponerle delante un promotor, el interruptor que le dice a la célula cuándo fabricar. Sin él no pasa nada.\n\nLuego un choque de calor, la célula se traga el anillo y lo lee como si lo hubiera tenido siempre. Con varios genes no montas una enzima: montas una cadena de producción entera.\n\nAsí se fabrica la vacuna de la hepatitis B. Y cerca de la mitad de la insulina del mundo.\n\n⚠️ Dos matices honestos: la levadura de tu cajón NO fabrica medicinas, hace falta meterle el gen. Y la otra mitad de la insulina se produce en bacterias (E. coli), que es como se hizo la primera insulina recombinante en 1982.\n\n👉 ¿Qué te sorprende más: que el pan y la insulina salgan del mismo bicho, o que haga falta un interruptor para que un gen funcione? Te leo.\n\nFuentes: Baeshen et al., \"Cell factories for insulin production\" (Microbial Cell Factories); vacuna recombinante de hepatitis B en S. cerevisiae, aprobada en 1986.\n\n#biotecnologia #levadura #divulgacioncientifica #cienciaenespañol #biologiamolecular #insulina #adn #cienciaparatodos #microbiologia #bioandante",
+  "titulo": "🧬 La levadura que te hace subir el pan fabrica medicinas.",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "levaduras-biofactorias-portada.jpg"
+ },
+ {
+  "nombre": "cucharilla-plastico-cerebro",
+  "hora": "2026-11-17T20:36:00+01:00",
+  "video": "cucharilla-plastico-cerebro.mp4",
+  "texto": "¿Tienes una cucharilla de plástico dentro del cerebro? 🥄🧠\n\nSe hizo viral con un estudio de 2025 en Nature Medicine: en cerebros de personas fallecidas midieron una mediana de casi 5 miligramos de plástico por gramo (sobre todo polietileno). Multiplicado por lo que pesa un cerebro, salen unos 7 gramos: lo que pesa una cucharilla 👇\n\n🔥 Cómo se mide: un trocito de tejido se calienta sin aire hasta romperlo (pirólisis) y una máquina lee los pedazos como una huella dactilar.\n⚠️ El problema: la huella del polietileno se parece MUCHO a la de la grasa, y el cerebro es uno de los órganos con más grasa del cuerpo.\n📝 Otros científicos lo cuestionaron en la misma revista: el método pudo confundir grasa con plástico. Los autores respondieron y el debate sigue abierto.\n🩸 Un equipo de la Universidad de Queensland lo probó en sangre y concluyó que hoy esa técnica no sirve para medir polietileno en tejidos.\n\nOjo: eso no quiere decir que no tengas plástico dentro, porque con otros métodos se han visto partículas, por ejemplo en la placenta. Lo que no está demostrado es la cucharilla.\n\n📄 Fuentes: Nihart et al., Nature Medicine 31:1114 (2025); A. Monikh et al., Nature Medicine (2025), carta «Challenges in studying microplastics in human brain», y respuesta de los autores; Rauert et al., Environ Sci Technol 59:1984 (2025); O'Brien y Sampson, J Lipid Res (1965); Ragusa et al., Environ Int 146:106274 (2021).\n\n💬 ¿Tú qué harías? A · me lo creo hasta que lo desmientan · B · no me lo creo hasta ver cómo lo midieron. Te leo\n📌 Guárdalo y mándaselo a quien te contó lo de la cucharilla\n👉 Sígueme en @bio.andante para más curiosidades de biología\n\n#biologia #microplasticos #cerebro #mitos #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación en estilo de lámina científica: una cabeza de perfil cortada que deja ver el cerebro, con una cucharilla de plástico coral dentro; neuronas y vasos sanguíneos al microscopio con una cifra que sube; dos básculas que comparan el peso de un cerebro con el plástico; un horno de pirólisis y una máquina que dibuja picos; la huella del polietileno junto a la de la grasa, casi iguales; las cartas de la revista; sangre al microscopio con partículas que no se distinguen; y, al final, la cabeza con un signo de interrogación y una lupa sobre la gráfica.",
+  "titulo": "¿Tienes una cucharilla de plástico dentro del cerebro? 🥄🧠",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "cucharilla-plastico-cerebro-portada.jpg"
+ },
+ {
+  "nombre": "huracanes-ia",
+  "hora": "2026-11-18T20:36:00+01:00",
+  "video": "huracanes-ia.mp4",
+  "texto": "Cuatro días antes de arrasar Jamaica, el huracán Melissa era solo una tormenta tropical 🌀\n\nY aun así, los meteorólogos avisaron de que iba a explotar. Una de sus pistas venía de una IA de Google DeepMind 👇\n\n🧠 No resuelve las ecuaciones del tiempo: aprendió de 40 años de atmósfera y de casi 5.000 ciclones observados.\n🍝 En menos de un minuto imagina decenas de futuros posibles para cada tormenta.\n📍 El 24 de octubre de 2025, todos sus escenarios coincidían: Melissa sería un gran huracán.\n5️⃣ Con su ayuda y la de otros modelos, el Centro Nacional de Huracanes predijo por primera vez una categoría 5 desde una intensidad tan baja (categoría 1), con casi tres días de aviso.\n💨 Tocó tierra con vientos de unos 296 km/h: el huracán más fuerte registrado en tocar tierra en Jamaica.\n📊 En toda la temporada atlántica, fue el único modelo que superó, por poco, al pronóstico oficial en trayectoria entre las 12 horas y los 3 días (a 3 días, un 18 % menos de error).\n\n⚠️ No sustituye a los meteorólogos: el pronóstico oficial lo hacen personas, y la IA es una guía más. Pero ganar un día de aviso es ganar tiempo para ponerse a salvo.\n\n📄 Fuentes: Alet et al., «Operational tropical cyclone forecasting with AI», Nature 657:680 (2026); Kelly, Álamo y Mahoney, Tropical Cyclone Report: Hurricane Melissa, NHC (2026); Cangialosi et al., NHC Forecast Verification Report 2025 (2026).\n\n💬 ¿Te fiarías de un aviso de huracán hecho con IA? A · sí, si lo revisan los meteorólogos · B · no, prefiero solo los modelos clásicos. Te leo\n📌 Guárdalo y compártelo con quien diga que la IA solo sirve para hacer textos\n👉 Sígueme en @bio.andante: tienes la serie «IA como acelerador científico» en el perfil\n\n#huracanes #meteorologia #inteligenciaartificial #clima #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación isométrica sobre un muelle largo de madera en el mar: un huracán avanza por el agua junto al muelle mientras, en sus estaciones, una boya y un satélite toman datos, un archivo guarda huracanes del pasado, una IA dibuja decenas de trayectorias de colores que acaban coincidiendo sobre una mesa-mapa, un contador sube de categoría 1 a 5 con «296 km/h», la sala del Centro de Huracanes recibe el aviso y un megáfono lo lleva hasta Jamaica.",
+  "titulo": "Cuatro días antes de arrasar Jamaica, el huracán Melissa era solo una tormenta tropical 🌀",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "huracanes-ia-portada.jpg"
+ },
+ {
+  "nombre": "poliuretano-enzima-ia",
+  "hora": "2026-11-19T20:36:00+01:00",
+  "video": "poliuretano-enzima-ia.mp4",
+  "texto": "Una IA encontró las tijeras para reciclar tu colchón 🛏️✂️\n\nTu colchón, tu sofá y tus zapatillas llevan poliuretano, un plástico muy difícil de reciclar 👇\n\n🔥 No se puede fundir y volver a moldear como una botella: su estructura está entrecruzada y sus enlaces son muy estables.\n♻️ Y en el mundo solo se recicla un 9 % del plástico (OCDE).\n✂️ Para romperlo hacen falta enzimas, unas «tijeras moleculares», pero las que se conocían casi no funcionan en el reciclaje químico, que usa un disolvente.\n🤖 En 2025, un equipo de China entrenó una IA (GRASE, una red neuronal de grafos) para encontrar enzimas que corten y aguanten esas condiciones.\n🦠 La mejor, AbPURase, salió de una bacteria y es unas cien veces más activa que las anteriores.\n⏱️ Con ella deshicieron casi por completo espuma comercial de poliuretano a escala de kilos en 8 horas (98,6 % según su universidad) y recuperaron las piezas con las que se fabrica.\n\n⚠️ Es un ensayo de laboratorio: falta llevarlo a una planta de reciclaje y fabricar espuma nueva con esas piezas.\n\n📄 Fuente: Chen et al., «Glycolysis-compatible urethanases for polyurethane recycling», Science 390:503 (2025). Contexto: OCDE, Global Plastics Outlook (2022).\n\n📌 Guárdalo y compártelo con quien esté a punto de cambiar de colchón\n💬 ¿Qué otro plástico te gustaría que una IA aprendiera a deshacer? Te leo\n👉 Sígueme en @bio.andante: tienes la serie «IA como acelerador científico» completa en el perfil\n\n#reciclaje #plasticos #inteligenciaartificial #enzimas #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación isométrica sobre un colchón gigante de espuma amarilla: un colchón, un sofá y una zapatilla; una IA puntúa enzimas en una cinta; una bacteria suelta una enzima dorada que deshace bloques de espuma en un reactor; las piezas recuperadas llenan dos tarros y, al final, una fila de enzimas con forma de comecocos se come el colchón.",
+  "titulo": "Una IA encontró las tijeras para reciclar tu colchón 🛏️✂️",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "poliuretano-enzima-ia-portada.jpg"
+ },
+ {
+  "nombre": "citometria-flujo",
+  "hora": "2026-11-20T20:36:00+01:00",
+  "video": "citometria-flujo.mp4",
+  "texto": "🔬 Imagina buscar UNA célula de leucemia entre diez mil sanas. Al microscopio no la encuentras. Un citómetro de flujo sí.\n\nPrimero se marcan las células con anticuerpos que llevan un tinte brillante y solo se pegan a ciertos tipos. Después, una corriente de líquido las estrecha hasta ponerlas en fila india, y pasan por un láser de una en una, miles por segundo.\n\nLa luz que sigue recta indica el tamaño de la célula; la que sale de lado, cómo es por dentro. Y si lleva etiqueta, se enciende. Cada célula se convierte en un punto y miles de puntos forman nubes, una por tipo celular. Las que buscabas aparecen lejos de las nubes.\n\n⚠️ Ojo: un punto suelto no basta. Por eso se leen cientos de miles de células, una detrás de otra.\n\n😄 Y tú te quejas de la cola del súper.\n\n👇 ¿Sabías que así se detecta una leucemia? Cuéntame en comentarios.\n\nTécnica: citometría de flujo (anticuerpos fluorescentes, dispersión de luz y fluorescencia por láser).\n\n#citometriadeflujo #biologia #ciencia #leucemia #laboratorio #inmunologia #divulgacioncientifica #bioandante #cienciaenespañol",
+  "titulo": "🔬 Imagina buscar UNA célula de leucemia entre diez mil sanas. Al microscopio no la encuent",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "citometria-flujo-portada.jpg"
+ },
+ {
+  "nombre": "fluorescencia-adn",
+  "hora": "2026-11-21T20:36:00+01:00",
+  "video": "fluorescencia-adn.mp4",
+  "texto": "☀️ ¿Crees que si no te quemas, tu piel no ha sufrido ningún daño?\n\nPues el sol puede dañar el ADN de tus células sin que llegues a ponerte rojo. Y se puede ver.\n\nEn el laboratorio usamos anticuerpos que reconocen un tipo concreto de lesión que provoca la radiación ultravioleta en el ADN. Después añadimos otros anticuerpos con moléculas fluorescentes. Al iluminarlas con una luz determinada emiten luz de otro color, y los filtros del microscopio de fluorescencia dejan pasar solo esa luz. Resultado: las células con daño aparecen iluminadas. 🔬\n\nAsí estudiamos cómo afecta la radiación solar a nuestras células y cómo reparan parte de esos daños.\n\n⚠️ Que no te quemes no significa que el sol no haya afectado a tu ADN. Ponte protector, también cuando no te pones rojo.\n\n👇 Cuéntame: ¿conoces a alguien que dice que nunca se quema? Etiquétalo.\n\nTécnica: inmunofluorescencia con microscopio de fluorescencia.\n\n#biologia #ciencia #microscopio #fluorescencia #adn #piel #proteccionsolar #divulgacioncientifica #bioandante #cienciaenespañol",
+  "titulo": "☀️ ¿Crees que si no te quemas, tu piel no ha sufrido ningún daño?",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "fluorescencia-adn-portada.jpg"
+ },
+ {
+  "nombre": "ciencia-legislaturas",
+  "hora": "2026-11-22T20:36:00+01:00",
+  "video": "ciencia-legislaturas.mp4",
+  "texto": "🧪 ¿Récord de inversión o récord de precariedad? El balance de la ciencia en España en estas legislaturas, con datos oficiales.\n\n✅ Lo bueno\n· La inversión en I+D pasó del 1,23 % del PIB en 2018 al 1,50 % en 2024: récord (INE).\n· Los predoctorales tienen estatuto propio y la Ley de la Ciencia permite contratos indefinidos para investigar.\n· Se ejecuta el 76,4 % del presupuesto público de I+D, lo más alto desde 2009 (Cotec, con datos de la IGAE).\n\n❌ Lo malo\n· La UE invierte el 2,2 % (Eurostat). Seguimos lejos.\n· Los presupuestos siguen siendo los de 2023, prorrogados.\n· El Ministerio de Ciencia dejó sin ejecutar más de 3.000 millones: cuatro de cada diez euros.\n· Casi tres de cada diez euros de la política de I+D están ligados a defensa, sobre todo en préstamos.\n· Un predoctoral cobra por ley unos 1.350 € netos al mes los dos primeros años. En Países Bajos un doctorando empieza con 3.200 € brutos; aquí, 2.100.\n· Los técnicos de laboratorio públicos suelen ser funcionarios C1, una plaza de bachillerato, aunque muchos tengan carrera, máster o doctorado.\n· España es el país de la UE con más titulados en trabajos por debajo de su nivel: 34 %, frente al 21,4 % de media (Eurostat).\n· En la universidad pública, cuatro de cada diez profesores siguen sin plaza fija.\n· Y cuántos investigadores se van, el Estado ni siquiera lo cuenta.\n\n⚠️ Ojo: los 1.350 € netos son una estimación propia (56 % del grupo M3 de 2026 según el RD 103/2019; soltero, sin hijos, 12 pagas). La comparación con Países Bajos es en bruto, primer año.\n\n👇 Antes de votar, pregunta a quien te pide el voto cuándo va a cobrar un investigador lo que vale. ¿Tú qué ves: inversión o precariedad? Te leo en comentarios.\n\n#ciencia #investigacion #cienciaenespaña #predoctorales #elecciones #precariedad #idi #divulgacioncientifica #bioandante #cienciaenespañol",
+  "titulo": "🧪 ¿Récord de inversión o récord de precariedad? El balance de la ciencia en España en esta",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "ciencia-legislaturas-portada.jpg"
+ },
+ {
+  "nombre": "protonterapia",
+  "hora": "2026-11-23T20:36:00+01:00",
+  "video": "protonterapia.mp4",
+  "texto": "Protonterapia: radiación que se para justo en el tumor ⚛️🎯\n\nLos rayos X de la radioterapia convencional atraviesan el cuerpo y dejan energía por todo el camino, también detrás del tumor. Con protones es distinto: se aceleran en un ciclotrón y, al entrar en el cuerpo, van dejando poca energía por el camino hasta que, justo antes de pararse, sueltan de golpe mucha más. Es el pico de Bragg. Ajustando la energía se elige a qué profundidad ocurre, y los tejidos que quedan detrás reciben muy poca.\n\nPuede ser especialmente útil en algunos tumores infantiles o cerca de órganos delicados, como el cerebro, aunque no es mejor para todos los cánceres. España está incorporando 10 equipos a la sanidad pública, financiados en gran parte con una donación de 280 millones de euros de la Fundación Amancio Ortega.\n\nFuentes:\n· Wilson RR. Radiological use of fast protons. Radiology 1946 · doi 10.1148/47.5.487\n· Mohan R. A review of proton therapy – Current status and future directions. Precision Radiation Oncology 2022 · PMC9499036\n· Convenio Fundación Amancio Ortega – Ministerio de Sanidad, 19 oct. 2021 (lamoncloa.gob.es)\n\nInformación divulgativa: no sustituye la consulta con tu médico.\n\nSígueme para más ciencia explicada fácil 🧪\n\n#protonterapia #ciencia #divulgacion #fisica #cancer #radioterapia #sanidadpublica #ciencianoesaburrida #medicina",
+  "titulo": "Protonterapia: radiación que se para justo en el tumor ⚛️🎯",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "protonterapia-portada.jpg"
  }
 ]
