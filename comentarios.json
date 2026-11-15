@@ -511,9 +511,13 @@
    {
     "quien": null,
     "texto": "Horacio McBa  Bueno"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Porque hay que comprobar que el tratamiento sigue funcionando. Los controles no contradicen el principio de indetectable = intransmisible."
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -524,8 +528,13 @@
   "texto": "Buenooo yo sabiendolo no lo agoooo",
   "hora": "2026-11-15T17:31:19+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Cada persona decide sobre su vida sexual, pero las decisiones deben basarse en información científica, no en miedo"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -536,8 +545,13 @@
   "texto": "Hígado salio del grupo",
   "hora": "2026-11-15T17:20:51+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "😂 Cuando faltan argumentos, hasta los órganos abandonan el grupo."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
