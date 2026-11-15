@@ -27,6 +27,10 @@
    {
     "quien": "bio.andante",
     "texto": "imposible saberlo jaja"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "imposible saberlo jaja"
    }
   ],
   "respondido": true,
@@ -1157,8 +1161,13 @@
   "texto": "Pero es que Abascal, y su partido no tienen sentido común por mucho que titulen así su programa,en fin algunos como Figueredo es que simplemente no tienen sentido",
   "hora": "2026-11-15T10:27:03+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Más allá de las etiquetas políticas, lo importante es contrastar las declaraciones con datos y argumentos."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
