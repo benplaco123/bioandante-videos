@@ -63,9 +63,9 @@ const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 async function cargaCom(){estado.textContent='Cargando comentarios…';let L=[],P=[];
 try{L=JSON.parse(dec((await gh('comentarios.json?ref=main&t='+Date.now())).content))}catch(e){}
 try{P=JSON.parse(dec((await gh('respuestas.json?ref=main&t='+Date.now())).content))}catch(e){}
-const pend=new Set(P.map(a=>a.id));L=L.filter(c=>!c.oculto);L.sort((a,b)=>(a.respondido-b.respondido)||(a.hora<b.hora?1:-1));
+const pend=new Set(P.map(a=>a.id));L=L.filter(c=>!c.oculto&&(!window._red||c.red==_red));L.sort((a,b)=>(a.respondido-b.respondido)||(a.hora<b.hora?1:-1));
 const n=L.filter(c=>!c.respondido).length;estado.textContent=n+' sin responder · se actualiza cada 15 min';
-com.innerHTML=L.map((c,i)=>'<div class="c'+(c.respondido?' ok':'')+'"><small>'+({instagram:'IG',facebook:'FB',youtube:'YT'}[c.red])+' · '+esc((c.hora||'').slice(0,16).replace('T',' '))+' · <a href="'+esc(c.enlace)+'" target="_blank">'+esc(c.video)+'</a></small><div><b>'+esc(c.quien)+'</b> '+esc(c.texto)+'</div>'+
+com.innerHTML='<div class="chips" style="margin-bottom:12px">'+[['','Todas'],['instagram','Instagram'],['facebook','Facebook'],['youtube','YouTube']].map(([k,l])=>'<button '+((window._red||'')==k?'class="pri"':'')+' onclick="_red=\''+k+'\';cargaCom()">'+l+'</button>').join('')+'</div>'+L.map((c,i)=>'<div class="c'+(c.respondido?' ok':'')+'"><small>'+({instagram:'IG',facebook:'FB',youtube:'YT'}[c.red])+' · '+esc((c.hora||'').slice(0,16).replace('T',' '))+' · <a href="'+esc(c.enlace)+'" target="_blank">'+esc(c.video)+'</a></small><div><b>'+esc(c.quien)+'</b> '+esc(c.texto)+'</div>'+
 (c.respuestas||[]).map(r=>'<div class="rr"><b>'+esc(r.quien)+'</b> '+esc(r.texto)+'</div>').join('')+
 (pend.has(c.id)?'<small>⏳ en cola, sale en menos de 15 min</small>':'<textarea rows="2" id="r'+i+'" placeholder="Tu respuesta…"></textarea><button class="pri" onclick="accion('+i+')">Responder</button> <button onclick="accion('+i+',1)">Ocultar</button>')+'</div>').join('')||'<p>No hay comentarios todavía.</p>';
 window._L=L}
