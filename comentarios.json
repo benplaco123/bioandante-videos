@@ -1474,8 +1474,13 @@
   "texto": "Ellos son los que quieren que su chiringuito capitalista del que tanto se benefician siga sin recular.",
   "hora": "2026-11-14T12:24:35+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Criticar intereses económicos es legítimo, pero también hay que analizar quién se beneficia y quién asume los costes de la contaminación."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -1486,8 +1491,13 @@
   "texto": "¿De qué sirve cualquier medida sino es a nivel global? ¿Se reduce el cambio climático subiendo los impuestos en España o la EU? ¿Y la india, china o EEUU que hacen? No es negar el cambio climático es negar las soluciones regionales para sacarnos más dinero.",
   "hora": "2026-11-14T11:30:05+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "El problema es global, pero eso no significa que las medidas regionales sean inútiles. Si todos esperan a que actúen los demás, nadie empieza."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
