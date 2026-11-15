@@ -1419,8 +1419,13 @@
   "texto": "Solo hay que ver las temperaturas ( 24 en noviembre el valencia* , las DANAs, ….\nNo es solo el CO2\nCada vez hay menos árboles y más asfalto",
   "hora": "2026-11-14T16:00:45+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Exactamente. El cambio climático no depende únicamente del CO₂: también importan la pérdida de vegetación, la urbanización y la falta de adaptación de las ciudades."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -1452,8 +1457,13 @@
   "texto": "Cómo recordar cuando empresas noruegas destruyeron medio chile por no poder pescar a gran escala en europa",
   "hora": "2026-11-14T13:23:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Puedes compartir el caso concreto? Conviene conocer qué empresas participaron y qué impacto ambiental se produjo antes de sacar conclusiones."
+   }
+  ],
+  "respondido": true,
   "video": "💶 «Europa se arruina con las políticas climáticas.» «China contamina y",
   "enlace": "https://www.instagram.com/reel/DfsQk22CGY-/"
  },
