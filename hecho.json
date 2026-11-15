@@ -3,5 +3,11 @@
   "nombre": "01-fusi-n-nuclear",
   "hora_real": "2026-11-15T21:39:46.244237+00:00",
   "youtube": "https://youtube.com/shorts/3NK3Bs6piTU (privado)"
+ },
+ {
+  "nombre": "04-cromosomas-xy",
+  "hora_real": "2026-11-15T22:11:29.351740+00:00",
+  "facebook": "FALLO 104205331290536/video_reels: {\"error\":{\"message\":\"Error validating access token: Session has expired on Sunday, 15-Nov-26 14:00:00 PST. The current time is Sunday, 15-Nov-26 14:11:29 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A8HSonqwgg26tsQaLMVQYiq\"}}",
+  "youtube": "https://youtube.com/shorts/EysZTRP8EnU (privado)"
  }
 ]

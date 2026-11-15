@@ -203,8 +203,13 @@
   "texto": "Toma cambio climático",
   "hora": "2026-11-14T22:55:14+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "si..."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
