@@ -35,8 +35,13 @@
   "texto": "Correcto ✨️",
   "hora": "2026-11-15T20:33:08+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "gracias!"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
