@@ -1,0 +1,24 @@
+name: publicar
+on:
+  schedule: [{cron: '*/15 * * * *'}]
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency: publicar
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 publicar.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PAGE_TOKEN: ${{ secrets.PAGE_TOKEN }}
+          PAGE_ID: ${{ secrets.PAGE_ID }}
+          YT_CLIENT: ${{ secrets.YT_CLIENT }}
+          YT_REFRESH: ${{ secrets.YT_REFRESH }}
+      - run: |
+          git config user.name bioandante-bot; git config user.email bot@users.noreply.github.com
+          git add cola.json hecho.json 2>/dev/null; git diff --cached --quiet || (git commit -qm "publicado" && git push -q)
