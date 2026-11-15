@@ -1178,8 +1178,13 @@
   "texto": "Quemar biomasa no cuenta como generación de CO2... Es para recaudar y aquellas que interesa \"a quién sea\" se incentivan. Las baterías no conatminan. Lo de los plásticos ya es de traca.",
   "hora": "2026-11-15T10:12:06+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "La biomasa sí libera CO₂ al quemarse. Que se considere renovable no significa que no tenga emisiones. Y las baterías también tienen impacto ambiental en su fabricación y reciclaje."
+   }
+  ],
+  "respondido": true,
   "video": "💶 «Europa se arruina con las políticas climáticas.» «China contamina y",
   "enlace": "https://www.instagram.com/reel/DfsQk22CGY-/"
  },
@@ -1228,8 +1233,13 @@
   "texto": "Y en esos otros 4, habría que ver que corporación los ha financiando. Los científicos son personas, y algunos se podrían corromper con el color verde, pero no el del medio ambiente. 💸",
   "hora": "2026-11-15T08:07:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "La ciencia no se decide por quién financia una investigación, sino por la calidad de sus métodos, sus datos y la posibilidad de reproducir sus resultados."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
