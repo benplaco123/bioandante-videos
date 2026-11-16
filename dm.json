@@ -44,7 +44,13 @@
   "18078972440763592": "pedido + aviso público",
   "18001317918047203": "pedido + aviso público",
   "18096433913187636": "pedido + aviso público",
-  "17955202467336450": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "17955202467336450": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18091438697697096": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17882660247555037": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18126589454474526": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18122567753285048": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18111238388192673": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18117970394143559": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -255,7 +261,8 @@
   "1492315409479134": {
    "usuario": "tonalli_lv",
    "clave": "TUBO",
-   "pedido": "2026-11-16T22:28:17+00:00"
+   "pedido": "2026-11-16T22:28:17+00:00",
+   "aviso_no_sigue": "2026-11-16T22:35:10+00:00"
   },
   "1503942661631511": {
    "usuario": "maluc.04",
