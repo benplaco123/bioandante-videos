@@ -1,5 +1,53 @@
 [
  {
+  "red": "facebook",
+  "id": "1175920128122827_1123795760409868",
+  "quien": "alguien",
+  "texto": "Nunca ha existido",
+  "hora": "2026-11-16T00:15:39+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
+  "enlace": "https://www.facebook.com/reel/1025207717266198/"
+ },
+ {
+  "red": "facebook",
+  "id": "1175920128122827_1143014128649376",
+  "quien": "alguien",
+  "texto": "No tiene cura xq no quieren. Les viene mejor q sea crónica asi se sigue comprando la medicación x siempre. Todo es económico",
+  "hora": "2026-11-16T00:02:34+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
+  "enlace": "https://www.facebook.com/reel/1025207717266198/"
+ },
+ {
+  "red": "youtube",
+  "id": "UgxkGggC01rWSVeEzqB4AaABAg",
+  "quien": "@yarigo9484",
+  "texto": "Dañando la atmósfera.  Q porquería",
+  "hora": "2026-11-15T23:26:03Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/Y2swtvN5Mv8"
+ },
+ {
+  "red": "youtube",
+  "id": "UgxGQVU2BUMoPA9jNJ54AaABAg",
+  "quien": "@soyalexanderRX",
+  "texto": "\"La cojieron en el aire\" que turbio",
+  "hora": "2026-11-15T23:25:23Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/Y2swtvN5Mv8"
+ },
+ {
   "red": "youtube",
   "id": "UgyrFE5dx3KHOkxJlQZ4AaABAg",
   "quien": "@vamonosaldesmadre",
@@ -153,6 +201,10 @@
    {
     "quien": "Bioandante",
     "texto": "Es información falsa y alarmista. El VIH no mata inevitablemente ni se transmite por cualquier contacto de fluidos. Con tratamiento antirretroviral, una persona puede tener una carga viral indetectable y no transmitir el virus por vía sexual (Indetectable = Intransmisible). Informarse es importante, pero no difundir miedo ni desinformación."
+   },
+   {
+    "quien": null,
+    "texto": "Nicole Pukkett Cuallo vaya, mucha desinformación de tu parte en verdad"
    }
   ],
   "respondido": true,
@@ -174,6 +226,10 @@
    {
     "quien": "Bioandante",
     "texto": "Sí. ❤️ Una persona con VIH indetectable puede tener hijos sanos y dar a luz por parto vaginal, sin necesidad de cesárea, siempre que los médicos lo consideren seguro. El riesgo de transmisión al bebé es inferior al 1% con tratamiento adecuado."
+   },
+   {
+    "quien": null,
+    "texto": "Richard Mendez claro, una persona mientras llegue su tratamiento al pie de la letra, puede tener esposa, e hijos sin peligro de contagio"
    }
   ],
   "respondido": true,
@@ -335,6 +391,10 @@
    {
     "quien": "Bioandante",
     "texto": "Tener VIH no convierte a nadie en una persona podrida. El tratamiento permite vivir saludablemente y, manteniendo la carga viral indetectable, no se transmite por vía sexual."
+   },
+   {
+    "quien": null,
+    "texto": "Jesús Dere Palacios López vaya que persona tan tan ignorante en verdad\nOsea, rechazar a una persona por una enfermedad crónica tratable y sin ninguna taza de contagio mientras los que tienen esa enfermedad tomen su tratamiento es algo triste, digo, muchos piensan que te enfermedad por llevar una vida sexual sin cuidados, pero hay muchos contextos más, violaciones, abusos y de más, no está bien hacerlos a un lado, la vida da muchas vueltas"
    }
   ],
   "respondido": true,
@@ -479,6 +539,14 @@
    {
     "quien": "Bioandante",
     "texto": "Eso es falso. Los espermatozoides no son portadores independientes del VIH. El virus se transmite mediante determinados fluidos y bajo condiciones específicas."
+   },
+   {
+    "quien": null,
+    "texto": "Armando Campos Carrera en los dinosaurios viven un millón de años, en la será de los árboles 3 trillones de años. \nEn personas con aztaimer 1/2 segundo\nY en las perdonas con sida: toda una vida; Eduquese."
+   },
+   {
+    "quien": null,
+    "texto": "😂"
    }
   ],
   "respondido": true,
@@ -1478,6 +1546,10 @@
    {
     "quien": "bio.andante",
     "texto": "Criticar intereses económicos es legítimo, pero también hay que analizar quién se beneficia y quién asume los costes de la contaminación."
+   },
+   {
+    "quien": "vivalalibertadcarajillo",
+    "texto": "@bio.andante si se analiza de manera objetiva, adelante, pero no se puede negar la evidencia científica consensuada."
    }
   ],
   "respondido": true,
@@ -1563,6 +1635,10 @@
    {
     "quien": "bio.andante",
     "texto": "Jajajaja, los números imaginarios no explican el aumento real de las temperaturas. 😂"
+   },
+   {
+    "quien": "hugo.garraf",
+    "texto": "@bio.andante nos habremos ido al carajo pero con un buen gdp xddd"
    }
   ],
   "respondido": true,
