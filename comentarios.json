@@ -3097,9 +3097,13 @@
    {
     "quien": "halsand13",
     "texto": "Yo lo he leído. No es un artículo revisado por pares és un libro de divulgación general hecha por geólogos que ninguno es  especialista en el tema. Aunque fuesen unos super expertos (que no lo son) y el libro no fuese de divulgación (que lo es) una publicación (que no es) no probaría que el resto se equivoca..."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Un libro no es un artículo revisado. El IPCC dice que es real y causado por nosotros. ¿Qué medidas te parecerían bien?"
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🤔 ¿Te fías de los científicos? Abascal no: «tú te fías de unos y habrá",
   "enlace": "https://www.instagram.com/reel/Dfm23PPR7Jb/"
  },
@@ -3118,9 +3122,13 @@
    {
     "quien": "halsand13",
     "texto": "@jp_defrutos lo de que se acaba el mundo lo dice la prensa, no los científicos, no te líes. Si sabemos que paso en el pasado, como está calentamiento no hubo ninguno. Y en lo único que dices algo coherente es en lo último sin embargo reconocer el problema antes que el resto puede hacer que trabajemos para adaptarnos antes que el resto"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "En tiempos de Galileo ya se sabía que la Tierra era redonda 🙂 Y el consenso hoy supera el 97 %. ¿Qué científico dices que recogió cable?"
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🤔 ¿Te fías de los científicos? Abascal no: «tú te fías de unos y habrá",
   "enlace": "https://www.instagram.com/reel/Dfm23PPR7Jb/"
  },
@@ -3159,6 +3167,10 @@
    {
     "quien": "camildanach",
     "texto": "@bio.andante Ya, entiendo lo que dices y, pensando bien de la gente, yo creo que todo desprecio a estos temas viene de el hecho de que Europa se erigió como el responsable único y nos cuesta dinero... Eso ya no entra en el debate científico y es lo que jode"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@camildanach Entiendo el enfado, pero Europa ya emite menos que China o EE. UU.; lo que se discute es cómo repartir el esfuerzo. ¿Cómo lo repartirías tú?"
    }
   ],
   "respondido": true,
@@ -3180,6 +3192,10 @@
    {
     "quien": "tarkus.driver",
     "texto": "@bio.andante Aquí nadie ha negado el covid"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@tarkus.driver Vale 🙂 ¿Entonces qué te hace dudar de las vacunas o las mascarillas? Te leo."
    }
   ],
   "respondido": true,
@@ -3230,8 +3246,13 @@
   "texto": "A siii!! Yo desde que pago el impuesto nuevo de co2 siento que respiro mejor!! A mejorado mucho la calidad del aire! Es increíble!",
   "hora": "2026-11-12T04:22:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Jaja el impuesto no limpia el aire 😅 La idea es que contaminar salga más caro. ¿Qué harías tú?"
+   }
+  ],
+  "respondido": true,
   "video": "🤔 ¿Te fías de los científicos? Abascal no: «tú te fías de unos y habrá",
   "enlace": "https://www.instagram.com/reel/Dfm23PPR7Jb/"
  },
@@ -3259,8 +3280,13 @@
   "texto": "👏👏👏👏",
   "hora": "2026-11-12T02:47:46+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Gracias! 🙌 Si te ha gustado, compártelo dándole al 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Cáncer de pulmón: una IA lee la biopsia y predice en un minuto si el t",
   "enlace": "https://www.instagram.com/reel/DfVJe4TirDm/"
  },
