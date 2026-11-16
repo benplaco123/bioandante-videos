@@ -264,19 +264,6 @@
   "par": "nobel-2018"
  },
  {
-  "nombre": "centrifuga-tubos",
-  "hora": "2026-11-16T18:36:00+01:00",
-  "video": "centrifuga-tubos.mp4",
-  "portada": "centrifuga-tubos-portada.jpg",
-  "titulo": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre hace falta 🧪⚖️",
-  "texto": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre hace falta 🧪⚖️\n\nAl girar, cada tubo tira hacia fuera con muchísima fuerza. Si esas fuerzas no se anulan, el rotor se descentra, la centrífuga vibra y hasta puede moverse por la mesa.\n\nPor eso los ponemos por parejas, uno enfrente del otro. Pero tres tubos separados por igual, en triángulo, también se anulan entre ellos. Y como las fuerzas se suman, puedes combinar: una pareja y un triángulo son cinco tubos equilibrados. Sin agua.\n\nHay hasta una regla matemática: en un rotor de 24 huecos puedes equilibrar cualquier número de tubos… menos 1 y 23.\n\n¿Quieres el esquema con todas las combinaciones? Comenta TUBO y te lo mando 📩\n\nOjo: todos los tubos tienen que pesar lo mismo, y sigue siempre las instrucciones de tu centrífuga.\n\nFuente de la regla: G. Sivek (2010), «On vanishing sums of distinct roots of unity», Integers 10.\n\n#centrifuga #laboratorio #biologia #ciencia #divulgacion #fisica #labtips #ciencianoesaburrida",
-  "instagram": true,
-  "facebook": false,
-  "youtube": false,
-  "prueba": true,
-  "par": "centrifuga-tubos"
- },
- {
   "nombre": "centrifuga-tubos-b",
   "hora": "2026-11-16T18:36:00+01:00",
   "video": "centrifuga-tubos-b.mp4",
