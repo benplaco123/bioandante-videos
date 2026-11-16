@@ -13,7 +13,9 @@
   "17941795656400335": "pedido + aviso público",
   "18223388068343299": "pedido + aviso público",
   "18063093458548451": "pedido + aviso público",
-  "18122153782969870": "pedido + aviso público"
+  "18122153782969870": "pedido + aviso público",
+  "18028783745819160": "pedido + aviso público",
+  "18082789643751712": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -91,6 +93,16 @@
    "usuario": "bruno.mansilla.1",
    "clave": "TUBO",
    "pedido": "2026-11-16T21:14:32+00:00"
+  },
+  "1850041576027626": {
+   "usuario": "fernan17am",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T21:31:55+00:00"
+  },
+  "1518382250344297": {
+   "usuario": "josephbardory",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T21:31:58+00:00"
   }
  }
 }
