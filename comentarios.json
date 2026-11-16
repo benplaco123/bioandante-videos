@@ -1757,6 +1757,10 @@
    {
     "quien": "hugo.garraf",
     "texto": "@bio.andante nos habremos ido al carajo pero con un buen gdp xddd"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@hugo.garraf Jajaja un PIB precioso en un planeta a 45 °C 😂 ¿Tú qué priorizarías?"
    }
   ],
   "respondido": true,
@@ -2139,9 +2143,13 @@
    {
     "quien": "mariakronsky",
     "texto": "Es tan común que tiene nombre, se llama el efecto Dunning Kruger, hay gráfico y todo de como la ignorancia es atrevida."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Totalmente 🙌 ¿Por qué crees que pasa tanto?"
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "🧊 «Dos grados no son nada.» «El clima siempre ha cambiado.» «Los cient",
   "enlace": "https://www.instagram.com/reel/Dfpqh5CCgR9/"
  },
@@ -2319,8 +2327,13 @@
   "texto": "Las personas que dicen esto no se han leído un artículo ciento en su vida, además no sabrían ni interpretarlo. No saben cómo se hace ciencia así que ni caso.",
   "hora": "2026-11-13T11:25:04+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Por eso lo explico fácil 🙂 ¿Has leído alguno?"
+   }
+  ],
+  "respondido": true,
   "video": "🧊 «Dos grados no son nada.» «El clima siempre ha cambiado.» «Los cient",
   "enlace": "https://www.instagram.com/reel/Dfpqh5CCgR9/"
  },
@@ -2365,8 +2378,13 @@
   "texto": "Esos científicos no hablan en países como China o la India?",
   "hora": "2026-11-13T09:07:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Sí, y dicen lo mismo: China e India participan en el IPCC y sus científicos publican los mismos resultados."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -2377,8 +2395,13 @@
   "texto": "😮",
   "hora": "2026-11-13T08:14:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "😮 ¿Qué te ha sorprendido más?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
