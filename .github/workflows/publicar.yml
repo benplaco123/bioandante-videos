@@ -4,15 +4,27 @@ on:
   workflow_dispatch:
   push:
     paths: [respuestas.json, cola.json]
-permissions: {contents: write}
+permissions: {contents: write, actions: write}
 concurrency: publicar
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 70
     steps:
       - uses: actions/checkout@v4
-      - run: python3 publicar.py
+      # GitHub drops many scheduled runs, so each run stays awake ~55 min, working every 5 min, and then starts the next run itself.
+      - run: |
+          git config user.name bioandante-bot; git config user.email bot@users.noreply.github.com
+          fin=$(( $(date +%s) + 3300 ))
+          while :; do
+            git pull -q --rebase -X theirs || true
+            python3 publicar.py || true
+            python3 dm_recursos.py || true
+            python3 comentarios.py || true
+            git add cola.json hecho.json comentarios.json respuestas.json dm.json 2>/dev/null; git diff --cached --quiet || (git commit -qm "publicado" && for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done)
+            [ $(date +%s) -ge $fin ] && break
+            sleep 300
+          done
         env:
           GH_TOKEN: ${{ github.token }}
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
@@ -21,18 +33,7 @@ jobs:
           PAGE_ID: ${{ secrets.PAGE_ID }}
           YT_CLIENT: ${{ secrets.YT_CLIENT }}
           YT_REFRESH: ${{ secrets.YT_REFRESH }}
-      - run: python3 dm_recursos.py || true
+      - if: always()
+        run: gh workflow run publicar --ref main -R ${{ github.repository }} || true
         env:
-          IG_TOKEN: ${{ secrets.IG_TOKEN }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-      - run: python3 comentarios.py || true
-        env:
-          YT_CLIENT: ${{ secrets.YT_CLIENT }}
-          YT_REFRESH: ${{ secrets.YT_REFRESH }}
-          IG_TOKEN: ${{ secrets.IG_TOKEN }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          PAGE_TOKEN: ${{ secrets.PAGE_TOKEN }}
-          PAGE_ID: ${{ secrets.PAGE_ID }}
-      - run: |
-          git config user.name bioandante-bot; git config user.email bot@users.noreply.github.com
-          git add cola.json hecho.json comentarios.json respuestas.json dm.json 2>/dev/null; git diff --cached --quiet || (git commit -qm "publicado" && for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done)
+          GH_TOKEN: ${{ github.token }}

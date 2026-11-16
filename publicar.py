@@ -137,9 +137,15 @@ def main():
         except Exception as x: res[k] = 'FALLO ' + str(x); print(k, 'FALLO', x)
     res.update(NOTAS); print('portadas', NOTAS)
     cola.remove(e); hecho.append(res)
+    # a failed network is tried again 20 min later, up to 3 times, only on the networks that failed (Instagram's 2207076 is often transient)
+    mal = [k for k in ('instagram', 'facebook', 'youtube') if str(res.get(k, '')).startswith('FALLO')]
+    if mal and e.get('intentos', 0) < 3:
+        r = dict(e, hora=(now + datetime.timedelta(minutes=20)).isoformat(timespec='seconds'), intentos=e.get('intentos', 0) + 1)
+        for k in ('instagram', 'facebook', 'youtube'): r[k] = k in mal
+        cola.append(r); print('reintento', r['intentos'], mal)
     json.dump(cola, open('cola.json', 'w'), ensure_ascii=False, indent=1)
     json.dump(hecho, open('hecho.json', 'w'), ensure_ascii=False, indent=1)
-    if 'FALLO' not in json.dumps({k: v for k, v in res.items() if not k.endswith('_portada')}):
+    if 'FALLO' not in json.dumps({k: v for k, v in res.items() if not k.endswith('_portada')}) and not any(x['video'] == e['video'] for x in cola):
         for a in (e['video'], e.get('portada')):
             if a: subprocess.run(['gh', 'release', 'delete-asset', 'cola', a, '-y', '-R', REPO])
 
