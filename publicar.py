@@ -75,7 +75,7 @@ def youtube(path, e):
         '--data-binary', '@' + path], capture_output=True, text=True).stdout
     vid = json.loads(out)['id']
     if e.get('portada'): subprocess.run(['curl', '-s', '-X', 'POST', f'https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}', '-H', 'Authorization: Bearer ' + a, '-H', 'Content-Type: image/jpeg', '--data-binary', '@p.jpg'], capture_output=True)
-    return 'https://youtube.com/shorts/' + vid + ' (privado)'
+    return ('https://youtube.com/watch?v=' if e.get('tipo') == 'clase' else 'https://youtube.com/shorts/') + vid + ' (privado)'
 
 def main():
     cola = json.load(open('cola.json'))
@@ -88,7 +88,7 @@ def main():
     res = {'nombre': e['nombre'], 'hora_real': now.isoformat()}
     if e.get('tipo') == 'carrusel':
         for k, f in (('instagram', carrusel), ('facebook', carrusel_fb)):
-            if not e.get(k, k == 'instagram'): continue
+            if not e.get(k, k == 'instagram' and e.get('tipo') != 'clase'): continue
             try: res[k] = f(e); print(k, 'OK', res[k])
             except Exception as x: res[k] = 'FALLO ' + str(x); print(k, 'FALLO', x)
         cola.remove(e); hecho.append(res)
@@ -100,7 +100,7 @@ def main():
     subprocess.run(['curl', '-sL', '-o', 'v.mp4', url], check=True)
     if e.get('portada'): subprocess.run(['curl', '-sL', '-o', 'p.jpg', f"https://github.com/{REPO}/releases/download/cola/{e['portada']}"])
     for k, f, arg in (('instagram', instagram, url), ('facebook', facebook, 'v.mp4'), ('youtube', youtube, 'v.mp4')):
-        if not e.get(k, k == 'instagram'): continue
+        if not e.get(k, k == 'instagram' and e.get('tipo') != 'clase'): continue
         try: res[k] = f(arg, e); print(k, 'OK', res[k])
         except Exception as x: res[k] = 'FALLO ' + str(x); print(k, 'FALLO', x)
     cola.remove(e); hecho.append(res)

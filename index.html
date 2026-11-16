@@ -24,7 +24,7 @@ input[type=time]{font:inherit;border:1px solid var(--line);border-radius:6px;bac
 </style></head><body>
 <div id="login" hidden><h1>Calendario bio.andante</h1><p>Pega tu clave de GitHub (se guarda solo en este navegador).</p>
 <input id="tok" type="password" autocomplete="off"><button class="pri" onclick="guardaTok()">Entrar</button></div>
-<div id="app" hidden><header><h1>bio.andante</h1><button onclick="vista('cal')">Calendario</button><button onclick="vista('com')">Comentarios</button><button onclick="carga()">Recargar</button><button class="pri" id="g" onclick="guarda()" disabled>Guardar cambios</button></header>
+<div id="app" hidden><header><h1>bio.andante</h1><button onclick="vista('cal')">Calendario</button><button onclick="vista('clase')">Clases YouTube</button><button onclick="vista('com')">Comentarios</button><button onclick="carga()">Recargar</button><button class="pri" id="g" onclick="guarda()" disabled>Guardar cambios</button></header>
 <div id="estado"></div><div id="com" hidden style="padding:16px;max-width:760px"></div><div id="cal"><div class="dias" id="dias"></div><h2 style="padding:0 16px;font-size:15px">Publicado</h2><div class="dias hecho" id="hechos"></div></div></div>
 <script>
 const R='benplaco123/bioandante-videos';let T='',cola=[],sha='',sucio=false;
@@ -39,17 +39,17 @@ let h=[];try{h=JSON.parse(dec((await gh('hecho.json?ref=main')).content))}catch(
 catch(e){estado.textContent='Error '+e+(e==401?' (clave no válida)':'');if(e==401){try{localStorage.removeItem('ghtok')}catch(_){}T='';inicio()}}}
 const dia=s=>s.slice(0,10),hora=s=>s.slice(11,16);
 function nombreDia(d){return new Date(d+'T12:00').toLocaleDateString('es-ES',{weekday:'long',day:'numeric',month:'short'})}
-function pinta(h){const hoy=new Date().toISOString().slice(0,10);let ds=new Set(cola.map(e=>dia(e.hora)));let d0=new Date(hoy+'T12:00');
+function pinta(h){const hoy=new Date().toISOString().slice(0,10);const enSec=e=>(e.tipo=='clase')==(window._sec=='clase');let ds=new Set(cola.filter(enSec).map(e=>dia(e.hora)));let d0=new Date(hoy+'T12:00');
 for(let i=0;i<14;i++){ds.add(new Date(d0.getTime()+i*864e5).toISOString().slice(0,10))}
 ds=[...ds].sort();dias.innerHTML='';for(const d of ds){const c=document.createElement('div');c.className='dia';c.dataset.d=d;c.innerHTML='<h2>'+nombreDia(d)+'</h2>';
 c.ondragover=e=>{e.preventDefault();c.classList.add('sobre')};c.ondragleave=()=>c.classList.remove('sobre');
 c.ondrop=e=>{e.preventDefault();c.classList.remove('sobre');const i=+e.dataTransfer.getData('i');cola[i].hora=d+cola[i].hora.slice(10);cambio()};
-cola.map((e,i)=>[e,i]).filter(([e])=>dia(e.hora)==d).sort((a,b)=>a[0].hora<b[0].hora?-1:1).forEach(([e,i])=>c.appendChild(tarjeta(e,i)));dias.appendChild(c)}
+cola.map((e,i)=>[e,i]).filter(([e])=>enSec(e)&&dia(e.hora)==d).sort((a,b)=>a[0].hora<b[0].hora?-1:1).forEach(([e,i])=>c.appendChild(tarjeta(e,i)));dias.appendChild(c)}
 hechos.innerHTML=h.slice(-12).reverse().map(x=>'<div class="dia"><h2>'+(x.hora_real||'').slice(0,16).replace('T',' ')+'</h2><div class="t"><div class="x">'+x.nombre+'</div>'+['instagram','facebook','youtube'].filter(k=>x[k]).map(k=>'<div style="font-size:12px">'+k+': '+String(x[k]).replace(/</g,'&lt;')+'</div>').join('')+'</div></div>').join('')}
 function tarjeta(e,i){const t=document.createElement('div');t.className='t';t.draggable=true;t.ondragstart=ev=>ev.dataTransfer.setData('i',i);
 const ch=(k,l,c)=>'<span class="chip '+c+(e[k]??(k=='instagram')?' on':'')+'" data-k="'+k+'">'+l+'</span>';
 t.innerHTML='<div class="chips"><input type="time" value="'+hora(e.hora)+'">'+ch('instagram','IG','ig')+ch('facebook','FB','fb')+ch('youtube','YT','yt')+ch('prueba','Prueba','pr')+'</div><div class="x"></div>';
-t.querySelector('.x').textContent=(e.tipo=='carrusel'?'🖼️ Carrusel · ':'')+(e.titulo||e.texto||e.nombre);if(e.tipo=='carrusel')t.querySelectorAll('[data-k=youtube],[data-k=prueba]').forEach(x=>x.remove());
+if(e.tipo=='clase')t.querySelectorAll('[data-k=instagram],[data-k=facebook],[data-k=prueba]').forEach(x=>x.remove());t.querySelector('.x').textContent=(e.tipo=='carrusel'?'🖼️ Carrusel · ':e.tipo=='clase'?'🎓 Clase · ':'')+(e.titulo||e.texto||e.nombre);if(e.tipo=='carrusel')t.querySelectorAll('[data-k=youtube],[data-k=prueba]').forEach(x=>x.remove());
 t.querySelector('input').onchange=ev=>{e.hora=dia(e.hora)+'T'+ev.target.value+e.hora.slice(16);cambio()};
 t.querySelectorAll('.chip').forEach(s=>s.onclick=()=>{const k=s.dataset.k;e[k]=!(e[k]??(k=='instagram'));if(k=='prueba'&&e.prueba){e.instagram=true;e.facebook=false;e.youtube=false}cambio()});
 // mover en el móvil: tocar el día de arriba/abajo
@@ -58,7 +58,7 @@ function cambio(){sucio=true;g.disabled=false;estado.textContent='Cambios sin gu
 async function guarda(){estado.textContent='Guardando…';try{const r=await gh('cola.json',{method:'PUT',body:JSON.stringify({message:'calendario: cambios desde la web',content:enc(JSON.stringify(cola,null,1)),sha,branch:'main'})});
 sha=r.content.sha;estado.textContent='Guardado ✓';sucio=false;g.disabled=true;carga()}catch(e){estado.textContent='No se pudo guardar ('+e+'). Recarga y vuelve a probar.'}}
 
-function vista(v){cal.hidden=v!='cal';com.hidden=v!='com';if(v=='com')cargaCom()}
+function vista(v){window._sec=v=='clase'?'clase':'cal';cal.hidden=v=='com';if(v!='com')pinta([]);com.hidden=v!='com';if(v=='com')cargaCom()}
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 async function cargaCom(){estado.textContent='Cargando comentarios…';let L=[],P=[];
 try{L=JSON.parse(dec((await gh('comentarios.json?ref=main&t='+Date.now())).content))}catch(e){}
