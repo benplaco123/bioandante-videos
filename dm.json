@@ -111,7 +111,15 @@
   "18118124186020579": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17920349169523776": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18495414988128466": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18129189943912667": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18129189943912667": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18243691330318954": "pedido + aviso público",
+  "18117142055183402": "pedido + aviso público",
+  "17946912663364055": "pedido + aviso público",
+  "18121532486000849": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18097990469167326": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18359497366175338": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18121444459971937": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18001089564019067": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -417,12 +425,28 @@
   "1118791597439568": {
    "usuario": "daviviridae",
    "clave": "TUBO",
-   "pedido": "2026-11-16T23:36:54+00:00"
+   "pedido": "2026-11-16T23:36:54+00:00",
+   "aviso_no_sigue": "2026-11-16T23:43:10+00:00"
   },
   "1682535246877184": {
    "usuario": "nahurtadoc",
    "clave": "TUBO",
    "pedido": "2026-11-16T23:36:58+00:00"
+  },
+  "1221366700458477": {
+   "usuario": "malcauza31_",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:42:41+00:00"
+  },
+  "1716167890184952": {
+   "usuario": "thiago_bug",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:42:45+00:00"
+  },
+  "2694483561003332": {
+   "usuario": "ray.mundo_ramirez16",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:42:48+00:00"
   }
  }
 }
