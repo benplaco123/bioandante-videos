@@ -90,7 +90,15 @@
   "18121881779468306": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18120299617797437": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18100635782233035": "pedido + aviso público",
-  "18102589769386055": "pedido + aviso público"
+  "18102589769386055": "pedido + aviso público",
+  "18076126943606079": "pedido + aviso público",
+  "18119460631820437": "pedido + aviso público",
+  "18002632707008959": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17886874851553739": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18077430089757682": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17981379008924705": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18470674816138264": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17922679344461418": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -375,12 +383,23 @@
   "1622861339044110": {
    "usuario": "nattalymar",
    "clave": "TUBO",
-   "pedido": "2026-11-16T23:19:02+00:00"
+   "pedido": "2026-11-16T23:19:02+00:00",
+   "aviso_no_sigue": "2026-11-16T23:25:38+00:00"
   },
   "2114388665864847": {
    "usuario": "kareny_jh",
    "clave": "TUBO",
    "pedido": "2026-11-16T23:19:05+00:00"
+  },
+  "2383750209083284": {
+   "usuario": "daniel.gonzalez.mvz",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:25:00+00:00"
+  },
+  "2155890685017772": {
+   "usuario": "whoismilton_",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:25:13+00:00"
   }
  }
 }
