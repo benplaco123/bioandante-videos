@@ -126,7 +126,10 @@
   "17891679819477653": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17978463233940104": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17874019173648559": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18155073508558271": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18155073508558271": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18127047782284951": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18160297684564674": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18117697244150599": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -427,7 +430,8 @@
   "2155890685017772": {
    "usuario": "whoismilton_",
    "clave": "TUBO",
-   "pedido": "2026-11-16T23:25:13+00:00"
+   "pedido": "2026-11-16T23:25:13+00:00",
+   "aviso_no_sigue": "2026-11-16T23:54:38+00:00"
   },
   "1118791597439568": {
    "usuario": "daviviridae",
@@ -468,7 +472,8 @@
   "2025031758880762": {
    "usuario": "jaime_con_te",
    "clave": "TUBO",
-   "pedido": "2026-11-16T23:48:41+00:00"
+   "pedido": "2026-11-16T23:48:41+00:00",
+   "aviso_no_sigue": "2026-11-16T23:54:40+00:00"
   }
  }
 }
