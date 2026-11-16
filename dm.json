@@ -88,7 +88,9 @@
   "17915556144588494": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18437381335194112": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18121881779468306": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18120299617797437": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18120299617797437": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18100635782233035": "pedido + aviso público",
+  "18102589769386055": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -292,7 +294,8 @@
    "usuario": "lifeiscolors",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:21:56+00:00",
-   "aviso_no_sigue": "2026-11-16T22:22:40+00:00"
+   "aviso_no_sigue": "2026-11-16T22:22:40+00:00",
+   "enviado": "2026-11-16T23:19:34+00:00"
   },
   "1128900893453884": {
    "usuario": "mati.fretesr",
@@ -323,7 +326,8 @@
   "1136523199239305": {
    "usuario": "nicovm_",
    "clave": "TUBO",
-   "pedido": "2026-11-16T22:28:32+00:00"
+   "pedido": "2026-11-16T22:28:32+00:00",
+   "enviado": "2026-11-16T23:19:30+00:00"
   },
   "29138244329158696": {
    "usuario": "sofy.cbe",
@@ -367,6 +371,16 @@
    "clave": "TUBO",
    "pedido": "2026-11-16T23:12:40+00:00",
    "aviso_no_sigue": "2026-11-16T23:13:20+00:00"
+  },
+  "1622861339044110": {
+   "usuario": "nattalymar",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:19:02+00:00"
+  },
+  "2114388665864847": {
+   "usuario": "kareny_jh",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:19:05+00:00"
   }
  }
 }
