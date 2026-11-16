@@ -46,6 +46,15 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
             if r.get('recipient_id'): st['personas'][r['recipient_id']] = {'usuario': c.get('username'), 'clave': clave, 'pedido': ahora()}
         elif not PRUEBA: st['comentarios'][c['id']] = 'fallo: ' + str(r)[:120]
 
+# 1b · a public reply under each comment already answered in private, once: so they know to look at their DMs
+PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Mira tu DM'
+for cid, estado in list(st['comentarios'].items()):
+    if estado != 'pedido': continue
+    if PRUEBA: print('  (prueba) respondería en público a', cid); continue
+    r = call(f'{cid}/replies', {'message': PUBLICO})
+    st['comentarios'][cid] = 'pedido + aviso público' if 'id' in r else 'pedido (aviso público falló)'
+    print('aviso público', cid, 'ok' if 'id' in r else r)
+
 # 2 · who has written LISTO since they were asked
 pend = {sid: p for sid, p in st['personas'].items() if not p.get('enviado')}
 if pend:
