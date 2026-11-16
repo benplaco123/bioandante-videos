@@ -2832,8 +2832,13 @@
   "texto": "Por debajo de el 0,02% las plantas mo pueden hacer la fotosíntesis y mueren.\nEn Cambrico la concentración estaba entre el 0,4 %y 0,7% y hubo una explosión de la vegetación.\nOtra cosa: de ese 0,045% el ser humano es responsable de un 10%?, o sea 0,0045%…",
   "hora": "2026-11-12T19:35:38+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Las plantas necesitan CO₂, sí, pero el problema no es que falte: hemos pasado de 280 a 427 ppm en unos 150 años. Lo que hace daño es la velocidad del cambio."
+   }
+  ],
+  "respondido": true,
   "video": "🤔 ¿Te fías de los científicos? Abascal no: «tú te fías de unos y habrá",
   "enlace": "https://www.instagram.com/reel/Dfm23PPR7Jb/"
  },
@@ -2873,8 +2878,13 @@
   "texto": "Chapó",
   "hora": "2026-11-12T18:23:41+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Gracias! 🙌 Si te ha gustado, compártelo dándole al 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -2885,8 +2895,13 @@
   "texto": "No le expliques esto a Fachascal porque le estalla la cabeza",
   "hora": "2026-11-12T17:58:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Jaja por eso, poco a poco y con datos 🙂 ¿Qué le explicarías primero?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -2897,8 +2912,13 @@
   "texto": "A galileo galilei lo quemaron vivo y era uno contra todos y tenia la puta razón, la comunidad científica ya nos la metio doblada con el covid y la veracidad de la noticia, es muy cuestionable",
   "hora": "2026-11-12T17:51:51+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "A Galileo no lo quemaron (fue a Giordano Bruno). Y Galileo acabó teniendo razón porque aportó pruebas. Hoy las pruebas las tiene el 99 %."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -2938,8 +2958,13 @@
   "texto": "@halsand13 @bio.andante https://youtu.be/CnA2M07RlwQ?si=M_oLKKYzXDwoksRr aquí hay un científico con el que comparto opinion",
   "hora": "2026-11-12T16:00:10+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Gracias. Pero cuenta lo que dicen miles de estudios (IPCC), no uno solo. ¿Qué te convence de él?"
+   }
+  ],
+  "respondido": true,
   "video": "🤔 ¿Te fías de los científicos? Abascal no: «tú te fías de unos y habrá",
   "enlace": "https://www.instagram.com/reel/Dfm23PPR7Jb/"
  },
@@ -3051,6 +3076,10 @@
    {
     "quien": "cbcabga",
     "texto": "@marian.guz me estás hablando que si tu cuerpo se desarrolla físicamente como una mujer es hombre solo poruqe lo diga un cromosoma? Tú no has visto a nadie así en tu vida para hacer dicha afirmación tan categórica. Es genetista, biólogo, médico, psicólogo? En que se basa?"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@marian.guz No siempre: en el síndrome de Swyer o de insensibilidad a los andrógenos hay mujeres XY, con cuerpo de mujer. ¿Lo conocías?"
    }
   ],
   "respondido": true,
