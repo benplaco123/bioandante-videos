@@ -80,6 +80,9 @@ def recoge():
         ch = yt('channels?part=id&mine=true')['items'][0]['id']
         for t in yt(f'commentThreads?part=snippet,replies&allThreadsRelatedToChannelId={ch}&maxResults=100')['items']:
             top = t['snippet']['topLevelComment']; sn = top['snippet']; rs = t.get('replies', {}).get('comments', [])
+            if t['snippet'].get('totalReplyCount', 0) > len(rs):   # the thread only brings the first 5 replies: fetch them all
+                try: rs = yt(f"comments?part=snippet&maxResults=100&parentId={top['id']}")['items']
+                except Exception as e: print('YouTube respuestas:', e)
             out.append(dict(red='youtube', id=top['id'], quien=sn.get('authorDisplayName'), texto=sn.get('textOriginal'), hora=sn.get('publishedAt'),
                 oculto=False, respuestas=[dict(quien=r['snippet'].get('authorDisplayName'), texto=r['snippet'].get('textOriginal')) for r in rs],
                 respondido=any(r['snippet'].get('authorChannelId', {}).get('value') == ch for r in rs), video='YouTube',
