@@ -28,8 +28,10 @@ def call(path, data=None, tok=IGT):
 
 def acciones():
     if not os.path.exists('respuestas.json'): return
-    pend = json.load(open('respuestas.json')); quedan = []
+    pend = json.load(open('respuestas.json')); quedan = []; vistos = set()
     for a in pend:
+        if (a['id'], a.get('texto'), a.get('ocultar')) in vistos: continue   # never send the same reply twice
+        vistos.add((a['id'], a.get('texto'), a.get('ocultar')))
         try:
             if a['red'] == 'youtube':
                 if a.get('ocultar'): yt(f"comments/setModerationStatus?id={a['id']}&moderationStatus=heldForReview", None, 'POST')
