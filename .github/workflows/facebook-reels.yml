@@ -1,0 +1,15 @@
+name: facebook-reels
+on:
+  workflow_dispatch:
+    inputs:
+      borrar: {description: 'ids de reels a borrar, separados por comas (vacío = solo listar)', required: false, default: ''}
+jobs:
+  reels:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 fb_reels.py
+        env:
+          PAGE_TOKEN: ${{ secrets.PAGE_TOKEN }}
+          PAGE_ID: ${{ secrets.PAGE_ID }}
+          BORRAR: ${{ inputs.borrar }}

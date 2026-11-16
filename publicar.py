@@ -91,7 +91,7 @@ def youtube(path, e):
     a = json.loads(urllib.request.urlopen(c['token_uri'], urllib.parse.urlencode(dict(refresh_token=os.environ['YT_REFRESH'],
         client_id=c['client_id'], client_secret=c['client_secret'], grant_type='refresh_token')).encode()).read())['access_token']
     meta = {'snippet': {'title': e.get('titulo', e['nombre'])[:100], 'description': e['texto'], 'categoryId': '28'},
-        'status': {'privacyStatus': 'private', 'selfDeclaredMadeForKids': False}}
+        'status': {'privacyStatus': 'public', 'selfDeclaredMadeForKids': False}}
     r = urllib.request.Request('https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status',
         data=json.dumps(meta).encode(), headers={'Authorization': 'Bearer ' + a, 'Content-Type': 'application/json',
         'X-Upload-Content-Type': 'video/mp4', 'X-Upload-Content-Length': str(os.path.getsize(path))})
@@ -102,7 +102,7 @@ def youtube(path, e):
     if os.path.exists('p.jpg'):
         t = subprocess.run(['curl', '-s', '-X', 'POST', f'https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}', '-H', 'Authorization: Bearer ' + a, '-H', 'Content-Type: image/jpeg', '--data-binary', '@p.jpg'], capture_output=True, text=True).stdout
         NOTAS['youtube_portada'] = 'ok' if '"items"' in t else 'FALLO ' + t[:200]
-    return ('https://youtube.com/watch?v=' if e.get('tipo') == 'clase' else 'https://youtube.com/shorts/') + vid + ' (privado)'
+    return ('https://youtube.com/watch?v=' if e.get('tipo') == 'clase' else 'https://youtube.com/shorts/') + vid
 
 def main():
     cola = json.load(open('cola.json'))
