@@ -37,7 +37,14 @@
   "17910714999330565": "pedido + aviso público",
   "18128767070486146": "pedido + aviso público",
   "18059866586584914": "pedido + aviso público",
-  "18487380034112021": "pedido + aviso público"
+  "18487380034112021": "pedido + aviso público",
+  "18020853092952612": "pedido + aviso público",
+  "18134060146693638": "pedido + aviso público",
+  "18092428214264938": "pedido + aviso público",
+  "18078972440763592": "pedido + aviso público",
+  "18001317918047203": "pedido + aviso público",
+  "18096433913187636": "pedido + aviso público",
+  "17955202467336450": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -244,6 +251,36 @@
    "usuario": "mati.fretesr",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:21:59+00:00"
+  },
+  "1492315409479134": {
+   "usuario": "tonalli_lv",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:28:17+00:00"
+  },
+  "1503942661631511": {
+   "usuario": "maluc.04",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:28:21+00:00"
+  },
+  "1124630853874785": {
+   "usuario": "agosssoria",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:28:24+00:00"
+  },
+  "1949646199775789": {
+   "usuario": "samu_guerracn",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:28:28+00:00"
+  },
+  "1136523199239305": {
+   "usuario": "nicovm_",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:28:32+00:00"
+  },
+  "29138244329158696": {
+   "usuario": "sofy.cbe",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:28:36+00:00"
   }
  }
 }
