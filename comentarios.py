@@ -26,12 +26,24 @@ def call(path, data=None, tok=IGT):
     else: url += ('&' if '?' in url else '?') + 'access_token=' + tok
     return json.loads(urllib.request.urlopen(urllib.request.Request(url, data=body), timeout=60).read())
 
+def ya_dicho(a):
+    t = a['texto'].strip()
+    try:
+        if a['red'] == 'youtube':
+            return any(i['snippet']['textOriginal'].strip() == t for i in yt(f"comments?part=snippet&parentId={a['id']}&maxResults=100").get('items', []))
+        if a['red'] == 'instagram':
+            return any(x.get('username') == YO and (x.get('text') or '').strip() == t for x in call(f"{a['id']}/replies?fields=username,text&limit=100")['data'])
+        return any((x.get('from') or {}).get('id') == PID and (x.get('message') or '').strip() == t for x in call(f"{a['id']}/comments?fields=from,message&limit=100", tok=PT)['data'])
+    except Exception: return False
+
 def acciones():
     if not os.path.exists('respuestas.json'): return
     pend = json.load(open('respuestas.json')); quedan = []; vistos = set()
     for a in pend:
         if (a['id'], a.get('texto'), a.get('ocultar')) in vistos: continue   # never send the same reply twice
         vistos.add((a['id'], a.get('texto'), a.get('ocultar')))
+        if not a.get('ocultar') and ya_dicho(a):   # last check against the network itself: is this exact reply already there?
+            print('ya estaba, no se repite', a['red']); continue
         try:
             if a['red'] == 'youtube':
                 if a.get('ocultar'): yt(f"comments/setModerationStatus?id={a['id']}&moderationStatus=heldForReview", None, 'POST')
