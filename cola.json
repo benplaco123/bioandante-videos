@@ -83,7 +83,7 @@
  },
  {
   "nombre": "cucharilla-plastico-cerebro",
-  "hora": "2026-11-17T20:36:00+01:00",
+  "hora": "2026-11-22T20:36:00+01:00",
   "video": "cucharilla-plastico-cerebro.mp4",
   "texto": "¿Tienes una cucharilla de plástico dentro del cerebro? 🥄🧠\n\nSe hizo viral con un estudio de 2025 en Nature Medicine: en cerebros de personas fallecidas midieron una mediana de casi 5 miligramos de plástico por gramo (sobre todo polietileno). Multiplicado por lo que pesa un cerebro, salen unos 7 gramos: lo que pesa una cucharilla 👇\n\n🔥 Cómo se mide: un trocito de tejido se calienta sin aire hasta romperlo (pirólisis) y una máquina lee los pedazos como una huella dactilar.\n⚠️ El problema: la huella del polietileno se parece MUCHO a la de la grasa, y el cerebro es uno de los órganos con más grasa del cuerpo.\n📝 Otros científicos lo cuestionaron en la misma revista: el método pudo confundir grasa con plástico. Los autores respondieron y el debate sigue abierto.\n🩸 Un equipo de la Universidad de Queensland lo probó en sangre y concluyó que hoy esa técnica no sirve para medir polietileno en tejidos.\n\nOjo: eso no quiere decir que no tengas plástico dentro, porque con otros métodos se han visto partículas, por ejemplo en la placenta. Lo que no está demostrado es la cucharilla.\n\n📄 Fuentes: Nihart et al., Nature Medicine 31:1114 (2025); A. Monikh et al., Nature Medicine (2025), carta «Challenges in studying microplastics in human brain», y respuesta de los autores; Rauert et al., Environ Sci Technol 59:1984 (2025); O'Brien y Sampson, J Lipid Res (1965); Ragusa et al., Environ Int 146:106274 (2021).\n\n💬 ¿Tú qué harías? A · me lo creo hasta que lo desmientan · B · no me lo creo hasta ver cómo lo midieron. Te leo\n📌 Guárdalo y mándaselo a quien te contó lo de la cucharilla\n👉 Sígueme en @bio.andante para más curiosidades de biología\n\n#biologia #microplasticos #cerebro #mitos #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación en estilo de lámina científica: una cabeza de perfil cortada que deja ver el cerebro, con una cucharilla de plástico coral dentro; neuronas y vasos sanguíneos al microscopio con una cifra que sube; dos básculas que comparan el peso de un cerebro con el plástico; un horno de pirólisis y una máquina que dibuja picos; la huella del polietileno junto a la de la grasa, casi iguales; las cartas de la revista; sangre al microscopio con partículas que no se distinguen; y, al final, la cabeza con un signo de interrogación y una lupa sobre la gráfica.",
   "titulo": "¿Tienes una cucharilla de plástico dentro del cerebro? 🥄🧠",
@@ -320,5 +320,31 @@
   "instagram": false,
   "facebook": true,
   "youtube": false
+ },
+ {
+  "nombre": "sanidad-universal",
+  "hora": "2026-11-17T20:36:00+01:00",
+  "video": "sanidad-universal.mp4",
+  "portada": "sanidad-universal-portada.jpg",
+  "texto": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad será «nacional, no universal», con urgencias para cualquiera. Pero si alguien con tuberculosis no puede ir al médico, no se diagnostica ni se trata, y sigue contagiando: en el metro, en el trabajo, en tu barrio.\n\nY esto ya se probó en España. En 2012 un decreto dejó a los inmigrantes sin papeles solo con urgencias, embarazo y menores. Un estudio comparó su mortalidad antes y después: en los tres primeros años murieron unas 80 personas más cada año. En 2018 se dio marcha atrás. Y en Alemania, restringir la sanidad a los solicitantes de asilo salió más caro por persona que darles acceso normal.\n\nFuentes:\n· Juanmartí Mestres, López-Casasnovas y Vall Castelló, European Economic Review 2021 («The deadly effects of losing health insurance»)\n· Bozorgmehr y Razum, PLoS One 2015 · doi 10.1371/journal.pone.0131483\n· Real Decreto-ley 16/2012 y Real Decreto-ley 7/2018 (BOE)\n\nInformación divulgativa: no sustituye la consulta con tu médico.\n\nY tú, ¿prefieres un vecino diagnosticado o uno sin diagnosticar? 👇\n\n#sanidadpublica #saludpublica #ciencia #divulgacion #biologia #epidemiologia #tuberculosis #ciencianoesaburrida",
+  "titulo": "Las enfermedades no tienen pasaporte 🦠🛂",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "par": "sanidad-universal"
+ },
+ {
+  "nombre": "sanidad-universal-b",
+  "hora": "2026-11-17T20:36:00+01:00",
+  "video": "sanidad-universal-b.mp4",
+  "portada": "sanidad-universal-b-portada.jpg",
+  "texto": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad será «nacional, no universal», con urgencias para cualquiera. Pero si alguien con tuberculosis no puede ir al médico, no se diagnostica ni se trata, y sigue contagiando: en el metro, en el trabajo, en tu barrio.\n\nY esto ya se probó en España. En 2012 un decreto dejó a los inmigrantes sin papeles solo con urgencias, embarazo y menores. Un estudio comparó su mortalidad antes y después: en los tres primeros años murieron unas 80 personas más cada año. En 2018 se dio marcha atrás. Y en Alemania, restringir la sanidad a los solicitantes de asilo salió más caro por persona que darles acceso normal.\n\nFuentes:\n· Juanmartí Mestres, López-Casasnovas y Vall Castelló, European Economic Review 2021 («The deadly effects of losing health insurance»)\n· Bozorgmehr y Razum, PLoS One 2015 · doi 10.1371/journal.pone.0131483\n· Real Decreto-ley 16/2012 y Real Decreto-ley 7/2018 (BOE)\n\nInformación divulgativa: no sustituye la consulta con tu médico.\n\nY tú, ¿prefieres un vecino diagnosticado o uno sin diagnosticar? 👇\n\n#sanidadpublica #saludpublica #ciencia #divulgacion #biologia #epidemiologia #tuberculosis #ciencianoesaburrida",
+  "titulo": "Las enfermedades no tienen pasaporte 🦠🛂",
+  "instagram": true,
+  "facebook": false,
+  "youtube": false,
+  "prueba": true,
+  "par": "sanidad-universal"
  }
 ]
