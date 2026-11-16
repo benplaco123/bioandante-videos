@@ -20,6 +20,31 @@ def call(path, data=None, tok=IGT):
     try: return json.loads(urllib.request.urlopen(urllib.request.Request(url, data=body), timeout=120).read())
     except urllib.error.HTTPError as e: raise RuntimeError(path.split('?')[0] + ': ' + e.read().decode()[:300])
 
+NOTAS = {}   # what happened with each cover, saved in hecho.json
+
+def portada_de_instagram(e):
+    """Facebook/YouTube catch-up of a reel that is already on Instagram: take the cover it has there (same caption)."""
+    norm = lambda t: ' '.join((t or '').split())[:80]
+    url = f'{IGID}/media?fields=caption,thumbnail_url&limit=100'
+    for _ in range(5):
+        r = call(url)
+        for m in r.get('data', []):
+            if m.get('thumbnail_url') and norm(m.get('caption')) == norm(e['texto']): return m['thumbnail_url']
+        nxt = r.get('paging', {}).get('next')
+        if not nxt: return None
+        q = urllib.parse.urlsplit(nxt)
+        url = q.path.split('/v23.0/', 1)[1] + '?' + urllib.parse.urlencode([(k, v) for k, v in urllib.parse.parse_qsl(q.query) if k != 'access_token'])
+    return None
+
+def fb_portada(vid):
+    """The reel must be processed before Facebook takes a thumbnail: try for ~3 min, and keep the answer."""
+    out = ''
+    for _ in range(9):
+        out = subprocess.run(['curl', '-s', '-X', 'POST', f"{API}{vid}/thumbnails", '-F', f'access_token={PT}', '-F', 'is_preferred=true', '-F', 'source=@p.jpg'], capture_output=True, text=True).stdout
+        if '"success":true' in out.replace(' ', ''): return 'ok'
+        time.sleep(20)
+    return 'FALLO ' + out[:200]
+
 def instagram(url, e):
     d = {'media_type': 'REELS', 'video_url': url, 'caption': e['texto'], 'share_to_feed': 'true'}
     if e.get('portada'): d['cover_url'] = f"https://github.com/{REPO}/releases/download/cola/{e['portada']}"
@@ -56,9 +81,9 @@ def facebook(path, e):
     r = subprocess.run(['curl', '-s', '-X', 'POST', s['upload_url'], '-H', 'Authorization: OAuth ' + PT, '-H', 'offset: 0',
         '-H', f'file_size: {os.path.getsize(path)}', '--data-binary', '@' + path], capture_output=True, text=True)
     if '"success":true' not in r.stdout: raise RuntimeError('Facebook: ' + r.stdout[:200])
-    if e.get('portada'): subprocess.run(['curl', '-s', '-X', 'POST', f"{API}{s['video_id']}/thumbnails", '-F', f'access_token={PT}', '-F', 'is_preferred=true', '-F', 'source=@p.jpg'], capture_output=True)
     call(f'{PID}/video_reels', {'upload_phase': 'finish', 'video_id': s['video_id'], 'video_state': 'PUBLISHED',
         'description': e['texto']}, tok=PT)
+    if os.path.exists('p.jpg'): NOTAS['facebook_portada'] = fb_portada(s['video_id'])
     return 'https://www.facebook.com/reel/' + s['video_id']
 
 def youtube(path, e):
@@ -74,7 +99,9 @@ def youtube(path, e):
     out = subprocess.run(['curl', '-s', '-X', 'PUT', loc, '-H', 'Authorization: Bearer ' + a, '-H', 'Content-Type: video/mp4',
         '--data-binary', '@' + path], capture_output=True, text=True).stdout
     vid = json.loads(out)['id']
-    if e.get('portada'): subprocess.run(['curl', '-s', '-X', 'POST', f'https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}', '-H', 'Authorization: Bearer ' + a, '-H', 'Content-Type: image/jpeg', '--data-binary', '@p.jpg'], capture_output=True)
+    if os.path.exists('p.jpg'):
+        t = subprocess.run(['curl', '-s', '-X', 'POST', f'https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}', '-H', 'Authorization: Bearer ' + a, '-H', 'Content-Type: image/jpeg', '--data-binary', '@p.jpg'], capture_output=True, text=True).stdout
+        NOTAS['youtube_portada'] = 'ok' if '"items"' in t else 'FALLO ' + t[:200]
     return ('https://youtube.com/watch?v=' if e.get('tipo') == 'clase' else 'https://youtube.com/shorts/') + vid + ' (privado)'
 
 def main():
@@ -99,14 +126,20 @@ def main():
         return
     subprocess.run(['curl', '-sL', '-o', 'v.mp4', url], check=True)
     if e.get('portada'): subprocess.run(['curl', '-sL', '-o', 'p.jpg', f"https://github.com/{REPO}/releases/download/cola/{e['portada']}"])
+    elif not e.get('instagram', e.get('tipo') != 'clase') and (e.get('facebook') or e.get('youtube')):
+        try:
+            u = portada_de_instagram(e)
+            if u: subprocess.run(['curl', '-sL', '-o', 'p.jpg', u]); print('portada: la de Instagram')
+        except Exception as x: print('sin portada de Instagram:', x)
     for k, f, arg in (('instagram', instagram, url), ('facebook', facebook, 'v.mp4'), ('youtube', youtube, 'v.mp4')):
         if not e.get(k, k == 'instagram' and e.get('tipo') != 'clase'): continue
         try: res[k] = f(arg, e); print(k, 'OK', res[k])
         except Exception as x: res[k] = 'FALLO ' + str(x); print(k, 'FALLO', x)
+    res.update(NOTAS); print('portadas', NOTAS)
     cola.remove(e); hecho.append(res)
     json.dump(cola, open('cola.json', 'w'), ensure_ascii=False, indent=1)
     json.dump(hecho, open('hecho.json', 'w'), ensure_ascii=False, indent=1)
-    if 'FALLO' not in json.dumps(res):
+    if 'FALLO' not in json.dumps({k: v for k, v in res.items() if not k.endswith('_portada')}):
         for a in (e['video'], e.get('portada')):
             if a: subprocess.run(['gh', 'release', 'delete-asset', 'cola', a, '-y', '-R', REPO])
 
