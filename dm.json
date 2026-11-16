@@ -32,7 +32,12 @@
   "18191409211414056": "pedido + aviso público",
   "18120724544132129": "pedido + aviso público",
   "18123303772980477": "pedido + aviso público",
-  "17916008067559447": "pedido + aviso público"
+  "17916008067559447": "pedido + aviso público",
+  "18208701553373264": "pedido + aviso público",
+  "17910714999330565": "pedido + aviso público",
+  "18128767070486146": "pedido + aviso público",
+  "18059866586584914": "pedido + aviso público",
+  "18487380034112021": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -211,7 +216,34 @@
   "1501776972016369": {
    "usuario": "brat.0_0.88",
    "clave": "TUBO",
-   "pedido": "2026-11-16T22:15:32+00:00"
+   "pedido": "2026-11-16T22:15:32+00:00",
+   "enviado": "2026-11-16T22:22:44+00:00"
+  },
+  "1612717947200956": {
+   "usuario": "benjasmq",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:21:44+00:00"
+  },
+  "1095869656821133": {
+   "usuario": "xavi_iero",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:21:49+00:00"
+  },
+  "1922456598917698": {
+   "usuario": "josepabloo_",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:21:52+00:00"
+  },
+  "2594961137670326": {
+   "usuario": "lifeiscolors",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:21:56+00:00",
+   "aviso_no_sigue": "2026-11-16T22:22:40+00:00"
+  },
+  "1128900893453884": {
+   "usuario": "mati.fretesr",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:21:59+00:00"
   }
  }
 }
