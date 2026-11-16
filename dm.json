@@ -63,7 +63,12 @@
   "18105209978051446": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17910802290333685": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18030818216696645": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18647200552037194": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18647200552037194": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18108215366302889": "pedido + aviso público",
+  "17914032225475815": "pedido + aviso público",
+  "18161032153506245": "pedido + aviso público",
+  "17996333799066284": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18114747851620805": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -238,7 +243,8 @@
   "996828503484974": {
    "usuario": "osc.rx",
    "clave": "TUBO",
-   "pedido": "2026-11-16T22:15:29+00:00"
+   "pedido": "2026-11-16T22:15:29+00:00",
+   "aviso_no_sigue": "2026-11-16T22:53:41+00:00"
   },
   "1501776972016369": {
    "usuario": "brat.0_0.88",
@@ -312,6 +318,23 @@
    "usuario": "santos_galbo_97",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:40:48+00:00"
+  },
+  "2188701572045394": {
+   "usuario": "omgcrysis",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:52:48+00:00",
+   "aviso_no_sigue": "2026-11-16T22:53:40+00:00"
+  },
+  "4127387550890566": {
+   "usuario": "pau_e.gg",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:52:52+00:00"
+  },
+  "1445802760431010": {
+   "usuario": "lauriss_229",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T22:52:56+00:00",
+   "aviso_no_sigue": "2026-11-16T22:53:38+00:00"
   }
  }
 }
