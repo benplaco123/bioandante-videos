@@ -1,5 +1,58 @@
 [
  {
+  "red": "instagram",
+  "id": "17998478262019489",
+  "quien": "josue_v.cs",
+  "texto": "Tubo",
+  "hora": "2026-11-16T18:55:54+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17917697337516415",
+  "quien": "royer_wind",
+  "texto": "Tubo",
+  "hora": "2026-11-16T18:42:54+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18107473970014019",
+  "quien": "pilartxin",
+  "texto": "👏",
+  "hora": "2026-11-16T18:42:27+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@pilartxin si te ha gustado sígueme y dale a 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
+  "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
+  "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
+ },
+ {
+  "red": "instagram",
+  "id": "18114548618332279",
+  "quien": "sobredosis._.de._.azucar",
+  "texto": "Tubo",
+  "hora": "2026-11-16T18:26:04+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
   "red": "youtube",
   "id": "UgyQmkPUJT1zaFbTlcV4AaABAg",
   "quien": "@luisadorno1864",
@@ -293,10 +346,6 @@
    {
     "quien": "bio.andante",
     "texto": "imposible saberlo jaja"
-   },
-   {
-    "quien": "bio.andante",
-    "texto": "imposible saberlo jaja"
    }
   ],
   "respondido": true,
@@ -374,10 +423,6 @@
   "hora": "2026-11-15T20:27:17+0000",
   "oculto": false,
   "respuestas": [
-   {
-    "quien": "Bioandante",
-    "texto": "nadie ha dicho lo contrario, pero se debe acabar con el estigma que hay. claro que deben medicarse, sino se acabaria desarrollando SIDA pudiendo morir. Con las pastillas pueden permanecer sin problemas de salud dee por vida"
-   },
    {
     "quien": "Bioandante",
     "texto": "nadie ha dicho lo contrario, pero se debe acabar con el estigma que hay. claro que deben medicarse, sino se acabaria desarrollando SIDA pudiendo morir. Con las pastillas pueden permanecer sin problemas de salud dee por vida"
@@ -2990,23 +3035,6 @@
  },
  {
   "red": "instagram",
-  "id": "18231223339335216",
-  "quien": "cosplay_cristian",
-  "texto": "Cuandon los faxas y nacis son GILIPO LLAS",
-  "hora": "2026-11-12T17:05:19+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "jajaj"
-   }
-  ],
-  "respondido": true,
-  "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
-  "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
- },
- {
-  "red": "instagram",
   "id": "18156578008532896",
   "quien": "roberkas98",
   "texto": "@halsand13 @bio.andante https://youtu.be/CnA2M07RlwQ?si=M_oLKKYzXDwoksRr aquí hay un científico con el que comparto opinion",
@@ -3957,6 +3985,18 @@
    {
     "quien": "@Bio.andante",
     "texto": "@MG-hr2ut Creo que hay un malentendido con ese estudio (Lynas et al., 2021, Environmental Research Letters). No dice que en total solo existan 4 artículos en contra:\n\nRevisaron 88.125 artículos publicados entre 2012 y 2020. Sacaron 3.000 al azar y los clasificaron leyendo el título y el resumen de cada uno, no por palabras sueltas. En esa muestra salieron 4 escépticos.\nDespués buscaron artículos escépticos entre los 88.125 y encontraron 28. Así que encontrar 6 o 7 no lo contradice: lo que mide el estudio es la proporción, y sigue siendo más del 99 %.\nVarios de los que citas son de 2011, 2024 y 2025, fuera del periodo revisado.\nY no es el único estudio: otros con métodos distintos, como preguntar a los propios autores qué concluían sus artículos (Cook et al., 2013), dan entre el 97 y el 99 %.\n\nQue haya artículos que discrepan es normal en ciencia. La cuestión es cuánto pesan frente a decenas de miles que apuntan a lo mismo, y si sus conclusiones han aguantado la revisión de otros científicos."
+   },
+   {
+    "quien": "@MG-hr2ut",
+    "texto": "​@Bio.andante no se si estas usando una IA o eres directamente una IA pero tu mismo te contradices. \nPrimero decias en el video que eran 4 artículos y ahora son 28 escepticos. Cuando dejas de lado que mas del 60% no estaba ni a favor ni en contra y se dio eso como falso positivo.\nPor otro lado la metodologia del otro estudio es bastante parecida, busqueda por palabras, de una cantidad muchisimo menor y encima un estudio muy sesgado. De los autores que respondieron no se llego ni al 15% del total de articulos.\n\nPor tanto. No hay que ser ciegos para saber que hay mayoria. Pero no existe niguna evidencia de que el consenso sea tan amplio como se dice. Ademas la mayoria de ese \"consenso\" esta sufragado, orientado o patrocinado para ir en ese sentido, dando por hecho o asimilando estudios de la misma linea.\n Es dificil combatir el mainstream. Pero por ejemplo si buscas en google que la temperatura de la tierra ha subido x grados o que va a subir el nivel el mar para tal año veras las mismas noticias con el mismo titular de años diferentes, lo que a mi juicio indica claras señales de que ese es el mensaje que se quiere dar sea o no verdad.\nY yo ni estoy en contra ni a favor, pero me parece que esta todo tan politizado que parece una maquinaria para crear miedo a la sociedad en lugar de dar datos realistas y poder educar. Llamalo miedo util o como quieras pero es al final un engaño y dar al hombre un poder tan grande como cambiar el clima me parece algo pretencioso, posible pero pretencioso.\nMe parece que siempre creemos saber todo, en historia, ciencia o matemáticas y no estamos abiertos a mas posibilidades que a las explicaciones que pueden ayudarnos a seguir con el relato de nuestra sociedad actual"
+   },
+   {
+    "quien": "@Bio.andante",
+    "texto": "@MG-hr2utpero tú sabes leer ?"
+   },
+   {
+    "quien": "@MG-hr2ut",
+    "texto": "​@Bio.andante uy, ya ahora que sabemos que tiras de IA te pones en modo agresivo con insultos?"
    }
   ],
   "respondido": true,
