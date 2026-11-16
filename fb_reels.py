@@ -20,3 +20,13 @@ for ep in ('video_reels', 'videos'):
     if ep == 'video_reels': break
 for vid in [x.strip() for x in os.environ.get('BORRAR', '').split(',') if x.strip()]:
     print('borrar', vid, call(vid, method='DELETE'))
+# DUPLICADOS=<id de un comentario>: borra las respuestas repetidas de la página en ese hilo (deja la primera de cada texto)
+for cid in [x.strip() for x in os.environ.get('DUPLICADOS', '').split(',') if x.strip()]:
+    rs = call(f'{cid}/comments', fields='id,from,message,created_time', limit=100).get('data', [])
+    vistos = set()
+    for r in sorted(rs, key=lambda r: r.get('created_time', '')):
+        if (r.get('from') or {}).get('id') != PID: continue
+        t = ' '.join((r.get('message') or '').split())
+        if t in vistos: print('repetida', r['id'], t[:60], call(r['id'], method='DELETE'))
+        else: vistos.add(t)
+    print('hilo', cid, 'revisado')

@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       borrar: {description: 'ids de reels a borrar, separados por comas (vacío = solo listar)', required: false, default: ''}
+      duplicados: {description: 'ids de comentarios donde borrar respuestas repetidas de la página', required: false, default: ''}
 jobs:
   reels:
     runs-on: ubuntu-latest
@@ -13,3 +14,4 @@ jobs:
           PAGE_TOKEN: ${{ secrets.PAGE_TOKEN }}
           PAGE_ID: ${{ secrets.PAGE_ID }}
           BORRAR: ${{ inputs.borrar }}
+          DUPLICADOS: ${{ inputs.duplicados }}
