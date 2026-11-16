@@ -104,7 +104,14 @@
   "17968734390208306": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18110644646215484": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18469448017191086": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "17880766197566202": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "17880766197566202": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18119406464332058": "pedido + aviso público",
+  "18606443164068401": "pedido + aviso público",
+  "18056658653812812": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18118124186020579": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17920349169523776": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18495414988128466": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18129189943912667": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -406,6 +413,16 @@
    "usuario": "whoismilton_",
    "clave": "TUBO",
    "pedido": "2026-11-16T23:25:13+00:00"
+  },
+  "1118791597439568": {
+   "usuario": "daviviridae",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:36:54+00:00"
+  },
+  "1682535246877184": {
+   "usuario": "nahurtadoc",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T23:36:58+00:00"
   }
  }
 }
