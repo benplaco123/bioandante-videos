@@ -1,13 +1,30 @@
 [
  {
   "red": "facebook",
+  "id": "1175920128122827_1679480853826671",
+  "quien": "alguien",
+  "texto": "Pero es más seguro usarlo xq existen otras infecciones de transmisión sexual y lo más seguro es protegerse ❤️❤️❤️❤️",
+  "hora": "2026-11-16T13:37:58+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
+  "enlace": "https://www.facebook.com/reel/1025207717266198/"
+ },
+ {
+  "red": "facebook",
   "id": "1175920128122827_1826707648594011",
   "quien": "alguien",
   "texto": "Es mentira",
   "hora": "2026-11-16T12:21:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Es lo que encontraron los estudios PARTNER: siguieron a parejas en las que uno tenía VIH en tratamiento con carga indetectable y el otro no, con más de 75.000 relaciones sin preservativo. Ni una sola transmisión. Te dejo la fuente en la descripción 🙂"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -55,23 +72,6 @@
   "hora": "2026-11-16T03:05:00+0000",
   "oculto": false,
   "respuestas": [],
-  "respondido": false,
-  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
-  "enlace": "https://www.facebook.com/reel/1025207717266198/"
- },
- {
-  "red": "facebook",
-  "id": "1175920128122827_1069301036133913",
-  "quien": "alguien",
-  "texto": "Si un indetectable deja de tomar su tratamiento antirretroviral una semana, \ndeja de ser indetectable. Este mensaje \nes tremendamente irresponsable. ¿A los indetectables les dejan donar sangre?",
-  "hora": "2026-11-16T02:44:51+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": null,
-    "texto": "Pablo Parellada Redondo no es tan rápido la replicacion"
-   }
-  ],
   "respondido": false,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
@@ -943,7 +943,11 @@
    },
    {
     "quien": null,
-    "texto": "Gabo GReyes yo me contagie y con el y su tratAmiento y el dr pelotudo que vimos"
+    "texto": "AdRian Eal Checastes que tu o tu pareja? cojieorn con otrosss con preservativo?"
+   },
+   {
+    "quien": null,
+    "texto": "debe ser a la hora la pastillas!! no debes faltar a ninguna. y doy minpalabra que este vato ahorita tiene....VIH x que ya no se cuido"
    }
   ],
   "respondido": true,
@@ -2363,6 +2367,10 @@
    {
     "quien": "bio.andante",
     "texto": "Por eso lo explico fácil 🙂 ¿Has leído alguno?"
+   },
+   {
+    "quien": "anmagonzalez",
+    "texto": "@bio.andante muchos es en lo que trabajo. 😂"
    }
   ],
   "respondido": true,
@@ -3101,6 +3109,10 @@
    {
     "quien": "bio.andante",
     "texto": "Un libro no es un artículo revisado. El IPCC dice que es real y causado por nosotros. ¿Qué medidas te parecerían bien?"
+   },
+   {
+    "quien": "antoniobernardo1212",
+    "texto": "@bio.andante gracias por responder, soy catedrático de ingeniería ambiental con artículos indexados en el JCR. Es muy claro que la influencia de la actividad humana apenas afecta. Sobre todo la de Europa. Lo que no se puede hacer es bandera política de un supuesto planteamiento científico. Un saludo"
    }
   ],
   "respondido": true,
@@ -3171,6 +3183,10 @@
    {
     "quien": "bio.andante",
     "texto": "@camildanach Entiendo el enfado, pero Europa ya emite menos que China o EE. UU.; lo que se discute es cómo repartir el esfuerzo. ¿Cómo lo repartirías tú?"
+   },
+   {
+    "quien": "camildanach",
+    "texto": "@bio.andante Mínimo no empobreceria a los europeos por superioridad moral, en esa cuenta que haces está incluido el impacto de tener que importar la mayoría de nuestra energía y bienes de consumo?"
    }
   ],
   "respondido": true,
@@ -3196,6 +3212,10 @@
    {
     "quien": "bio.andante",
     "texto": "@tarkus.driver Vale 🙂 ¿Entonces qué te hace dudar de las vacunas o las mascarillas? Te leo."
+   },
+   {
+    "quien": "tarkus.driver",
+    "texto": "@bio.andante lo mismo que me hace dudar de los políticos."
    }
   ],
   "respondido": true,
