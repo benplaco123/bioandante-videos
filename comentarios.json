@@ -155,8 +155,13 @@
   "texto": "Dañando la atmósfera.  Q porquería",
   "hora": "2026-11-15T23:26:03Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Contaminan, pero mucho menos que la aviación. ¿Te preocupa más eso o la basura espacial?"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/Y2swtvN5Mv8"
  },
@@ -167,8 +172,13 @@
   "texto": "\"La cojieron en el aire\" que turbio",
   "hora": "2026-11-15T23:25:23Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Jaja literal: la torre lo atrapa con unos brazos gigantes 😂 ¿Te lo esperabas? En España se usa coger para decir agarrar jajaja"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/Y2swtvN5Mv8"
  },
@@ -1006,6 +1016,10 @@
    {
     "quien": "viyobs",
     "texto": "@bio.andante ya te sigo🙌"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "¡Muchas gracias! 🙌 Si te ha gustado, compártelo dándole al 🔁"
    }
   ],
   "respondido": true,
