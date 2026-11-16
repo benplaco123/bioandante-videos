@@ -93,6 +93,27 @@
  },
  {
   "red": "facebook",
+  "id": "1175920128122827_1069301036133913",
+  "quien": "alguien",
+  "texto": "Si un indetectable deja de tomar su tratamiento antirretroviral una semana, \ndeja de ser indetectable. Este mensaje \nes tremendamente irresponsable. ¿A los indetectables les dejan donar sangre?",
+  "hora": "2026-11-16T02:44:51+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": null,
+    "texto": "Pablo Parellada Redondo no es tan rápido la replicacion"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Totalmente: si se deja el tratamiento, el virus vuelve a subir en pocas semanas. Por eso en el vídeo digo que indetectable no es curado. Y no, las personas con VIH no pueden donar sangre. Indetectable = intransmisible se refiere a las relaciones sexuales, no a la sangre. Irresponsable por que, en ningún momento digo que no se deba usar preservativo…no has visto el video entero"
+   }
+  ],
+  "respondido": true,
+  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
+  "enlace": "https://www.facebook.com/reel/1025207717266198/"
+ },
+ {
+  "red": "facebook",
   "id": "1175920128122827_1677842147074418",
   "quien": "alguien",
   "texto": "Hagan  caso al anuncio vayan cojan con enfermos de VIH . Total ya les garantizo la vida eterna",
@@ -913,18 +934,6 @@
    }
   ],
   "respondido": true,
-  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
-  "enlace": "https://www.facebook.com/reel/1025207717266198/"
- },
- {
-  "red": "facebook",
-  "id": "1175920128122827_962788703300242",
-  "quien": "alguien",
-  "texto": "",
-  "hora": "2026-11-15T15:46:30+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
