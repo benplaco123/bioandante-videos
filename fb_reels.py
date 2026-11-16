@@ -13,6 +13,10 @@ def call(path, method='GET', **q):
 for ep in ('video_reels', 'videos'):
     r = call(f'{PID}/{ep}', fields='id,created_time,description', limit=50)
     print(f'--- {ep}'); print(r['error']) if 'error' in r else None
-    for v in r.get('data', []): print(v.get('created_time', '')[:16], v['id'], (v.get('description') or '').split('\n')[0][:70])
+    for v in r.get('data', []):
+        i = call(v['id'] + '/video_insights', metric='fb_reels_total_plays') if ep == 'video_reels' else {}
+        plays = next((x['values'][0]['value'] for x in i.get('data', []) if x.get('values')), '?')
+        print(v.get('created_time', '')[:16], v['id'], 'vistas', plays, '·', (v.get('description') or '').split('\n')[0][:60])
+    if ep == 'video_reels': break
 for vid in [x.strip() for x in os.environ.get('BORRAR', '').split(',') if x.strip()]:
     print('borrar', vid, call(vid, method='DELETE'))
