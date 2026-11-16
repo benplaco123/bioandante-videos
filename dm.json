@@ -1,0 +1,19 @@
+{
+ "comentarios": {
+  "18114548618332279": "pedido",
+  "17917697337516415": "pedido"
+ },
+ "personas": {
+  "975203191982764": {
+   "usuario": "sobredosis._.de._.azucar",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T18:45",
+   "enviado": "2026-11-16T19:58"
+  },
+  "4209894312589356": {
+   "usuario": "royer_wind",
+   "clave": "TUBO",
+   "pedido": "2026-11-16T18:45"
+  }
+ }
+}
