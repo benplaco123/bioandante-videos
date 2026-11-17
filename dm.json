@@ -305,7 +305,15 @@
   "17917180536558605": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18033483131916621": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18209391226329729": "pedido + aviso público",
-  "18100456670400075": "pedido + aviso público"
+  "18100456670400075": "pedido + aviso público",
+  "17915914296561722": "pedido + aviso público",
+  "18091654286276307": "pedido + aviso público",
+  "18503571820099626": "pedido + aviso público",
+  "18133195315796930": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18116591386860986": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17920704156550654": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18354166297265980": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17946000129369259": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -999,6 +1007,21 @@
    "clave": "TUBO",
    "pedido": "2026-11-17T02:47:56+00:00",
    "aviso_no_sigue": "2026-11-17T02:48:31+00:00"
+  },
+  "1938503117123999": {
+   "usuario": "marceloelchele",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:54:18+00:00"
+  },
+  "1202546408997645": {
+   "usuario": "sxla_e2",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:54:30+00:00"
+  },
+  "2509805212840112": {
+   "usuario": "__manuelmm__",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:54:33+00:00"
   }
  }
 }
