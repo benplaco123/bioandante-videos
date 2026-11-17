@@ -76,7 +76,7 @@ for cid, estado in list(st['comentarios'].items()):
 # 2 · who has written LISTO since they were asked
 pend = {sid: p for sid, p in st['personas'].items() if not p.get('enviado')}
 if pend:
-    conv = todo(f'{U}/conversations', 150, platform='instagram', fields='participants,messages.limit(6){message,from,created_time}', limit=75)
+    conv = todo(f'{U}/conversations', 25, platform='instagram', fields='participants,messages.limit(4){message,from,created_time}', limit=25)
     for c in conv:
         sid = next((x['id'] for x in c.get('participants', {}).get('data', []) if x['id'] in pend), None)
         if not sid: continue
