@@ -129,7 +129,10 @@
   "18155073508558271": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18127047782284951": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18160297684564674": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18117697244150599": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18117697244150599": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18130340953879967": "pedido + aviso público",
+  "18110336669307127": "pedido + aviso público",
+  "18039503540658726": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -474,6 +477,21 @@
    "clave": "TUBO",
    "pedido": "2026-11-16T23:48:41+00:00",
    "aviso_no_sigue": "2026-11-16T23:54:40+00:00"
+  },
+  "1195815263013884": {
+   "usuario": "joss_eps",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:00:03+00:00"
+  },
+  "1126289163451655": {
+   "usuario": "gsus.94",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:00:07+00:00"
+  },
+  "1102073539465933": {
+   "usuario": "garcia__254",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:00:10+00:00"
   }
  }
 }
