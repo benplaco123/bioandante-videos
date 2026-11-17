@@ -80,5 +80,10 @@
   "nombre": "centrifuga-tubos-iso-b",
   "hora_real": "2026-11-17T17:40:48.836243+00:00",
   "instagram": "FALLO 18115787747145402: {\"error\":{\"message\":\"(#4) Application request limit reached\",\"code\":4,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AUDcBY9mCXCzwIcCt6vSDCS\"}}"
+ },
+ {
+  "nombre": "centrifuga-tubos-iso",
+  "hora_real": "2026-11-17T18:02:33.389903+00:00",
+  "instagram": "https://www.instagram.com/reel/Df2h75fiJNv/"
  }
 ]
