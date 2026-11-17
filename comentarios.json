@@ -1,13 +1,71 @@
 [
  {
   "red": "instagram",
+  "id": "17920704156550654",
+  "quien": "thiagolizandro",
+  "texto": "Tubo",
+  "hora": "2026-11-17T02:48:37+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18354166297265980",
+  "quien": "hadesvitae",
+  "texto": "Tubo",
+  "hora": "2026-11-17T02:48:04+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17946000129369259",
+  "quien": "erickruiz2121",
+  "texto": "Tubo",
+  "hora": "2026-11-17T02:47:59+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18209391226329729",
+  "quien": "cavadialimay",
+  "texto": "Tubo",
+  "hora": "2026-11-17T02:47:47+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18100456670400075",
   "quien": "cris.parra.23",
   "texto": "Tubo",
   "hora": "2026-11-17T02:42:07+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -618,69 +676,6 @@
   "oculto": false,
   "respuestas": [],
   "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18178665724460449",
-  "quien": "alejandro.gutierrez.19",
-  "texto": "Tubo",
-  "hora": "2026-11-17T01:53:32+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18107792774326083",
-  "quien": "v.arce__",
-  "texto": "Tubo 🫰🏻",
-  "hora": "2026-11-17T01:53:10+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17953820733287855",
-  "quien": "saul.mayy",
-  "texto": "Tubo",
-  "hora": "2026-11-17T01:52:58+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18101801999403418",
-  "quien": "gabrielfornaciari",
-  "texto": "Tubo",
-  "hora": "2026-11-17T01:52:45+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
