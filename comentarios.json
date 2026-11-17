@@ -1,6 +1,69 @@
 [
  {
   "red": "instagram",
+  "id": "18121459651970739",
+  "quien": "tab88746",
+  "texto": "Tubo. Graciss",
+  "hora": "2026-11-17T00:55:18+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18401604604203759",
+  "quien": "cesarsalcedo_25",
+  "texto": "Tubo",
+  "hora": "2026-11-17T00:54:28+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18040571651891105",
+  "quien": "yhb_wls.1",
+  "texto": "Tubo",
+  "hora": "2026-11-17T00:54:03+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
+  "video": "Cinco tubos y ninguno con agua. ¿Está equilibrada esta centrífuga? 🧪⚖️",
+  "enlace": "https://www.instagram.com/reel/Dfz6-lbDz6d/"
+ },
+ {
+  "red": "instagram",
+  "id": "18171473617485113",
+  "quien": "nandito_alimanha",
+  "texto": "Tubo",
+  "hora": "2026-11-17T00:51:31+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18111017729189806",
   "quien": "emiamadeid",
   "texto": "TUBO",
@@ -722,47 +785,6 @@
  },
  {
   "red": "instagram",
-  "id": "18134215423845794",
-  "quien": "aleex.sp_",
-  "texto": "Tubo",
-  "hora": "2026-11-17T00:01:19+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18136338280666297",
-  "quien": "ernesto.ruva",
-  "texto": "Tubooo9",
-  "hora": "2026-11-16T23:59:32+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18130340953879967",
-  "quien": "joss_eps",
-  "texto": "Tubo",
-  "hora": "2026-11-16T23:59:17+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
   "id": "17874406647643293",
   "quien": "manof1kvoices",
   "texto": "No entiendo por qué la derecha lo niega. Ahí tendría un filón.",
@@ -784,6 +806,10 @@
    {
     "quien": "@Bio.andante",
     "texto": "Siento muchísimo lo de tu familiar. Entiendo tu dolor y tu indignación ante una espera así. Ojalá nadie tuviera que pasar por algo semejante. Creo que todos queremos lo mismo: una sanidad que atienda a tiempo y una investigación que ayude a salvar cada vez más vidas. Ambas son necesarias."
+   },
+   {
+    "quien": "@tomasperezsanchez3473",
+    "texto": "​@Bio.andante pues no creo que solo hable por mí, la de familias destrozadas que debe haber por cosas similares"
    }
   ],
   "respondido": true,
@@ -809,6 +835,10 @@
    {
     "quien": "bio.andante",
     "texto": "Totalmente en Madrid imposible …"
+   },
+   {
+    "quien": "elbeceeerrooo",
+    "texto": "@bio.andante pues eso. Ojalá poderme quedar aquí, pero los sueldos son de risa"
    }
   ],
   "respondido": true,
