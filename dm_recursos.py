@@ -49,7 +49,7 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
     if not m.get('comments_count') or m['timestamp'][:16] < hace7: continue
     for c in todo(m['id'] + '/comments', fields='id,username,text,timestamp', limit=100):
         if c['id'] in st['comentarios'] or c.get('username') == 'bio.andante' or c['timestamp'][:16] < hace7: continue
-        if lleno(): break
+        if HECHOS[0] >= TOPE // 2: break   # leave half for the images of those who already wrote LISTO
         clave = next((k for k in R if re.search(r'\b' + k + r'\b', norm(c.get('text')))), None)
         if not clave: continue
         if any(p.get('usuario') == c.get('username') and p.get('clave') == clave for p in st['personas'].values()):
