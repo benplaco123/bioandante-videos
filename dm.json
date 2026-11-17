@@ -263,7 +263,12 @@
   "18115301444334760": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18178665724460449": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18139275658660056": "pedido + aviso público",
-  "17958088563036815": "pedido + aviso público"
+  "17958088563036815": "pedido + aviso público",
+  "18081407345479759": "pedido + aviso público",
+  "18101469455388971": "pedido + aviso público",
+  "18414550807092127": "pedido + aviso público",
+  "18057378734592042": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17928892767441718": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -867,7 +872,8 @@
   "1821177069205367": {
    "usuario": "gabrielfornaciari",
    "clave": "TUBO",
-   "pedido": "2026-11-17T01:53:40+00:00"
+   "pedido": "2026-11-17T01:53:40+00:00",
+   "aviso_no_sigue": "2026-11-17T02:06:42+00:00"
   },
   "1700605424917039": {
    "usuario": "b_alonso06",
@@ -877,7 +883,24 @@
   "2615520958917473": {
    "usuario": "nicoleee.qd",
    "clave": "TUBO",
-   "pedido": "2026-11-17T02:00:34+00:00"
+   "pedido": "2026-11-17T02:00:34+00:00",
+   "aviso_no_sigue": "2026-11-17T02:06:43+00:00"
+  },
+  "1582690167230272": {
+   "usuario": "jos._.missamora",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:06:14+00:00",
+   "aviso_no_sigue": "2026-11-17T02:06:40+00:00"
+  },
+  "1436075658691143": {
+   "usuario": "monina.jim",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:06:17+00:00"
+  },
+  "1445835361050169": {
+   "usuario": "bea_phd",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:06:21+00:00"
   }
  }
 }
