@@ -396,7 +396,8 @@
   "17912546232578672": "pedido + aviso público",
   "18018868310967872": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18051416294816073": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18157034092523731": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18157034092523731": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18032891522900392": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -1249,6 +1250,11 @@
    "usuario": "felipealfaro88",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:48:50+00:00"
+  },
+  "1122936413790638": {
+   "usuario": "fayceron",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:54:56+00:00"
   }
  }
 }
