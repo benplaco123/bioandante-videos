@@ -299,13 +299,13 @@
   "18133192864695165": "pedido + aviso público",
   "18129120139886851": "pedido + aviso público",
   "17997556092028126": "pedido + aviso público",
-  "17921155383544165": "pedido",
-  "18150800386533106": "pedido",
-  "17929225872440158": "pedido",
-  "18025746578943986": "pedido",
-  "18106816313548158": "pedido",
-  "18177698989459882": "pedido",
-  "18111370415285440": "pedido",
+  "17921155383544165": "pedido + aviso público",
+  "18150800386533106": "pedido + aviso público",
+  "17929225872440158": "pedido + aviso público",
+  "18025746578943986": "pedido + aviso público",
+  "18106816313548158": "pedido + aviso público",
+  "18177698989459882": "pedido + aviso público",
+  "18111370415285440": "pedido + aviso público",
   "18237572107325462": "pedido",
   "18124934129074977": "pedido",
   "18187459534420440": "pedido",
@@ -404,7 +404,11 @@
   "17947156380085399": "pedido",
   "18077490341773745": "pedido",
   "18098720726139854": "pedido",
-  "18144000331629966": "pedido"
+  "18144000331629966": "pedido",
+  "17976121356179735": "pedido",
+  "18130429990858210": "pedido",
+  "18357584821168323": "pedido",
+  "18120898156956909": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -2657,6 +2661,26 @@
    "usuario": "francisco_avelar_",
    "clave": "TUBO",
    "pedido": "2026-11-17T21:48:29+00:00"
+  },
+  "2263939307486244": {
+   "usuario": "masterof_nonr",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T21:59:06+00:00"
+  },
+  "1837604010881489": {
+   "usuario": "oswaldofant1270",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T21:59:10+00:00"
+  },
+  "2240065666941977": {
+   "usuario": "arnulfosanchezcastillo",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T21:59:16+00:00"
+  },
+  "2219534508974578": {
+   "usuario": "gerrardddddd_",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T21:59:20+00:00"
   }
  }
 }
