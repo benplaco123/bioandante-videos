@@ -319,7 +319,8 @@
    "usuario": "sorinnn7",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:02:01+00:00",
-   "aviso_no_sigue": "2026-11-16T22:47:11+00:00"
+   "aviso_no_sigue": "2026-11-16T22:47:11+00:00",
+   "enviado": "a mano"
   },
   "1450913579813799": {
    "usuario": "ivaninakygonzalez",
@@ -330,7 +331,8 @@
    "usuario": "edu15.5",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:09:14+00:00",
-   "aviso_no_sigue": "2026-11-16T23:07:03+00:00"
+   "aviso_no_sigue": "2026-11-16T23:07:03+00:00",
+   "enviado": "a mano"
   },
   "1161229356372485": {
    "usuario": "pepehefer_",
@@ -347,7 +349,8 @@
    "usuario": "osc.rx",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:15:29+00:00",
-   "aviso_no_sigue": "2026-11-16T22:53:41+00:00"
+   "aviso_no_sigue": "2026-11-16T22:53:41+00:00",
+   "enviado": "a mano"
   },
   "1501776972016369": {
    "usuario": "brat.0_0.88",
@@ -386,7 +389,8 @@
    "usuario": "tonalli_lv",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:28:17+00:00",
-   "aviso_no_sigue": "2026-11-16T22:35:10+00:00"
+   "aviso_no_sigue": "2026-11-16T22:35:10+00:00",
+   "enviado": "a mano"
   },
   "1503942661631511": {
    "usuario": "maluc.04",
@@ -402,7 +406,8 @@
    "usuario": "samu_guerracn",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:28:28+00:00",
-   "aviso_no_sigue": "2026-11-17T01:10:25+00:00"
+   "aviso_no_sigue": "2026-11-17T01:10:25+00:00",
+   "enviado": "a mano"
   },
   "1136523199239305": {
    "usuario": "nicovm_",
@@ -424,13 +429,15 @@
    "usuario": "santos_galbo_97",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:40:48+00:00",
-   "aviso_no_sigue": "2026-11-17T00:25:20+00:00"
+   "aviso_no_sigue": "2026-11-17T00:25:20+00:00",
+   "enviado": "a mano"
   },
   "2188701572045394": {
    "usuario": "omgcrysis",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:52:48+00:00",
-   "aviso_no_sigue": "2026-11-16T22:53:40+00:00"
+   "aviso_no_sigue": "2026-11-16T22:53:40+00:00",
+   "enviado": "a mano"
   },
   "4127387550890566": {
    "usuario": "pau_e.gg",
@@ -441,7 +448,8 @@
    "usuario": "lauriss_229",
    "clave": "TUBO",
    "pedido": "2026-11-16T22:52:56+00:00",
-   "aviso_no_sigue": "2026-11-16T22:53:38+00:00"
+   "aviso_no_sigue": "2026-11-16T22:53:38+00:00",
+   "enviado": "a mano"
   },
   "1089358884107537": {
    "usuario": "la_pame_26",
@@ -459,7 +467,8 @@
    "usuario": "nattalymar",
    "clave": "TUBO",
    "pedido": "2026-11-16T23:19:02+00:00",
-   "aviso_no_sigue": "2026-11-16T23:25:38+00:00"
+   "aviso_no_sigue": "2026-11-16T23:25:38+00:00",
+   "enviado": "a mano"
   },
   "2114388665864847": {
    "usuario": "kareny_jh",
@@ -475,13 +484,15 @@
    "usuario": "whoismilton_",
    "clave": "TUBO",
    "pedido": "2026-11-16T23:25:13+00:00",
-   "aviso_no_sigue": "2026-11-16T23:54:38+00:00"
+   "aviso_no_sigue": "2026-11-16T23:54:38+00:00",
+   "enviado": "a mano"
   },
   "1118791597439568": {
    "usuario": "daviviridae",
    "clave": "TUBO",
    "pedido": "2026-11-16T23:36:54+00:00",
-   "aviso_no_sigue": "2026-11-16T23:43:10+00:00"
+   "aviso_no_sigue": "2026-11-16T23:43:10+00:00",
+   "enviado": "a mano"
   },
   "1682535246877184": {
    "usuario": "nahurtadoc",
@@ -512,37 +523,43 @@
    "usuario": "andre_huamantoma_z",
    "clave": "TUBO",
    "pedido": "2026-11-16T23:48:35+00:00",
-   "aviso_no_sigue": "2026-11-17T02:00:49+00:00"
+   "aviso_no_sigue": "2026-11-17T02:00:49+00:00",
+   "enviado": "a mano"
   },
   "2025031758880762": {
    "usuario": "jaime_con_te",
    "clave": "TUBO",
    "pedido": "2026-11-16T23:48:41+00:00",
-   "aviso_no_sigue": "2026-11-16T23:54:40+00:00"
+   "aviso_no_sigue": "2026-11-16T23:54:40+00:00",
+   "enviado": "a mano"
   },
   "1195815263013884": {
    "usuario": "joss_eps",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:00:03+00:00",
-   "aviso_no_sigue": "2026-11-17T00:19:10+00:00"
+   "aviso_no_sigue": "2026-11-17T00:19:10+00:00",
+   "enviado": "a mano"
   },
   "1126289163451655": {
    "usuario": "gsus.94",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:00:07+00:00",
-   "aviso_no_sigue": "2026-11-17T00:55:44+00:00"
+   "aviso_no_sigue": "2026-11-17T00:55:44+00:00",
+   "enviado": "a mano"
   },
   "1102073539465933": {
    "usuario": "garcia__254",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:00:10+00:00",
-   "aviso_no_sigue": "2026-11-17T00:07:21+00:00"
+   "aviso_no_sigue": "2026-11-17T00:07:21+00:00",
+   "enviado": "a mano"
   },
   "29121803567479310": {
    "usuario": "leom091",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:06:43+00:00",
-   "aviso_no_sigue": "2026-11-17T00:13:17+00:00"
+   "aviso_no_sigue": "2026-11-17T00:13:17+00:00",
+   "enviado": "a mano"
   },
   "2238818297519819": {
    "usuario": "kevin.pad.17",
@@ -568,7 +585,8 @@
    "usuario": "_dan.15gar_",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:12:55+00:00",
-   "aviso_no_sigue": "2026-11-17T00:37:09+00:00"
+   "aviso_no_sigue": "2026-11-17T00:37:09+00:00",
+   "enviado": "a mano"
   },
   "1879637740146221": {
    "usuario": "juaaan.paaablo",
@@ -579,7 +597,8 @@
    "usuario": "daniellefkn",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:24:40+00:00",
-   "aviso_no_sigue": "2026-11-17T00:37:11+00:00"
+   "aviso_no_sigue": "2026-11-17T00:37:11+00:00",
+   "enviado": "a mano"
   },
   "1543944404446749": {
    "usuario": "mr.starrrdust",
@@ -615,7 +634,8 @@
    "usuario": "pepappeppi",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:42:42+00:00",
-   "aviso_no_sigue": "2026-11-17T00:49:22+00:00"
+   "aviso_no_sigue": "2026-11-17T00:49:22+00:00",
+   "enviado": "a mano"
   },
   "2410374613112679": {
    "usuario": "emiamadeid",
@@ -631,7 +651,8 @@
    "usuario": "whosnat_taly",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:48:41+00:00",
-   "aviso_no_sigue": "2026-11-17T00:55:46+00:00"
+   "aviso_no_sigue": "2026-11-17T00:55:46+00:00",
+   "enviado": "a mano"
   },
   "1436600655305601": {
    "usuario": "emshidalgo",
@@ -658,25 +679,29 @@
    "usuario": "alexbri._",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:02:57+00:00",
-   "aviso_no_sigue": "2026-11-17T01:03:46+00:00"
+   "aviso_no_sigue": "2026-11-17T01:03:46+00:00",
+   "enviado": "a mano"
   },
   "1675372243941638": {
    "usuario": "royan_re",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:03:00+00:00",
-   "aviso_no_sigue": "2026-11-17T01:03:44+00:00"
+   "aviso_no_sigue": "2026-11-17T01:03:44+00:00",
+   "enviado": "a mano"
   },
   "1670803314689700": {
    "usuario": "feeeer.aglr",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:09:41+00:00",
-   "aviso_no_sigue": "2026-11-17T01:10:23+00:00"
+   "aviso_no_sigue": "2026-11-17T01:10:23+00:00",
+   "enviado": "a mano"
   },
   "958500530450611": {
    "usuario": "abbys.b0rn_",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:09:45+00:00",
-   "aviso_no_sigue": "2026-11-17T01:22:56+00:00"
+   "aviso_no_sigue": "2026-11-17T01:22:56+00:00",
+   "enviado": "a mano"
   },
   "1437481011338570": {
    "usuario": "pamearavenaespinoza",
@@ -687,13 +712,15 @@
    "usuario": "abner.guarda",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:22:14+00:00",
-   "aviso_no_sigue": "2026-11-17T01:29:12+00:00"
+   "aviso_no_sigue": "2026-11-17T01:29:12+00:00",
+   "enviado": "a mano"
   },
   "1122575527081327": {
    "usuario": "_yael_gd_",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:22:18+00:00",
-   "aviso_no_sigue": "2026-11-17T01:29:14+00:00"
+   "aviso_no_sigue": "2026-11-17T01:29:14+00:00",
+   "enviado": "a mano"
   },
   "1293331566286154": {
    "usuario": "yorbanismaria",
@@ -725,7 +752,8 @@
    "usuario": "sol_suke",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:40:44+00:00",
-   "aviso_no_sigue": "2026-11-17T01:41:31+00:00"
+   "aviso_no_sigue": "2026-11-17T01:41:31+00:00",
+   "enviado": "a mano"
   },
   "2270461696854833": {
    "usuario": "verorcamacho",
@@ -736,7 +764,8 @@
    "usuario": "aldow.exe",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:40:51+00:00",
-   "aviso_no_sigue": "2026-11-17T01:41:32+00:00"
+   "aviso_no_sigue": "2026-11-17T01:41:32+00:00",
+   "enviado": "a mano"
   },
   "1141095531616768": {
    "usuario": "mere.angeles",
@@ -746,7 +775,8 @@
   "1121992034019456": {
    "usuario": "nai.ariass",
    "clave": "TUBO",
-   "pedido": "2026-11-17T01:47:11+00:00"
+   "pedido": "2026-11-17T01:47:11+00:00",
+   "enviado": "a mano"
   },
   "1174378021817710": {
    "usuario": "zcmoros",
@@ -772,13 +802,15 @@
    "usuario": "saul.mayy",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:53:37+00:00",
-   "aviso_no_sigue": "2026-11-17T03:43:00+00:00"
+   "aviso_no_sigue": "2026-11-17T03:43:00+00:00",
+   "enviado": "a mano"
   },
   "1821177069205367": {
    "usuario": "gabrielfornaciari",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:53:40+00:00",
-   "aviso_no_sigue": "2026-11-17T02:06:42+00:00"
+   "aviso_no_sigue": "2026-11-17T02:06:42+00:00",
+   "enviado": "a mano"
   },
   "1700605424917039": {
    "usuario": "b_alonso06",
@@ -789,7 +821,8 @@
    "usuario": "nicoleee.qd",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:00:34+00:00",
-   "aviso_no_sigue": "2026-11-17T02:06:43+00:00"
+   "aviso_no_sigue": "2026-11-17T02:06:43+00:00",
+   "enviado": "a mano"
   },
   "1582690167230272": {
    "usuario": "jos._.missamora",
@@ -802,13 +835,15 @@
    "usuario": "monina.jim",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:06:17+00:00",
-   "aviso_no_sigue": "2026-11-17T02:18:10+00:00"
+   "aviso_no_sigue": "2026-11-17T02:18:10+00:00",
+   "enviado": "a mano"
   },
   "1445835361050169": {
    "usuario": "bea_phd",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:06:21+00:00",
-   "aviso_no_sigue": "2026-11-17T03:37:18+00:00"
+   "aviso_no_sigue": "2026-11-17T03:37:18+00:00",
+   "enviado": "a mano"
   },
   "1442051744212862": {
    "usuario": "luisbellido19",
@@ -819,19 +854,22 @@
    "usuario": "fernandohilal",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:17:48+00:00",
-   "aviso_no_sigue": "2026-11-17T02:24:12+00:00"
+   "aviso_no_sigue": "2026-11-17T02:24:12+00:00",
+   "enviado": "a mano"
   },
   "1156594870105912": {
    "usuario": "fa.ortiz_",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:23:46+00:00",
-   "aviso_no_sigue": "2026-11-17T02:29:52+00:00"
+   "aviso_no_sigue": "2026-11-17T02:29:52+00:00",
+   "enviado": "a mano"
   },
   "1009039558223506": {
    "usuario": "jo.aqo",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:23:49+00:00",
-   "aviso_no_sigue": "2026-11-17T02:29:54+00:00"
+   "aviso_no_sigue": "2026-11-17T02:29:54+00:00",
+   "enviado": "a mano"
   },
   "3343892746000053": {
    "usuario": "jasminsg06",
@@ -847,7 +885,8 @@
    "usuario": "gaspacho_saez",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:41:23+00:00",
-   "aviso_no_sigue": "2026-11-17T04:30:59+00:00"
+   "aviso_no_sigue": "2026-11-17T04:30:59+00:00",
+   "enviado": "a mano"
   },
   "1661508728754518": {
    "usuario": "zaremiciencias",
@@ -859,7 +898,8 @@
    "usuario": "ilse.mares",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:41:29+00:00",
-   "aviso_no_sigue": "2026-11-17T02:42:20+00:00"
+   "aviso_no_sigue": "2026-11-17T02:42:20+00:00",
+   "enviado": "a mano"
   },
   "29222460757421120": {
    "usuario": "cavadialimay",
@@ -870,7 +910,8 @@
    "usuario": "cris.parra.23",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:47:56+00:00",
-   "aviso_no_sigue": "2026-11-17T02:48:31+00:00"
+   "aviso_no_sigue": "2026-11-17T02:48:31+00:00",
+   "enviado": "a mano"
   },
   "1938503117123999": {
    "usuario": "marceloelchele",
@@ -880,7 +921,8 @@
   "1202546408997645": {
    "usuario": "sxla_e2",
    "clave": "TUBO",
-   "pedido": "2026-11-17T02:54:30+00:00"
+   "pedido": "2026-11-17T02:54:30+00:00",
+   "enviado": "a mano"
   },
   "2509805212840112": {
    "usuario": "__manuelmm__",
@@ -891,7 +933,8 @@
    "usuario": "pablo_08ah",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:07:39+00:00",
-   "aviso_no_sigue": "2026-11-17T03:08:10+00:00"
+   "aviso_no_sigue": "2026-11-17T03:08:10+00:00",
+   "enviado": "a mano"
   },
   "1458314065718046": {
    "usuario": "rosasouquett",
@@ -902,42 +945,49 @@
    "usuario": "rszabraham",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:19:18+00:00",
-   "aviso_no_sigue": "2026-11-17T03:19:40+00:00"
+   "aviso_no_sigue": "2026-11-17T03:19:40+00:00",
+   "enviado": "a mano"
   },
   "4592470540999641": {
    "usuario": "cxrlos_hxbx",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:19:23+00:00",
-   "aviso_no_sigue": "2026-11-17T03:37:20+00:00"
+   "aviso_no_sigue": "2026-11-17T03:37:20+00:00",
+   "enviado": "a mano"
   },
   "1125436176911963": {
    "usuario": "_mixhttp",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:31:07+00:00",
-   "aviso_no_sigue": "2026-11-17T03:37:21+00:00"
+   "aviso_no_sigue": "2026-11-17T03:37:21+00:00",
+   "enviado": "a mano"
   },
   "29969024989348318": {
    "usuario": "karika_cs",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:36:53+00:00",
-   "aviso_no_sigue": "2026-11-17T03:48:58+00:00"
+   "aviso_no_sigue": "2026-11-17T03:48:58+00:00",
+   "enviado": "a mano"
   },
   "2539669906540730": {
    "usuario": "terronc14",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:36:59+00:00",
-   "aviso_no_sigue": "2026-11-17T03:43:02+00:00"
+   "aviso_no_sigue": "2026-11-17T03:43:02+00:00",
+   "enviado": "a mano"
   },
   "1700933381401487": {
    "usuario": "hazel_lg",
    "clave": "TUBO",
-   "pedido": "2026-11-17T03:48:32+00:00"
+   "pedido": "2026-11-17T03:48:32+00:00",
+   "enviado": "a mano"
   },
   "1126833583428223": {
    "usuario": "hielaguisantes.98",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:48:38+00:00",
-   "aviso_no_sigue": "2026-11-17T03:55:39+00:00"
+   "aviso_no_sigue": "2026-11-17T03:55:39+00:00",
+   "enviado": "a mano"
   },
   "2268561000754013": {
    "usuario": "fabs_fernandez",
@@ -948,7 +998,8 @@
    "usuario": "jorgeruizsalas",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:54:33+00:00",
-   "aviso_no_sigue": "2026-11-17T04:01:32+00:00"
+   "aviso_no_sigue": "2026-11-17T04:01:32+00:00",
+   "enviado": "a mano"
   },
   "1686318663021734": {
    "usuario": "trollpork",
@@ -964,12 +1015,14 @@
    "usuario": "pacoherreera",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:06:57+00:00",
-   "aviso_no_sigue": "2026-11-17T04:13:29+00:00"
+   "aviso_no_sigue": "2026-11-17T04:13:29+00:00",
+   "enviado": "a mano"
   },
   "1015964154887848": {
    "usuario": "xdrixn.12",
    "clave": "TUBO",
-   "pedido": "2026-11-17T04:07:02+00:00"
+   "pedido": "2026-11-17T04:07:02+00:00",
+   "enviado": "a mano"
   },
   "2437694593304489": {
    "usuario": "julesatoms",
@@ -985,13 +1038,15 @@
    "usuario": "vtrzz.zen",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:13:05+00:00",
-   "aviso_no_sigue": "2026-11-17T04:49:16+00:00"
+   "aviso_no_sigue": "2026-11-17T04:49:16+00:00",
+   "enviado": "a mano"
   },
   "2197689617852170": {
    "usuario": "dani.palma.26",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:24:39+00:00",
-   "aviso_no_sigue": "2026-11-17T04:31:01+00:00"
+   "aviso_no_sigue": "2026-11-17T04:31:01+00:00",
+   "enviado": "a mano"
   },
   "1134753305827977": {
    "usuario": "joansebas545",
@@ -1027,7 +1082,8 @@
    "usuario": "felipealfaro88",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:48:50+00:00",
-   "aviso_no_sigue": "2026-11-17T04:56:12+00:00"
+   "aviso_no_sigue": "2026-11-17T04:56:12+00:00",
+   "enviado": "a mano"
   },
   "1122936413790638": {
    "usuario": "fayceron",
@@ -1060,7 +1116,8 @@
    "usuario": "_alberto_de_la_cruz",
    "clave": "TUBO",
    "pedido": "2026-11-17T05:13:35+00:00",
-   "aviso_no_sigue": "2026-11-17T05:36:52+00:00"
+   "aviso_no_sigue": "2026-11-17T05:36:52+00:00",
+   "enviado": "a mano"
   },
   "1826111378632416": {
    "usuario": "pablo_gomez2108",
@@ -1070,7 +1127,8 @@
   "1020602197751578": {
    "usuario": "wesoyaleks",
    "clave": "TUBO",
-   "pedido": "2026-11-17T05:19:13+00:00"
+   "pedido": "2026-11-17T05:19:13+00:00",
+   "enviado": "a mano"
   },
   "1765614294507852": {
    "usuario": "mtmb23",
@@ -1081,7 +1139,8 @@
    "usuario": "jhoan_zr07",
    "clave": "TUBO",
    "pedido": "2026-11-17T05:25:02+00:00",
-   "aviso_no_sigue": "2026-11-17T05:31:17+00:00"
+   "aviso_no_sigue": "2026-11-17T05:31:17+00:00",
+   "enviado": "a mano"
   },
   "1655663752733220": {
    "usuario": "lauradiaz179",
@@ -1096,13 +1155,15 @@
   "1809970643540990": {
    "usuario": "novyrent",
    "clave": "TUBO",
-   "pedido": "2026-11-17T05:30:54+00:00"
+   "pedido": "2026-11-17T05:30:54+00:00",
+   "enviado": "a mano"
   },
   "2210832136166815": {
    "usuario": "massiel_dcy03",
    "clave": "TUBO",
    "pedido": "2026-11-17T05:30:57+00:00",
-   "aviso_no_sigue": "2026-11-17T05:36:50+00:00"
+   "aviso_no_sigue": "2026-11-17T05:36:50+00:00",
+   "enviado": "a mano"
   }
  }
 }
