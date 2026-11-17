@@ -32,7 +32,7 @@ def todo(path, maxn=1000, **q):   # every page of a list (comments, conversation
 
 LISTO_RE = r'\b(LISTO|LISTA|LISTOO+|YA|HECHO|TE SIGO|YA TE SIGO|SIGUIENDO|DONE|OK)\b'
 
-TOPE = int(os.environ.get('TOPE', 14)); HECHOS = [0]   # at most this many messages and follow checks per run, so Meta's hourly limit is never hit
+TOPE = int(os.environ.get('TOPE', 14)); HECHOS = [0]; LIMITE = [False]   # at most this many messages and follow checks per run, so Meta's hourly limit is never hit
 lleno = lambda: HECHOS[0] >= TOPE
 
 def manda(recipient, message):
@@ -46,10 +46,11 @@ hace7 = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=
 
 # 1 · comments that ask for a resource (Instagram only lets you answer privately within 7 days)
 for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get('data', []):
+    if LIMITE[0] or HECHOS[0] >= TOPE: break
     if not m.get('comments_count') or m['timestamp'][:16] < hace7: continue
     for c in todo(m['id'] + '/comments', fields='id,username,text,timestamp', limit=100):
         if c['id'] in st['comentarios'] or c.get('username') == 'bio.andante' or c['timestamp'][:16] < hace7: continue
-        if HECHOS[0] >= TOPE // 2: break   # leave half for the images of those who already wrote LISTO
+        if HECHOS[0] >= TOPE: break   # the LISTO images go by hand now, so the whole quota is for the DMs
         clave = next((k for k in R if re.search(r'\b' + k + r'\b', norm(c.get('text')))), None)
         if not clave: continue
         if any(p.get('usuario') == c.get('username') and p.get('clave') == clave for p in st['personas'].values()):
@@ -59,7 +60,8 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
         if 'message_id' in r and not PRUEBA:
             st['comentarios'][c['id']] = 'pedido'
             if r.get('recipient_id'): st['personas'][r['recipient_id']] = {'usuario': c.get('username'), 'clave': clave, 'pedido': ahora()}
-        elif not PRUEBA and 'is_transient' not in str(r) and '"code":4' not in str(r): st['comentarios'][c['id']] = 'fallo: ' + str(r)[:120]   # rate limit: retried next run
+        elif '"code":4' in str(r) or 'is_transient' in str(r): LIMITE[0] = True; break   # Meta's limit: stop here, retried next run
+        elif not PRUEBA: st['comentarios'][c['id']] = 'fallo: ' + str(r)[:120]
 
 # 1b · a public reply under each comment already answered in private, once: so they know to look at their DMs
 PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌'
@@ -67,6 +69,7 @@ try: YA = {c['id'] for c in json.load(open('comentarios.json')) if any('bio' in 
 except Exception: YA = set()
 for cid, estado in list(st['comentarios'].items()):
     if os.environ.get('AVISO_PUBLICO', '1') != '1': break   # on again 17 nov (asks to share); AVISO_PUBLICO=0 turns it off
+    if LIMITE[0] or HECHOS[0] >= TOPE: break   # the DMs go first: public replies only with the quota they leave
     if estado != 'pedido': continue
     if cid in YA: st['comentarios'][cid] = 'pedido + respondido a mano'; continue   # never answer the same comment twice
     if lleno(): break
