@@ -354,8 +354,13 @@
   "texto": "La inversión en ciencia es hacer patria.",
   "hora": "2026-11-17T09:43:15+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@valagame debería ser una prioridad pero por desgracia no es así"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Récord de inversión o récord de precariedad? El balance de la cienc",
   "enlace": "https://www.instagram.com/reel/Df0Koe9j-VV/"
  },
