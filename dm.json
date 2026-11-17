@@ -278,7 +278,14 @@
   "18194730961405109": "pedido + aviso público",
   "18121582645972968": "pedido + aviso público",
   "17964869442251939": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18200594941384750": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18200594941384750": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18024742127940769": "pedido + aviso público",
+  "18213140647369561": "pedido + aviso público",
+  "18135034891745824": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18349906990255893": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18109771067631579": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18231945226333422": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18141968734537060": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -921,7 +928,18 @@
   "1867436920923832": {
    "usuario": "fernandohilal",
    "clave": "TUBO",
-   "pedido": "2026-11-17T02:17:48+00:00"
+   "pedido": "2026-11-17T02:17:48+00:00",
+   "aviso_no_sigue": "2026-11-17T02:24:12+00:00"
+  },
+  "1156594870105912": {
+   "usuario": "fa.ortiz_",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:23:46+00:00"
+  },
+  "1009039558223506": {
+   "usuario": "jo.aqo",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:23:49+00:00"
   }
  }
 }
