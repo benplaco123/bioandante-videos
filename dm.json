@@ -377,7 +377,11 @@
   "18003681773816704": "pedido + aviso público",
   "18106426700361414": "pedido + aviso público",
   "18418506832094669": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18103329572646169": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18103329572646169": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18144900397618601": "pedido + aviso público",
+  "18109960037574251": "pedido + aviso público",
+  "18028961543921956": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17913017976570308": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1050,7 +1054,8 @@
   "1886993685804849": {
    "usuario": "gaspacho_saez",
    "clave": "TUBO",
-   "pedido": "2026-11-17T02:41:23+00:00"
+   "pedido": "2026-11-17T02:41:23+00:00",
+   "aviso_no_sigue": "2026-11-17T04:30:59+00:00"
   },
   "1661508728754518": {
    "usuario": "zaremiciencias",
@@ -1191,7 +1196,8 @@
   "2197689617852170": {
    "usuario": "dani.palma.26",
    "clave": "TUBO",
-   "pedido": "2026-11-17T04:24:39+00:00"
+   "pedido": "2026-11-17T04:24:39+00:00",
+   "aviso_no_sigue": "2026-11-17T04:31:01+00:00"
   },
   "1134753305827977": {
    "usuario": "joansebas545",
@@ -1202,6 +1208,16 @@
    "usuario": "pabloxgtv",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:24:48+00:00"
+  },
+  "2020246878669210": {
+   "usuario": "yeshuaerasmo",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:30:29+00:00"
+  },
+  "1111047088477074": {
+   "usuario": "el_diegofernando",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:30:33+00:00"
   }
  }
 }
