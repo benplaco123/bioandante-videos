@@ -89,12 +89,18 @@ if pend:
             print('respondido a mano', p['usuario']); continue
         listo = [m for m in c.get('messages', {}).get('data', []) if (m.get('from') or {}).get('id') == sid
                  and re.search(LISTO_RE, norm(m.get('message'))) and m['created_time'][:19] > p['pedido'][:19].replace('+00:00', '')]
-        if not listo: continue   # after the «aún no me sigues» notice, each run checks again whether they follow now
+        if not listo: continue
+        # the follow check uses Meta's tiny per-app quota (~200/h), unlike sending messages: only ask again when there is a NEW
+        # LISTO since the last check, or, after the «aún no me sigues» notice, at most every 3 hours
+        nuevo = max(m['created_time'][:19] for m in listo)
+        hace3h = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=3)).isoformat()[:19]
+        if p.get('visto') and nuevo <= p['visto'] and p.get('revisado', '') > hace3h: continue
         if lleno(): break
         HECHOS[0] += 1
         fr = call(sid, fields='is_user_follow_business')
         if 'error' in fr: print('no se pudo mirar si sigue (se reintenta en la próxima vuelta)', p['usuario'], fr['error'][:90]); continue
         sigue = fr.get('is_user_follow_business')
+        if not PRUEBA: p['visto'], p['revisado'] = nuevo, ahora()[:19]
         if sigue:
             rec = R[p['clave']]
             if rec.get('enlace'):  # herramienta HTML: el enlace va dentro del texto de gracias ({enlace})
