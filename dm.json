@@ -292,7 +292,9 @@
   "18105536696530806": "pedido",
   "18481910914112202": "pedido",
   "17953370913348260": "pedido",
-  "18102247388421922": "pedido"
+  "18102247388421922": "pedido",
+  "17929624884430225": "pedido",
+  "17937394347413375": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -1420,7 +1422,8 @@
   "2018428932178163": {
    "usuario": "jesus14_genzo",
    "clave": "TUBO",
-   "pedido": "2026-11-17T07:58:54+00:00"
+   "pedido": "2026-11-17T07:58:54+00:00",
+   "enviado": "a mano"
   },
   "1191210496761116": {
    "usuario": "diegogr15",
@@ -1666,7 +1669,8 @@
   "1737525874736900": {
    "usuario": "jose.cruz.cheto",
    "clave": "TUBO",
-   "pedido": "2026-11-17T11:35:16+00:00"
+   "pedido": "2026-11-17T11:35:16+00:00",
+   "enviado": "a mano"
   },
   "2591054594702414": {
    "usuario": "monigonzalezlun",
@@ -1833,7 +1837,8 @@
   "1447336826892709": {
    "usuario": "deemiorellana",
    "clave": "TUBO",
-   "pedido": "2026-11-17T13:21:53+00:00"
+   "pedido": "2026-11-17T13:21:53+00:00",
+   "enviado": "a mano"
   },
   "4376433945941394": {
    "usuario": "jahir.gmzr",
@@ -1858,7 +1863,8 @@
   "1449580057347419": {
    "usuario": "robertmarquez993",
    "clave": "TUBO",
-   "pedido": "2026-11-17T13:58:55+00:00"
+   "pedido": "2026-11-17T13:58:55+00:00",
+   "enviado": "a mano"
   },
   "1457601595696106": {
    "usuario": "alondramoran17",
@@ -1873,7 +1879,8 @@
   "1451682520387501": {
    "usuario": "miles_m15_____",
    "clave": "TUBO",
-   "pedido": "2026-11-17T13:59:05+00:00"
+   "pedido": "2026-11-17T13:59:05+00:00",
+   "enviado": "a mano"
   },
   "1836580424142645": {
    "usuario": "helenchasi88",
@@ -1884,12 +1891,14 @@
   "2089856475068455": {
    "usuario": "rocrocio01",
    "clave": "TUBO",
-   "pedido": "2026-11-17T14:07:00+00:00"
+   "pedido": "2026-11-17T14:07:00+00:00",
+   "enviado": "a mano"
   },
   "1796385528321740": {
    "usuario": "mceddmd",
    "clave": "TUBO",
-   "pedido": "2026-11-17T14:07:05+00:00"
+   "pedido": "2026-11-17T14:07:05+00:00",
+   "enviado": "a mano"
   },
   "1826049751977720": {
    "usuario": "ferbadillor",
@@ -1923,6 +1932,16 @@
    "clave": "TUBO",
    "pedido": "2026-11-17T14:44:44+00:00",
    "enviado": "a mano"
+  },
+  "1141815288321270": {
+   "usuario": "vala_cavellat",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T15:16:04+00:00"
+  },
+  "4021034791535074": {
+   "usuario": "carlavegara91",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T15:16:07+00:00"
   }
  }
 }

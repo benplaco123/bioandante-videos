@@ -1,6 +1,30 @@
 [
  {
   "red": "instagram",
+  "id": "17899367592418405",
+  "quien": "yun_ds_cend",
+  "texto": "Tubo",
+  "hora": "2026-11-17T15:17:32+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17929624884430225",
+  "quien": "vala_cavellat",
+  "texto": "Tubo",
+  "hora": "2026-11-17T15:12:43+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "17937394347413375",
   "quien": "carlavegara91",
   "texto": "Tubo",
@@ -613,30 +637,6 @@
  },
  {
   "red": "instagram",
-  "id": "18133636094488217",
-  "quien": "sele_nsn",
-  "texto": "Tubo",
-  "hora": "2026-11-17T10:49:37+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17998061910058660",
-  "quien": "samuka.silvestre",
-  "texto": "TUBO",
-  "hora": "2026-11-17T10:29:15+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
   "id": "18318030127304765",
   "quien": "valagame",
   "texto": "La inversión en ciencia es hacer patria.",
@@ -707,8 +707,13 @@
   "texto": "Unos no invierten y los otros dinero para caza y toreros....",
   "hora": "2026-11-17T06:17:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Sí, por eso es tan precaria la ciencia 😢😢"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Récord de inversión o récord de precariedad? El balance de la cienc",
   "enlace": "https://www.instagram.com/reel/Df0Koe9j-VV/"
  },
@@ -4205,23 +4210,6 @@
   "respondido": true,
   "video": "🤔 ¿Te fías de los científicos? Abascal no: «tú te fías de unos y habrá",
   "enlace": "https://www.instagram.com/reel/Dfm23PPR7Jb/"
- },
- {
-  "red": "instagram",
-  "id": "18115438417877982",
-  "quien": "mariahersa",
-  "texto": "👏👏👏👏",
-  "hora": "2026-11-12T02:47:46+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Gracias! 🙌 Si te ha gustado, compártelo dándole al 🔁"
-   }
-  ],
-  "respondido": true,
-  "video": "Cáncer de pulmón: una IA lee la biopsia y predice en un minuto si el t",
-  "enlace": "https://www.instagram.com/reel/DfVJe4TirDm/"
  },
  {
   "red": "instagram",
