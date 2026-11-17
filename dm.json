@@ -170,7 +170,9 @@
   "18109189079361024": "pedido + aviso público",
   "18109871621576162": "pedido + aviso público",
   "17923011033242870": "pedido + aviso público",
-  "17989871169096274": "pedido + aviso público"
+  "17989871169096274": "pedido + aviso público",
+  "18051678629817086": "pedido",
+  "17914856373604217": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -1164,6 +1166,16 @@
    "pedido": "2026-11-17T05:30:57+00:00",
    "aviso_no_sigue": "2026-11-17T05:36:50+00:00",
    "enviado": "a mano"
+  },
+  "975275961932615": {
+   "usuario": "z_enqi.27_q",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T07:04:44+00:00"
+  },
+  "1146491494903588": {
+   "usuario": "rooocaballero",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T07:04:47+00:00"
   }
  }
 }
