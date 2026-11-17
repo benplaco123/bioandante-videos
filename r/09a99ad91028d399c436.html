@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="es"><head><meta name="robots" content="noindex"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>¿Qué grupo sanguíneo puede tener tu hijo? · bio.andante</title>
+<meta name="description" content="Elige el grupo sanguíneo de los dos padres y mira qué grupos puede tener el hijo, y con qué probabilidad. Por @bio.andante.">
+<meta property="og:title" content="¿Qué grupo sanguíneo puede tener tu hijo?"><meta property="og:description" content="La calculadora de @bio.andante">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#0B1B2B;--paper:#F6EFE8;--card:#fffaf5;--line:#e7ddd2;--soft:#66707c;--coral:#FF6B4A;--coral2:#ffd2c5;--blood:#e2483a}
+*{box-sizing:border-box}
+html{background:var(--paper)}
+body{margin:0;color:var(--ink);font:16px/1.5 Poppins,system-ui,sans-serif;-webkit-tap-highlight-color:transparent;min-height:100vh;
+  background:linear-gradient(90deg,transparent 22px,rgba(255,107,74,.45) 22px,rgba(255,107,74,.45) 24px,transparent 24px),
+  repeating-linear-gradient(0deg,rgba(60,95,140,.07) 0 1px,transparent 1px 28px),repeating-linear-gradient(90deg,rgba(60,95,140,.07) 0 1px,transparent 1px 28px),var(--paper)}
+main{max-width:520px;margin:0 auto;padding:22px 18px 40px 38px}
+.brand{display:inline-flex;align-items:center;gap:8px;background:var(--ink);color:var(--paper);font-weight:600;font-size:14px;padding:6px 14px;border-radius:8px;box-shadow:4px 4px 0 rgba(11,27,43,.15)}
+.brand svg{width:11px;height:14px}
+.hero{display:flex;align-items:flex-end;gap:10px;margin:18px 0 4px}
+h1{font-size:28px;line-height:1.12;margin:0;letter-spacing:-.6px;font-weight:800;flex:1}
+h1 em{font-style:normal;color:var(--paper);background:var(--coral);padding:0 8px;border-radius:6px;display:inline-block;transform:rotate(-1.5deg)}
+.fam{width:96px;flex:none}
+.sub{color:var(--soft);margin:8px 0 18px;font-size:15px}
+.padres{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.p{background:var(--card);border:1.5px solid var(--line);border-radius:18px;padding:12px 12px 10px;box-shadow:0 6px 18px rgba(11,27,43,.06)}
+.p .top{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+.p h2{font-size:12px;margin:0;color:var(--soft);font-weight:600;text-transform:uppercase;letter-spacing:1.5px}
+.p .big{width:44px;height:56px}
+.abo{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+button{font:inherit;cursor:pointer;border:1.5px solid var(--line);background:#fff;color:var(--ink);border-radius:12px;padding:7px 0;font-weight:700;font-size:17px;transition:transform .12s,background .15s}
+button:active{transform:scale(.94)}
+button.on{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.rh{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:6px}
+.rh button{font-size:14px}
+.rh button.on{background:var(--coral);border-color:var(--coral)}
+label.ext{display:flex;gap:7px;align-items:flex-start;font-size:12px;line-height:1.3;color:var(--soft);margin-top:9px;cursor:pointer}
+label.ext input{margin:1px 0 0;accent-color:var(--coral);width:15px;height:15px;flex:none}
+label.ext.off{display:none}
+.res{margin-top:20px;background:var(--card);border:1.5px solid var(--line);border-radius:18px;padding:16px 14px 14px;box-shadow:0 6px 18px rgba(11,27,43,.06)}
+.res h2{font-size:20px;margin:0;font-weight:800;letter-spacing:-.3px}
+.res h2 span{color:var(--coral)}
+.nota{font-size:13px;color:var(--soft);margin:4px 0 12px;line-height:1.4}
+.gotas{display:grid;grid-template-columns:repeat(4,1fr);gap:8px 6px}
+.gota{display:flex;flex-direction:column;align-items:center;text-align:center}
+.gota svg{width:100%;max-width:68px;height:auto;overflow:visible}
+.gota .lv{transform-box:fill-box;transform-origin:50% 100%;transition:transform .55s cubic-bezier(.3,1.3,.5,1)}
+.gota .t{font-weight:800;font-size:15px;margin-top:-2px}
+.gota .v{font-size:11.5px;font-weight:600;color:var(--ink);line-height:1.2;min-height:28px}
+.gota.no{opacity:.32}.gota.no .v{font-weight:500}
+.ley{display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--soft);margin-top:10px;justify-content:center}
+.ley span{display:inline-flex;align-items:center;gap:5px}.ley b{width:12px;height:12px;border-radius:50%;display:inline-block}
+.why{margin-top:14px;font-size:14px;line-height:1.5;border-top:1.5px dashed var(--line);padding-top:12px}
+.why p{margin:0 0 8px}
+.why b{color:var(--coral)}
+.cta{margin-top:20px;text-align:center;background:var(--ink);color:var(--paper);border-radius:18px;padding:16px;font-size:15px}
+.cta a{color:var(--paper);font-weight:700;text-decoration:none;border-bottom:3px solid var(--coral)}
+.aviso{font-size:11.5px;color:var(--soft);margin-top:14px;line-height:1.45}
+</style></head><body><main>
+<span class="brand">@bio.andante <svg viewBox="0 0 60 80"><path d="M30 2C30 2 6 34 6 51a24 24 0 0 0 48 0C54 34 30 2 30 2Z" fill="#FF6B4A"/></svg></span>
+<div class="hero">
+  <h1>¿Qué grupo sanguíneo puede tener <em>tu hijo</em>?</h1>
+  <svg class="fam" viewBox="0 0 120 110" aria-hidden="true">
+    <path d="M28 6C28 6 8 34 8 49a20 20 0 0 0 40 0C48 34 28 6 28 6Z" fill="#fff" stroke="#0B1B2B" stroke-width="3"/>
+    <path d="M86 6C86 6 66 34 66 49a20 20 0 0 0 40 0C106 34 86 6 86 6Z" fill="#fff" stroke="#0B1B2B" stroke-width="3"/>
+    <path d="M9.5 52a18.5 18.5 0 0 0 37 0Z" fill="#FF6B4A"/>
+    <path d="M67.5 52a18.5 18.5 0 0 0 37 0Z" fill="#FF6B4A"/>
+    <path d="M57 58C57 58 42 80 42 90a15 15 0 0 0 30 0C72 80 57 58 57 58Z" fill="#FF6B4A" stroke="#0B1B2B" stroke-width="3"/>
+    <text x="57" y="98" text-anchor="middle" font-family="Poppins" font-weight="800" font-size="20" fill="#F6EFE8">?</text>
+  </svg>
+</div>
+<p class="sub">Toca el grupo de la madre y el del padre.</p>
+
+<div class="padres">
+  <section class="p" data-p="0"><div class="top"><h2>Madre</h2><svg class="big" viewBox="0 0 60 80"></svg></div><div class="abo"></div><div class="rh"></div><label class="ext"><input type="checkbox" data-k="o"> Su padre o su madre es del grupo O</label><label class="ext"><input type="checkbox" data-k="rh"> Su padre o su madre es Rh−</label></section>
+  <section class="p" data-p="1"><div class="top"><h2>Padre</h2><svg class="big" viewBox="0 0 60 80"></svg></div><div class="abo"></div><div class="rh"></div><label class="ext"><input type="checkbox" data-k="o"> Su padre o su madre es del grupo O</label><label class="ext"><input type="checkbox" data-k="rh"> Su padre o su madre es Rh−</label></section>
+</div>
+
+<section class="res"><h2 id="tit"></h2><p class="nota" id="nota"></p><div class="gotas" id="gotas"></div><div class="ley" id="ley"></div>
+  <div class="why"><p><b>¿Por qué?</b> Cada persona tiene dos copias del gen del grupo, una de su madre y otra de su padre, y le pasa una al azar a cada hijo. A y B dominan sobre O, y Rh+ sobre Rh−.</p>
+  <p>Por eso dos padres A pueden tener un hijo O: si los dos llevan una O escondida, hay un 25 % de que el hijo herede las dos.</p></div>
+</section>
+
+<div class="cta">Más biología explicada fácil en<br><a href="https://www.instagram.com/bio.andante/">@bio.andante</a></div>
+<p class="aviso">Herencia mendeliana del sistema ABO y del factor Rh. Hay excepciones muy raras (fenotipo Bombay, cis-AB, variantes del Rh): esta calculadora es divulgativa, no sirve como prueba de paternidad ni sustituye un análisis.</p>
+</main>
+<script>
+// Each parent: ABO group + Rh. Their genotype is not always known (an A can be AA or AO; an Rh+ can be DD or Dd), so for every
+// genotype the parents could have, the child's distribution is worked out, and each blood type shows the lowest and highest chance.
+const ABO_G = { O: ['OO'], A: ['AA', 'AO'], B: ['BB', 'BO'], AB: ['AB'] }, RH_G = { '+': ['DD', 'Dd'], '-': ['dd'] };
+const S = [{ abo: 'A', rh: '+', o: false, rhx: false }, { abo: 'O', rh: '+', o: false, rhx: false }];
+const TIPOS = ['O', 'A', 'B', 'AB'].flatMap(a => ['+', '-'].map(r => a + r));
+const DROP = 'M30 2C30 2 6 34 6 51a24 24 0 0 0 48 0C54 34 30 2 30 2Z';
+const fen = (x, y) => { const s = new Set([x, y]); return s.has('A') && s.has('B') ? 'AB' : s.has('A') ? 'A' : s.has('B') ? 'B' : 'O'; };
+const opts = p => ({ abo: p.o && (p.abo === 'A' || p.abo === 'B') ? [p.abo + 'O'] : ABO_G[p.abo],   // a parent of group O hands down an O
+                     rh: p.rhx && p.rh === '+' ? ['Dd'] : RH_G[p.rh] });                            // and an Rh− parent hands down a d
+function calcula() {
+  const [m, f] = S.map(opts), lo = {}, hi = {}; let n = 0; TIPOS.forEach(t => { lo[t] = 1; hi[t] = 0; });
+  for (const am of m.abo) for (const rm of m.rh) for (const af of f.abo) for (const rf of f.rh) {
+    const d = {}; TIPOS.forEach(t => d[t] = 0); n++;
+    for (const x of am) for (const y of af) for (const u of rm) for (const v of rf) d[fen(x, y) + (u === 'D' || v === 'D' ? '+' : '-')] += 1 / 16;
+    TIPOS.forEach(t => { lo[t] = Math.min(lo[t], d[t]); hi[t] = Math.max(hi[t], d[t]); });
+  }
+  return { lo, hi, n };
+}
+const pct = x => String(Math.round(x * 1000) / 10).replace('.', ',') + ' %';
+const lab = t => t.replace('-', '−');
+// a drop that fills up: light coral up to the highest chance, coral up to the lowest (the sure part)
+function gota(t, lo, hi) {
+  const id = 'c' + t.replace('+', 'p').replace('-', 'm'), no = hi === 0;
+  return `<div class="gota${no ? ' no' : ''}"><svg viewBox="0 0 60 82"><defs><clipPath id="${id}"><path d="${DROP}"/></clipPath></defs>
+    <path d="${DROP}" fill="#fff"/>
+    <g clip-path="url(#${id})"><rect class="lv" x="0" y="2" width="60" height="73" fill="var(--coral2)" style="transform:scaleY(${hi})"/><rect class="lv" x="0" y="2" width="60" height="73" fill="var(--coral)" style="transform:scaleY(${lo})"/></g>
+    <path d="${DROP}" fill="none" stroke="#0B1B2B" stroke-width="2.6" ${no ? 'stroke-dasharray="5 4"' : ''}/>
+    ${no ? '<path d="M18 40 42 64M42 40 18 64" stroke="#0B1B2B" stroke-width="3" stroke-linecap="round"/>' : ''}
+  </svg><span class="t">${lab(t)}</span><span class="v">${no ? 'imposible' : Math.abs(hi - lo) < 1e-9 ? pct(hi) : lo === 0 ? 'hasta<br>' + pct(hi) : pct(lo) + '<br>a ' + pct(hi)}</span></div>`;
+}
+function pinta() {
+  document.querySelectorAll('.p').forEach(sec => {
+    const p = S[+sec.dataset.p];
+    sec.querySelector('.big').innerHTML = `<path d="${DROP}" fill="#FF6B4A" stroke="#0B1B2B" stroke-width="2.6"/><text x="30" y="${p.abo === 'AB' ? 60 : 62}" text-anchor="middle" font-family="Poppins" font-weight="800" font-size="${p.abo === 'AB' ? 19 : 23}" fill="#F6EFE8">${p.abo}${p.rh === '+' ? '+' : '−'}</text>`;
+    sec.querySelector('.abo').innerHTML = ['O', 'A', 'B', 'AB'].map(a => `<button class="${p.abo === a ? 'on' : ''}" data-abo="${a}">${a}</button>`).join('');
+    sec.querySelector('.rh').innerHTML = ['+', '-'].map(r => `<button class="${p.rh === r ? 'on' : ''}" data-rh="${r}">Rh${r === '+' ? '+' : '−'}</button>`).join('');
+    const [eo, er] = sec.querySelectorAll('label.ext'), okO = p.abo === 'A' || p.abo === 'B', okR = p.rh === '+';
+    eo.classList.toggle('off', !okO); eo.querySelector('input').checked = okO && p.o;
+    er.classList.toggle('off', !okR); er.querySelector('input').checked = okR && p.rhx;
+  });
+  const { lo, hi, n } = calcula(), seguro = n === 1, posibles = TIPOS.filter(t => hi[t] > 0).length;
+  document.getElementById('tit').innerHTML = `Tu hijo puede ser de <span>${posibles} grupo${posibles > 1 ? 's' : ''}</span>`;
+  document.getElementById('nota').textContent = seguro ? 'Con estos datos el cálculo es exacto.' : 'Depende de si los padres llevan escondido un gen O o un Rh−. Si sabes el grupo de los abuelos, márcalo arriba y se afina.';
+  document.getElementById('gotas').innerHTML = TIPOS.map(t => gota(t, lo[t], hi[t])).join('');
+  document.getElementById('ley').innerHTML = seguro ? '' : '<span><b style="background:var(--coral)"></b>seguro</span><span><b style="background:var(--coral2)"></b>si llevan el gen escondido</span>';
+}
+document.addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; const p = S[+b.closest('.p').dataset.p];
+  if (b.dataset.abo) p.abo = b.dataset.abo; if (b.dataset.rh) p.rh = b.dataset.rh; pinta(); });
+document.addEventListener('change', e => { const c = e.target; if (!c.dataset.k) return; const p = S[+c.closest('.p').dataset.p]; if (c.dataset.k === 'o') p.o = c.checked; else p.rhx = c.checked; pinta(); });
+pinta();
+</script></body></html>
