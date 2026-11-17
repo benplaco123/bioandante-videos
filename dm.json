@@ -248,7 +248,18 @@
   "18147212044591846": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18096930914690621": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18129550828965652": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "17914128153589328": "ya pedido antes"
+  "17914128153589328": "ya pedido antes",
+  "18107792774326083": "pedido + aviso público",
+  "17953820733287855": "pedido + aviso público",
+  "18101801999403418": "pedido + aviso público",
+  "18500018044107815": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18096328637677416": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18119403245010878": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18020316710744506": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18182819716448758": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18130180060655385": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18129654505894138": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18027582653927988": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -837,6 +848,21 @@
    "usuario": "mely_punguil",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:47:22+00:00"
+  },
+  "1496792792299251": {
+   "usuario": "v.arce__",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:53:34+00:00"
+  },
+  "927060903706234": {
+   "usuario": "saul.mayy",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:53:37+00:00"
+  },
+  "1821177069205367": {
+   "usuario": "gabrielfornaciari",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:53:40+00:00"
   }
  }
 }
