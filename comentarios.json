@@ -1,6 +1,54 @@
 [
  {
   "red": "instagram",
+  "id": "17992534974089222",
+  "quien": "anibal.gomezzz",
+  "texto": "Tubo 🙌",
+  "hora": "2026-11-17T19:06:48+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17958028293291391",
+  "quien": "zain_sg",
+  "texto": "Tubo",
+  "hora": "2026-11-17T19:04:19+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18388875232231136",
+  "quien": "yulicet19",
+  "texto": "Tubo",
+  "hora": "2026-11-17T19:03:29+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18138444130656196",
+  "quien": "leydimarlabrock",
+  "texto": "Tubo",
+  "hora": "2026-11-17T18:57:37+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18118298591116850",
   "quien": "uli_huertas",
   "texto": "Tubo",
@@ -561,62 +609,19 @@
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
  {
-  "red": "instagram",
-  "id": "18119382923327519",
-  "quien": "pmp199",
-  "texto": "Tubo",
-  "hora": "2026-11-17T15:53:26+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17912383749573764",
-  "quien": "lopezmaldonadojoseesteban",
-  "texto": "Tubo",
-  "hora": "2026-11-17T15:52:46+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18025746578943986",
-  "quien": "mariorlys15",
-  "texto": "Tubo",
-  "hora": "2026-11-17T15:50:18+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18106816313548158",
-  "quien": "mayrapamelabecerra",
-  "texto": "Tubo",
-  "hora": "2026-11-17T15:44:58+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
   "red": "youtube",
   "id": "UgxYlwJ6j3nQ5gbI_Gt4AaABAg",
   "quien": "@franciscojaviermartinezrod3985",
   "texto": "Gracias por exponer la mediocridad de la derecha nacional....bravo🎉❤❤❤",
   "hora": "2026-11-17T15:42:15Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "¡Gracias por verlo! 🙌. Si te han gustado los videos compartelos! :)"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/76NK4OAgwms"
  },
@@ -704,8 +709,13 @@
   "texto": "La investigación es la infravalorada en España, especialmente con políticas de derechas. No me quiero imaginar, con la ultraderecha.Trabajo en el sector y sé de lo que hablo.",
   "hora": "2026-11-17T08:05:06+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Gracias por contarlo desde dentro 🙌 Los datos van en esa línea: cuando se recorta, lo primero que se nota son los contratos de la gente joven."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Récord de inversión o récord de precariedad? El balance de la cienc",
   "enlace": "https://www.instagram.com/reel/Df0Koe9j-VV/"
  },
@@ -716,8 +726,13 @@
   "texto": "No solo xq cambia, q tambien, si no la velocidad a la que esta ocurriendo, que impide adaptarse a la vida. Y gente sin naturaleza tampoco hay humanos...",
   "hora": "2026-11-17T07:31:13+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Exacto, la clave es la velocidad: los cambios de antes tardaban miles de años y ahora hablamos de décadas. Ni ecosistemas ni cultivos se adaptan tan rápido."
+   }
+  ],
+  "respondido": true,
   "video": "🧊 «Dos grados no son nada.» «El clima siempre ha cambiado.» «Los cient",
   "enlace": "https://www.instagram.com/reel/Dfpqh5CCgR9/"
  },
@@ -745,8 +760,13 @@
   "texto": "A mi cuando me dicen eso contesto: \"¿2 grados no son nada?, ¿tú te sientes igual con 36 que con 38 grados?\"",
   "hora": "2026-11-17T06:16:40+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Me la apunto 😂 Es justo eso: 2 grados de media en todo el planeta es muchísimo, igual que 2 grados de fiebre."
+   }
+  ],
+  "respondido": true,
   "video": "🧊 «Dos grados no son nada.» «El clima siempre ha cambiado.» «Los cient",
   "enlace": "https://www.instagram.com/reel/Dfpqh5CCgR9/"
  },
@@ -824,8 +844,13 @@
   "texto": "No entiendo por qué la derecha lo niega. Ahí tendría un filón.",
   "hora": "2026-11-16T22:33:12+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Es curioso, sí: en otros países hay derechas que aceptan el cambio climático y proponen sus propias soluciones. Negarlo no hace falta para tener otra política."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -877,6 +902,10 @@
    {
     "quien": "elbeceeerrooo",
     "texto": "@bio.andante pues eso. Ojalá poderme quedar aquí, pero los sueldos son de risa"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Tienes razón, la FPI ronda los 1.500 brutos. Mucha suerte en RU 🙌 y ojalá algún día compense volver."
    }
   ],
   "respondido": true,
@@ -907,8 +936,13 @@
   "texto": "pero la economia creció , pero solo fueron en unos pocos paises como alemania sin embargo son pocos los que crecen realmente, pero que significa crecer",
   "hora": "2026-11-16T17:52:45Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Buena pregunta: crecer suele medirse con el PIB, que es lo que produce un país. Pero que crezca no dice cómo se reparte ni si mejora la vida de la mayoría."
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/lfJHjsYAK7U"
  },
@@ -1327,6 +1361,14 @@
    {
     "quien": null,
     "texto": "Nicole Pukkett Cuallo Pero que personaje oscuro eres!!!."
+   },
+   {
+    "quien": null,
+    "texto": "Nicole Pukkett Cuallo exacto"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Con tratamiento el virus queda controlado y deja de detectarse en sangre. En los estudios PARTNER siguieron miles de parejas durante años (más de 75.000 relaciones sin preservativo) y no hubo ni una transmisión. Indetectable no es curado: por eso no se deja el tratamiento."
    }
   ],
   "respondido": true,
@@ -1411,6 +1453,10 @@
    {
     "quien": null,
     "texto": "Erick García Zaragoza desde q estes en tratamiento controlado e indetectable no lo transmites a nadie."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Las «leyes de Hamer» no tienen ninguna prueba y han costado vidas. El VIH se ha aislado, secuenciado y fotografiado al microscopio."
    }
   ],
   "respondido": true,
@@ -1856,6 +1902,10 @@
    {
     "quien": "Bioandante",
     "texto": "Las experiencias personales no sustituyen la evidencia científica. Si mantiene una carga viral indetectable, no transmite el VIH por vía sexual."
+   },
+   {
+    "quien": null,
+    "texto": "Alfredo Castelan serán metidas d ano...🤣😂😂🤣😂🤣😂"
    }
   ],
   "respondido": true,
@@ -1893,6 +1943,10 @@
    {
     "quien": null,
     "texto": "Jhonathan Gutiérrez yo he hecho cientos de pruebas rápidas."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Eso es: la prueba rápida busca anticuerpos, y esos siguen ahí aunque el virus esté controlado, así que sigue dando positivo. Lo que se vuelve indetectable es la carga viral (el virus en sangre), y con eso no se transmite."
    }
   ],
   "respondido": true,
@@ -2374,6 +2428,10 @@
    {
     "quien": null,
     "texto": "Ismael Taha claro q si y nacen sanos desde q estes con tratamiento"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Sí 🙂 Con tratamiento y carga viral indetectable se pueden tener hijos y el riesgo de pasar el virus al bebé es muy bajo."
    }
   ],
   "respondido": true,
