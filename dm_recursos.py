@@ -64,6 +64,7 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
 # 1b · a public reply under each comment already answered in private, once: so they know to look at their DMs
 PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Mira tu DM. Y si te ha gustado, dale a 🔁'
 for cid, estado in list(st['comentarios'].items()):
+    if os.environ.get('AVISO_PUBLICO') != '1': break   # off (16 nov): it spent requests; AVISO_PUBLICO=1 turns it back on
     if estado != 'pedido': continue
     if lleno(): break
     HECHOS[0] += 1
