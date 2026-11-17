@@ -397,7 +397,10 @@
   "18018868310967872": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18051416294816073": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18157034092523731": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18032891522900392": "pedido + aviso público"
+  "18032891522900392": "pedido + aviso público",
+  "18156090502544158": "pedido + aviso público",
+  "18111566873611840": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18065828564531186": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1256,6 +1259,11 @@
    "usuario": "fayceron",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:54:56+00:00"
+  },
+  "1405366531409212": {
+   "usuario": "isaiashinojosarojas008",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T05:01:47+00:00"
   }
  }
 }
