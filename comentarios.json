@@ -1,13 +1,35 @@
 [
  {
   "red": "instagram",
+  "id": "18603694192067883",
+  "quien": "abi.coutop",
+  "texto": "Tubo",
+  "hora": "2026-11-17T05:05:18+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "17918185227538333",
   "quien": "w.me.w",
   "texto": "Tubo 🙌",
   "hora": "2026-11-17T05:02:02+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -671,23 +693,6 @@
   "quien": "jorgeruizsalas",
   "texto": "TUBO",
   "hora": "2026-11-17T03:49:30+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18120300146278810",
-  "quien": "hazel_lg",
-  "texto": "Tubo",
-  "hora": "2026-11-17T03:46:25+0000",
   "oculto": false,
   "respuestas": [
    {

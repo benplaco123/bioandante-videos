@@ -400,7 +400,9 @@
   "18032891522900392": "pedido + aviso público",
   "18156090502544158": "pedido + aviso público",
   "18111566873611840": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18065828564531186": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18065828564531186": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18603694192067883": "pedido + aviso público",
+  "17918185227538333": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -1023,7 +1025,8 @@
    "usuario": "jos._.missamora",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:06:14+00:00",
-   "aviso_no_sigue": "2026-11-17T02:06:40+00:00"
+   "aviso_no_sigue": "2026-11-17T02:06:40+00:00",
+   "enviado": "2026-11-17T05:08:08+00:00"
   },
   "1436075658691143": {
    "usuario": "monina.jim",
@@ -1263,7 +1266,18 @@
   "1405366531409212": {
    "usuario": "isaiashinojosarojas008",
    "clave": "TUBO",
-   "pedido": "2026-11-17T05:01:47+00:00"
+   "pedido": "2026-11-17T05:01:47+00:00",
+   "enviado": "2026-11-17T05:08:04+00:00"
+  },
+  "1399129482067978": {
+   "usuario": "abi.coutop",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T05:07:38+00:00"
+  },
+  "957799853851892": {
+   "usuario": "w.me.w",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T05:07:41+00:00"
   }
  }
 }
