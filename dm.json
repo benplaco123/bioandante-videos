@@ -295,7 +295,15 @@
   "18149883757566122": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18349218910285353": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17985962073120723": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18121034428998320": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18121034428998320": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17928568356201975": "pedido + aviso público",
+  "18100364429435765": "pedido + aviso público",
+  "18081824708717627": "pedido + aviso público",
+  "18140484649638892": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17956618992296613": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18112559687193849": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17917180536558605": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18033483131916621": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -962,6 +970,22 @@
    "usuario": "pablodsorianoc2018",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:35:27+00:00"
+  },
+  "1886993685804849": {
+   "usuario": "gaspacho_saez",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:41:23+00:00"
+  },
+  "1661508728754518": {
+   "usuario": "zaremiciencias",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:41:26+00:00"
+  },
+  "1109226445249445": {
+   "usuario": "ilse.mares",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:41:29+00:00",
+   "aviso_no_sigue": "2026-11-17T02:42:20+00:00"
   }
  }
 }
