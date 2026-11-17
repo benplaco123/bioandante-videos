@@ -363,7 +363,12 @@
   "17972838693196436": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18124898890972789": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18426806515152855": "pedido + aviso público",
-  "18180618277379557": "pedido + aviso público"
+  "18180618277379557": "pedido + aviso público",
+  "18100546175433353": "pedido + aviso público",
+  "18094228052680916": "pedido + aviso público",
+  "17957187264082883": "pedido + aviso público",
+  "18120225547812216": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18104678975054608": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1151,12 +1156,28 @@
   "1686164212868877": {
    "usuario": "pacoherreera",
    "clave": "TUBO",
-   "pedido": "2026-11-17T04:06:57+00:00"
+   "pedido": "2026-11-17T04:06:57+00:00",
+   "aviso_no_sigue": "2026-11-17T04:13:29+00:00"
   },
   "1015964154887848": {
    "usuario": "xdrixn.12",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:07:02+00:00"
+  },
+  "2437694593304489": {
+   "usuario": "julesatoms",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:12:53+00:00"
+  },
+  "29418562431073068": {
+   "usuario": "facumolina3",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:12:59+00:00"
+  },
+  "1450235944842305": {
+   "usuario": "vtrzz.zen",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:13:05+00:00"
   }
  }
 }
