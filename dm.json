@@ -132,7 +132,13 @@
   "18117697244150599": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18130340953879967": "pedido + aviso público",
   "18110336669307127": "pedido + aviso público",
-  "18039503540658726": "pedido + aviso público"
+  "18039503540658726": "pedido + aviso público",
+  "18358487011168600": "pedido + aviso público",
+  "17994941256115202": "pedido + aviso público",
+  "18146550595608735": "pedido + aviso público",
+  "17866627515693015": "pedido + aviso público",
+  "17974591065076333": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18134215423845794": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -491,7 +497,28 @@
   "1102073539465933": {
    "usuario": "garcia__254",
    "clave": "TUBO",
-   "pedido": "2026-11-17T00:00:10+00:00"
+   "pedido": "2026-11-17T00:00:10+00:00",
+   "aviso_no_sigue": "2026-11-17T00:07:21+00:00"
+  },
+  "29121803567479310": {
+   "usuario": "leom091",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:06:43+00:00"
+  },
+  "2238818297519819": {
+   "usuario": "kevin.pad.17",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:06:46+00:00"
+  },
+  "1176817101696849": {
+   "usuario": "ana_claralr",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:06:50+00:00"
+  },
+  "30699149466351729": {
+   "usuario": "jan_heram",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:06:55+00:00"
   }
  }
 }
