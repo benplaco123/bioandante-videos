@@ -372,7 +372,12 @@
   "17967130728223840": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18133224439889125": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18078307820481423": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18233856919334380": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18233856919334380": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17951237508300817": "pedido + aviso público",
+  "18003681773816704": "pedido + aviso público",
+  "18106426700361414": "pedido + aviso público",
+  "18418506832094669": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18103329572646169": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1182,6 +1187,21 @@
    "usuario": "vtrzz.zen",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:13:05+00:00"
+  },
+  "2197689617852170": {
+   "usuario": "dani.palma.26",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:24:39+00:00"
+  },
+  "1134753305827977": {
+   "usuario": "joansebas545",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:24:44+00:00"
+  },
+  "39933555629623320": {
+   "usuario": "pabloxgtv",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:24:48+00:00"
   }
  }
 }
