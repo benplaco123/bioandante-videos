@@ -98,8 +98,11 @@ if pend:
         if lleno(): break
         HECHOS[0] += 1
         fr = call(sid, fields='is_user_follow_business')
-        if 'error' in fr: print('no se pudo mirar si sigue (se reintenta en la próxima vuelta)', p['usuario'], fr['error'][:90]); continue
-        sigue = fr.get('is_user_follow_business')
+        if 'error' in fr and '"code":4' not in fr['error']: print('no se pudo mirar si sigue', p['usuario'], fr['error'][:90]); continue
+        # the user (17 nov): trust LISTO. Meta often refuses this one check for hours («Application request limit», a tiny per-app
+        # quota) while messages still go out; then whoever wrote LISTO gets it anyway
+        sigue = True if 'error' in fr else fr.get('is_user_follow_business')
+        if 'error' in fr: print('límite de Meta al mirar si sigue: se lo mando igual', p['usuario'])
         if not PRUEBA: p['visto'], p['revisado'] = nuevo, ahora()[:19]
         if sigue:
             rec = R[p['clave']]
