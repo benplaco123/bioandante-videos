@@ -1,6 +1,66 @@
 [
  {
   "red": "instagram",
+  "id": "17956724727277299",
+  "quien": "iamdiogof",
+  "texto": "Tubo 💪💪",
+  "hora": "2026-11-17T22:33:55+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17968241211219071",
+  "quien": "vaanee25",
+  "texto": "Tubo",
+  "hora": "2026-11-17T22:33:25+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18117318401149723",
+  "quien": "sara_ortega_z",
+  "texto": "Tubo",
+  "hora": "2026-11-17T22:31:54+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17908341636656307",
+  "quien": "pedranto_26",
+  "texto": "Tubo",
+  "hora": "2026-11-17T22:30:52+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17915210229603224",
+  "quien": "lucilag1811",
+  "texto": "Tubo",
+  "hora": "2026-11-17T22:19:12+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18113130398267975",
   "quien": "k1cktherules",
   "texto": "tubo",
@@ -114,8 +174,13 @@
   "texto": "👏👏👏👏👏",
   "hora": "2026-11-17T21:14:41+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@javier_dn._ gracias si te ha gustado dale a 🔁 y comparte!!"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -270,8 +335,13 @@
   "texto": "Que no entren, está muriendo nacionales en lista de espera.",
   "hora": "2026-11-17T20:35:39+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@jf_alegre y como hacemos para que no entren? Les disparamos cuando veamos las pateras ?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -433,6 +503,10 @@
    {
     "quien": "an.nnoorr",
     "texto": "@bio.andante Como sanitaria creo que es muy peligroso y obviamente peor, la de cantidad de gente que por vídeos de alguien que desinforma acaba en urgencias, y como he dicho, la salud es algo universal que todo ser humano merece gozar"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Gracias por tu opinión tan cercana ! 🙌"
    }
   ],
   "respondido": true,
@@ -458,8 +532,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T19:04:19+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -515,8 +594,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T18:39:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -527,8 +611,13 @@
   "texto": "Tubo 👏",
   "hora": "2026-11-17T18:34:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -539,8 +628,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T18:33:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -551,8 +645,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T18:23:39+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -563,8 +662,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T18:22:47+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -575,8 +679,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T18:18:25+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -740,8 +849,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T17:24:12+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -752,8 +866,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T17:23:53+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -764,77 +883,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T17:20:47+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17992338873076886",
-  "quien": "shiningknight80",
-  "texto": "TUBO",
-  "hora": "2026-11-17T17:08:47+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17944403478385390",
-  "quien": "anittaa_garp",
-  "texto": "Tubo",
-  "hora": "2026-11-17T17:07:21+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18578482654072879",
-  "quien": "jero_luis",
-  "texto": "Tubo",
-  "hora": "2026-11-17T17:07:16+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17919989853539486",
-  "quien": "maigerber",
-  "texto": "Tubo",
-  "hora": "2026-11-17T17:02:15+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17975272572190692",
-  "quien": "karvalmtz",
-  "texto": "Tubo",
-  "hora": "2026-11-17T16:58:36+0000",
-  "oculto": false,
   "respuestas": [
    {
-    "quien": "a_chao_v",
-    "texto": "@karvalmtz ya lo tengo, te lo mando jajaja"
-   },
-   {
-    "quien": "karvalmtz",
-    "texto": "@a_chao_v jajaja"
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
