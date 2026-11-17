@@ -341,7 +341,12 @@
   "18127629469772266": "pedido + aviso público",
   "18066604394630510": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18176821876458781": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18107610896002922": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18107610896002922": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17920479270467872": "pedido + aviso público",
+  "18003944609810505": "pedido + aviso público",
+  "18106603829456278": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17916253800284398": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17998207352842968": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -974,7 +979,8 @@
   "1445835361050169": {
    "usuario": "bea_phd",
    "clave": "TUBO",
-   "pedido": "2026-11-17T02:06:21+00:00"
+   "pedido": "2026-11-17T02:06:21+00:00",
+   "aviso_no_sigue": "2026-11-17T03:37:18+00:00"
   },
   "1442051744212862": {
    "usuario": "luisbellido19",
@@ -1071,12 +1077,24 @@
   "4592470540999641": {
    "usuario": "cxrlos_hxbx",
    "clave": "TUBO",
-   "pedido": "2026-11-17T03:19:23+00:00"
+   "pedido": "2026-11-17T03:19:23+00:00",
+   "aviso_no_sigue": "2026-11-17T03:37:20+00:00"
   },
   "1125436176911963": {
    "usuario": "_mixhttp",
    "clave": "TUBO",
-   "pedido": "2026-11-17T03:31:07+00:00"
+   "pedido": "2026-11-17T03:31:07+00:00",
+   "aviso_no_sigue": "2026-11-17T03:37:21+00:00"
+  },
+  "29969024989348318": {
+   "usuario": "karika_cs",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T03:36:53+00:00"
+  },
+  "2539669906540730": {
+   "usuario": "terronc14",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T03:36:59+00:00"
   }
  }
 }
