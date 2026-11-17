@@ -220,7 +220,13 @@
   "18226044850343418": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17956505727042611": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17905401798373831": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18230643604334948": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18230643604334948": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18030484958702279": "pedido + aviso público",
+  "18649339066054696": "pedido + aviso público",
+  "18135785521744949": "pedido + aviso público",
+  "18102472358443178": "pedido + aviso público",
+  "17877701742638028": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18137000575678688": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -722,7 +728,28 @@
   "958500530450611": {
    "usuario": "abbys.b0rn_",
    "clave": "TUBO",
-   "pedido": "2026-11-17T01:09:45+00:00"
+   "pedido": "2026-11-17T01:09:45+00:00",
+   "aviso_no_sigue": "2026-11-17T01:22:56+00:00"
+  },
+  "1437481011338570": {
+   "usuario": "pamearavenaespinoza",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:22:12+00:00"
+  },
+  "1152622601034598": {
+   "usuario": "abner.guarda",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:22:14+00:00"
+  },
+  "1122575527081327": {
+   "usuario": "_yael_gd_",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:22:18+00:00"
+  },
+  "1293331566286154": {
+   "usuario": "yorbanismaria",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:22:22+00:00"
   }
  }
 }
