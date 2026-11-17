@@ -54,7 +54,7 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
         if 'message_id' in r and not PRUEBA:
             st['comentarios'][c['id']] = 'pedido'
             if r.get('recipient_id'): st['personas'][r['recipient_id']] = {'usuario': c.get('username'), 'clave': clave, 'pedido': ahora()}
-        elif not PRUEBA: st['comentarios'][c['id']] = 'fallo: ' + str(r)[:120]
+        elif not PRUEBA and 'is_transient' not in str(r) and '"code":4' not in str(r): st['comentarios'][c['id']] = 'fallo: ' + str(r)[:120]   # rate limit: retried next run
 
 # 1b · a public reply under each comment already answered in private, once: so they know to look at their DMs
 PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Mira tu DM. Y si te ha gustado, dale a 🔁'
