@@ -61,7 +61,7 @@ def recoge():
     out = []
     for m in call(f'{IGID}/media?fields=id,caption,permalink,timestamp,comments_count&limit=25')['data']:
         if not m.get('comments_count'): continue
-        for c in call(f"{m['id']}/comments?fields=id,text,username,timestamp,hidden,replies{{username,text,timestamp}}&limit=50")['data']:
+        for c in call(f"{m['id']}/comments?fields=id,text,username,timestamp,hidden,replies{{username,text,timestamp}}&limit=100")['data']:
             rs = c.get('replies', {}).get('data', [])
             out.append(dict(red='instagram', id=c['id'], quien=c.get('username'), texto=c.get('text'), hora=c.get('timestamp'),
                 oculto=c.get('hidden', False), respuestas=[dict(quien=r.get('username'), texto=r.get('text')) for r in rs],
@@ -69,7 +69,7 @@ def recoge():
     if PT:
         try:
             for v in call(f'{PID}/video_reels?fields=id,description,permalink_url&limit=25', tok=PT)['data']:
-                for c in call(f"{v['id']}/comments?fields=id,message,from,created_time,comments{{from,message}}&limit=50", tok=PT)['data']:
+                for c in call(f"{v['id']}/comments?fields=id,message,from,created_time,comments{{from,message}}&limit=100", tok=PT)['data']:
                     rs = c.get('comments', {}).get('data', [])
                     out.append(dict(red='facebook', id=c['id'], quien=(c.get('from') or {}).get('name', 'alguien'), texto=c.get('message'),
                         hora=c.get('created_time'), oculto=False, respuestas=[dict(quien=(r.get('from') or {}).get('name'), texto=r.get('message')) for r in rs],
