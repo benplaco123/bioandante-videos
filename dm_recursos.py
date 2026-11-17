@@ -81,6 +81,12 @@ if pend:
         sid = next((x['id'] for x in c.get('participants', {}).get('data', []) if x['id'] in pend), None)
         if not sid: continue
         p = pend[sid]
+        # answered by hand (an image or any message of ours that the script did not write) → never send again
+        auto = {R[p['clave']]['pedir'], NO_SIGUE}
+        if any((m.get('from') or {}).get('username') == 'bio.andante' and m['created_time'][:19] > p['pedido'][:19].replace('+00:00', '')
+               and (m.get('message') or '') not in auto for m in c.get('messages', {}).get('data', [])):
+            if not PRUEBA: p['enviado'] = 'a mano'
+            print('respondido a mano', p['usuario']); continue
         listo = [m for m in c.get('messages', {}).get('data', []) if (m.get('from') or {}).get('id') == sid
                  and re.search(LISTO_RE, norm(m.get('message'))) and m['created_time'][:19] > p['pedido'][:19].replace('+00:00', '')]
         if not listo: continue   # after the «aún no me sigues» notice, each run checks again whether they follow now
