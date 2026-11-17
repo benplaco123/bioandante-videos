@@ -288,7 +288,14 @@
   "18141968734537060": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17997399033106766": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18030589838702229": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18139850170710350": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18139850170710350": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18084083228348015": "pedido + aviso público",
+  "18077092682753158": "pedido + aviso público",
+  "18098329649145562": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18149883757566122": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18349218910285353": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17985962073120723": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18121034428998320": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -945,6 +952,16 @@
    "clave": "TUBO",
    "pedido": "2026-11-17T02:23:49+00:00",
    "aviso_no_sigue": "2026-11-17T02:29:54+00:00"
+  },
+  "3343892746000053": {
+   "usuario": "jasminsg06",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:35:24+00:00"
+  },
+  "1858292041869591": {
+   "usuario": "pablodsorianoc2018",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T02:35:27+00:00"
   }
  }
 }
