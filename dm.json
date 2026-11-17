@@ -402,7 +402,9 @@
   "18111566873611840": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18065828564531186": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18603694192067883": "pedido + aviso público",
-  "17918185227538333": "pedido + aviso público"
+  "17918185227538333": "pedido + aviso público",
+  "17964123152999221": "pedido + aviso público",
+  "18104705456554589": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -1278,6 +1280,16 @@
    "usuario": "w.me.w",
    "clave": "TUBO",
    "pedido": "2026-11-17T05:07:41+00:00"
+  },
+  "1852490106095660": {
+   "usuario": "viviangarcia167",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T05:13:32+00:00"
+  },
+  "2006702160697620": {
+   "usuario": "_alberto_de_la_cruz",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T05:13:35+00:00"
   }
  }
 }
