@@ -22,6 +22,16 @@ def call(path, data=None, **q):
     try: return json.loads(urllib.request.urlopen(req, timeout=60).read())
     except urllib.error.HTTPError as e: return {'error': e.read().decode()[:300]}
 
+def todo(path, maxn=1000, **q):   # every page of a list (comments, conversations), not just the first
+    r = call(path, **q); out = r.get('data', [])
+    while r.get('paging', {}).get('next') and len(out) < maxn:
+        try: r = json.loads(urllib.request.urlopen(r['paging']['next'], timeout=60).read())
+        except Exception: break
+        out += r.get('data', [])
+    return out
+
+LISTO_RE = r'\b(LISTO|LISTA|LISTOO+|YA|HECHO|TE SIGO|YA TE SIGO|SIGUIENDO|DONE|OK)\b'
+
 def manda(recipient, message):
     if PRUEBA: print('  (prueba) mandaría a', recipient, str(message)[:70]); return {'message_id': 'prueba'}
     return call(f'{U}/messages', {'recipient': json.dumps(recipient), 'message': json.dumps(message)})
@@ -33,7 +43,7 @@ hace7 = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=
 # 1 · comments that ask for a resource (Instagram only lets you answer privately within 7 days)
 for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get('data', []):
     if not m.get('comments_count') or m['timestamp'][:16] < hace7: continue
-    for c in call(m['id'] + '/comments', fields='id,username,text,timestamp', limit=100).get('data', []):
+    for c in todo(m['id'] + '/comments', fields='id,username,text,timestamp', limit=100):
         if c['id'] in st['comentarios'] or c.get('username') == 'bio.andante' or c['timestamp'][:16] < hace7: continue
         clave = next((k for k in R if re.search(r'\b' + k + r'\b', norm(c.get('text')))), None)
         if not clave: continue
@@ -47,7 +57,7 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
         elif not PRUEBA: st['comentarios'][c['id']] = 'fallo: ' + str(r)[:120]
 
 # 1b · a public reply under each comment already answered in private, once: so they know to look at their DMs
-PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Mira tu DM'
+PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Mira tu DM. Y si te ha gustado, dale a 🔁'
 for cid, estado in list(st['comentarios'].items()):
     if estado != 'pedido': continue
     if PRUEBA: print('  (prueba) respondería en público a', cid); continue
@@ -58,20 +68,25 @@ for cid, estado in list(st['comentarios'].items()):
 # 2 · who has written LISTO since they were asked
 pend = {sid: p for sid, p in st['personas'].items() if not p.get('enviado')}
 if pend:
-    conv = call(f'{U}/conversations', platform='instagram', fields='participants,messages.limit(10){message,from,created_time}', limit=50).get('data', [])
+    conv = todo(f'{U}/conversations', 600, platform='instagram', fields='participants,messages.limit(10){message,from,created_time}', limit=100)
     for c in conv:
         sid = next((x['id'] for x in c.get('participants', {}).get('data', []) if x['id'] in pend), None)
         if not sid: continue
         p = pend[sid]
         listo = [m for m in c.get('messages', {}).get('data', []) if (m.get('from') or {}).get('id') == sid
-                 and re.search(r'\bLISTO\b', norm(m.get('message'))) and m['created_time'][:19] > p['pedido'][:19].replace('+00:00', '')]
-        if not listo: continue
-        if p.get('aviso_no_sigue') and not any(m['created_time'][:19] > p['aviso_no_sigue'][:19] for m in listo): continue
-        sigue = call(sid, fields='is_user_follow_business').get('is_user_follow_business')
+                 and re.search(LISTO_RE, norm(m.get('message'))) and m['created_time'][:19] > p['pedido'][:19].replace('+00:00', '')]
+        if not listo: continue   # after the «aún no me sigues» notice, each run checks again whether they follow now
+        fr = call(sid, fields='is_user_follow_business')
+        if 'error' in fr: print('no se pudo mirar si sigue (se reintenta en la próxima vuelta)', p['usuario'], fr['error'][:90]); continue
+        sigue = fr.get('is_user_follow_business')
         if sigue:
-            r = manda({'id': sid}, {'attachment': {'type': 'image', 'payload': {'url': WEB + R[p['clave']]['imagen']}}})
+            rec = R[p['clave']]
+            if rec.get('enlace'):  # herramienta HTML: el enlace va dentro del texto de gracias ({enlace})
+                r = manda({'id': sid}, {'text': rec['gracias'].replace('{enlace}', WEB + rec['enlace'])})
+            else:
+                r = manda({'id': sid}, {'attachment': {'type': 'image', 'payload': {'url': WEB + rec['imagen']}}})
+                if 'message_id' in r: manda({'id': sid}, {'text': rec['gracias']})
             if 'message_id' in r:
-                manda({'id': sid}, {'text': R[p['clave']]['gracias']})
                 if not PRUEBA: p['enviado'] = ahora()
             print('imagen', p['usuario'], 'ok' if 'message_id' in r else r)
         elif not p.get('aviso_no_sigue'):
