@@ -1216,12 +1216,14 @@
   "1146491494903588": {
    "usuario": "rooocaballero",
    "clave": "TUBO",
-   "pedido": "2026-11-17T07:04:47+00:00"
+   "pedido": "2026-11-17T07:04:47+00:00",
+   "enviado": "a mano"
   },
   "1443728940798413": {
    "usuario": "_miguel.angl",
    "clave": "TUBO",
-   "pedido": "2026-11-17T07:12:32+00:00"
+   "pedido": "2026-11-17T07:12:32+00:00",
+   "enviado": "a mano"
   },
   "1823203092287092": {
    "usuario": "jj_monstax_514",
@@ -1257,7 +1259,8 @@
   "2286123792060049": {
    "usuario": "andrejuarez03",
    "clave": "TUBO",
-   "pedido": "2026-11-17T07:12:54+00:00"
+   "pedido": "2026-11-17T07:12:54+00:00",
+   "enviado": "a mano"
   },
   "29435284542822341": {
    "usuario": "adylene.5",
@@ -1302,7 +1305,8 @@
   "1193298793262274": {
    "usuario": "ijorgemendoza",
    "clave": "TUBO",
-   "pedido": "2026-11-17T07:20:14+00:00"
+   "pedido": "2026-11-17T07:20:14+00:00",
+   "enviado": "a mano"
   },
   "1820680285638298": {
    "usuario": "monniirv_",
@@ -1337,22 +1341,26 @@
   "1191210496761116": {
    "usuario": "diegogr15",
    "clave": "TUBO",
-   "pedido": "2026-11-17T08:05:54+00:00"
+   "pedido": "2026-11-17T08:05:54+00:00",
+   "enviado": "a mano"
   },
   "2080215835965886": {
    "usuario": "olgaherrero_",
    "clave": "TUBO",
-   "pedido": "2026-11-17T08:05:58+00:00"
+   "pedido": "2026-11-17T08:05:58+00:00",
+   "enviado": "a mano"
   },
   "2134568064115046": {
    "usuario": "martaabort",
    "clave": "TUBO",
-   "pedido": "2026-11-17T08:06:02+00:00"
+   "pedido": "2026-11-17T08:06:02+00:00",
+   "enviado": "a mano"
   },
   "2414535616017063": {
    "usuario": "funguscortes",
    "clave": "TUBO",
-   "pedido": "2026-11-17T08:12:51+00:00"
+   "pedido": "2026-11-17T08:12:51+00:00",
+   "enviado": "a mano"
   },
   "1014989304229765": {
    "usuario": "its_xander_le",
