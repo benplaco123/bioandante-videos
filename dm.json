@@ -388,7 +388,11 @@
   "18145547440612731": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17928312681434494": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17880687393634975": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "17937154956142461": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "17937154956142461": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18147570142610850": "pedido + aviso público",
+  "18088619735524841": "pedido + aviso público",
+  "17935303077421727": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18132879733831224": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1225,6 +1229,16 @@
    "usuario": "el_diegofernando",
    "clave": "TUBO",
    "pedido": "2026-11-17T04:30:33+00:00"
+  },
+  "1101731189497830": {
+   "usuario": "jorz.b",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:42:36+00:00"
+  },
+  "2346289746156787": {
+   "usuario": "carlosdanperezdelaro",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:42:41+00:00"
   }
  }
 }
