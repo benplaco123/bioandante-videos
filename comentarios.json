@@ -1,13 +1,69 @@
 [
  {
   "red": "instagram",
+  "id": "18361146598223217",
+  "quien": "mtmb23",
+  "texto": "Tubo",
+  "hora": "2026-11-17T05:24:40+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17916383880489403",
+  "quien": "jhoan_zr07",
+  "texto": "Tubo",
+  "hora": "2026-11-17T05:24:06+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18109189079361024",
+  "quien": "lauradiaz179",
+  "texto": "Tubo!",
+  "hora": "2026-11-17T05:23:04+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18109871621576162",
   "quien": "driver306",
   "texto": "Tubo",
   "hora": "2026-11-17T05:19:15+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -675,52 +731,6 @@
  },
  {
   "red": "instagram",
-  "id": "18114708047338129",
-  "quien": "trollpork",
-  "texto": "Tubo 😆",
-  "hora": "2026-11-17T04:01:00+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18123387281095640",
-  "quien": "martacano_00",
-  "texto": "Tubo",
-  "hora": "2026-11-17T04:00:20+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17906749716364631",
-  "quien": "swordfish_two",
-  "texto": "tubo",
-  "hora": "2026-11-17T03:59:35+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
   "id": "18040571651891105",
   "quien": "yhb_wls.1",
   "texto": "Tubo",
@@ -1373,23 +1383,6 @@
  },
  {
   "red": "facebook",
-  "id": "1175920128122827_1456339636607807",
-  "quien": "alguien",
-  "texto": "Yo lo he hecho con  una persona de la calle  con un conductor de colectivo con una persona  menor que yo y con un viejo y no me a pasado nada y eso que tambien lo hise con un vagabundo  entre otros mas",
-  "hora": "2026-11-15T19:05:55+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "Bioandante",
-    "texto": ": Una experiencia personal no demuestra cómo se transmite o no el VIH. Para eso está la evidencia científica."
-   }
-  ],
-  "respondido": true,
-  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
-  "enlace": "https://www.facebook.com/reel/1025207717266198/"
- },
- {
-  "red": "facebook",
   "id": "1175920128122827_1705855964544635",
   "quien": "alguien",
   "texto": "Mi pareja es indetectable 👍",
@@ -1399,6 +1392,35 @@
    {
     "quien": "Bioandante",
     "texto": "¡Qué bueno! Con tratamiento y controles puede tener una vida plena. ❤️"
+   }
+  ],
+  "respondido": true,
+  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
+  "enlace": "https://www.facebook.com/reel/1025207717266198/"
+ },
+ {
+  "red": "facebook",
+  "id": "1175920128122827_2323960908444049",
+  "quien": "alguien",
+  "texto": "No sean pendejos el hecho q no te puedas contagiar  signifique q puedas coger a pelo no confundan siempre si estas sano no te arriesgues pero si no es así ya estás con VIH estás podrido x más q el resultado sea indetectable el virus está pero no deteriora solo se encapsula pero como yo diría ya está podrida y es de x vida",
+  "hora": "2026-11-15T18:57:22+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": null,
+    "texto": "Jesús Dere Palacios López podrido estas tu ya imagínate con el virus"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Tener VIH no convierte a nadie en una persona podrida. El tratamiento permite vivir saludablemente y, manteniendo la carga viral indetectable, no se transmite por vía sexual."
+   },
+   {
+    "quien": null,
+    "texto": "Jesús Dere Palacios López vaya que persona tan tan ignorante en verdad\nOsea, rechazar a una persona por una enfermedad crónica tratable y sin ninguna taza de contagio mientras los que tienen esa enfermedad tomen su tratamiento es algo triste, digo, muchos piensan que te enfermedad por llevar una vida sexual sin cuidados, pero hay muchos contextos más, violaciones, abusos y de más, no está bien hacerlos a un lado, la vida da muchas vueltas"
+   },
+   {
+    "quien": null,
+    "texto": "Jose Garrviol estás infectado o podrido q te ofendiste pero ni modos ya estás marcado y será hasta tu último suspiro de vida suerte"
    }
   ],
   "respondido": true,
