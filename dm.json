@@ -224,7 +224,8 @@
   "18146602276582482": "pedido",
   "18428008417157883": "pedido",
   "18197562358392290": "pedido",
-  "18118839181824508": "pedido"
+  "18118839181824508": "pedido",
+  "17998061910058660": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -1394,7 +1395,8 @@
   "2071775103502280": {
    "usuario": "marutapurido",
    "clave": "TUBO",
-   "pedido": "2026-11-17T08:20:43+00:00"
+   "pedido": "2026-11-17T08:20:43+00:00",
+   "enviado": "a mano"
   },
   "4123970964405316": {
    "usuario": "benchocastaneda",
@@ -1488,7 +1490,8 @@
   "3650373181796276": {
    "usuario": "jamasolvidielnombrexd",
    "clave": "TUBO",
-   "pedido": "2026-11-17T10:28:25+00:00"
+   "pedido": "2026-11-17T10:28:25+00:00",
+   "enviado": "a mano"
   },
   "1366788585391509": {
    "usuario": "esfrantastic.o",
@@ -1499,6 +1502,11 @@
    "usuario": "ngavilandef",
    "clave": "TUBO",
    "pedido": "2026-11-17T10:28:33+00:00"
+  },
+  "1819942745818172": {
+   "usuario": "samuka.silvestre",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T10:36:14+00:00"
   }
  }
 }
