@@ -107,7 +107,7 @@ if pend:
         if sigue:
             rec = R[p['clave']]
             if rec.get('enlace'):  # herramienta HTML: el enlace va dentro del texto de gracias ({enlace})
-                r = manda({'id': sid}, {'text': rec['gracias'].replace('{enlace}', WEB + rec['enlace'])})
+                r = manda({'id': sid}, {'text': rec['gracias'].replace('{enlace}', rec['enlace'] if rec['enlace'].startswith('http') else WEB + rec['enlace'])})
             else:
                 r = manda({'id': sid}, {'attachment': {'type': 'image', 'payload': {'url': WEB + rec['imagen']}}})
                 if 'message_id' in r: manda({'id': sid}, {'text': rec['gracias']})
