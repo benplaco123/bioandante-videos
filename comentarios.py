@@ -26,6 +26,14 @@ def call(path, data=None, tok=IGT):
     else: url += ('&' if '?' in url else '?') + 'access_token=' + tok
     return json.loads(urllib.request.urlopen(urllib.request.Request(url, data=body), timeout=60).read())
 
+def pages(path, total, tok=IGT, maxp=8):   # follow the paging of a comment list, only while there are more comments than read
+    j = call(path, tok=tok); out = j.get('data', [])
+    for _ in range(maxp - 1):
+        nxt = j.get('paging', {}).get('next')
+        if not nxt or len(out) >= total: break
+        j = json.loads(urllib.request.urlopen(nxt, timeout=60).read()); out += j.get('data', [])
+    return out
+
 def ya_dicho(a):
     t = a['texto'].strip()
     try:
@@ -59,17 +67,17 @@ def acciones():
 
 def recoge():
     out = []
-    for m in call(f'{IGID}/media?fields=id,caption,permalink,timestamp,comments_count&limit=25')['data']:
+    for m in call(f'{IGID}/media?fields=id,caption,permalink,timestamp,comments_count&limit=40')['data']:
         if not m.get('comments_count'): continue
-        for c in call(f"{m['id']}/comments?fields=id,text,username,timestamp,hidden,replies{{username,text,timestamp}}&limit=100")['data']:
+        for c in pages(f"{m['id']}/comments?fields=id,text,username,timestamp,hidden,replies.limit(100){{username,text,timestamp}}&limit=100", m['comments_count']):
             rs = c.get('replies', {}).get('data', [])
             out.append(dict(red='instagram', id=c['id'], quien=c.get('username'), texto=c.get('text'), hora=c.get('timestamp'),
                 oculto=c.get('hidden', False), respuestas=[dict(quien=r.get('username'), texto=r.get('text')) for r in rs],
                 respondido=any(r.get('username') == YO for r in rs), video=(m.get('caption') or '')[:70], enlace=m.get('permalink')))
     if PT:
         try:
-            for v in call(f'{PID}/video_reels?fields=id,description,permalink_url&limit=25', tok=PT)['data']:
-                for c in call(f"{v['id']}/comments?fields=id,message,from,created_time,comments{{from,message}}&limit=100", tok=PT)['data']:
+            for v in call(f'{PID}/video_reels?fields=id,description,permalink_url&limit=40', tok=PT)['data']:
+                for c in pages(f"{v['id']}/comments?fields=id,message,from,created_time,comments.limit(100){{from,message}}&limit=100", 1000, tok=PT):
                     rs = c.get('comments', {}).get('data', [])
                     out.append(dict(red='facebook', id=c['id'], quien=(c.get('from') or {}).get('name', 'alguien'), texto=c.get('message'),
                         hora=c.get('created_time'), oculto=False, respuestas=[dict(quien=(r.get('from') or {}).get('name'), texto=r.get('message')) for r in rs],
@@ -78,7 +86,12 @@ def recoge():
         except Exception as e: print('Facebook comentarios:', e)
     try:
         ch = yt('channels?part=id&mine=true')['items'][0]['id']
-        for t in yt(f'commentThreads?part=snippet,replies&allThreadsRelatedToChannelId={ch}&maxResults=100')['items']:
+        th, tok_ = [], ''
+        for _ in range(5):   # every page of threads, not just the first 100
+            j = yt(f'commentThreads?part=snippet,replies&allThreadsRelatedToChannelId={ch}&maxResults=100' + (f'&pageToken={tok_}' if tok_ else '')); th += j.get('items', [])
+            tok_ = j.get('nextPageToken')
+            if not tok_: break
+        for t in th:
             top = t['snippet']['topLevelComment']; sn = top['snippet']; rs = t.get('replies', {}).get('comments', [])
             if t['snippet'].get('totalReplyCount', 0) > len(rs):   # the thread only brings the first 5 replies: fetch them all
                 try: rs = yt(f"comments?part=snippet&maxResults=100&parentId={top['id']}")['items']
