@@ -176,7 +176,11 @@
   "18221720065355266": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17920071132466944": "pedido + aviso público",
   "18098386043666990": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "17897373810654564": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "17897373810654564": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18111017729189806": "pedido + aviso público",
+  "17878746765635393": "pedido + aviso público",
+  "18104741411452917": "pedido + aviso público",
+  "18084979565355375": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -616,7 +620,28 @@
   "1120696530771221": {
    "usuario": "pepappeppi",
    "clave": "TUBO",
-   "pedido": "2026-11-17T00:42:42+00:00"
+   "pedido": "2026-11-17T00:42:42+00:00",
+   "aviso_no_sigue": "2026-11-17T00:49:22+00:00"
+  },
+  "2410374613112679": {
+   "usuario": "emiamadeid",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:48:33+00:00"
+  },
+  "1731650005291359": {
+   "usuario": "_iam.samuu",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:48:37+00:00"
+  },
+  "1823672478549470": {
+   "usuario": "whosnat_taly",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:48:41+00:00"
+  },
+  "1436600655305601": {
+   "usuario": "emshidalgo",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:48:46+00:00"
   }
  }
 }
