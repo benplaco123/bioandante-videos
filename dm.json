@@ -355,7 +355,13 @@
   "18109749499952312": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17914980216483660": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18227273872338628": "pedido + aviso público",
-  "18135476575686186": "pedido + aviso público"
+  "18135476575686186": "pedido + aviso público",
+  "18114708047338129": "pedido + aviso público",
+  "18123387281095640": "pedido + aviso público",
+  "17906749716364631": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17912740791596371": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17972838693196436": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18124898890972789": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1127,7 +1133,18 @@
   "1131345116279545": {
    "usuario": "jorgeruizsalas",
    "clave": "TUBO",
-   "pedido": "2026-11-17T03:54:33+00:00"
+   "pedido": "2026-11-17T03:54:33+00:00",
+   "aviso_no_sigue": "2026-11-17T04:01:32+00:00"
+  },
+  "1686318663021734": {
+   "usuario": "trollpork",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:01:08+00:00"
+  },
+  "1852413385791046": {
+   "usuario": "martacano_00",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T04:01:13+00:00"
   }
  }
 }
