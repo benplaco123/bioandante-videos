@@ -730,7 +730,8 @@
   "1645882390619012": {
    "usuario": "panwithmiell",
    "clave": "TUBO",
-   "pedido": "2026-11-17T00:24:48+00:00"
+   "pedido": "2026-11-17T00:24:48+00:00",
+   "enviado": "a mano"
   },
   "1104730615899136": {
    "usuario": "emanuel.canom",
@@ -1877,7 +1878,8 @@
   "1836580424142645": {
    "usuario": "helenchasi88",
    "clave": "TUBO",
-   "pedido": "2026-11-17T14:06:55+00:00"
+   "pedido": "2026-11-17T14:06:55+00:00",
+   "enviado": "a mano"
   },
   "2089856475068455": {
    "usuario": "rocrocio01",
@@ -1902,7 +1904,8 @@
   "1121921073976656": {
    "usuario": "lamoggliaperez",
    "clave": "TUBO",
-   "pedido": "2026-11-17T14:37:07+00:00"
+   "pedido": "2026-11-17T14:37:07+00:00",
+   "enviado": "a mano"
   },
   "3905081576314409": {
    "usuario": "iroh.dragon.del.oeste",
@@ -1912,12 +1915,14 @@
   "1171250365858957": {
    "usuario": "zaragozaandre",
    "clave": "TUBO",
-   "pedido": "2026-11-17T14:44:41+00:00"
+   "pedido": "2026-11-17T14:44:41+00:00",
+   "enviado": "a mano"
   },
   "2662602920833290": {
    "usuario": "zidrian007",
    "clave": "TUBO",
-   "pedido": "2026-11-17T14:44:44+00:00"
+   "pedido": "2026-11-17T14:44:44+00:00",
+   "enviado": "a mano"
   }
  }
 }
