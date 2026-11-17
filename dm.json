@@ -1360,7 +1360,8 @@
   "1597275105501799": {
    "usuario": "_samv_33",
    "clave": "TUBO",
-   "pedido": "2026-11-17T08:20:40+00:00"
+   "pedido": "2026-11-17T08:20:40+00:00",
+   "enviado": "a mano"
   },
   "2071775103502280": {
    "usuario": "marutapurido",
