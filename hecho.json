@@ -64,5 +64,11 @@
   "nombre": "avispa-cucaracha-zombi-b",
   "hora_real": "2026-11-17T15:14:53.118767+00:00",
   "instagram": "https://www.instagram.com/reel/Df2OqRnlFmG/"
+ },
+ {
+  "nombre": "02-europa-se-arruina",
+  "hora_real": "2026-11-17T17:01:57.857210+00:00",
+  "facebook": "https://www.facebook.com/reel/1124937823481885",
+  "facebook_portada": "FALLO {\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":4,\"fbtrace_id\":\"AO8cxJTE5oTkavWy-uw_4n4\"}}"
  }
 ]
