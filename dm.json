@@ -320,7 +320,16 @@
   "17997846516059693": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18420298837087384": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18134616292772758": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18112581350631764": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18112581350631764": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17957381583336795": "pedido + aviso público",
+  "18018350999987226": "pedido + aviso público",
+  "18098720726139854": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18144000331629966": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17976121356179735": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18130429990858210": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18357584821168323": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18120898156956909": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18135966769667422": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1029,6 +1038,17 @@
    "usuario": "__manuelmm__",
    "clave": "TUBO",
    "pedido": "2026-11-17T02:54:33+00:00"
+  },
+  "2247825003276062": {
+   "usuario": "pablo_08ah",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T03:07:39+00:00",
+   "aviso_no_sigue": "2026-11-17T03:08:10+00:00"
+  },
+  "1458314065718046": {
+   "usuario": "rosasouquett",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T03:07:45+00:00"
   }
  }
 }
