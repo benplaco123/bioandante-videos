@@ -1,12 +1,29 @@
 [
  {
   "red": "instagram",
+  "id": "18032019695918042",
+  "quien": "yilipf22",
+  "texto": "Tubo",
+  "hora": "2026-11-17T06:29:05+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18120567383038108",
   "quien": "andrejuarez03",
   "texto": "Tubo",
   "hora": "2026-11-17T06:22:48+0000",
   "oculto": false,
-  "respuestas": [],
+  "respuestas": [
+   {
+    "quien": "moleqlon",
+    "texto": "@andrejuarez03 Tubo"
+   }
+  ],
   "respondido": false,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
@@ -707,18 +724,6 @@
   "quien": "jose.cruz.cheto",
   "texto": "Tubo",
   "hora": "2026-11-17T04:33:35+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17937154956142461",
-  "quien": "monigonzalezlun",
-  "texto": "Tubo",
-  "hora": "2026-11-17T04:31:32+0000",
   "oculto": false,
   "respuestas": [],
   "respondido": false,
