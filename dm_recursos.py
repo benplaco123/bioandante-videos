@@ -73,9 +73,9 @@ for cid, estado in list(st['comentarios'].items()):
     st['comentarios'][cid] = 'pedido + aviso público' if 'id' in r else 'pedido (aviso público falló)'
     print('aviso público', cid, 'ok' if 'id' in r else r)
 
-# 2 · who has written LISTO since they were asked
+# 2 · who has written LISTO since they were asked. Off since 2026-11-17: the user sends the resource by hand (ENVIO_AUTO=1 turns it back on)
 pend = {sid: p for sid, p in st['personas'].items() if not p.get('enviado')}
-if pend:
+if pend and os.environ.get('ENVIO_AUTO') == '1':
     conv = todo(f'{U}/conversations', 25, platform='instagram', fields='participants,messages.limit(4){message,from,created_time}', limit=25)
     for c in conv:
         sid = next((x['id'] for x in c.get('participants', {}).get('data', []) if x['id'] in pend), None)
