@@ -197,7 +197,19 @@
   "18066312110797785": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18449313121176613": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17926077192446220": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18118971938043881": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18118971938043881": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17999385693021644": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18127967626906653": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18132674971870551": "pedido + aviso público",
+  "18081366497578682": "pedido + aviso público",
+  "18138411862677620": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18036188279675648": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17997739797053061": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17934096885162030": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18129013004474490": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18112616972237094": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18119111942274897": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18062988680575885": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -428,7 +440,8 @@
   "1949646199775789": {
    "usuario": "samu_guerracn",
    "clave": "TUBO",
-   "pedido": "2026-11-16T22:28:28+00:00"
+   "pedido": "2026-11-16T22:28:28+00:00",
+   "aviso_no_sigue": "2026-11-17T01:10:25+00:00"
   },
   "1136523199239305": {
    "usuario": "nicovm_",
@@ -688,6 +701,17 @@
    "clave": "TUBO",
    "pedido": "2026-11-17T01:03:00+00:00",
    "aviso_no_sigue": "2026-11-17T01:03:44+00:00"
+  },
+  "1670803314689700": {
+   "usuario": "feeeer.aglr",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:09:41+00:00",
+   "aviso_no_sigue": "2026-11-17T01:10:23+00:00"
+  },
+  "958500530450611": {
+   "usuario": "abbys.b0rn_",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:09:45+00:00"
   }
  }
 }
