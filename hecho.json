@@ -99,5 +99,10 @@
   "youtube": "https://youtube.com/shorts/HkCBwND-5SY",
   "facebook_portada": "ok",
   "youtube_portada": "ok"
+ },
+ {
+  "nombre": "sanidad-universal-b",
+  "hora_real": "2026-11-17T18:41:21.082561+00:00",
+  "instagram": "FALLO 18115792451145402: {\"error\":{\"message\":\"(#4) Application request limit reached\",\"code\":4,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AbdwkEEdPQtaX-oZaw-HacE\"}}"
  }
 ]

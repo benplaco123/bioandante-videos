@@ -2172,7 +2172,8 @@
    "clave": "TUBO",
    "pedido": "2026-11-17T18:40:28+00:00",
    "visto": "2026-11-17T18:40:52",
-   "revisado": "2026-11-17T18:41:04"
+   "revisado": "2026-11-17T18:41:04",
+   "enviado": "a mano"
   },
   "1584735466796515": {
    "usuario": "yuasmaca",
@@ -2187,7 +2188,8 @@
   "2051712788853163": {
    "usuario": "maigerber",
    "clave": "TUBO",
-   "pedido": "2026-11-17T18:40:37+00:00"
+   "pedido": "2026-11-17T18:40:37+00:00",
+   "enviado": "a mano"
   },
   "1127950386664994": {
    "usuario": "karvalmtz",
