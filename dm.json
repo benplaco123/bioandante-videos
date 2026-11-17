@@ -138,7 +138,14 @@
   "18146550595608735": "pedido + aviso público",
   "17866627515693015": "pedido + aviso público",
   "17974591065076333": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18134215423845794": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18134215423845794": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18107553689197589": "pedido + aviso público",
+  "18151258918560705": "pedido + aviso público",
+  "18095779598194911": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18172066891473486": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18132209768476780": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17979153641934177": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18107168990017267": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -503,7 +510,8 @@
   "29121803567479310": {
    "usuario": "leom091",
    "clave": "TUBO",
-   "pedido": "2026-11-17T00:06:43+00:00"
+   "pedido": "2026-11-17T00:06:43+00:00",
+   "aviso_no_sigue": "2026-11-17T00:13:17+00:00"
   },
   "2238818297519819": {
    "usuario": "kevin.pad.17",
@@ -519,6 +527,16 @@
    "usuario": "jan_heram",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:06:55+00:00"
+  },
+  "1168617296114637": {
+   "usuario": "blancatorresga",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:12:51+00:00"
+  },
+  "1936877113946192": {
+   "usuario": "_dan.15gar_",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:12:55+00:00"
   }
  }
 }
