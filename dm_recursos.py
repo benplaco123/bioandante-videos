@@ -32,7 +32,11 @@ def todo(path, maxn=1000, **q):   # every page of a list (comments, conversation
 
 LISTO_RE = r'\b(LISTO|LISTA|LISTOO+|YA|HECHO|TE SIGO|YA TE SIGO|SIGUIENDO|DONE|OK)\b'
 
+TOPE = int(os.environ.get('TOPE', 25)); HECHOS = [0]   # at most this many messages and follow checks per run, so Meta's hourly limit is never hit
+lleno = lambda: HECHOS[0] >= TOPE
+
 def manda(recipient, message):
+    HECHOS[0] += 1
     if PRUEBA: print('  (prueba) mandaría a', recipient, str(message)[:70]); return {'message_id': 'prueba'}
     return call(f'{U}/messages', {'recipient': json.dumps(recipient), 'message': json.dumps(message)})
 
@@ -45,6 +49,7 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
     if not m.get('comments_count') or m['timestamp'][:16] < hace7: continue
     for c in todo(m['id'] + '/comments', fields='id,username,text,timestamp', limit=100):
         if c['id'] in st['comentarios'] or c.get('username') == 'bio.andante' or c['timestamp'][:16] < hace7: continue
+        if lleno(): break
         clave = next((k for k in R if re.search(r'\b' + k + r'\b', norm(c.get('text')))), None)
         if not clave: continue
         if any(p.get('usuario') == c.get('username') and p.get('clave') == clave for p in st['personas'].values()):
@@ -60,6 +65,8 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
 PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Mira tu DM. Y si te ha gustado, dale a 🔁'
 for cid, estado in list(st['comentarios'].items()):
     if estado != 'pedido': continue
+    if lleno(): break
+    HECHOS[0] += 1
     if PRUEBA: print('  (prueba) respondería en público a', cid); continue
     r = call(f'{cid}/replies', {'message': PUBLICO})
     st['comentarios'][cid] = 'pedido + aviso público' if 'id' in r else 'pedido (aviso público falló)'
@@ -76,6 +83,8 @@ if pend:
         listo = [m for m in c.get('messages', {}).get('data', []) if (m.get('from') or {}).get('id') == sid
                  and re.search(LISTO_RE, norm(m.get('message'))) and m['created_time'][:19] > p['pedido'][:19].replace('+00:00', '')]
         if not listo: continue   # after the «aún no me sigues» notice, each run checks again whether they follow now
+        if lleno(): break
+        HECHOS[0] += 1
         fr = call(sid, fields='is_user_follow_business')
         if 'error' in fr: print('no se pudo mirar si sigue (se reintenta en la próxima vuelta)', p['usuario'], fr['error'][:90]); continue
         sigue = fr.get('is_user_follow_business')
