@@ -1,6 +1,30 @@
 [
  {
   "red": "instagram",
+  "id": "18120794927027113",
+  "quien": "usagi_oliver",
+  "texto": "Tubo",
+  "hora": "2026-11-17T08:59:20+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18183629527448133",
+  "quien": "zarack15",
+  "texto": "Tubo🙌",
+  "hora": "2026-11-17T08:58:17+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "17940304110127552",
   "quien": "edyrola",
   "texto": "Tubo",
@@ -689,40 +713,6 @@
  },
  {
   "red": "instagram",
-  "id": "18136005673676380",
-  "quien": "wesoyaleks",
-  "texto": "Tubo",
-  "hora": "2026-11-17T05:13:55+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17964123152999221",
-  "quien": "viviangarcia167",
-  "texto": "Tubo",
-  "hora": "2026-11-17T05:13:15+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
   "id": "18040571651891105",
   "quien": "yhb_wls.1",
   "texto": "Tubo",
@@ -1080,6 +1070,10 @@
    {
     "quien": "Bioandante",
     "texto": "Se ha aislado, secuenciado y fotografiado. ¿Por qué crees que no existe?"
+   },
+   {
+    "quien": null,
+    "texto": "Bioandante porque siempre ha Sido un depredador furtivo inventado en le siglo 20 para controlar masas fue lo mismo que hoy en le siglo 21 con le COVID ..."
    }
   ],
   "respondido": true,
