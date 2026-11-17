@@ -62,10 +62,13 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
         elif not PRUEBA and 'is_transient' not in str(r) and '"code":4' not in str(r): st['comentarios'][c['id']] = 'fallo: ' + str(r)[:120]   # rate limit: retried next run
 
 # 1b · a public reply under each comment already answered in private, once: so they know to look at their DMs
-PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Mira tu DM. Y si te ha gustado, dale a 🔁'
+PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌'
+try: YA = {c['id'] for c in json.load(open('comentarios.json')) if any('bio' in (x.get('quien') or '') and 'andante' in (x.get('quien') or '') for x in c.get('respuestas') or [])}
+except Exception: YA = set()
 for cid, estado in list(st['comentarios'].items()):
-    if os.environ.get('AVISO_PUBLICO') != '1': break   # off (16 nov): it spent requests; AVISO_PUBLICO=1 turns it back on
+    if os.environ.get('AVISO_PUBLICO', '1') != '1': break   # on again 17 nov (asks to share); AVISO_PUBLICO=0 turns it off
     if estado != 'pedido': continue
+    if cid in YA: st['comentarios'][cid] = 'pedido + respondido a mano'; continue   # never answer the same comment twice
     if lleno(): break
     HECHOS[0] += 1
     if PRUEBA: print('  (prueba) respondería en público a', cid); continue
