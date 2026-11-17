@@ -32,7 +32,7 @@ def todo(path, maxn=1000, **q):   # every page of a list (comments, conversation
 
 LISTO_RE = r'\b(LISTO|LISTA|LISTOO+|YA|HECHO|TE SIGO|YA TE SIGO|SIGUIENDO|DONE|OK)\b'
 
-TOPE = int(os.environ.get('TOPE', 25)); HECHOS = [0]   # at most this many messages and follow checks per run, so Meta's hourly limit is never hit
+TOPE = int(os.environ.get('TOPE', 14)); HECHOS = [0]   # at most this many messages and follow checks per run, so Meta's hourly limit is never hit
 lleno = lambda: HECHOS[0] >= TOPE
 
 def manda(recipient, message):
@@ -76,7 +76,7 @@ for cid, estado in list(st['comentarios'].items()):
 # 2 · who has written LISTO since they were asked
 pend = {sid: p for sid, p in st['personas'].items() if not p.get('enviado')}
 if pend:
-    conv = todo(f'{U}/conversations', 600, platform='instagram', fields='participants,messages.limit(10){message,from,created_time}', limit=100)
+    conv = todo(f'{U}/conversations', 150, platform='instagram', fields='participants,messages.limit(6){message,from,created_time}', limit=75)
     for c in conv:
         sid = next((x['id'] for x in c.get('participants', {}).get('data', []) if x['id'] in pend), None)
         if not sid: continue

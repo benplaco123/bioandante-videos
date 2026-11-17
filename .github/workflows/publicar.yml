@@ -16,11 +16,14 @@ jobs:
       - run: |
           git config user.name bioandante-bot; git config user.email bot@users.noreply.github.com
           fin=$(( $(date +%s) + 3300 ))
+          n=0
           while :; do
             git pull -q --rebase -X theirs || true
             python3 publicar.py || true
-            python3 dm_recursos.py || true
-            python3 comentarios.py || true
+            # Meta allows this app ~200 calls an hour: DMs every 10 min, the comments page every 30 min
+            [ $((n % 2)) -eq 0 ] && { python3 dm_recursos.py || true; }
+            [ $((n % 6)) -eq 0 ] && { python3 comentarios.py || true; }
+            n=$((n + 1))
             git add cola.json hecho.json comentarios.json respuestas.json dm.json 2>/dev/null; git diff --cached --quiet || (git commit -qm "publicado" && for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done)
             [ $(date +%s) -ge $fin ] && break
             sleep 300
