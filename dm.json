@@ -173,7 +173,10 @@
   "17880473106566529": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18173454316482476": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18089593859705274": "pedido + aviso público",
-  "18221720065355266": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18221720065355266": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17920071132466944": "pedido + aviso público",
+  "18098386043666990": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17897373810654564": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -609,6 +612,11 @@
    "usuario": "lopzuo",
    "clave": "TUBO",
    "pedido": "2026-11-17T00:36:51+00:00"
+  },
+  "1120696530771221": {
+   "usuario": "pepappeppi",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T00:42:42+00:00"
   }
  }
 }
