@@ -349,7 +349,11 @@
   "17998207352842968": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "17963226060079449": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18170464132464620": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18359685163175836": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18359685163175836": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18120300146278810": "pedido + aviso público",
+  "18125841928820850": "pedido + aviso público",
+  "18109749499952312": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17914980216483660": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1093,13 +1097,24 @@
   "29969024989348318": {
    "usuario": "karika_cs",
    "clave": "TUBO",
-   "pedido": "2026-11-17T03:36:53+00:00"
+   "pedido": "2026-11-17T03:36:53+00:00",
+   "aviso_no_sigue": "2026-11-17T03:48:58+00:00"
   },
   "2539669906540730": {
    "usuario": "terronc14",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:36:59+00:00",
    "aviso_no_sigue": "2026-11-17T03:43:02+00:00"
+  },
+  "1700933381401487": {
+   "usuario": "hazel_lg",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T03:48:32+00:00"
+  },
+  "1126833583428223": {
+   "usuario": "hielaguisantes.98",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T03:48:38+00:00"
   }
  }
 }
