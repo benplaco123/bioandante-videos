@@ -346,5 +346,53 @@
   "youtube": false,
   "prueba": true,
   "par": "sanidad-universal"
+ },
+ {
+  "nombre": "ronroneo-gato",
+  "hora": "2026-11-28T20:36:00+01:00",
+  "video": "ronroneo-gato.mp4",
+  "texto": "😿 Dentro del ronroneo de tu gato hay un llanto de bebé escondido.\n\nCuando piden comida, los gatos pueden meter un chillido agudo dentro del ronroneo. En un estudio de 2009 pusieron esas grabaciones a personas, y les parecieron más urgentes, también a quienes no tenían gato. Al quitar el chillido del audio, esa urgencia bajó.\n\nY ojo con lo de «ronronea porque es feliz»: en el veterinario también puede ronronear, y de miedo. Si tu gato ronronea y le notas algo raro, no des por hecho que está bien.\n\n⚠️ Tampoco hay pruebas de que el ronroneo cure huesos. Esa idea sale de estudios con plataformas vibratorias, no con gatos. Y cómo se produce exactamente en un gato vivo sigue en estudio.\n\n👉 ¿Tu gato te hace esto a la hora de comer? Cuéntamelo.\n\nFuentes: McComb et al., Current Biology, 2009 (ronroneo de petición). Herbst et al., Current Biology, 2023 (mecanismo). Science for Animal Welfare (ronroneo y estrés).\n\n#gatos #ronroneo #curiosidadesdegatos #ciencia #biologia #divulgacioncientifica #cienciaenespañol #gatoslovers",
+  "titulo": "😿 Dentro del ronroneo de tu gato hay un llanto de bebé escondido.",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "ronroneo-gato-portada.jpg"
+ },
+ {
+  "nombre": "crispr-explicado",
+  "hora": "2026-11-29T20:36:00+01:00",
+  "video": "crispr-explicado.mp4",
+  "texto": "CRISPR, explicado: unas tijeras que leen el ADN ✂️🧬\n\nLas bacterias guardan un trocito de cada virus que las ataca, como un álbum de fotos de enemigos. Si el virus vuelve, la proteína Cas9 lleva esa «foto», encuentra el ADN que coincide letra a letra y lo corta. Lo descubrió un español, Francis Mojica, estudiando microbios de las salinas de Santa Pola (Alicante).\n\nSi cambias la foto, Cas9 corta el gen que tú elijas. Así se apagan genes para saber qué hacen, se tratan enfermedades y, con las versiones nuevas, se corrige una letra mal escrita sin cortar. Ya hay un tratamiento aprobado en Europa, para la anemia falciforme.\n\nFuentes:\n· Mojica et al., J Mol Evol 2005 · doi 10.1007/s00239-004-0046-3\n· Jinek et al., Science 2012 · doi 10.1126/science.1225829\n· Komor et al., Nature 2016 · doi 10.1038/nature17946\n· Frangoul et al., NEJM 2024 · doi 10.1056/NEJMoa2309676\n\nInformación divulgativa: no sustituye la consulta con tu médico.\n\nSígueme para más ciencia explicada fácil 🧪\n\n#CRISPR #ciencia #divulgacion #biologia #genetica #ADN #ciencianoesaburrida #FrancisMojica #edicióngenética",
+  "titulo": "CRISPR, explicado: unas tijeras que leen el ADN ✂️🧬",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "crispr-explicado-portada.jpg"
+ },
+ {
+  "nombre": "edicion-embriones",
+  "hora": "2026-11-30T20:36:00+01:00",
+  "video": "edicion-embriones.mp4",
+  "texto": "🧬 Han corregido una letra del ADN en embriones humanos. Sin cortar la cadena.\n\nDos estudios recientes en Nature, y por qué importan.\n\n✏️ El primero cambia una sola letra del ADN, como quien arregla una errata.\n0️⃣ Resultado: cero letras añadidas o perdidas por error.\n✅ Como proteína, corrigió todas las copias del gen.\n⛔ Con instrucciones (ARNm), muchos embriones se paraban.\n🔎 Pero aparecieron anomalías raras en los cromosomas. Aún no está libre de riesgos.\n🧩 El segundo apagó NANOG, un gen clave: sin él, las células que darán el cuerpo cambian de papel.\n🐭 Otra capa sigue formándose. En ratón no pasa igual.\n\n⚠️ Todo esto es investigación en laboratorio. No es un tratamiento.\n\n💬 ¿Cuál te ha sorprendido más: A, editar sin cortar, o B, lo de NANOG? Te leo.\n\n📚 Nature, 2026: PMID 42742174 y PMID 42350792.\n\n#biotecnología #ADN #genética #ediciongenética #embriones #ciencia #noticiascientíficas #divulgacióncientífica",
+  "titulo": "🧬 Han corregido una letra del ADN en embriones humanos. Sin cortar la cadena.",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "edicion-embriones-portada.jpg"
+ },
+ {
+  "nombre": "crispr",
+  "hora": "2026-12-01T20:36:00+01:00",
+  "video": "crispr.mp4",
+  "texto": "✂️ Una sola letra mal escrita en tu ADN puede enfermarte de por vida. Existe una herramienta que la encuentra y la corrige. Y la inventaron las bacterias.\n\nCuando una bacteria sobrevive a un virus, guarda un trocito de su ADN como recuerdo, entre repeticiones idénticas. Esa colección se llama CRISPR, y fue Francisco Mojica, estudiando microbios de las salinas de Santa Pola, quien entendió que era un sistema de defensa.\n\nSi el virus vuelve, la bacteria copia el recuerdo en un ARN guía, que se agarra a la proteína Cas9 y juntas cortan el ADN del virus. Los científicos copiaron el truco: ahora la guía la escribimos nosotros. Cas9 recorre nuestro ADN buscando veinte letras entre más de tres mil millones, y cuando encajan, corta. La célula repara el corte: o apaga el gen, o copia el molde que le damos y escribe la letra correcta.\n\nEn 2023 se aprobó la primera terapia con CRISPR, para la anemia falciforme y la beta talasemia.\n\n⚠️ Ojo: a veces corta donde no debe, y la reparación no siempre sale como queremos.\n\n👇 ¿Sabías que el origen de CRISPR es español? Cuéntamelo en comentarios y compártelo con alguien que crea que el ADN no se puede editar.\n\n#crispr #cas9 #edicióngenética #genetica #biologia #ciencia #mojica #divulgacioncientifica #bioandante #cienciaenespañol",
+  "titulo": "✂️ Una sola letra mal escrita en tu ADN puede enfermarte de por vida. Existe una herramienta que la ",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "crispr-portada.jpg"
  }
 ]
