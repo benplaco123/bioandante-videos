@@ -240,7 +240,15 @@
   "17916808665496397": "pedido + aviso público",
   "17919608139263457": "pedido + aviso público",
   "18037804025672459": "pedido + aviso público",
-  "18140770582647396": "pedido + aviso público"
+  "18140770582647396": "pedido + aviso público",
+  "17984781390132319": "pedido + aviso público",
+  "17866393374693183": "pedido + aviso público",
+  "18100982741662725": "pedido + aviso público",
+  "18143335135623487": "pedido + aviso público",
+  "18147212044591846": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18096930914690621": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18129550828965652": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17914128153589328": "ya pedido antes"
  },
  "personas": {
   "975203191982764": {
@@ -809,6 +817,26 @@
    "usuario": "mere.angeles",
    "clave": "TUBO",
    "pedido": "2026-11-17T01:40:54+00:00"
+  },
+  "1121992034019456": {
+   "usuario": "nai.ariass",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:47:11+00:00"
+  },
+  "1174378021817710": {
+   "usuario": "zcmoros",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:47:14+00:00"
+  },
+  "1532758085565343": {
+   "usuario": "im_danieels",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:47:18+00:00"
+  },
+  "4472366263024230": {
+   "usuario": "mely_punguil",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:47:22+00:00"
   }
  }
 }
