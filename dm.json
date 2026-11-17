@@ -330,7 +330,10 @@
   "18357584821168323": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18120898156956909": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18135966769667422": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "18077490341773745": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "18077490341773745": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18380929915213625": "pedido + aviso público",
+  "18118929061839634": "pedido + aviso público",
+  "17947156380085399": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1050,6 +1053,17 @@
    "usuario": "rosasouquett",
    "clave": "TUBO",
    "pedido": "2026-11-17T03:07:45+00:00"
+  },
+  "1401423718462253": {
+   "usuario": "rszabraham",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T03:19:18+00:00",
+   "aviso_no_sigue": "2026-11-17T03:19:40+00:00"
+  },
+  "4592470540999641": {
+   "usuario": "cxrlos_hxbx",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T03:19:23+00:00"
   }
  }
 }
