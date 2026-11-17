@@ -104,5 +104,10 @@
   "nombre": "sanidad-universal-b",
   "hora_real": "2026-11-17T18:41:21.082561+00:00",
   "instagram": "FALLO 18115792451145402: {\"error\":{\"message\":\"(#4) Application request limit reached\",\"code\":4,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AbdwkEEdPQtaX-oZaw-HacE\"}}"
+ },
+ {
+  "nombre": "sanidad-universal-b",
+  "hora_real": "2026-11-17T19:03:10.484421+00:00",
+  "instagram": "https://www.instagram.com/reel/Df2o1gDCv8r/"
  }
 ]
