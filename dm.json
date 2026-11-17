@@ -183,7 +183,10 @@
   "18084979565355375": "pedido + aviso público",
   "18040571651891105": "pedido + aviso público",
   "18401604604203759": "pedido + aviso público",
-  "18171473617485113": "pedido + aviso público"
+  "18171473617485113": "pedido + aviso público",
+  "18132341780502363": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18120348416008241": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18121459651970739": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
