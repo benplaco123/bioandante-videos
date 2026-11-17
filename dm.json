@@ -412,7 +412,10 @@
   "18109189079361024": "pedido + aviso público",
   "18109871621576162": "pedido + aviso público",
   "17923011033242870": "pedido + aviso público",
-  "17989871169096274": "pedido + aviso público"
+  "17989871169096274": "pedido + aviso público",
+  "18389639959226849": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17967485877216151": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "18146602276582482": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
  },
  "personas": {
   "975203191982764": {
@@ -1300,7 +1303,8 @@
   "2006702160697620": {
    "usuario": "_alberto_de_la_cruz",
    "clave": "TUBO",
-   "pedido": "2026-11-17T05:13:35+00:00"
+   "pedido": "2026-11-17T05:13:35+00:00",
+   "aviso_no_sigue": "2026-11-17T05:36:52+00:00"
   },
   "1826111378632416": {
    "usuario": "pablo_gomez2108",
@@ -1341,7 +1345,8 @@
   "2210832136166815": {
    "usuario": "massiel_dcy03",
    "clave": "TUBO",
-   "pedido": "2026-11-17T05:30:57+00:00"
+   "pedido": "2026-11-17T05:30:57+00:00",
+   "aviso_no_sigue": "2026-11-17T05:36:50+00:00"
   }
  }
 }
