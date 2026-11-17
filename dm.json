@@ -235,7 +235,12 @@
   "18139278430563756": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18425364337153669": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
   "18114482666240555": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
-  "17972010747191499": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod"
+  "17972010747191499": "fallo: {'error': '{\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"cod",
+  "17900305461612719": "pedido + aviso público",
+  "17916808665496397": "pedido + aviso público",
+  "17919608139263457": "pedido + aviso público",
+  "18037804025672459": "pedido + aviso público",
+  "18140770582647396": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -777,6 +782,33 @@
    "clave": "TUBO",
    "pedido": "2026-11-17T01:28:40+00:00",
    "aviso_no_sigue": "2026-11-17T01:29:11+00:00"
+  },
+  "1826521985030621": {
+   "usuario": "samuelmoralesnavarro",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:40:41+00:00"
+  },
+  "1854102052385469": {
+   "usuario": "sol_suke",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:40:44+00:00",
+   "aviso_no_sigue": "2026-11-17T01:41:31+00:00"
+  },
+  "2270461696854833": {
+   "usuario": "verorcamacho",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:40:48+00:00"
+  },
+  "2381655265981729": {
+   "usuario": "aldow.exe",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:40:51+00:00",
+   "aviso_no_sigue": "2026-11-17T01:41:32+00:00"
+  },
+  "1141095531616768": {
+   "usuario": "mere.angeles",
+   "clave": "TUBO",
+   "pedido": "2026-11-17T01:40:54+00:00"
   }
  }
 }
