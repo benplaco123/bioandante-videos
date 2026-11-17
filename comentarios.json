@@ -1,13 +1,82 @@
 [
  {
   "red": "instagram",
+  "id": "17997485957848459",
+  "quien": "aline.aiwe",
+  "texto": "Tubo",
+  "hora": "2026-11-17T20:40:41+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18101344763661967",
+  "quien": "aline.aiwe",
+  "texto": "Tubi",
+  "hora": "2026-11-17T20:40:39+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18655483825056505",
+  "quien": "ale_montiel13",
+  "texto": "Tubo",
+  "hora": "2026-11-17T20:35:53+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18168405592484117",
+  "quien": "jf_alegre",
+  "texto": "Que no entren, está muriendo nacionales en lista de espera.",
+  "hora": "2026-11-17T20:35:39+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
+  "red": "instagram",
+  "id": "17873436642625703",
+  "quien": "eduperez123",
+  "texto": "Tubo",
+  "hora": "2026-11-17T20:21:59+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18137876392677577",
   "quien": "gusarr",
   "texto": "Con que no entren",
   "hora": "2026-11-17T20:14:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "escobarth32",
+    "texto": "Con que no digas gilipolleces"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Y como se puede evitar esto ?? 😮"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -128,9 +197,13 @@
    {
     "quien": "an.nnoorr",
     "texto": "@bio.andante Que como el mismo dice “no es experto” y debería callarse, la salud no es algo negociable ni exclusivo para unos pocos"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "No es experto peor opina de todo jajaj no crees ?"
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -181,6 +254,27 @@
   "respondido": false,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "facebook",
+  "id": "1175920128122827_1485483503759348",
+  "quien": "alguien",
+  "texto": "Por q😡😡😡😡😡😡carajos fomentar...q la gente sana se confíe a infectarse...virus es virus..dormido o encapsulado..te jode....mejor hagan una página d infectados y cojense entre uds...y q Dios nos cuide",
+  "hora": "2026-11-17T18:50:54+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Angel D la Paz yo no he incitado a nada . Si vieras el vídeo entero verías que recomiendo usar preservativo."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Angel D la Paz y yo no estoy infectado, pero eres un maleducado"
+   }
+  ],
+  "respondido": true,
+  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
+  "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
  {
   "red": "instagram",
@@ -624,54 +718,6 @@
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
  {
-  "red": "instagram",
-  "id": "18032359883879818",
-  "quien": "joshua_tujillo",
-  "texto": "Tubo",
-  "hora": "2026-11-17T16:12:08+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18273241591306653",
-  "quien": "rocy_carranza",
-  "texto": "Tubo😍",
-  "hora": "2026-11-17T16:11:24+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18291488047294171",
-  "quien": "ortizavab",
-  "texto": "Tubo",
-  "hora": "2026-11-17T16:10:35+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18155841223534771",
-  "quien": "jonabel_25",
-  "texto": "Tubo",
-  "hora": "2026-11-17T16:07:36+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
   "red": "youtube",
   "id": "UgxYlwJ6j3nQ5gbI_Gt4AaABAg",
   "quien": "@franciscojaviermartinezrod3985",
@@ -711,6 +757,23 @@
   "respondido": false,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/1z7mSeLY2a0"
+ },
+ {
+  "red": "facebook",
+  "id": "1175920128122827_1671089331340472",
+  "quien": "alguien",
+  "texto": "Cómo No es mejor no confiar como en todo ni es 100% seguro gas los Sidosos.",
+  "hora": "2026-11-17T13:45:12+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Roberta Antonia el estudio es muy claro y el consenso científico es ese. Infórmate bien y no seas maleducada"
+   }
+  ],
+  "respondido": true,
+  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
+  "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
  {
   "red": "instagram",
@@ -894,9 +957,13 @@
    {
     "quien": null,
     "texto": "Cesar Gomez 𝒚 𝒄𝒖𝒂𝒍 𝒆𝒔 𝒕𝒖 𝒅𝒐𝒍𝒐𝒓 𝒛𝒖𝒓𝒅𝒊𝒕𝒐 𝒄𝒐𝒎𝒖𝒏𝒊𝒔𝒕𝒂 𝒆𝒏𝒗𝒊𝒅𝒊𝒐𝒔𝒐 𝒅𝒐𝒍𝒊𝒅𝒐 🤣🤣🤣🇺🇸🇺🇸💪🏻🇺🇸💪🏻🇺🇸💪🏻🇺🇸💪🏻🇺🇸💪🏻🇺🇸💪🏻"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Debate interesante 🚀 Mucha tecnología espacial acaba sirviendo aquí: los satélites que miden el clima o los incendios vienen de ahí. ¿Vosotros gastaríais en ir a Marte o todo en arreglar la Tierra?"
    }
   ],
-  "respondido": false,
+  "respondido": true,
   "video": "Por primera vez en la historia, una torre ha atrapado al vuelo una nav",
   "enlace": "https://www.facebook.com/reel/1141833445442576/"
  },
@@ -1432,6 +1499,10 @@
    {
     "quien": "Bioandante",
     "texto": "Con tratamiento el virus queda controlado y deja de detectarse en sangre. En los estudios PARTNER siguieron miles de parejas durante años (más de 75.000 relaciones sin preservativo) y no hubo ni una transmisión. Indetectable no es curado: por eso no se deja el tratamiento."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Nicole Pukkett Cuallo infórmate bien"
    }
   ],
   "respondido": true,
@@ -1600,6 +1671,10 @@
    {
     "quien": null,
     "texto": "Jose Garrviol estás infectado o podrido q te ofendiste pero ni modos ya estás marcado y será hasta tu último suspiro de vida suerte"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Lo de que «se encapsula» tiene algo de verdad: el virus queda dormido dentro de algunas células (el reservorio). Por eso hoy no se cura y no se deja el tratamiento. Pero dormido y con carga indetectable no se transmite. ¿Alguien había oído hablar del reservorio?"
    }
   ],
   "respondido": true,
@@ -1915,6 +1990,10 @@
    {
     "quien": null,
     "texto": "Ona Mishnah por eso están cómo están llevados del hijueputa infectados del sida por sus razones de mierda Sidosos Asquerosos"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "El VIH se ha fotografiado al microscopio y se conoce su genoma letra a letra 🔬 Y los fármacos que lo atacan funcionan: si el virus no existiera, la carga viral no bajaría con ellos."
    }
   ],
   "respondido": true,
@@ -1944,6 +2023,10 @@
    {
     "quien": null,
     "texto": "Oscar Serrano están mál es transmisión,se transmite el virus."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Los dos tenéis parte de razón: el virus se transmite (o se contagia) de una persona a otra, y lo que provoca dentro del cuerpo es la infección. ¿Sabíais que el VIH no se transmite con besos ni compartiendo vaso?"
    }
   ],
   "respondido": true,
@@ -2055,6 +2138,10 @@
    {
     "quien": null,
     "texto": "Gabo GReyes gey hijueputa"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Tu experiencia es justo lo que vieron los estudios PARTNER: miles de parejas, una con VIH en tratamiento e indetectable, y ninguna transmisión 🙌 La clave es no saltarse pastillas, como dicen por aquí."
    }
   ],
   "respondido": true,
@@ -2309,119 +2396,6 @@
   "enlace": "https://www.instagram.com/reel/DfwnfkUxXKK/"
  },
  {
-  "red": "facebook",
-  "id": "1175920128122827_1000223139403154",
-  "quien": "alguien",
-  "texto": "Esperas que no lo creamos?? Gente siempre usen preservartivo...¡¡ en una vajada exporadica de defensas aunque te mediques se contagia¡¡ no fiaross",
-  "hora": "2026-11-15T11:27:57+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "Bioandante",
-    "texto": "Sandri Rico Belen Claro que lo espero, esta demostrado y eso que dices no es verdad"
-   },
-   {
-    "quien": null,
-    "texto": "Bioandante tu que ya lo tienes,,hablas asi...pero no  intentes convercernos de que nos acostemos contigon sin condon..tu acuestate con gente  que lo tienen como tu...pero no seas irresponsable"
-   },
-   {
-    "quien": "Bioandante",
-    "texto": "Sandri Rico Belen perdone pero yo no tengo nada, de qué habla usted. Y yo no he dicho eso, si hubieras visto el video hasta el final habrías visto que recomiendo usar el preservativo. Pero lo que cuento está publicado y más que demostrado"
-   },
-   {
-    "quien": null,
-    "texto": "Bioandante tu lo estas ,,todo el mundo que te sigue lo sabe,,pero que no te estigmatizo...pero no manipules ni engañes,,y sobre todo no contagies,,el vih..medicado o no ,,siempre hay un porcentaje que te puede contagiar"
-   },
-   {
-    "quien": "Bioandante",
-    "texto": "Sandri Rico Belen que no es cierto  señora que se lea usted el artículo científico"
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen infórmate bien 🙄🙄🙄"
-   },
-   {
-    "quien": "Bioandante",
-    "texto": "Jose Angel Briñez Parra gracias ! Me consuela ver que hay gente informada y cuerda"
-   },
-   {
-    "quien": null,
-    "texto": "Jose Angel Briñez Parra no me hace falta informarme, ,cuidate y tomate tu retrovidal"
-   },
-   {
-    "quien": "Bioandante",
-    "texto": "Sandri Rico Belen se dice retroviral, y sí que te hace falta"
-   },
-   {
-    "quien": null,
-    "texto": "Bioandante pues eso ..y no hacer terrorismo sexual"
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen no seas ignorante 🙄🙄🙄"
-   },
-   {
-    "quien": "Bioandante",
-    "texto": "Sandri Rico Belen pero que terrorismo!!!!!"
-   },
-   {
-    "quien": null,
-    "texto": "Mikkito Muñoz Goytia tu tambien tienes  el 🦠 ? 😟🤢🤮🤮"
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen sí, por eso te digo que no seas ignorante y te informes de cómo funciona, es fácil agarrar un libro y ya."
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen sigues ignorante! No hay %, si te medicas NO lo transmites, punto."
-   },
-   {
-    "quien": "Bioandante",
-    "texto": "Mikkito Muñoz Goytia exacto, para ser exactos si en la analítica es indetectable gracias a la medicación"
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen Estudie, señora."
-   },
-   {
-    "quien": null,
-    "texto": "Mikkito Muñoz Goytia eso es lo que decis los enfermos"
-   },
-   {
-    "quien": null,
-    "texto": "Mikkito Muñoz Goytia a ver quien es el valiente que se acusta contigo..sin preservativo🤣🤣"
-   },
-   {
-    "quien": null,
-    "texto": "Mikkito Muñoz Goytia asi hablais todos los enfermitos¡¡ tapando el sol con un dedo...🤢🤮🤢🤮asquerososss quereis que todo el mundo este contagiado"
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen terrorismo intelectual.. no deberías hablar tan libremente de un tema del que no tienes ningún conocimiento"
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen Ud. Está muuuuy enferma, pero de su cabeza y su espíritu."
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen \n¡Qué fina y educada!"
-   },
-   {
-    "quien": null,
-    "texto": "Sandri Rico Belen tu ignorancia tambien es contagiosa"
-   },
-   {
-    "quien": null,
-    "texto": "Bioandante no dicucutas , es tan cortita de cabeza que nunca lo entenderá"
-   }
-  ],
-  "respondido": true,
-  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
-  "enlace": "https://www.facebook.com/reel/1025207717266198/"
- },
- {
   "red": "instagram",
   "id": "18186884770372752",
   "quien": "miggons123",
@@ -2471,35 +2445,6 @@
   "respondido": true,
   "video": "💶 «Europa se arruina con las políticas climáticas.» «China contamina y",
   "enlace": "https://www.instagram.com/reel/DfsQk22CGY-/"
- },
- {
-  "red": "facebook",
-  "id": "1175920128122827_1765396084544966",
-  "quien": "alguien",
-  "texto": "Y puede tener hijos",
-  "hora": "2026-11-15T09:10:33+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "Bioandante",
-    "texto": "Ismael Taha claro que pueden tener hijos"
-   },
-   {
-    "quien": null,
-    "texto": "Y el bebé. Sale sin el virus"
-   },
-   {
-    "quien": null,
-    "texto": "Ismael Taha claro q si y nacen sanos desde q estes con tratamiento"
-   },
-   {
-    "quien": "Bioandante",
-    "texto": "Sí 🙂 Con tratamiento y carga viral indetectable se pueden tener hijos y el riesgo de pasar el virus al bebé es muy bajo."
-   }
-  ],
-  "respondido": true,
-  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
-  "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
  {
   "red": "instagram",
@@ -3777,6 +3722,10 @@
    {
     "quien": "danisd88",
     "texto": "@sarricerin pues vas a flipar con lo que ha dicho de las pensiones"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@danisd88 ¿qué ha dicho de las pensiones? 👀"
    }
   ],
   "respondido": true,
@@ -4288,6 +4237,10 @@
    {
     "quien": "roberkas98",
     "texto": "@halsand13 vale, nos entendemos en algo...no intento refutar el calentamiento global...pero si creo que hay bastante más detrás de lo que nos venden...te he mencionado en un vídeo de un geólogo , si te aburres me parece interesante su punto de vista"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Buena pregunta la de la financiación 👀 Pero la medición llega por caminos muy distintos: satélites, boyas en el océano, hielo de Groenlandia, agencias de EE. UU., China, Japón o Europa… y todos dan lo mismo. ¿Qué variable crees que se les escapa?"
    }
   ],
   "respondido": true,
@@ -4739,6 +4692,10 @@
    {
     "quien": "halsand13",
     "texto": "@vertigo.fz primero te diré que no puedes comparar datos con opinión personal. Después  te diré: recuerdas que hace años habían un montón de luciérnagas y ahora no? Recuerdas que antes no había tantos mosquitos  como ahora (en las zonas que no se fumiga)? Recuerdas los viajes en carretera con el parabrisas lleno de  insectos y ahora no? Todo eso deriva del cambio climático. Ahora bien: dime qué necesitas saber del cambio climático, que te  lo respondo"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "El Sol se mide con satélites desde 1978 y su actividad hasta ha bajado un poco, mientras la temperatura sigue subiendo 📈 Si fuera el ciclo solar, irían juntos. ¿Qué dato te haría cambiar de opinión?"
    }
   ],
   "respondido": true,
