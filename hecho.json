@@ -70,5 +70,10 @@
   "hora_real": "2026-11-17T17:01:57.857210+00:00",
   "facebook": "https://www.facebook.com/reel/1124937823481885",
   "facebook_portada": "FALLO {\"error\":{\"message\":\"(#4) Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":4,\"fbtrace_id\":\"AO8cxJTE5oTkavWy-uw_4n4\"}}"
+ },
+ {
+  "nombre": "centrifuga-tubos-iso",
+  "hora_real": "2026-11-17T17:39:36.160737+00:00",
+  "instagram": "FALLO 18115787639145402: {\"error\":{\"message\":\"(#4) Application request limit reached\",\"code\":4,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AYYNAUQbqovCTDcOqi1SDfU\"}}"
  }
 ]
