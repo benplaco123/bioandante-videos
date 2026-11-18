@@ -494,7 +494,12 @@
   "17932827594422531": "pedido",
   "18126162850946396": "pedido",
   "18139278430563756": "pedido",
-  "18114482666240555": "pedido"
+  "18114482666240555": "pedido",
+  "17968288055986075": "pedido",
+  "17994351470858162": "fallo: {'error': '{\"error\":{\"message\":\"(#100) El comentario no es v\\\\u00e1lido para una respuesta privada\",\"type\":\"OAuthExcepti",
+  "17972010747191499": "pedido",
+  "17917501563507375": "pedido",
+  "17877701742638028": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -3192,6 +3197,26 @@
    "usuario": "nmtc12yp",
    "clave": "TUBO",
    "pedido": "2026-11-18T01:25:46+00:00"
+  },
+  "1480396104194167": {
+   "usuario": "anthonyhca_",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T01:36:40+00:00"
+  },
+  "1120434414235211": {
+   "usuario": "tvleesuk",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T01:36:44+00:00"
+  },
+  "1129665250043408": {
+   "usuario": "flores6.14g",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T01:36:49+00:00"
+  },
+  "1132161829736034": {
+   "usuario": "paulaandrea_ossa",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T01:36:52+00:00"
   }
  }
 }
