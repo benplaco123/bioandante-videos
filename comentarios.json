@@ -1,6 +1,54 @@
 [
  {
   "red": "instagram",
+  "id": "18114750377166666",
+  "quien": "vegamarathon",
+  "texto": "El 29 de Noviembre vota Progresista. Defendamos nuestros derechos",
+  "hora": "2026-11-18T06:50:33+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
+  "red": "instagram",
+  "id": "18103500689412147",
+  "quien": "yazmimiau",
+  "texto": "Tubo",
+  "hora": "2026-11-18T06:43:38+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18179912671453725",
+  "quien": "antoniopgarcia",
+  "texto": "Tubo",
+  "hora": "2026-11-18T06:35:44+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "facebook",
+  "id": "1175920128122827_1494373952585748",
+  "quien": "alguien",
+  "texto": "si claro  importante.",
+  "hora": "2026-11-18T06:21:15+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
+  "enlace": "https://www.facebook.com/reel/1025207717266198/"
+ },
+ {
+  "red": "instagram",
   "id": "18130949458898283",
   "quien": "scarlatta_rv",
   "texto": "Tubo",
@@ -378,8 +426,13 @@
   "texto": "Tubo",
   "hora": "2026-11-18T00:44:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -402,8 +455,13 @@
   "texto": "Tubo",
   "hora": "2026-11-18T00:44:03+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -414,8 +472,13 @@
   "texto": "Yooo TUBO 😍",
   "hora": "2026-11-18T00:40:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -426,8 +489,13 @@
   "texto": "Tubo",
   "hora": "2026-11-18T00:40:33+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -450,8 +518,13 @@
   "texto": "Tubo",
   "hora": "2026-11-18T00:35:47+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -462,8 +535,13 @@
   "texto": "Tubo",
   "hora": "2026-11-18T00:31:46+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -474,8 +552,13 @@
   "texto": "TUBO",
   "hora": "2026-11-18T00:29:29+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -498,8 +581,13 @@
   "texto": "Tubo",
   "hora": "2026-11-18T00:07:45+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -510,8 +598,13 @@
   "texto": "Tubo",
   "hora": "2026-11-18T00:01:35+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -522,8 +615,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T23:48:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -546,8 +644,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T23:45:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -606,8 +709,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T23:39:38+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -618,8 +726,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T23:30:07+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -630,8 +743,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T23:22:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -642,8 +760,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T23:22:13+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -654,8 +777,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T23:02:14+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -666,8 +794,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T23:01:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -678,8 +811,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T22:56:31+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -690,8 +828,13 @@
   "texto": "Tubo 💪💪",
   "hora": "2026-11-17T22:33:55+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -702,8 +845,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T22:33:25+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -714,8 +862,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T22:31:54+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -726,8 +879,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T22:30:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -789,8 +947,13 @@
   "texto": "Y la edad del hielo? O las sequías que vivieron los dinosaurios? También es culpa de los coches de combustión? Y si ha aumentado tanto estos años, pues es facil, cuanta deforestacion ha habido? Cuanta basura acaba en los oceanos? Pero nada, es mejor echar la culpa a los vehículos de combustión sin plomo y menos contaminantes que antes cuando habia mucha mas vegetación y los oceanos estaban mucho mas limpios  y eso que usaban combustibles con plomo",
   "hora": "2026-11-17T22:05:45+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Las glaciaciones van por cambios en la órbita de la Tierra y tardan miles de años en llegar. Lo de ahora va mucho más rápido y la órbita no ha cambiado. Y la deforestación también cuenta eh, también es CO2 nuestro. Qué crees que pesa más, los coches o los bosques que se talan?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 ¿Científicos divididos? La verdad que no quieren que sepas.\nTras las",
   "enlace": "https://www.instagram.com/reel/DfqKH1piv5L/"
  },
@@ -868,23 +1031,6 @@
   "respondido": false,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/HkCBwND-5SY"
- },
- {
-  "red": "instagram",
-  "id": "18029601659939426",
-  "quien": "alexa_mglzx",
-  "texto": "tubo",
-  "hora": "2026-11-17T21:15:26+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
  {
   "red": "instagram",
@@ -978,8 +1124,13 @@
   "texto": "2012... a muchos españoles y españolas también, se quedaron sin sanidad publica, teniendo que volver a la seguridad social de sus progenitores. Lío grande.",
   "hora": "2026-11-17T20:49:14+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si, el decreto de 2012 dejó fuera a mucha gente y hasta 2018 no se volvió a la sanidad universal. Te pilló a ti o a alguien que conozcas?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -1007,8 +1158,13 @@
   "texto": "Me la p pela el cambio climático chaval . Es que me la trae floja . Habla con las grandes empresas primero ,habla con las potencias mundiales y no ralles a países como España que están ruineros",
   "hora": "2026-11-17T20:42:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "En lo de las potencias te doy la razón, sin acuerdos globales no hay nada que hacer. Pero las sequías y las olas de calor nos tocan a nosotros de lleno. Qué les pedirías tú a las grandes empresas?"
+   }
+  ],
+  "respondido": true,
   "video": "🤔 ¿Te fías de los científicos? Abascal no: «tú te fías de unos y habrá",
   "enlace": "https://www.instagram.com/reel/Dfm23PPR7Jb/"
  },
@@ -1399,8 +1555,13 @@
   "texto": "Están re-pendejo....virus es virus...pasamos d largo...nomás avisen....y q Dios los bendiga",
   "hora": "2026-11-17T18:47:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Virus es virus pero no todos funcionan igual. Con tratamiento el VIH baja tanto que ya no se transmite, eso está más que estudiado. Qué es lo que no te convence?"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -2837,8 +2998,13 @@
   "texto": "Todo muy bonito explicado, hasta ese punto, no lo trasmite por el tratamiento, pero al final, la persona lo tiene, dormido, o despierto, esa persona tiene su sistema inmune débil, o puede hacer una recaída, por un catarro o cualquier cosa que le puedan bajar las defensas y esa persona se puede reinfectar, si no tiene pareja estable, con otra persona que tenga su misma condición o otra its, esto aveces quieren normalizar esta enfermedad, y no es así, como quieren hacerlo ver, lo mejor, más práctico, correpto y educativo, es usar preservativo, esto es sin contar que estos pacientes la gran mayoría de las veces, viven deprimidos, y aquí vuelven a bajar las defensas, supuestamente está indetectable, pero es un riesgo, qué es mejor, no arriesgarse.",
   "hora": "2026-11-17T13:57:02+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Con tratamiento las defensas se recuperan y se mantienen. No es que la persona esté débil y recaiga con un catarro, mientras tome la medicación hace vida normal. Alguien que lo viva quiere contarlo?"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -3026,8 +3192,13 @@
   "texto": "Pero no depende de q todos los tubos cuenten con el mismo peso?? Sino igualmente hay un desequilibrio q no es compensable",
   "hora": "2026-11-17T13:04:42+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@tammy_iglesias si si, todo esto es con tubos que pesen lo mismo."
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -4173,8 +4344,13 @@
   "texto": "Mi centrifuga de 6 tubos viendo de lejos 😢😢😢",
   "hora": "2026-11-17T06:12:00+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@luisabramos con 6 también se puede eh! Con 2, 3, 4 y 6 tubos va bien, lo chungo es 1 y 5 😅 Vosotros cómo lo hacéis con 5?"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -4440,8 +4616,13 @@
   "texto": "no, tengo conocimiento para leer lo que dicen los científicos y no las tonterías que dice la gente que no tiene ningún estudio",
   "hora": "2026-11-17T05:26:40+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Eso es, ir a lo que dicen los estudios. Los PARTNER están publicados para quien quiera leerlos 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -5971,8 +6152,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:59:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -5983,8 +6169,13 @@
   "texto": "Tubo 🧪",
   "hora": "2026-11-17T02:58:30+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -5995,8 +6186,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:57:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6007,8 +6203,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:56:53+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6019,8 +6220,13 @@
   "texto": "tubo",
   "hora": "2026-11-17T02:54:30+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6082,8 +6288,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:51:34+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6094,8 +6305,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:50:00+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6106,8 +6322,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:48:37+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6118,8 +6339,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:48:04+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6130,8 +6356,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:47:59+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6159,8 +6390,13 @@
   "texto": "Es mentira el sida e horrible vi personas morir con sida es horrible como agonizan",
   "hora": "2026-11-17T02:46:41+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Siento mucho lo que viviste. Sin tratamiento era terrible y lo sigue siendo. Lo que ha cambiado es que ahora con tratamiento se vive muchos años y no se transmite, por eso es tan importante hacerse la prueba"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -6239,8 +6475,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:37:58+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6251,8 +6492,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:37:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6263,8 +6509,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:35:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6275,8 +6526,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:35:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6287,8 +6543,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:35:27+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6333,8 +6594,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:33:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6345,8 +6611,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:32:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6357,8 +6628,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:31:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6369,8 +6645,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:30:38+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6393,8 +6674,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:29:53+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6405,8 +6691,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:29:27+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6417,8 +6708,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:27:15+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6429,8 +6725,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:24:06+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6475,8 +6776,13 @@
   "texto": "TUBO",
   "hora": "2026-11-17T02:20:50+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6487,8 +6793,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:20:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6499,8 +6810,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:19:58+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6511,8 +6827,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:18:55+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6523,8 +6844,13 @@
   "texto": "Tubo 🙏🏻",
   "hora": "2026-11-17T02:18:33+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6569,8 +6895,13 @@
   "texto": "Tubo 🙌",
   "hora": "2026-11-17T02:17:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6581,8 +6912,13 @@
   "texto": "TUBO",
   "hora": "2026-11-17T02:14:45+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6593,8 +6929,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:09:00+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6605,8 +6946,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:08:57+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6617,8 +6963,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:08:36+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6629,8 +6980,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:08:00+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6641,8 +6997,13 @@
   "texto": "tubo",
   "hora": "2026-11-17T02:07:53+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6653,8 +7014,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:06:13+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6716,8 +7082,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:01:38+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6728,8 +7099,13 @@
   "texto": "Tubo",
   "hora": "2026-11-17T02:00:59+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6740,8 +7116,13 @@
   "texto": "Tengo un amigo que le dicen el 23 😂",
   "hora": "2026-11-17T02:00:10+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@l0k0mike 😂😂 y eso por qué? cuenta cuenta"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -8074,8 +8455,13 @@
   "texto": "Hazme un favor, infórmate y deja de desalentar la información entre las personas que desconocen de esta información, la vida da muchas vueltas señora, quizá y espero Dios no pase uno de tus hijos, hermanos o familiares a quien ames lo contraiga y...\n\nLa vida da muchas vueltas, es mejor callar ante lo que no se sabe y evitar comentar si no dispones de la información pertinente",
   "hora": "2026-11-17T00:27:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Infórmate tú mejor"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -10691,8 +11077,13 @@
   "texto": "Prefiero a la antigua , poner un condón entre el otro y yo",
   "hora": "2026-11-16T05:00:19+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Y perfecto! El preservativo además te protege de otras infecciones. Una cosa no quita la otra"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -10800,6 +11191,10 @@
    {
     "quien": null,
     "texto": "Bioandante porque siempre ha Sido un depredador furtivo inventado en le siglo 20 para controlar masas fue lo mismo que hoy en le siglo 21 con le COVID ..."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Si es inventado cómo es que los análisis lo detectan y el tratamiento lo hace desaparecer de la sangre? Qué prueba te convencería?"
    }
   ],
   "respondido": true,
@@ -11030,6 +11425,10 @@
    {
     "quien": null,
     "texto": "Bioandante  falso la procedencia de tu informacion no tiene fundamento oficial por la organizacion mundial de la salud .\n\ndeja de decirle ala gente q tengan relaciones con infectados ..\n\ny claro q en los fluidos hay vasos sanguíneos y vih . Por q salen del interior y de la sangre  . \n\nDeja de fomentar los daños ala salud . \n\n si tantas ganas tienes de tener relaciones pues  buscate  un infectado y acuestate  con el  y despues te haces analisis y compruebas    😁"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Nicole Pukkett Cuallo la OMS lo pone en su guía de 2023, con carga viral indetectable el riesgo de transmisión sexual es cero. No digo que vayáis con cualquiera, digo que con tratamiento no se transmite. La has leído?"
    }
   ],
   "respondido": true,
@@ -11719,6 +12118,10 @@
    {
     "quien": null,
     "texto": "Bioandante En todo Mexico se Disparo.... pero es x que no tenemos conciencia , ni educcion sexual ni responsbilidad.... x que publicidad lo hay y medicacion."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Gabo GReyes gracias por contarlo 🙌 y AdRian Eal tiene razón, no hay que saltarse ninguna toma. En México os la hacen gratis la prueba?"
    }
   ],
   "respondido": true,
@@ -11903,6 +12306,10 @@
    {
     "quien": null,
     "texto": "Marcos Herrera respeto tu criterio, pero a la vez te digo que te expresas muy mal, puedes herir sentimientos,  el vih es una enfermedad triste, pero no por eso debemos ser cruel a la hora de expresar, nuestros puntos de vista, hay que tener empatía con los seres humanos, hay muchos que se han infectado por diferentes motivos, todo no es la parte sexual, hay quien nacio con la condición, o un tatuaje , o tranfusición, o una irresponsavilidad por inmadures o falta de conocimiento, hay mil maneras, y por esas razones no voy a dejar de tratarlos como seres humanos, y este mundo da muchas vueltas, todas las relaciones que has tenido, desde tu primera vez han sido, protegidas, recuerda que ese virus, puede estar hasta 11 años , indetectable o dormido en el organismo adentro de tus células , no es un sermón pero hay que tratar de emitir nuestros criterios, sin ser crueles, ama a tu progimo como a ti mismo, que Dios te bendiga."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Edwin Yepez gracias 🙏 se puede discrepar sin insultar. Marcos Herrera una persona en tratamiento no transmite el virus, no hace falta apartarse de nadie. Qué es lo que te da miedo exactamente?"
    }
   ],
   "respondido": true,
@@ -11940,6 +12347,10 @@
    {
     "quien": null,
     "texto": "Marcos Herrera aguas porque nadie está excento"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Marcos Herrera y si te digo que con tratamiento no se transmite? Lo han estudiado en miles de parejas. Cambiaría algo para ti?"
    }
   ],
   "respondido": true,
@@ -13182,6 +13593,10 @@
    {
     "quien": "anmagonzalez",
     "texto": "@bio.andante muchos es en lo que trabajo. 😂"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@anmagonzalez jajaja entonces sabes de lo que hablo 😂 en qué trabajas?"
    }
   ],
   "respondido": true,
@@ -13786,8 +14201,13 @@
   "texto": "\"Fuimos a buscar otros\" solo eso le define. No es consciente de cómo se pone en evidencia, claro que como a Trump, sus seguidores tragan con todo, se arrepentirán al ver los resultados y será tarde.",
   "hora": "2026-11-12T16:43:42+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@maru.fdc esa frase lo dice todo. En ciencia no buscas los estudios que te dan la razón, miras todos. Crees que eso se entiende fuera de la ciencia?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -13866,8 +14286,13 @@
   "texto": "Este tipo de videos hacen falta, para convèncer y desmontar a incrédulos, gràcies",
   "hora": "2026-11-12T15:24:19+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Gràcies a tu! 🙌 Si et sembla útil, comparteix-lo amb 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -13878,8 +14303,13 @@
   "texto": "Que no se puede permitir es que una persona que se supone que va a hacer leyes y legislar, no tenga ni pajera, idea de lo que habla y sobre todo niegue la evidencia de los que sí lo saben poniendo entredicho la veracidad de asunto que se trata. sobre todo cuando lo que está en juego es una catástrofe mundial estas personas deberían ser excluidas inmediatamente cualquier parte político",
   "hora": "2026-11-12T14:32:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Ya… y los datos están ahí para quien los quiera mirar"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
