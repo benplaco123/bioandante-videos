@@ -665,7 +665,8 @@
   "17886178764526034": "pedido + aviso público",
   "17972195976195957": "pedido + aviso público",
   "18039857471658015": "pedido + aviso público",
-  "18060596513804475": "pedido + aviso público"
+  "18060596513804475": "pedido + aviso público",
+  "17912795967585141": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4208,6 +4209,11 @@
    "usuario": "cuu_rrent_",
    "clave": "TUBO",
    "pedido": "2026-11-18T13:04:06+00:00"
+  },
+  "1121805787279849": {
+   "usuario": "1aiii_neferr",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T13:15:09+00:00"
   }
  }
 }
