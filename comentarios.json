@@ -1,6 +1,35 @@
 [
  {
   "red": "instagram",
+  "id": "18144866935618534",
+  "quien": "el_ultimo_ochentero",
+  "texto": "Yo prefiero un vecino que esté legalmente en mi país, y que trabaje y no viva de paguitas. Y si vienen extranjeros que no pagan impuestos, pues lo lógico es cobrarles por darles asistencia, como se hace en cualquier país del mundo y no pasa nada. Y si no lo pueden pagar, se le embargan las paguitas hasta saldar la deuda, o se deja anotada la deuda hasta que tenga dinero para embargar. ¿Que problema hay en el resto del mundo que hace eso?.",
+  "hora": "2026-11-18T17:26:17+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18128399099484616",
+  "quien": "lauranunez2007",
+  "texto": "Tubo",
+  "hora": "2026-11-18T17:22:22+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18114893783159596",
   "quien": "ivan.belest",
   "texto": "Tubo",
@@ -136,6 +165,10 @@
    {
     "quien": "bio.andante",
     "texto": "@freirecancelas 😂 y luego no hay dinero para contratos. Qué te parece más injusto de todo?"
+   },
+   {
+    "quien": "freirecancelas",
+    "texto": "@bio.andante Es evidente, que los  Investigadores deberian estar protegidos y bien pagados."
    }
   ],
   "respondido": true,
@@ -339,6 +372,10 @@
    {
     "quien": "bio.andante",
     "texto": "@misterceboy qué entiendes tú por universal?"
+   },
+   {
+    "quien": "misterceboy",
+    "texto": "@bio.andante Universal y nacional son aspectos diferentes del sistema por tanto decir “universal no, nacional sí” es incorrecto porque una cosa no es excluyendo de la otra."
    }
   ],
   "respondido": true,
@@ -1550,6 +1587,10 @@
    {
     "quien": "bio.andante",
     "texto": "@marinetido_salvaje entonces como hacemos"
+   },
+   {
+    "quien": "marinetido_salvaje",
+    "texto": "@bio.andante no dejándoles entrar"
    }
   ],
   "respondido": true,
@@ -17937,6 +17978,10 @@
    {
     "quien": "bio.andante",
     "texto": "@zira_297 😂 y por la tarde sube la temperatura… igual que los gráficos"
+   },
+   {
+    "quien": "zira_297",
+    "texto": "@bio.andante sí, pero seguro que ellos bajan los gráficos del cambio climático. Sabes cómo? Poniéndolos en el suelo. :-)"
    }
   ],
   "respondido": true,
