@@ -664,7 +664,8 @@
   "18384577597215137": "pedido + aviso público",
   "17886178764526034": "pedido + aviso público",
   "17972195976195957": "pedido + aviso público",
-  "18039857471658015": "pedido + aviso público"
+  "18039857471658015": "pedido + aviso público",
+  "18060596513804475": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4202,6 +4203,11 @@
    "usuario": "liquenquimica",
    "clave": "TUBO",
    "pedido": "2026-11-18T12:03:29+00:00"
+  },
+  "40003507299297512": {
+   "usuario": "cuu_rrent_",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T13:04:06+00:00"
   }
  }
 }
