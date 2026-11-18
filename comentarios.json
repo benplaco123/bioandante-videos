@@ -1,6 +1,64 @@
 [
  {
   "red": "instagram",
+  "id": "18134907448689908",
+  "quien": "mari.sanhueza",
+  "texto": "Tubo",
+  "hora": "2026-11-18T18:38:09+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17996867733022228",
+  "quien": "lramosl",
+  "texto": "Es muy sensillo, si no eres capaz de pensar en el beneficio ajeno, pues piensa en el riego que coges tu.",
+  "hora": "2026-11-18T18:33:36+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
+  "red": "instagram",
+  "id": "18116536772600374",
+  "quien": "lazyass_punk",
+  "texto": "TUBO",
+  "hora": "2026-11-18T18:31:56+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18348221188248087",
+  "quien": "gemapasa",
+  "texto": "Mil gracias por explicarlo 👏👏👏👏",
+  "hora": "2026-11-18T18:25:20+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
+  "red": "instagram",
   "id": "18474682312138586",
   "quien": "queraltbarnat",
   "texto": "Tubo",
@@ -1441,6 +1499,18 @@
    {
     "quien": "@Bio.andante",
     "texto": "Muchos inmigrantes trabajan con papeles y pagan los mismos impuestos que tú. El vídeo va de los que no los tienen y enferman de algo contagioso, a esos qué hacemos?"
+   },
+   {
+    "quien": "@dm.0.",
+    "texto": "Si no tienen papeles como están aquí? 😅​@Bio.andante"
+   },
+   {
+    "quien": "@Bio.andante",
+    "texto": "@dm.0.pues por ejemplo llegan en pateras arriesgando sus vidas"
+   },
+   {
+    "quien": "@dm.0.",
+    "texto": "Pues siguiendo las ley marítima, a un náufrago se le rescata, se les da los primeros auxilios si son necesarios  y se le repatria, vamos lo normal... ​@Bio.andante"
    }
   ],
   "respondido": true,
@@ -1737,6 +1807,10 @@
    {
     "quien": "bio.andante",
     "texto": "@elena_mdsr lo de tu hermana es muy injusto y las listas de espera son un problema real. Pero eso se arregla con más médicos, no dejando sin tratar a alguien con TB que luego contagia a tu familia. Crees que la lista de espera es por los inmigrantes?"
+   },
+   {
+    "quien": "elena_mdsr",
+    "texto": "@bio.andante no, si los dejas donde tienen q estar, en centros de inmigración o de deportación no contagian a nadie."
    }
   ],
   "respondido": true,
@@ -3796,6 +3870,14 @@
    {
     "quien": "@Bio.andante",
     "texto": "A qué te refieres con los chinos? 😅"
+   },
+   {
+    "quien": "@jaimiepanal",
+    "texto": "​@Bio.andanteellos contaminan más."
+   },
+   {
+    "quien": "@Bio.andante",
+    "texto": "@jaimiepanalpor persona contaminamos casi igual"
    }
   ],
   "respondido": true,
