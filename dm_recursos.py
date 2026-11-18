@@ -5,7 +5,7 @@
 2. Esa persona escribe LISTO → si te sigue, recibe la imagen y las gracias; si no, un único aviso de que aún no te sigue.
 Todo queda en dm.json, para no escribir dos veces lo mismo a nadie. Con PRUEBA=1 no manda nada: solo dice lo que haría.
 """
-import os, json, re, unicodedata, datetime, urllib.request, urllib.parse
+import os, time, json, re, unicodedata, datetime, urllib.request, urllib.parse
 API = 'https://graph.facebook.com/v23.0/'
 T, U = os.environ['IG_TOKEN'], os.environ['IG_USER_ID']
 REPO = os.environ.get('GITHUB_REPOSITORY', 'benplaco123/bioandante-videos')
@@ -32,11 +32,12 @@ def todo(path, maxn=1000, **q):   # every page of a list (comments, conversation
 
 LISTO_RE = r'\b(LISTO|LISTA|LISTOO+|YA|HECHO|TE SIGO|YA TE SIGO|SIGUIENDO|DONE|OK)\b'
 
-TOPE = int(os.environ.get('TOPE', 14)); HECHOS = [0]; LIMITE = [False]   # at most this many messages and follow checks per run, so Meta's hourly limit is never hit
+TOPE = int(os.environ.get('TOPE', 14)); HECHOS = [0]; LIMITE = [False]; PUB = [0]; TOPE_PUB = int(os.environ.get('TOPE_PUB', 20))   # at most this many messages and follow checks per run, so Meta's hourly limit is never hit
 lleno = lambda: HECHOS[0] >= TOPE
 
 def manda(recipient, message):
     HECHOS[0] += 1
+    if not PRUEBA: time.sleep(3)   # spaced out: Meta cuts bursts of private replies
     if PRUEBA: print('  (prueba) mandaría a', recipient, str(message)[:70]); return {'message_id': 'prueba'}
     return call(f'{U}/messages', {'recipient': json.dumps(recipient), 'message': json.dumps(message)})
 
@@ -65,17 +66,22 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
 
 # 1b · a public reply under each comment already answered in private, once: so they know to look at their DMs
 PUBLICO = '¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌'
+PUBLICOS = [PUBLICO,   # several wordings, so hundreds of identical comments don't look like spam to Instagram
+  '¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌',
+  'Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌',
+  '¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁',
+  '¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌']
 try: YA = {c['id'] for c in json.load(open('comentarios.json')) if any('bio' in (x.get('quien') or '') and 'andante' in (x.get('quien') or '') for x in c.get('respuestas') or [])}
 except Exception: YA = set()
 for cid, estado in list(st['comentarios'].items()):
     if os.environ.get('AVISO_PUBLICO', '1') != '1': break   # on again 17 nov (asks to share); AVISO_PUBLICO=0 turns it off
-    if LIMITE[0] or HECHOS[0] >= TOPE: break   # the DMs go first: public replies only with the quota they leave
+    if PUB[0] >= TOPE_PUB: break   # own quota: Meta's limit on private replies does not stop the public ones (18 nov: 271 were waiting)
     if estado != 'pedido': continue
     if cid in YA: st['comentarios'][cid] = 'pedido + respondido a mano'; continue   # never answer the same comment twice
-    if lleno(): break
-    HECHOS[0] += 1
+    PUB[0] += 1; time.sleep(2)
     if PRUEBA: print('  (prueba) respondería en público a', cid); continue
-    r = call(f'{cid}/replies', {'message': PUBLICO})
+    r = call(f'{cid}/replies', {'message': PUBLICOS[int(cid) % len(PUBLICOS)]})
+    if '"code":4' in str(r) or 'is_transient' in str(r): print('aviso público: límite de Meta'); break   # stays «pedido», retried next run
     st['comentarios'][cid] = 'pedido + aviso público' if 'id' in r else 'pedido (aviso público falló)'
     print('aviso público', cid, 'ok' if 'id' in r else r)
 
