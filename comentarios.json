@@ -1,5 +1,29 @@
 [
  {
+  "red": "youtube",
+  "id": "UgzUSz9E_E_zNf1lGH14AaABAg",
+  "quien": "@jesseguajardo600",
+  "texto": "Estas pero bien mal, de seguro eres gay",
+  "hora": "2026-11-18T19:48:30Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
+  "red": "youtube",
+  "id": "Ugz002ke6cgRf3DBXDN4AaABAg",
+  "quien": "@vnsv69",
+  "texto": "Es increíble como tratan de justificar comportamientos humanos, con los de los animales, al rato van a querer justificar que una persona mata a algunos de  sus hijos, porque los animales también matan a algunos de sus hijos con la subjetividad, es increíble hasta dónde se puede llegar \nSomos humanos, criaturas con el cerebro más desarrollado que los demás seres de el planeta no los comportamos por los instintos.",
+  "hora": "2026-11-18T19:47:50Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
   "red": "instagram",
   "id": "18097648937680772",
   "quien": "bio.andante",
@@ -1835,7 +1859,7 @@
    },
    {
     "quien": "yolandutxa1",
-    "texto": "@bio.andante Vender como solidaridad ya no sólo la asistencia Universal a la inmigración irregilar, sino convertir nuestro sistema en insostenible por el \"turismo sanotario\""
+    "texto": "@bio.andante Vender como solidaridad ya no sólo la asistencia Universal a la inmigración irregular que no han aportado al sistema, sino tb convertir nuestro sistema en todavía más insostenible por el \"turismo sanitario \" procedente de todo el mundo, es lo mejor y más barato para nosotros. Puede ver que opina el Dtor David Andina premio nacional de medicina y lo que opina sobre la insostenibilidad del sistema por lo que viven cada día. Pero que sabrá él, verdad? Si España puede dar asistencia a miles de millones de personas del mundo entero, pq no hacerlo?😂"
    }
   ],
   "respondido": true,
@@ -1906,6 +1930,10 @@
    {
     "quien": "elena_mdsr",
     "texto": "@bio.andante noo,como en una cárcel, que es a donde vas cuando haces algo ilegal."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@elena_mdsr 😮😮"
    }
   ],
   "respondido": true,
@@ -13450,6 +13478,10 @@
    {
     "quien": "Bioandante",
     "texto": "Nicole Pukkett Cuallo y yo no hago ninguna propaganda solo explico lo que dice ese estudio científico que es la referencia actual"
+   },
+   {
+    "quien": null,
+    "texto": "Bioandante ?"
    }
   ],
   "respondido": true,
@@ -18762,6 +18794,10 @@
    {
     "quien": "bio.andante",
     "texto": "@luisbeltranvelazquez y qué médico es ese? Si todos han estudiado la misma ciencia 😅"
+   },
+   {
+    "quien": "luisbeltranvelazquez",
+    "texto": "@bio.andante los estudios están pagados por la industria farmaceutica como ya dijo marcia angell en su libro."
    }
   ],
   "respondido": true,
