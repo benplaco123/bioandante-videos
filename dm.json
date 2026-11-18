@@ -684,7 +684,8 @@
   "18110652398217370": "pedido + aviso público",
   "18098645927149008": "pedido + aviso público",
   "18474682312138586": "pedido + aviso público",
-  "18116536772600374": "pedido + aviso público"
+  "18116536772600374": "pedido + aviso público",
+  "18134907448689908": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4322,6 +4323,11 @@
    "usuario": "lazyass_punk",
    "clave": "TUBO",
    "pedido": "2026-11-18T18:34:44+00:00"
+  },
+  "3670783669748100": {
+   "usuario": "mari.sanhueza",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T18:45:21+00:00"
   }
  }
 }
