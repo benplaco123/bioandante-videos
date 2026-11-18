@@ -300,5 +300,31 @@
   "youtube": true,
   "prueba": false,
   "portada": "crispr-portada.jpg"
+ },
+ {
+  "nombre": "grupo-sanguineo-hijo",
+  "hora": "2026-12-02T20:36:00+01:00",
+  "video": "grupo-sanguineo-hijo.mp4",
+  "portada": "grupo-sanguineo-hijo-portada.jpg",
+  "texto": "¿Qué grupo sanguíneo puede tener tu hijo? 🩸\n\nDos padres del grupo A pueden tener un hijo del grupo 0, y no hay ningún misterio. Tu grupo depende de unos azúcares que tus glóbulos rojos llevan por fuera. Los pega una proteína, y de su gen tenemos dos copias: una de mamá y otra de papá. La copia A pega el azúcar A, la B pega el B, y la copia 0 está rota: no pega nada.\n\nCon una sola copia que funcione ya tienes la marca, así que puedes ser A y llevar un 0 escondido. Si los dos padres lo llevan, 1 de cada 4 hijos será del grupo 0.\n\n🧮 He hecho una calculadora: pones el grupo de los dos y te dice qué puede salir. Comenta GRUPO y te la mando por mensaje.\n\n(El Rh, el + o el −, va en otro gen, pero sigue la misma lógica.)\n\nFuente: Yamamoto et al., Nature 1990: la copia 0 del gen ABO tiene una deleción que deja la proteína sin funcionar.\n\n¿Tú de qué grupo eres? 👇\n\n#gruposanguineo #genetica #biologia #ciencia #divulgacion #herencia #embarazo #ciencianoesaburrida",
+  "titulo": "¿Qué grupo sanguíneo puede tener tu hijo? 🩸",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "par": "grupo-sanguineo-hijo"
+ },
+ {
+  "nombre": "grupo-sanguineo-hijo-b",
+  "hora": "2026-12-02T20:36:00+01:00",
+  "video": "grupo-sanguineo-hijo-b.mp4",
+  "portada": "grupo-sanguineo-hijo-b-portada.jpg",
+  "texto": "Tu hijo puede tener un grupo sanguíneo que no tenéis ni tu pareja ni tú 🧬\n\nNo es un error del laboratorio: es genética pura. Cada glóbulo rojo lleva por fuera unas marcas de azúcar: la A, la B, las dos o ninguna (grupo 0). Las pone una enzima, y su gen lo heredas por duplicado, uno de cada progenitor.\n\nEse gen tiene tres versiones: A, B y 0, que viene estropeada y no pone ninguna marca. Basta una versión que funcione para tener la marca… por eso mucha gente del grupo A o B lleva un 0 escondido sin saberlo.\n\nPadre A y madre B, cada uno con su 0 escondido: el bebé puede salir A, B, AB o 0. ¡Los cuatro!\n\n🧮 Comenta GRUPO y te mando mi calculadora: metes los dos grupos y ves todas las posibilidades.\n\n¿En tu familia ha pasado? Cuéntamelo 👇\n\n#sangre #genesyherencia #maternidad #paternidad #curiosidades #cienciaparatodos #bioandante",
+  "titulo": "Tu hijo puede tener un grupo sanguíneo que no tenéis ni tu pareja ni tú 🧬",
+  "instagram": true,
+  "facebook": false,
+  "youtube": false,
+  "prueba": true,
+  "par": "grupo-sanguineo-hijo"
  }
 ]
