@@ -169,6 +169,10 @@
    {
     "quien": "freirecancelas",
     "texto": "@bio.andante Es evidente, que los  Investigadores deberian estar protegidos y bien pagados."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@freirecancelas por desgracia no lo están"
    }
   ],
   "respondido": true,
@@ -393,6 +397,10 @@
    {
     "quien": "bio.andante",
     "texto": "@inma.carballo pedir seguro para entrar ya se hace con muchos visados. El lío es con quien ya está aquí sin papeles y enferma, a ese qué hacemos, lo dejamos sin tratar aunque contagie?"
+   },
+   {
+    "quien": "inma.carballo",
+    "texto": "@bio.andante pues una vez descubierto de vuelta y si pone en peligro a los demás es un delito,así estamos teniendo brotes de sarna,tuberculosis, escarlatina...pq no se les controlan las vacunas nada más entrar,no tendrían ni q pisar, automáticamente devuelta en el siguiente vuelo"
    }
   ],
   "respondido": true,
@@ -410,6 +418,10 @@
    {
     "quien": "bio.andante",
     "texto": "@inma.carballo y entonces que hacemos con ellos? que se ahoguen en el mar?"
+   },
+   {
+    "quien": "inma.carballo",
+    "texto": "@bio.andante multar a quienes los recogen y devolución al momento,así dejarían de venir y las mafias de tener negocio con ellos"
    }
   ],
   "respondido": true,
@@ -9577,23 +9589,6 @@
    {
     "quien": "bio.andante",
     "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "17897373810654564",
-  "quien": "sukainafi",
-  "texto": "tubo",
-  "hora": "2026-11-17T00:37:19+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
    }
   ],
   "respondido": true,
