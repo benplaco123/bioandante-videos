@@ -1,6 +1,35 @@
 [
  {
   "red": "instagram",
+  "id": "18642841312047001",
+  "quien": "carol.ariza.tamarozzi",
+  "texto": "Tubo",
+  "hora": "2026-11-18T09:08:48+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18345303760256852",
+  "quien": "comerenpaz.nutri",
+  "texto": "Que no entren si no tiene seguro",
+  "hora": "2026-11-18T08:49:11+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
+  "red": "instagram",
   "id": "17920064562265802",
   "quien": "im_alexcab",
   "texto": "Tubo",
@@ -1336,6 +1365,10 @@
    {
     "quien": "bio.andante",
     "texto": "Si, el decreto de 2012 dejó fuera a mucha gente y hasta 2018 no se volvió a la sanidad universal. Te pilló a ti o a alguien que conozcas?"
+   },
+   {
+    "quien": "albertohugorojas",
+    "texto": "@bio.andante fui a mi doctora, me dijo que por culpa del nuevo decreto,  me tendrán que cobrar la atención médica. Soy freelance,  justo se había terminado mi prestación por desempleo, unas semanas antes. Entonces tendría que ir a las SS y añadirme a la cartilla de mi madre o mi padre. Luego sacaron un documento, en el que se tenía que demostrar ser \"español\", en resumen. También más personas cercanas, estudiantes que trabajaron un tiempo y personas que regresaron de trabajar fuera. En fin un caos, que solo se enteraron sí tenían que ir al médico. Hoy poca conciencia de la salud comunitaria,  que es \"invisible\", pero nos cuida. Y toda persona en nuestra sociedad,  que pagar un cafe, compra algo o pone gasolina, paga impuestos,  que financia la sanidad, que es Universal, por ser un derecho humano."
    }
   ],
   "respondido": true,
@@ -1471,6 +1504,10 @@
    {
     "quien": "miruiz91",
     "texto": "@bio.andante eso les gustaría mucho pero no entienden que no se puede entrar en conflictos. Lo primero sería retirar el control de las fronteras externos algo que aprobó Europa y que está claro que nos perjudica directamente a España"
+   },
+   {
+    "quien": "comerenpaz.nutri",
+    "texto": "@bio.andante les ponemos en un vuelo para  casa y que pague el país de origen por no abordar sus fronteras"
    }
   ],
   "respondido": true,
