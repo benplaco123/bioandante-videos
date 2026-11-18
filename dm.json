@@ -598,26 +598,26 @@
   "18121532486000849": "pedido + aviso público",
   "18097990469167326": "pedido + aviso público",
   "18359497366175338": "pedido + aviso público",
-  "18121444459971937": "pedido",
-  "18001089564019067": "pedido",
-  "18056658653812812": "pedido",
-  "18118124186020579": "pedido",
-  "17920349169523776": "pedido",
-  "18495414988128466": "pedido",
-  "18129189943912667": "pedido",
-  "18005173478805555": "pedido",
-  "18228369409337050": "pedido",
-  "17968734390208306": "pedido",
-  "18110644646215484": "pedido",
-  "18469448017191086": "pedido",
-  "17880766197566202": "pedido",
-  "18002632707008959": "pedido",
-  "17886874851553739": "pedido",
-  "17955202467336450": "pedido",
-  "18117970394143559": "pedido",
-  "18111238388192673": "pedido",
-  "18122567753285048": "pedido",
-  "18126589454474526": "pedido",
+  "18121444459971937": "pedido + aviso público",
+  "18001089564019067": "pedido + aviso público",
+  "18056658653812812": "pedido + aviso público",
+  "18118124186020579": "pedido + aviso público",
+  "17920349169523776": "pedido + aviso público",
+  "18495414988128466": "pedido + aviso público",
+  "18129189943912667": "pedido + aviso público",
+  "18005173478805555": "pedido + aviso público",
+  "18228369409337050": "pedido + aviso público",
+  "17968734390208306": "pedido + aviso público",
+  "18110644646215484": "pedido + aviso público",
+  "18469448017191086": "pedido + aviso público",
+  "17880766197566202": "pedido + aviso público",
+  "18002632707008959": "pedido + aviso público",
+  "17886874851553739": "pedido + aviso público",
+  "17955202467336450": "pedido + aviso público",
+  "18117970394143559": "pedido + aviso público",
+  "18111238388192673": "pedido + aviso público",
+  "18122567753285048": "pedido + aviso público",
+  "18126589454474526": "pedido + aviso público",
   "17882660247555037": "pedido",
   "18091438697697096": "pedido",
   "18654510412015048": "pedido",
@@ -656,7 +656,8 @@
   "18130949458898283": "pedido",
   "18179912671453725": "pedido",
   "18103500689412147": "pedido",
-  "18149897467567595": "pedido"
+  "18149897467567595": "pedido",
+  "17920064562265802": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -4154,6 +4155,11 @@
    "usuario": "lizmarcostm",
    "clave": "TUBO",
    "pedido": "2026-11-18T07:34:59+00:00"
+  },
+  "2019772679272334": {
+   "usuario": "im_alexcab",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T08:10:35+00:00"
   }
  }
 }
