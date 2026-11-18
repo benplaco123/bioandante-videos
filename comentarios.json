@@ -1,6 +1,73 @@
 [
  {
   "red": "instagram",
+  "id": "18097648937680772",
+  "quien": "bio.andante",
+  "texto": "Ayudad a difundirlo dándole a 🔁 y mandándolo a alguien !!",
+  "hora": "2026-11-18T19:22:25+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Dos madres o dos padres va «contra la naturaleza»? Esto dice la biolo",
+  "enlace": "https://www.instagram.com/reel/Df5OBxBlcyi/"
+ },
+ {
+  "red": "instagram",
+  "id": "17913753225486251",
+  "quien": "aitorvailloguillen",
+  "texto": "👏👏👏👏 Si otras formas de relacionarse estan en la naturaleza...los humanos no somos menos!!!",
+  "hora": "2026-11-18T19:10:26+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@aitorvailloguillen y aunque no estuvieran pero bueno, ya que habla de rigor científico…"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@aitorvailloguillen gracias por tu comentario si te ha gustado comparte y dale a 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Dos madres o dos padres va «contra la naturaleza»? Esto dice la biolo",
+  "enlace": "https://www.instagram.com/reel/Df5OBxBlcyi/"
+ },
+ {
+  "red": "instagram",
+  "id": "18133548328697428",
+  "quien": "frivas_8",
+  "texto": "Tubo",
+  "hora": "2026-11-18T19:10:13+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18111614804096036",
+  "quien": "maldonadokmy",
+  "texto": "Tubo",
+  "hora": "2026-11-18T19:07:45+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18134907448689908",
   "quien": "mari.sanhueza",
   "texto": "Tubo",
@@ -577,6 +644,10 @@
    {
     "quien": "inma.carballo",
     "texto": "@bio.andante multar a quienes los recogen y devolución al momento,así dejarían de venir y las mafias de tener negocio con ellos"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@inma.carballo son personas y tal"
    }
   ],
   "respondido": true,
@@ -1811,6 +1882,14 @@
    {
     "quien": "elena_mdsr",
     "texto": "@bio.andante no, si los dejas donde tienen q estar, en centros de inmigración o de deportación no contagian a nadie."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@elena_mdsr encerrados como en un zoo"
+   },
+   {
+    "quien": "elena_mdsr",
+    "texto": "@bio.andante noo,como en una cárcel, que es a donde vas cuando haces algo ilegal."
    }
   ],
   "respondido": true,
@@ -3878,6 +3957,22 @@
    {
     "quien": "@Bio.andante",
     "texto": "@jaimiepanalpor persona contaminamos casi igual"
+   },
+   {
+    "quien": "@jaimiepanal",
+    "texto": "​@Bio.andanterevisa esos números."
+   },
+   {
+    "quien": "@jaimiepanal",
+    "texto": "​@Bio.andanteSegún datos del Global Carbon Budget (citados en 2026), China emitió alrededor de 12.300 millones de toneladas de CO₂ fósil (cerca del 31,8 % del total mundial), frente a unos 220 millones de toneladas de España (menos del 0,6 %)..... claramente iguales 😂😂😂😂"
+   },
+   {
+    "quien": "@Bio.andante",
+    "texto": "@jaimiepanaldividido por habitante"
+   },
+   {
+    "quien": "@jaimiepanal",
+    "texto": "​@Bio.andanteclaro, por chinos....😂😂😂😂 Tócate los webs...."
    }
   ],
   "respondido": true,
@@ -17226,6 +17321,10 @@
    {
     "quien": "israzxr",
     "texto": "@bio.andante no tengo, pero tengo la experiencia de mi ex-mujer (38 años) y su hija ( 18 años) las dos empezaron con molestias y sangrados a los meses de la segunda dosis y operadas en menos de un año, y múltiples amistades femeninas con problemas de menstruación."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@israzxr siento la experiencia pues"
    }
   ],
   "respondido": true,
