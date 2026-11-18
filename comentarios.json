@@ -1,13 +1,71 @@
 [
  {
+  "red": "youtube",
+  "id": "UgyGz_9dOLTCeY5R8ft4AaABAg",
+  "quien": "@PabloKumul-w7c",
+  "texto": "No es Par unir grupos... Si para evitar peleas... Una familia es en pareja otro tipo de relación no hay que rechazarla pero hay que darle nombre nuevo y propio...",
+  "hora": "2026-11-18T22:42:35Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
+  "red": "youtube",
+  "id": "UgzviqDGPqtwChNH6LZ4AaABAg",
+  "quien": "@PabloKumul-w7c",
+  "texto": "En la naturaleza el montar a otro es para sometimiento... No hay que tergiversar cosas...",
+  "hora": "2026-11-18T22:39:34Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
+  "red": "youtube",
+  "id": "UgwWwOzyudowfhnW6Wd4AaABAg",
+  "quien": "@emcoga7254",
+  "texto": "Dicen que existen 1.5k de especies con comportamiento homosexual en la naturaleza pero se le olvida informar que existen entre 1.2M y 1.5M de especies de animales en la tierra 😂",
+  "hora": "2026-11-18T22:36:14Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
+  "red": "instagram",
+  "id": "18172377484465324",
+  "quien": "hugo.melo.83",
+  "texto": "En muchísimos países, la inmensa mayoría, la sanidad no es universal ni gratuita, y no me consta que, en USA, por ejemplo, hayan pandemias o la gente se esté muriendo.",
+  "hora": "2026-11-18T22:21:39+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@hugo.melo.83 pues te consta mal. Mucha gente sí que muere por no poder acceder a una sanidad pública de calidad"
+   }
+  ],
+  "respondido": true,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
   "red": "instagram",
   "id": "18101121494537346",
   "quien": "felicianogmoreno",
   "texto": "Lo que no es natural es que alguien con esa indigencia intelectual pueda gobernar",
   "hora": "2026-11-18T22:12:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@felicianogmoreno jajaja comparte si te ha gustado!"
+   }
+  ],
+  "respondido": true,
   "video": "¿Dos madres o dos padres va «contra la naturaleza»? Esto dice la biolo",
   "enlace": "https://www.instagram.com/reel/Df5OBxBlcyi/"
  },
@@ -102,6 +160,10 @@
    {
     "quien": "@jennie_9801_pink",
     "texto": "La homosexualidad es algo natural hasta que los animales llegan a desarrollar, eso es lo que estos videos quieren decir"
+   },
+   {
+    "quien": "@vnsv69",
+    "texto": "@j@jennie_9801_pink la homosexualidad es natural eso es lo que tú entendiste de el video  literalmente los animales, sólo ceden a sus instintos, no están pensando que son homosexuales o heterosexuales, no me metas a esa clase de falacias por favor.  \n\nIntentar justificar nuestros comportamientos a través de los comportamientos animales, no es algo lógico  porque de ser así, se podría defender cualquier atrocidad, cayendo en la relatividad y no digo que ser homosexuales, algo malo, ni bueno son los gustos de la persona  nuestro cerebro está más desarrollado, no nos guiamos por instintos."
    }
   ],
   "respondido": false,
@@ -2023,6 +2085,10 @@
    {
     "quien": "elena_mdsr",
     "texto": "@bio.andante entrar ilegalmente en un país es un delito, que creo que se te ha olvidado ese detalle. Y no puedes dejar que gente indocumentada d ella que no sabes los antecedentes campe por ahí a sus anchas."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@elena_mdsr pues nada un disparo a la pateras y que se hundan en el mar"
    }
   ],
   "respondido": true,
