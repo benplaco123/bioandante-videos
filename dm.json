@@ -499,7 +499,10 @@
   "17994351470858162": "fallo: {'error': '{\"error\":{\"message\":\"(#100) El comentario no es v\\\\u00e1lido para una respuesta privada\",\"type\":\"OAuthExcepti",
   "17972010747191499": "pedido",
   "17917501563507375": "pedido",
-  "17877701742638028": "pedido"
+  "17877701742638028": "pedido",
+  "18093687047210474": "pedido",
+  "18085113713389575": "pedido",
+  "18137000575678688": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -3217,6 +3220,21 @@
    "usuario": "paulaandrea_ossa",
    "clave": "TUBO",
    "pedido": "2026-11-18T01:36:52+00:00"
+  },
+  "2095089414458436": {
+   "usuario": "ceciliapascuan",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T01:47:09+00:00"
+  },
+  "1860878338276912": {
+   "usuario": "eneiseou",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T01:47:11+00:00"
+  },
+  "1460960298856916": {
+   "usuario": "sar_turo",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T01:47:15+00:00"
   }
  }
 }
