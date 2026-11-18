@@ -22,9 +22,10 @@ jobs:
             python3 publicar.py || true
             # Meta allows this app ~200 calls an hour: DMs every 10 min, the comments page every 30 min
             [ $((n % 2)) -eq 0 ] && { python3 dm_recursos.py || true; }
-            [ $((n % 6)) -eq 0 ] && { python3 comentarios.py || true; }
+            # replies asked from the web go out every loop; reading all the comments, every 30 min
+            if [ $((n % 6)) -eq 0 ]; then python3 comentarios.py || true; else python3 comentarios.py enviar || true; fi
             n=$((n + 1))
-            git add cola.json hecho.json comentarios.json respuestas.json dm.json 2>/dev/null; git diff --cached --quiet || (git commit -qm "publicado" && for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done)
+            git add cola.json hecho.json comentarios.json enviadas.json dm.json 2>/dev/null; git diff --cached --quiet || (git commit -qm "publicado" && for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done)
             [ $(date +%s) -ge $fin ] && break
             sleep 300
           done

@@ -44,26 +44,33 @@ def ya_dicho(a):
         return any((x.get('from') or {}).get('id') == PID and (x.get('message') or '').strip() == t for x in call(f"{a['id']}/comments?fields=from,message&limit=100", tok=PT)['data'])
     except Exception: return False
 
+def clave(a): return a['id'] + '|' + ('ocultar' if a.get('ocultar') else (a.get('texto') or '').strip())
+
 def acciones():
     if not os.path.exists('respuestas.json'): return
-    pend = json.load(open('respuestas.json')); quedan = []; vistos = set()
+    # respuestas.json is written only by the web; what the bot has done goes to enviadas.json, so a reply sent
+    # from the web while the bot is busy is never overwritten, and the web knows at once what is already sent.
+    pend = json.load(open('respuestas.json'))
+    env = json.load(open('enviadas.json')) if os.path.exists('enviadas.json') else {}
+    hora = __import__('datetime').datetime.utcnow().isoformat()[:16]
     for a in pend:
-        if (a['id'], a.get('texto'), a.get('ocultar')) in vistos: continue   # never send the same reply twice
-        vistos.add((a['id'], a.get('texto'), a.get('ocultar')))
+        k = clave(a)
+        if k in env: continue   # never send the same reply twice
         if not a.get('ocultar') and ya_dicho(a):   # last check against the network itself: is this exact reply already there?
-            print('ya estaba, no se repite', a['red']); continue
+            print('ya estaba, no se repite', a['red']); env[k] = {'id': a['id'], 'hora': hora}; continue
         try:
             if a['red'] == 'youtube':
                 if a.get('ocultar'): yt(f"comments/setModerationStatus?id={a['id']}&moderationStatus=heldForReview", None, 'POST')
                 else: yt('comments?part=snippet', {'snippet': {'parentId': a['id'], 'textOriginal': a['texto']}})
-                print('hecho youtube'); continue
+                print('hecho youtube'); env[k] = {'id': a['id'], 'hora': hora}; continue
             ig = a['red'] == 'instagram'; tok = IGT if ig else PT
             if a.get('ocultar'): call(a['id'], {'hide': 'true'} if ig else {'is_hidden': 'true'}, tok)
             else: call(f"{a['id']}/{'replies' if ig else 'comments'}", {'message': a['texto']}, tok)
-            print('hecho', a['red'], 'ocultar' if a.get('ocultar') else 'respuesta')
+            print('hecho', a['red'], 'ocultar' if a.get('ocultar') else 'respuesta'); env[k] = {'id': a['id'], 'hora': hora}
         except Exception as e:
-            a['error'] = str(getattr(e, 'read', lambda: e)())[:200]; quedan.append(a); print('FALLO', a['error'])
-    json.dump(quedan, open('respuestas.json', 'w'), ensure_ascii=False, indent=1)
+            err = str(getattr(e, 'read', lambda: e)())[:300]; print('FALLO', err)
+            if 'is_transient":false' in err or 'code":100' in err: env[k] = {'id': a['id'], 'hora': hora, 'error': err}   # Meta refuses for good: don't retry
+    json.dump(env, open('enviadas.json', 'w'), ensure_ascii=False, indent=0)
 
 def recoge():
     out = []
@@ -108,4 +115,5 @@ def recoge():
 if __name__ == '__main__':
     try: YTT = yt_tok()
     except Exception as e: print('YouTube clave:', e)
-    acciones(); recoge()
+    acciones()
+    if 'enviar' not in __import__('sys').argv: recoge()
