@@ -536,7 +536,12 @@
   "17945120214381301": "pedido",
   "17994135320861166": "pedido",
   "18118444217012560": "pedido",
-  "18436277050151711": "pedido"
+  "18436277050151711": "pedido",
+  "18359188426170155": "pedido",
+  "17973054687180880": "pedido",
+  "17961648021260745": "pedido",
+  "18653826385009789": "pedido",
+  "18084060122374995": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -3439,6 +3444,31 @@
    "usuario": "hernandezyordanagomez",
    "clave": "TUBO",
    "pedido": "2026-11-18T02:58:02+00:00"
+  },
+  "1476050317989659": {
+   "usuario": "paulacamiladiaz",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T03:09:11+00:00"
+  },
+  "1480083170893138": {
+   "usuario": "berrocalpilco",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T03:09:16+00:00"
+  },
+  "1163672306115866": {
+   "usuario": "malevar4",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T03:09:21+00:00"
+  },
+  "1169985552654625": {
+   "usuario": "eliastejadareyes",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T03:09:25+00:00"
+  },
+  "2502506016906900": {
+   "usuario": "luiseduardobermudezramirez",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T03:09:30+00:00"
   }
  }
 }
