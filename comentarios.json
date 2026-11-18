@@ -1,13 +1,64 @@
 [
  {
   "red": "instagram",
+  "id": "18114893783159596",
+  "quien": "ivan.belest",
+  "texto": "Tubo",
+  "hora": "2026-11-18T16:45:54+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Df2h75fiJNv/"
+ },
+ {
+  "red": "instagram",
+  "id": "17914112562576852",
+  "quien": "owl2.104",
+  "texto": "La Tierra tiene 4.500 millones de años y su clima siempre ha ido por ciclos naturales (por el Sol, los volcanes y las corrientes marinas).\n​Solo en los últimos 15.000 años ya hubo grandes cambios sin intervención humana:\n​Hace ~12.800 años: Vuelta repentina al frío glacial durante más de mil años.\n​Siglos X–XIII: Época cálida en la que los vikingos cultivaban en Groenlandia.\n​Siglos XIV–XIX (Pequeña Edad de Hielo): Enfriamiento por baja actividad solar y volcanes; se helaban los ríos europeos.\n​La frase clave:\n​\"La Tierra lleva 4.500 millones de años alternando frío y calor por ciclos naturales, y nosotros solo tenemos datos globales de alta precisión de los últimos 60 años. Con una muestra tan pequeña, es muy posible que lo que vemos sea parte de otro ciclo natural que incluso pueda volver a enfriarse.\"",
+  "hora": "2026-11-18T16:28:30+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
+  "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
+ },
+ {
+  "red": "instagram",
+  "id": "18170695999478563",
+  "quien": "any_melg",
+  "texto": "Tubo",
+  "hora": "2026-11-18T16:03:53+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18077671508775151",
   "quien": "kattshky",
   "texto": "Tubo",
   "hora": "2026-11-18T15:57:59+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -18,8 +69,13 @@
   "texto": "Tubo",
   "hora": "2026-11-18T15:57:48+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -76,8 +132,13 @@
   "texto": "Tal cual, pero eso sí que no falten toros, caza, partidos de la NFL, Gran Premio Formula 1.",
   "hora": "2026-11-18T14:41:33+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@freirecancelas 😂 y luego no hay dinero para contratos. Qué te parece más injusto de todo?"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Récord de inversión o récord de precariedad? El balance de la cienc",
   "enlace": "https://www.instagram.com/reel/Df0Koe9j-VV/"
  },
@@ -122,8 +183,17 @@
   "texto": "La sanidad para los españoles y si la tuberculosis es una urgencia de salud pública pero que vengan aquí a curarse enfermedades sin haber cotizado no porque acabaremos con nuestra sanidad",
   "hora": "2026-11-18T14:16:56+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@cande7362 el problema es que la tuberculosis no espera a ver si has cotizado. Si alguien con TB no va al médico por miedo a la factura, contagia en el metro o en el trabajo a gente que sí ha cotizado. Cómo lo separarías tú en la práctica?"
+   },
+   {
+    "quien": "cande7362",
+    "texto": "@bio.andante por eso lo digo. Es un problema de sanidad pública y hay que actuar"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -180,8 +250,13 @@
   "texto": "#VotarIzquierda por la sanidad pública",
   "hora": "2026-11-18T13:12:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@mariasuarezs14 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -243,8 +318,13 @@
   "texto": "❤️💛💜 sanidad pública 💪💪💪",
   "hora": "2026-11-18T12:54:08+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@cardenas_vintage 💪 compártelo con 🔁 para que le llegue a más gente"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -255,8 +335,13 @@
   "texto": "Ademas “universal” no es eso",
   "hora": "2026-11-18T12:41:46+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@misterceboy qué entiendes tú por universal?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3CHgynewU/"
  },
@@ -267,8 +352,13 @@
   "texto": "Cualquier persona que viva en España tiene que tener un seguro médico si es extranjero, y que pongan controles a que esa gente  los presente, porque igual que saben ir a pedir al asistente social las pagas y a pedir el empadronamiento donde no viven pues que les controlen de una vez los seguros médicos como nos hacen a los demás cuando vamos a otros países",
   "hora": "2026-11-18T12:36:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@inma.carballo pedir seguro para entrar ya se hace con muchos visados. El lío es con quien ya está aquí sin papeles y enferma, a ese qué hacemos, lo dejamos sin tratar aunque contagie?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -279,8 +369,13 @@
   "texto": "Es que no debería entrar nadie que no tenga contrato de trabajo y por lo tanto ya estaría dentro de la seguridad social...",
   "hora": "2026-11-18T12:35:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@inma.carballo y entonces que hacemos con ellos? que se ahoguen en el mar?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -325,8 +420,13 @@
   "texto": "El truco es hacerle creer l enfermedad a la persona y que el negocio prospere...",
   "hora": "2026-11-18T11:46:38+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "El VIH se ve al microscopio y se mide en sangre, no es creencia 😅 Qué te hace pensar eso?"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -354,8 +454,13 @@
   "texto": "Así es",
   "hora": "2026-11-18T11:44:39+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@maribelmoraledanavarro 🙌 mándaselo a alguien que se dedique a la ciencia, seguro que se siente identificado"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Récord de inversión o récord de precariedad? El balance de la cienc",
   "enlace": "https://www.instagram.com/reel/Df0Koe9j-VV/"
  },
@@ -366,8 +471,17 @@
   "texto": "Ya sabemos que la ultradesecha es incompatible con la ciencia",
   "hora": "2026-11-18T11:37:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@rael_arlezzi en este caso es más un tema de salud pública que de ideología. Hasta la OMS lo dice claro, lo contagioso se trata a todos. Has visto a alguien de derechas defenderlo?"
+   },
+   {
+    "quien": "rael_arlezzi",
+    "texto": "@bio.andante si, lo llaman prioridad nacional"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -436,8 +550,13 @@
   "texto": "Es de sentido común. Lo que no tienen ni PP ni Vox",
   "hora": "2026-11-18T10:03:42+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "comparte si te ha gustado, gracias!"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -465,8 +584,13 @@
   "texto": "Todas a votar! Futuro regenerativo y progresista! 🍀",
   "hora": "2026-11-18T09:23:32+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@ampudiabeatriz 🙌 compártelo con 🔁 para que llegue a más gente"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -494,8 +618,13 @@
   "texto": "Que no entren si no tiene seguro",
   "hora": "2026-11-18T08:49:11+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@comerenpaz.nutri y a los que ya están dentro y enferman que? que es lo que más preocupa para el contagio"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -577,8 +706,13 @@
   "texto": "El 29 de Noviembre vota Progresista. Defendamos nuestros derechos",
   "hora": "2026-11-18T06:50:33+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@vegamarathon 🙌 si quieres echar una mano, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -623,8 +757,13 @@
   "texto": "si claro  importante.",
   "hora": "2026-11-18T06:21:15+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "🙌 y si te parece importante compártelo con 🔁, que hay mucha gente que todavía no lo sabe"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -1004,8 +1143,13 @@
   "texto": "universal siempre porque un médico no debe de decirle que no porque no puede pagar...",
   "hora": "2026-11-18T02:10:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@gabrielcat240 y encima sale más barato tratar pronto que llegar a urgencias en las últimas. Lo sabías?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3CHgynewU/"
  },
@@ -1147,8 +1291,13 @@
   "texto": "Puedo pedir un vecino con papeles y que parque los mismo impuestos que yo??",
   "hora": "2026-11-18T00:44:19Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Muchos inmigrantes trabajan con papeles y pagan los mismos impuestos que tú. El vídeo va de los que no los tienen y enferman de algo contagioso, a esos qué hacemos?"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/ulWQgR2UK6w"
  },
@@ -1210,8 +1359,13 @@
   "texto": "Cada inmigrantes que tenga su seguro",
   "hora": "2026-11-18T00:39:57+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Y si no puede pagarlo y tiene algo contagioso? Ahí está la clave del vídeo"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.facebook.com/reel/1651212306444182/"
  },
@@ -1273,8 +1427,13 @@
   "texto": "La medicina preventiva es una cosa y la cirugía programada es otra. Las enfermedades de declaración obligatoria deben tener cobertura universal por el bien de la comunidad, no por solidaridad. En cambio, las prótesis de cadera, los marcapasos, las cataratas, la atención al ictus, la hemodiálisis, es muy costosa, no es sostenible y la limitación de su acceso exclusivamente a los contribuyentes y a los nacionales no repercute en la calidad de vida de estos.",
   "hora": "2026-11-18T00:09:59+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@fernanvazquezg muy buen matiz, lo de declaración obligatoria tiene toda la lógica. Pero ojo que un ictus o una diálisis sin atender acaba en urgencias igual y sale más caro. Dónde pondrías tú la raya?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3CHgynewU/"
  },
@@ -1336,8 +1495,13 @@
   "texto": "Pues que paguen un seguro privado, y el que no quiera pagarlo fuera, y el que no tenga papeles fuera.\n\nSentido común y se solucionan los problemas creados por la estupidez.",
   "hora": "2026-11-17T23:46:33Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Y el que no tiene papeles y no se va, pero tiene tuberculosis? Mientras sigue aquí contagia igual. Cómo lo harías?"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/HkCBwND-5SY"
  },
@@ -1365,8 +1529,13 @@
   "texto": "Si, claro... 😂😂😂",
   "hora": "2026-11-17T23:45:05+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@yolandutxa1 😂 no te lo crees? qué parte?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -1414,6 +1583,10 @@
    {
     "quien": "elena_mdsr",
     "texto": "@bio.andante Sisi, pero mi hermana que lleva un año con la rodilla hecha fosfatina también es una persona. Y los de Ceuta y Canarias que viven allí y tienen que aguantar robos y violaciones tb son personas. Y los profesores que tienen que aguantar a niños moros de 10 años riéndose de ellos en clase en otro idioma también son personas. Si quieren beneficios que los luchen en sus países."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@elena_mdsr lo de tu hermana es muy injusto y las listas de espera son un problema real. Pero eso se arregla con más médicos, no dejando sin tratar a alguien con TB que luego contagia a tu familia. Crees que la lista de espera es por los inmigrantes?"
    }
   ],
   "respondido": true,
@@ -1749,8 +1922,13 @@
   "texto": "Siempre es más barato prevenir que curar",
   "hora": "2026-11-17T21:16:39Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Exacto, y con la tuberculosis más todavía 🙌 Si te ha gustado compártelo con quien lo dude"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/HkCBwND-5SY"
  },
@@ -2001,6 +2179,14 @@
    {
     "quien": "jf_alegre",
     "texto": "@bio.andante por ejemplo. Con no remolcar las y devolverlas a su país en su caso ya es un paso."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@jf_alegre eso no se puede hacer. Llegan muchos al borde de la muerte 😓"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@jf_alegre @miruiz91 @comerenpaz.nutri pues igual la discusión es de fronteras, pero el vídeo va de otra cosa, del que ya está aquí y tose con tuberculosis. A ese le tratamos o no?"
    }
   ],
   "respondido": true,
@@ -3456,8 +3642,13 @@
   "texto": "Díselo a los chinos, usa..... etcétera.",
   "hora": "2026-11-17T14:58:45Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "A qué te refieres con los chinos? 😅"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/76NK4OAgwms"
  },
@@ -3840,8 +4031,13 @@
   "texto": "Abascal es un monigote sin estudios ni profesionalidad",
   "hora": "2026-11-17T13:34:53+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@pasospe3 sin estudios o con estudios, lo que no puede es decir que 4 científicos valen lo mismo que 3.000. Tú cómo lo explicarías?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 «Tú te fías de unos y habrá otros». Abascal en La Revuelta. Fuimos a",
   "enlace": "https://www.instagram.com/p/Dfx1xwulhWg/"
  },
@@ -5751,6 +5947,10 @@
    {
     "quien": "patrick.dextre",
     "texto": "@brayangueda xdd"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@patrick.dextre @brayangueda 😂😂 os ha llegado bien el DM?"
    }
   ],
   "respondido": true,
@@ -7903,6 +8103,10 @@
    {
     "quien": "nicoleee.qd",
     "texto": "@bio.andante mil gracias!"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@nicoleee.qd a ti 🙌 si te sirve mándaselo a alguien del labo"
    }
   ],
   "respondido": true,
@@ -9197,6 +9401,10 @@
    {
     "quien": "yhb_wls.1",
     "texto": "@bio.andante  donde??"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@yhb_wls.1 mira en solicitudes de mensajes, a veces se queda escondido ahí 📩"
    }
   ],
   "respondido": true,
@@ -9807,6 +10015,10 @@
    {
     "quien": "juaaan.paaablo",
     "texto": "@bio.andante listo"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@juaaan.paaablo 🙌 si te sirve pásaselo a alguien del labo con 🔁"
    }
   ],
   "respondido": true,
@@ -13000,6 +13212,18 @@
    {
     "quien": "Bioandante",
     "texto": "Las «leyes de Hamer» no tienen ninguna prueba y han costado vidas. El VIH se ha aislado, secuenciado y fotografiado al microscopio."
+   },
+   {
+    "quien": null,
+    "texto": ""
+   },
+   {
+    "quien": null,
+    "texto": ""
+   },
+   {
+    "quien": null,
+    "texto": ""
    }
   ],
   "respondido": true,
@@ -15879,6 +16103,10 @@
    {
     "quien": "bio.andante",
     "texto": "@pedrocuerpo a mí que la gente sepa leer un dato 😅 por eso pongo el estudio y no lo que diga un político. Y a ti qué te interesa?"
+   },
+   {
+    "quien": "pedrocuerpo",
+    "texto": "@bio.andante no hablaba de ti… me apuntaba al siguiente lector del texto para ayudarte con el algoritmo 😉😁🍀"
    }
   ],
   "respondido": true,
@@ -16064,6 +16292,14 @@
    {
     "quien": "hanik0_0",
     "texto": "@bio.andante no, que todos hagan algo, pero sobretodo los que las CO2 emiten, no?"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Por persona emitimos casi igual que china !"
+   },
+   {
+    "quien": "hanik0_0",
+    "texto": "@bio.andante por persona en el mundo, entiendo"
    }
   ],
   "respondido": true,
@@ -16763,6 +16999,10 @@
    {
     "quien": "bio.andante",
     "texto": "@israzxr me alegro de que estés bien 🙂 efectos graves hay pero son muy raros y se vigilan, por eso se pillaron los trombos de AstraZeneca. Lo del cáncer de ovario no sale en ningún estudio, si tienes fuente pásamela. Tienes la fuente?"
+   },
+   {
+    "quien": "israzxr",
+    "texto": "@bio.andante no tengo, pero tengo la experiencia de mi ex-mujer (38 años) y su hija ( 18 años) las dos empezaron con molestias y sangrados a los meses de la segunda dosis y operadas en menos de un año, y múltiples amistades femeninas con problemas de menstruación."
    }
   ],
   "respondido": true,
@@ -16801,6 +17041,10 @@
    {
     "quien": "bio.andante",
     "texto": "@miguelangellopez191 China es el que más emite si, aunque por persona menos que EEUU. Y a la vez es el que más renovables está poniendo, curioso. Qué medida te parecería justa para todos?"
+   },
+   {
+    "quien": "miguelangellopez191",
+    "texto": "@bio.andante jajajajajj...hombre claro, en China hay 1.400 millones de habitantes y en EEUU hay 350 millones de habitantes...China contamina el 31,8% y es el campeón absoluto de contaminación mundial y nadie le dice nada, pero porqué le defendéis?? Le compras los molinos y las placas a un país que es el principal causante de la contaminación mundial y te parece bien?? En China las renovables son un 10% y un 12% el resto entre centrales de carbón y nucleares que aquí las tenemos prohibidísimas y te parece normal??...cuando China tenga un 80% en renovables y deje de quemar carbón, que nos está asfixiando a todos, entonces le compras, pero por el momento en China ni se plantean nada sobre el cambio climático, les da igual, van a seguir quemando carbón y emitiendo millones y millones de toneladas de CO2 mientras haya gente como tú que, aún con datos, los seguís defendiendo....me quejo que ha subido el nivel de CO2, pero le sigo comprando y alabando a quien lo produce, de verdad le ves lógica a eso??..."
    }
   ],
   "respondido": true,
@@ -16939,6 +17183,10 @@
    {
     "quien": "bio.andante",
     "texto": "@julitovilla9 @halsand13 menudo debate os habéis montado 😂 Julito con las fechas tienes razón, pero a Galileo le dieron la razón las pruebas, no el paso del tiempo. Con el clima qué prueba echas en falta?"
+   },
+   {
+    "quien": "julitovilla9",
+    "texto": "@bio.andante normalmente se aprende más en el debate que en@las conclusiones, al menos en mi experiencia. \n\nYo no soy científico pero en mi humildísima opinión. Primero: Yo creo que el cambio climático está siendo utilizado desde corrientes económicas y políticas en beneficio propio. En segundo lugar muchas medidas me parecen erráticas y que realmente contradicen la urgencia climática, de haberla. Creo que hay un gran agujero negro en lo que respecta a las variaciones climatológicas históricas no antropogénicas,  y que no se tienen en cuenta en modelos a futuro. \n\nPara empezar esas tres, no está mal."
    }
   ],
   "respondido": true,
@@ -16952,8 +17200,17 @@
   "texto": "Ese equipo de investigadores que revisaron los estudios eran todos del IPCC?",
   "hora": "2026-11-11T23:22:11+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@carlos_nightwatch no, es de Lynas, Houlton y Perry, de la Universidad de Cornell, y está revisado por pares. Cualquiera puede repetir la búsqueda."
+   },
+   {
+    "quien": "carlos_nightwatch",
+    "texto": "@bio.andante pero es falso que todos los científicos digan que el calentamiento global sea antropogénico. Ademas  la temperatura global lleva más de 12000 años aumentado y no había industria ni emisiones de CO2"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17050,8 +17307,13 @@
   "texto": "De todas formas, el hecho de que haya consenso no dice que eso sea cierto, es una falacia en si misma. Que oye, para mi si hay calentamiento hecho por el aer humano, pero es una falacia y hay que tenerla en cuenta",
   "hora": "2026-11-11T23:14:23+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@raulruizbolivar el consenso no es la prueba, es que miles de pruebas distintas dicen lo mismo. Si 9 médicos de 10 te dan el mismo diagnóstico te fías del décimo?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17062,8 +17324,17 @@
   "texto": "Tenemos datos fiables de 60 años, y un ciclo del sol son 250 años..",
   "hora": "2026-11-11T23:12:42+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@owl2.104 el Sol se mide con satélites desde el 78 y no ha subido, incluso ha bajado un poco mientras la temperatura sube. Y manchas solares se cuentan desde 1610. Qué te falta para descartar el Sol?"
+   },
+   {
+    "quien": "owl2.104",
+    "texto": "@bio.andante Si nos quitamos de en medio la variable humana y miramos únicamente cómo funciona la naturaleza, cabe la posibilidad real de que, dependiendo de cómo coincidan los ciclos —como una baixada prolongada de la actividad solar o una época de gran actividad volcánica—, podamos encontrarnos con ciclos de enfriamiento temporal en lugar de un calentamiento constante. Como los datos directos detallados que tenemos apenas cubren unas seis décadas, separar qué parte de lo que medimos responde a dinámicas naturales de enfriamiento o calentamiento a largo plazo sigue siendo un rompecabezas enorme.\""
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17272,8 +17543,17 @@
   "texto": "A un seguidor de Abascal da igual los datos contrastados que le presentes, ellos creen ciegamente en el relato que les exponen y es un tema imposible de hacer. Su ideología va ligada a su personalidad y asumir que les están engañando es un golpe tan duro psicológico que para ellos les estamos mintiendo, en resumidas cuentas, funcionan como una secta muy a mi pesar.",
   "hora": "2026-11-11T23:02:24+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@davis_m4 puede ser, pero aquí me han escrito votantes de Vox diciendo que el vídeo les ha convencido. Con datos y sin insultos se llega a más gente de la que parece. Tú has convencido alguna vez a alguien?"
+   },
+   {
+    "quien": "davis_m4",
+    "texto": "@bio.andante he tenido cientas de conversaciones con educación para acabar siendo tratado con condescendencia como si todas mis opiniones fueran sesgadas y llegado a ser tratado como un analfabeto hasta haciendo comentarios en mi campo de estudio. Quizá la paciencia se me ha terminado."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17330,8 +17610,13 @@
   "texto": "Vamos a darles tiempo a sus votantes para asimilar lo del cambio climatico, acaban de descubrir que la tierra es redonda🙈",
   "hora": "2026-11-11T22:05:44+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@ki_runfull 😂😂 poco a poco"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17421,6 +17706,10 @@
    {
     "quien": "bio.andante",
     "texto": "@michaelkbuck they took a random sample of 3,000 out of 88,125 papers, that is how sampling works. And searching all of them for sceptical ones they found only 28. What would convince you?"
+   },
+   {
+    "quien": "michaelkbuck",
+    "texto": "@bio.andante I guess my point is that I won’t be convinced by an argument that says “more scientists/papers support this theory rather than that theory” because scientists can be mistaken. There are many historical examples where a majority consensus was in fact false, and the numerical minority of scientists were correct. So instead of the numbers, I think it is about getting into the details of the theories being discussed. In particular with the theory of climate change being proposed here, I am skeptical of the data used to establish warming trends because there is not a consistent source of data for different time periods or places. To remediate this problem the models make projections and assumptions which are not certain, and I think undermines their credibility; also because there have been many cases where models once accepted as reliable were then presented with new evidence that indicated a problem in the model, and so they have to revise the model. In popular debate alarming graphs of global temperature are presented as fact where in fact they are models which have a significant margin for error. Another major problem for me is I would like more detail discussing the variety of factors influencing global climate and establishing that human activity is the most important, or at least that by drastically changing human activity we could guarantee changing global climate. The impact of other factors is often ignored or obscured, but solar, geological and ocean currents, to name a few, are also very significant. Another flaw in most models is that they only allow for the situation to get worse and don’t factor in corrective mechanisms in the climate (e.g increased heat > increased clouds > increased vegetation > lower CO2). Also the vast majority of scientists and lobbyists have a financial interest in convincing the world of this particular version of apocalyptic climate science but it has been over 30 years of unfulfilled apocalyptic prophecies, revised apocalyptic timelines, and climate alarmist millionaires and billionaires taking advantage of people’s fear and lack of capacity to engage in scientific debate, for me this is all a big 🚩"
    }
   ],
   "respondido": true,
@@ -17572,6 +17861,10 @@
    {
     "quien": "bio.andante",
     "texto": "@silverzupo Europa no son tres hormigas, es de las economías más grandes y de las que más ha emitido en la historia. Y cuando pone normas los demás acaban siguiéndolas, pasó con el ozono. No crees?"
+   },
+   {
+    "quien": "silverzupo",
+    "texto": "@bio.andante No no creo, Europa no pinta nada en China ni en India no te engañes ni engañes. No se que conocimiento tendrás de biología o biotecnología, pero de geopolitica no tienes ni idea. Pretender eso es un Suicidio económico para Europa Y no se va a solucionar NADA porque seguirán a su puta bola, Rusia, India y China... los países de Asia mas poblados... tu ingenuidad me espanta"
    }
   ],
   "respondido": true,
@@ -17636,8 +17929,13 @@
   "texto": "Bueno, pero por la mañana sale el sol.",
   "hora": "2026-11-11T20:55:31+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@zira_297 😂 y por la tarde sube la temperatura… igual que los gráficos"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17694,8 +17992,13 @@
   "texto": "Abascal no es científico...no es economista..no es NADA, fuera la ultraderecha de la TV pública, basta ya de difundir bulos y mentiras🔥🔥🔥🔥",
   "hora": "2026-11-11T20:34:55+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@laullobet1984 nadie tiene que ser científico para opinar, pero sí escuchar a quien lo es. Qué bulo te molestó más?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17873,8 +18176,13 @@
   "texto": "Ya, ya. Y no será porque solo se financia a los calentologos?",
   "hora": "2026-11-11T19:53:32+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@arturo.9759 las petroleras también tenían sus científicos. Exxon en los 70 y 80 llegó a la misma conclusión. Eso cómo lo encajas?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17934,6 +18242,10 @@
    {
     "quien": "yolandamartinvital",
     "texto": "@edardlun_7 el problema no es la Dana que siempre han existido.. el problema es donde se construye, y la mala gestión  y prevención"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@yolandamartinvital @edardlun_7 las dos cosas. Construir donde no toca multiplica el daño, y con el mar más caliente las danas descargan más agua. En vuestra zona se nota?"
    }
   ],
   "respondido": true,
@@ -17947,8 +18259,13 @@
   "texto": "Paradójicamente muchos de los negacionistas del cambio climático que niegan la evidencia científica creen en seres y criaturas sobrenaturales 😢",
   "hora": "2026-11-11T19:33:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@hectorbgv ya ves 😅"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17971,8 +18288,13 @@
   "texto": "Gracias! Muy visual. Y muy interesantes los contenidos que compartes",
   "hora": "2026-11-11T19:22:38+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@margaritabarragangutierrez gracias Margarita!! 😊 Si te ha gustado mándaselo a alguien o dale a 🔁. Qué tema te gustaría que hiciera?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17983,8 +18305,13 @@
   "texto": "Aún así voy a votar a vox, no estoy de acuerdo con muchas cosas, como la tauromaquia, el calentamiento climático, el derecho al aborto y mas cosas, pero aún así me parece mejor partido que PSOE o el PP, es por descarte🤷🏻‍♂️.",
   "hora": "2026-11-11T19:10:13+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@_4ngel_santos_ respeto tu voto, y se agradece que digas que en esto no estás de acuerdo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -17995,8 +18322,13 @@
   "texto": "Ya, pero antes la tierra se suponía que era plana y ahora es redonda",
   "hora": "2026-11-11T19:05:06+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@adricamente lo de que es redonda lo midió Eratóstenes hace más de 2.000 años eh 😂 y se aceptó por pruebas, no por opiniones. Qué prueba haría falta para cambiar lo del clima?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -18080,6 +18412,10 @@
    {
     "quien": "luisbeltranvelazquez",
     "texto": "@bio.andante voy al médico que este fuera de la mafia de la farmacia"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@luisbeltranvelazquez y qué médico es ese? Si todos han estudiado la misma ciencia 😅"
    }
   ],
   "respondido": true,
@@ -18105,8 +18441,13 @@
   "texto": "algún artículo que apoye el terraplanismo?🤦🏽‍♀️🤸🏽‍♀️",
   "hora": "2026-11-11T18:54:44+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@enami.bk 😂😂 en revista seria ninguno. Habéis discutido alguna vez con un terraplanista? 😂"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -18146,8 +18487,13 @@
   "texto": "Cuando la conversación acaba con un \"es que no van a pagar nuestras empresas por lo que contamina China y la India\" pues ya ves que se cae la careta y ves a quienes defienden y no JAMÁS será a la clase trabajadora",
   "hora": "2026-11-11T18:41:56+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@ireneanddogs el reparto es el debate de verdad. Quién debería pagar más, el que más emite ahora o el que más ha emitido en la historia?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -18158,8 +18504,13 @@
   "texto": "Tendré que hacer menos vuelos aéreos",
   "hora": "2026-11-11T18:38:54+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@imarciales jajaja cada uno lo que pueda 😂 Qué creéis que pesa más, un vuelo al año o comer carne todos los días?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -18170,8 +18521,13 @@
   "texto": "Muy bien explicado 👍",
   "hora": "2026-11-11T18:34:42+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@duli_cortes__555 gracias!! 🙌 Si conoces a alguien que lo necesite, pásaselo 😉"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -18182,8 +18538,13 @@
   "texto": "Que habrán la discusión en el parlamento y que lleve sus científicos, haber si existen😂😂😂😂",
   "hora": "2026-11-11T18:25:54+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@viicfeater 😂😂 2.700 contra 4, ya me dirás"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -18194,8 +18555,13 @@
   "texto": "@bio.andante si.... Yo voy por la 33 del covid",
   "hora": "2026-11-11T18:25:32+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@terneron 😂 y aquí sigues comentando. Según un estudio en The Lancet las vacunas evitaron entre 14 y 20 millones de muertes solo el primer año"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -18218,8 +18584,13 @@
   "texto": "Confío en los científicos que son los se han pasado años estudiando y formándose y ahora dedicándose a eso, que a un político o un charlatan, y obviamente a quien no voy a creer es a Abascal",
   "hora": "2026-11-11T18:02:44+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@mariasuarezs14 eso es 🙌 Pásaselo a algún cuñado que lo necesite 😂"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -18254,8 +18625,13 @@
   "texto": "Yo creo que realmente no se niega el cambio climático, lo que no se puede criminalizar a países como España, cuando somos de países que menos contaminamos, y realizan políticas climáticas que una economía como la nuestra la hunde.",
   "hora": "2026-11-11T17:42:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@danimoyano72 en el total España es poco, menos del 1%, pero por persona estamos en la media mundial o algo por encima. Depende de cómo lo mires. Se debería medir por país o por persona?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -22465,8 +22841,13 @@
   "texto": "Tambien dijo que la ciencia se basa en el debate. Y yo pense...en el debate...empirico. O tienes pruebas demostrables de un hecho, en este caso datos y registros, para llegar a una conclusiones...o debatir se puede hacer eternamente sobre ideas sin fundamentos, y eso no las convierte del todo validas",
   "hora": "2026-11-11T00:58:03+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@aitorvailloguillen eso, debate sí pero con datos encima de la mesa. En la tele se confunde debate con opinión no?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
@@ -22571,8 +22952,13 @@
   "texto": "Moriremos todos y estarán discutiendo sobre inmigración",
   "hora": "2026-11-11T00:23:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@marco.ruben_ 😅 y el clima también va a mover migraciones, de eso se habla poco."
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
