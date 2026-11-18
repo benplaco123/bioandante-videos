@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "17953749699054704",
+  "quien": "plazidabranding",
+  "texto": "Que nadie \"compre\" esta idea tan insolidaria y cruel. El 29N vota  Frente Amplio!",
+  "hora": "2026-11-18T10:57:52+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
+  "red": "instagram",
   "id": "18384577597215137",
   "quien": "margaritastrit",
   "texto": "Tubo",
@@ -139,8 +151,17 @@
   "texto": "No se porque no entendéis que con recursos limitados no puede haber servicios ilimitados, la sanidad española está agonizando, y es inadmisible para los que la hemos construido y mantenido. No puede ser Universal os pongáis como os pongais.",
   "hora": "2026-11-18T07:55:35+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@juannevado13 entonces que hacemos si los dejamos desatendidos y se convierte en un problema de salud más grave??"
+   },
+   {
+    "quien": "juannevado13",
+    "texto": "@bio.andante tú propones degradar los servicios públicos, yo quiero que el pastón que pagamos sea para los que contribuyen. Ilegal expulsión...."
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2o1gDCv8r/"
  },
@@ -997,8 +1018,13 @@
   "texto": "No todas las enfermedades son contagiosas, a eso se refiere.",
   "hora": "2026-11-17T23:43:47+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@marinetido_salvaje entonces como hacemos"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1021,8 +1047,17 @@
   "texto": "Prefiero que al que llega en patera le hagan esperar aislado y a mís familiares que pagan impuestos mensuales no le den al especialista en 1 año, sino en 2 meses como era en 2012. De nada. No quiero ni que les atiendan ni que nos contagien.",
   "hora": "2026-11-17T23:41:20+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@elena_mdsr se trata de personas igualmente, solo un recordatorio"
+   },
+   {
+    "quien": "elena_mdsr",
+    "texto": "@bio.andante Sisi, pero mi hermana que lleva un año con la rodilla hecha fosfatina también es una persona. Y los de Ceuta y Canarias que viven allí y tienen que aguantar robos y violaciones tb son personas. Y los profesores que tienen que aguantar a niños moros de 10 años riéndose de ellos en clase en otro idioma también son personas. Si quieren beneficios que los luchen en sus países."
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
