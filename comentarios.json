@@ -1,6 +1,40 @@
 [
  {
   "red": "instagram",
+  "id": "18384577597215137",
+  "quien": "margaritastrit",
+  "texto": "Tubo",
+  "hora": "2026-11-18T10:19:27+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18058093235588106",
+  "quien": "anthony_gadiel",
+  "texto": "Tubo",
+  "hora": "2026-11-18T10:11:32+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18138694051733802",
   "quien": "leedecaires",
   "texto": null,
@@ -1561,6 +1595,10 @@
    {
     "quien": "comerenpaz.nutri",
     "texto": "@bio.andante les ponemos en un vuelo para  casa y que pague el país de origen por no abordar sus fronteras"
+   },
+   {
+    "quien": "pedroo.gf_",
+    "texto": "@jf_alegre si crees q el motivo de que alguien tenga q esperar de más en la sanidad es de un pobre inmigrante es que tienes un problema de retraso mental muy muy fuerte colega"
    }
   ],
   "respondido": true,
