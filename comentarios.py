@@ -53,9 +53,14 @@ def acciones():
     pend = json.load(open('respuestas.json'))
     env = json.load(open('enviadas.json')) if os.path.exists('enviadas.json') else {}
     hora = __import__('datetime').datetime.utcnow().isoformat()[:16]
+    hechas = 0
     for a in pend:
         k = clave(a)
         if k in env: continue   # never send the same reply twice
+        # like a person, not a bot: at most 12 replies every 5 min, 15 s apart, so Instagram doesn't block the account for spam
+        if hechas >= 12: break
+        if hechas: __import__('time').sleep(15)
+        hechas += 1
         if not a.get('ocultar') and ya_dicho(a):   # last check against the network itself: is this exact reply already there?
             print('ya estaba, no se repite', a['red']); env[k] = {'id': a['id'], 'hora': hora}; continue
         try:
