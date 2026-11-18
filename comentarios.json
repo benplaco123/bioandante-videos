@@ -1,13 +1,69 @@
 [
  {
   "red": "instagram",
+  "id": "18363224395219040",
+  "quien": "______ambrosia",
+  "texto": "Tubo",
+  "hora": "2026-11-18T21:06:40+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18143234254621374",
+  "quien": "erandyunuen",
+  "texto": "Tubo",
+  "hora": "2026-11-18T21:04:39+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18114930491180719",
+  "quien": "aledaquilio_",
+  "texto": "Tubo",
+  "hora": "2026-11-18T20:51:54+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18139727362735581",
   "quien": "siestasdesabados",
   "texto": "Tubo",
   "hora": "2026-11-18T20:43:05+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -16953,6 +17009,10 @@
    {
     "quien": "bio.andante",
     "texto": "@antoniobernardo1212 @halsand13 un catedrático de ingeniería ambiental y un científico en mis comentarios, qué lujo 😂 Antonio qué artículo me recomiendas?"
+   },
+   {
+    "quien": "halsand13",
+    "texto": "Yo también tengo artículos, especializado a  demás en cambio ambiental. La influencia humana se ve en todos los datos, no sé de dónde te sacas que no. Y lo ideal es que si te dedicas al rubro (que no lo haces) cites artículos que demuestren lo que estás diciendo, sigo esperando"
    }
   ],
   "respondido": true,
