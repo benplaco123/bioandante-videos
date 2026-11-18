@@ -48,7 +48,7 @@ hace7 = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=
 for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get('data', []):
     if LIMITE[0] or HECHOS[0] >= TOPE: break
     if not m.get('comments_count') or m['timestamp'][:16] < hace7: continue
-    for c in todo(m['id'] + '/comments', fields='id,username,text,timestamp', limit=100):
+    for c in sorted(todo(m['id'] + '/comments', fields='id,username,text,timestamp', limit=100), key=lambda c: c['timestamp']):   # oldest first: nobody waits hours behind newer comments
         if c['id'] in st['comentarios'] or c.get('username') == 'bio.andante' or c['timestamp'][:16] < hace7: continue
         if HECHOS[0] >= TOPE: break   # the LISTO images go by hand now, so the whole quota is for the DMs
         clave = next((k for k in R if re.search(r'\b' + k + r'\b', norm(c.get('text')))), None)
