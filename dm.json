@@ -476,26 +476,26 @@
   "18112095722461634": "pedido + aviso público",
   "18057378734592042": "pedido + aviso público",
   "17928892767441718": "pedido + aviso público",
-  "18115301444334760": "pedido",
-  "17926760385447776": "pedido",
-  "18178665724460449": "pedido",
-  "18500018044107815": "pedido",
-  "18096328637677416": "pedido",
-  "18119403245010878": "pedido",
-  "18020316710744506": "pedido",
-  "18182819716448758": "pedido",
-  "18117116246520780": "pedido",
-  "18130180060655385": "pedido",
-  "18129654505894138": "pedido",
-  "18027582653927988": "pedido",
-  "18147212044591846": "pedido",
-  "18096930914690621": "pedido",
-  "18129550828965652": "pedido",
-  "17932827594422531": "pedido",
-  "18126162850946396": "pedido",
-  "18139278430563756": "pedido",
-  "18114482666240555": "pedido",
-  "17968288055986075": "pedido",
+  "18115301444334760": "pedido + aviso público",
+  "17926760385447776": "pedido + aviso público",
+  "18178665724460449": "pedido + aviso público",
+  "18500018044107815": "pedido + aviso público",
+  "18096328637677416": "pedido + aviso público",
+  "18119403245010878": "pedido + aviso público",
+  "18020316710744506": "pedido + aviso público",
+  "18182819716448758": "pedido + aviso público",
+  "18117116246520780": "pedido + aviso público",
+  "18130180060655385": "pedido + aviso público",
+  "18129654505894138": "pedido + aviso público",
+  "18027582653927988": "pedido + aviso público",
+  "18147212044591846": "pedido + aviso público",
+  "18096930914690621": "pedido + aviso público",
+  "18129550828965652": "pedido + aviso público",
+  "17932827594422531": "pedido + aviso público",
+  "18126162850946396": "pedido + aviso público",
+  "18139278430563756": "pedido + aviso público",
+  "18114482666240555": "pedido + aviso público",
+  "17968288055986075": "pedido + aviso público",
   "17994351470858162": "fallo: {'error': '{\"error\":{\"message\":\"(#100) El comentario no es v\\\\u00e1lido para una respuesta privada\",\"type\":\"OAuthExcepti",
   "17972010747191499": "pedido",
   "17917501563507375": "pedido",
@@ -650,7 +650,12 @@
   "18437381335194112": "pedido",
   "18195156721397825": "pedido",
   "17922679344461418": "pedido",
-  "18470674816138264": "pedido"
+  "18470674816138264": "pedido",
+  "17981379008924705": "pedido",
+  "18077430089757682": "pedido",
+  "18130949458898283": "pedido",
+  "18179912671453725": "pedido",
+  "18103500689412147": "pedido"
  },
  "personas": {
   "975203191982764": {
@@ -4118,6 +4123,31 @@
    "usuario": "a.simon.f_",
    "clave": "TUBO",
    "pedido": "2026-11-18T06:54:16+00:00"
+  },
+  "1013791984397964": {
+   "usuario": "_.lokyam",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T07:08:34+00:00"
+  },
+  "1099771492900076": {
+   "usuario": "educvett",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T07:08:41+00:00"
+  },
+  "1470883721836985": {
+   "usuario": "scarlatta_rv",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T07:08:49+00:00"
+  },
+  "912349268534305": {
+   "usuario": "antoniopgarcia",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T07:08:56+00:00"
+  },
+  "1835148387609240": {
+   "usuario": "yazmimiau",
+   "clave": "TUBO",
+   "pedido": "2026-11-18T07:09:03+00:00"
   }
  }
 }
