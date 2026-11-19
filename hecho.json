@@ -225,5 +225,14 @@
   "hora_real": "2026-11-19T20:41:32.823899+00:00",
   "instagram": "FALLO 17841434362052739/media: {\"error\":{\"message\":\"The caption was too long.\",\"code\":36004,\"type\":\"OAuthException\",\"error_subcode\":2207010,\"is_transient\":false,\"error_user_msg\":\"El texto enviado tenía 2336 caracteres. El máximo de caracteres admitido es 2200. Envía contenido multimedia con un texto más corto.\",\"error_user_title\"",
   "youtube": "FALLO HTTP Error 400: Bad Request"
+ },
+ {
+  "nombre": "ciencia-29n-reel",
+  "hora_real": "2026-11-19T22:01:28.416999+00:00",
+  "instagram": "https://www.instagram.com/reel/Df8Gx9Ujflx/",
+  "facebook": "https://www.facebook.com/reel/2436750990390866",
+  "youtube": "https://youtube.com/shorts/iJxWtjosHZE",
+  "facebook_portada": "ok",
+  "youtube_portada": "ok"
  }
 ]
