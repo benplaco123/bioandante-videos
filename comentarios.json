@@ -1,6 +1,23 @@
 [
  {
   "red": "instagram",
+  "id": "18112936604462390",
+  "quien": "sebasbenitez89",
+  "texto": "Tubo",
+  "hora": "2026-11-19T08:56:05+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18394307002230149",
   "quien": "idiotasporquesi",
   "texto": "Ni un paso atrás ante el fascismo.",
@@ -14736,6 +14753,10 @@
    {
     "quien": "Bioandante",
     "texto": "Los dos tenéis parte de razón: el virus se transmite (o se contagia) de una persona a otra, y lo que provoca dentro del cuerpo es la infección. ¿Sabíais que el VIH no se transmite con besos ni compartiendo vaso?"
+   },
+   {
+    "quien": null,
+    "texto": "Oscar Serrano el verdaderos término para referirse qué el virus pasé de una persona a otra es \"transmisión\""
    }
   ],
   "respondido": true,
