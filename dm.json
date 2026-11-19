@@ -709,7 +709,16 @@
   "18109542134633841": "pedido + aviso público",
   "18144372517627836": "pedido + aviso público",
   "17928660546440533": "pedido + aviso público",
-  "18418559497089388": "pedido + aviso público"
+  "18418559497089388": "pedido + aviso público",
+  "18027043817929376": "ya pedido antes",
+  "18136338280666297": "pedido + aviso público",
+  "18223022647345673": "ya pedido antes",
+  "18134118694747753": "pedido + aviso público",
+  "18132069298885835": "pedido + respondido a mano",
+  "18665931541046885": "pedido + respondido a mano",
+  "18111828439937546": "pedido + aviso público",
+  "18101344763661967": "ya pedido antes",
+  "18268376893307769": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4472,6 +4481,36 @@
    "usuario": "jt.tecnomotriz",
    "clave": "TUBO",
    "pedido": "2026-11-19T12:41:35+00:00"
+  },
+  "1151180597292544": {
+   "usuario": "ernesto.ruva",
+   "clave": "TUBO",
+   "pedido": "2026-11-19T13:13:48+00:00"
+  },
+  "1068505126197672": {
+   "usuario": "ka510.666",
+   "clave": "TUBO",
+   "pedido": "2026-11-19T13:13:56+00:00"
+  },
+  "1818182852716877": {
+   "usuario": "luisabramos",
+   "clave": "TUBO",
+   "pedido": "2026-11-19T13:14:02+00:00"
+  },
+  "1485364913510717": {
+   "usuario": "tammy_iglesias",
+   "clave": "TUBO",
+   "pedido": "2026-11-19T13:14:09+00:00"
+  },
+  "960390646921517": {
+   "usuario": "lesliezeladasanchez",
+   "clave": "TUBO",
+   "pedido": "2026-11-19T13:14:15+00:00"
+  },
+  "1120204707679787": {
+   "usuario": "aldudrake",
+   "clave": "TUBO",
+   "pedido": "2026-11-19T13:14:21+00:00"
   }
  }
 }
