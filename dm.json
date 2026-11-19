@@ -718,7 +718,8 @@
   "18665931541046885": "pedido + respondido a mano",
   "18111828439937546": "pedido + aviso público",
   "18101344763661967": "ya pedido antes",
-  "18268376893307769": "pedido + aviso público"
+  "18268376893307769": "pedido + aviso público",
+  "18197885227399066": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4511,6 +4512,11 @@
    "usuario": "aldudrake",
    "clave": "TUBO",
    "pedido": "2026-11-19T13:14:21+00:00"
+  },
+  "1792172805380443": {
+   "usuario": "camcat.ml",
+   "clave": "TUBO",
+   "pedido": "2026-11-19T14:12:52+00:00"
   }
  }
 }
