@@ -316,7 +316,7 @@
  },
  {
   "nombre": "biofirmas-exoplanetas",
-  "hora": "2026-11-19T19:57:45+00:00",
+  "hora": "2026-11-19T20:18:48+00:00",
   "video": "biofirmas-exoplanetas.mp4",
   "portada": "biofirmas-exoplanetas-portada.jpg",
   "texto": "Buscar vida en otros planetas: una IA elige dónde mirar primero 🪐🔭\n\n¿Cómo sabes si hay vida en un planeta al que nunca podrás ir? Mirando su luz 👇\n\n🌟 Cuando un planeta pasa por delante de su estrella, parte de esa luz cruza su atmósfera, y cada gas se queda con unos colores concretos: deja una «huella» en el espectro.\n🌱 Algunas huellas, como metano y ozono juntos, en la Tierra las mantiene la vida. Se llaman biofirmas. Son pistas, no pruebas: el metano también sale de procesos sin vida.\n❓ Las señales son diminutas. En 2025, un equipo de Cambridge anunció una posible biofirma en el planeta K2-18b. Otros equipos analizaron esos mismos datos del James Webb y no encontraron una señal significativa.\n⏳ En un planeta como TRAPPIST-1e (a unos 40 años luz), el James Webb podría no detectar el ozono de una atmósfera como la nuestra ni en unos 80 tránsitos, toda su misión prevista.\n🤖 Un equipo de la Universidad de Antioquia (Colombia) entrenó una IA con unos 10 millones de espectros simulados para reconocer esas huellas aunque estén enterradas en ruido.\n🚩 En espectros realistas simulados, con solo 4 a 10 tránsitos marcaría como candidatos a más de 6 de cada 10 planetas con biofirmas.\n\n⚠️ La IA no detecta vida ni mide los gases: señala qué planetas merecen observarse a fondo. Y de momento solo se ha probado con planetas simulados, no con datos reales.\n\n📄 Fuente: Duque-Castaño, Zuluaga y Flor-Torres, Monthly Notices of the Royal Astronomical Society (2025). Contexto: Madhusudhan et al., ApJL (2025) y Luque et al., A&A (2025) sobre K2-18b; Lin et al., MNRAS (2021) sobre TRAPPIST-1e; NASA Exoplanet Archive (6451 planetas confirmados, octubre de 2026).\n\n📌 Guárdalo y compártelo con quien siempre pregunta «¿estamos solos?»\n💬 ¿Crees que encontraremos vida fuera de la Tierra en esta década? Te leo\n👉 Sígueme en @bio.andante: tienes la serie «IA como acelerador científico» completa en el perfil\n\n#exoplanetas #astrobiologia #inteligenciaartificial #jameswebb #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación isométrica en tres terrazas: la luz de una estrella atraviesa la atmósfera de un planeta, un prisma la abre en un espectro con bandas de metano y ozono, y una IA lee espectros con ruido y pone banderas a los planetas candidatos para que el telescopio sepa dónde mirar.",
@@ -325,6 +325,6 @@
   "facebook": false,
   "youtube": true,
   "prueba": false,
-  "intentos": 1
+  "intentos": 2
  }
 ]
