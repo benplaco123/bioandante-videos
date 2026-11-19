@@ -1,6 +1,81 @@
 [
  {
   "red": "instagram",
+  "id": "18125176339938748",
+  "quien": "lex_m00n",
+  "texto": "WTF se gana más en México que en España?",
+  "hora": "2026-11-19T23:49:47+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
+  "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
+ },
+ {
+  "red": "instagram",
+  "id": "18121722154787152",
+  "quien": "sofichamorrom",
+  "texto": "Tubo",
+  "hora": "2026-11-19T23:47:07+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18103487324401038",
+  "quien": "m_gens",
+  "texto": "Tubo",
+  "hora": "2026-11-19T23:47:06+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "youtube",
+  "id": "UgxvtBWPSm6IpacQUEp4AaABAg",
+  "quien": "@javixvivi",
+  "texto": "Amigo o amiga, entiendo tu punto y la verdad que lastima que muchas personas solo hablen porque piensen que como humanos somos una especie alejada de los animales o que los comportamientos homosexuales contradicen la biología misma, yo la verdad veo que es bueno aprender de como la comunidad unida a hecho que estás especies puedan existir de forma tan ordenada, y que esto no representa una amenazada porque pues nunca lo hubo, que hay gays no hace que toda la raza humana \"caiga\" simplemente se demuestra que los animales así como los humanos aprendemos a vivir de formas que nos dan felicidad y tranquilidad, mientras no sea daño la especie va a estar bien cuidada 😊",
+  "hora": "2026-11-19T23:39:42Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
+  "red": "instagram",
+  "id": "18646718749022043",
+  "quien": "simohammed_simohamed",
+  "texto": "For 0 € it's Free in Morocco",
+  "hora": "2026-11-19T23:29:14+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@simohammed_simohamed 😮😮"
+   }
+  ],
+  "respondido": true,
+  "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
+  "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
+ },
+ {
+  "red": "instagram",
   "id": "18109066082254012",
   "quien": "bio.andante",
   "texto": "Sígueme si te ha gustado 🙌",
@@ -1051,6 +1126,14 @@
    {
     "quien": "hugo.melo.83",
     "texto": "@bio.andante claro, lo sabes tú. En España es donde se hace todo bien, mientras gobierne P.S., los demás países mas desarrollados no entienden nada, porque en prácticamente todos la sanidad no es universal y mucho menos gratuita. Pero abrir las puertas a todo el mundo y regalar la sanidad, que paga la gente que curra, a to dios, eso sí q está bien."
+   },
+   {
+    "quien": "angelspx77",
+    "texto": "@hugo.melo.83 BENDITA IGNORANCIA TIENES...."
+   },
+   {
+    "quien": "angelspx77",
+    "texto": "@hugo.melo.83 A VER IGNORANTE, UN AMIGO MÍO SE MURIÓ DE UN CÁNCER QUE EL TRATAMIENTO LE COSTO 200.000 DÓLARES, sí se mueren pagando esas burradas imagínate la de gente que se muere y ni se sabe de qué.,"
    }
   ],
   "respondido": true,
@@ -3751,6 +3834,10 @@
    {
     "quien": "bio.andante",
     "texto": "@jf_alegre @miruiz91 @comerenpaz.nutri pues igual la discusión es de fronteras, pero el vídeo va de otra cosa, del que ya está aquí y tose con tuberculosis. A ese le tratamos o no?"
+   },
+   {
+    "quien": "angelspx77",
+    "texto": "@comerenpaz.nutri Y SÍ NO SABÉS DE DONDE VIENEN A DONDE LOS ENVÍAS ?..."
    }
   ],
   "respondido": true,
