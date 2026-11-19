@@ -1,5 +1,17 @@
 [
  {
+  "red": "youtube",
+  "id": "UgxQY-0WgU5stlCtWAp4AaABAg",
+  "quien": "@carlossoto6226",
+  "texto": "Eso ni es ventajoso ni positivo para un niño ! Padre y madre !",
+  "hora": "2026-11-19T06:24:52Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
   "red": "instagram",
   "id": "18026304734943368",
   "quien": "embrutecido",
@@ -14317,6 +14329,10 @@
    {
     "quien": null,
     "texto": "Bioandante yo lo tomo hace 6 años y desde el primer día me afectó los riñones y me causo colon irritable. A la fecha no puedo subir de peso y según el médico le parece extraño porque ese medicamento sube de peso. Ahora me lo quieren cambiar por Dovato, después de haberme acostumbrado a este ya viene un cambio. Somos conejillos de indias."
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Todos los fármacos tienen efectos secundarios y por eso se ajustan. Aun así, el tratamiento ha convertido el VIH de mortal a crónico, con una esperanza de vida casi normal."
    }
   ],
   "respondido": true,
@@ -14602,6 +14618,10 @@
    {
     "quien": null,
     "texto": "Ona Mishnah que manera de hablar pavadas"
+   },
+   {
+    "quien": "Bioandante",
+    "texto": "Por si alguien tiene dudas de verdad: el VIH se ha fotografiado al microscopio y se conoce su genoma letra a letra 🔬 Y los fármacos que lo atacan bajan la carga viral; si no existiera, no bajaría nada. Karitho lo explica bien con el Chagas."
    }
   ],
   "respondido": true,
@@ -23967,8 +23987,13 @@
   "texto": "Se comprar las emisiones a paises de África y yo me tengo que joder y no comprar un coche de.mierda que o dura ni 10 años",
   "hora": "2026-11-11T00:09:20+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@iviorfeo entiendo el cabreo. Lo de comprar derechos de emisión a otros países es un debate muy real. Debería prohibirse?"
+   }
+  ],
+  "respondido": true,
   "video": "🔥 Abascal en La Revuelta: «Tú te fías de unos y habrá otros». Fuimos a",
   "enlace": "https://www.instagram.com/reel/Dfk72RLCEfR/"
  },
