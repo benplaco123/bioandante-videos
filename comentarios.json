@@ -1,5 +1,22 @@
 [
  {
+  "red": "instagram",
+  "id": "17920307604523455",
+  "quien": "miguel.l_navarro",
+  "texto": "tubo",
+  "hora": "2026-11-19T19:33:29+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
   "red": "youtube",
   "id": "UgwQtn0xYm24OzpwZEt4AaABAg",
   "quien": "@jorgenavarro5661",
@@ -666,6 +683,10 @@
    {
     "quien": "bio.andante",
     "texto": "gracias 🙌 compártelo con 🔁 que así le llega a más gente"
+   },
+   {
+    "quien": "viyobs",
+    "texto": "@bio.andante compartido"
    }
   ],
   "respondido": true,
@@ -1306,6 +1327,10 @@
    {
     "quien": "bio.andante",
     "texto": "@el_ultimo_ochentero el problema es que alguien sin atender no espera a tener papeles para contagiar. Por eso casi toda Europa atiende urgencias, embarazos y menores a todo el mundo y luego factura cuando puede. Una tuberculosis tratada a tiempo sale mucho más barata que un brote. Prefieres pagar la consulta o el brote?"
+   },
+   {
+    "quien": "el_ultimo_ochentero",
+    "texto": "@bio.andante ¿Y qué enfermedad te contagia un embarazo exactamente?. Yo ya te digo que atender sí, gratis ni de broma. Y eso con unas fronteras protegidas como estaban antes y un protocolo de devoluciones express a quiénes entren ilegalmente. No veo el problema"
    }
   ],
   "respondido": true,
