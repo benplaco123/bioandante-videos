@@ -199,5 +199,13 @@
   "youtube": "https://youtube.com/shorts/zG1ouZkJPBQ",
   "facebook_portada": "ok",
   "youtube_portada": "ok"
+ },
+ {
+  "nombre": "biofirmas-exoplanetas",
+  "hora_real": "2026-11-19T19:37:45.866514+00:00",
+  "instagram": "FALLO 17841434362052739/media: {\"error\":{\"message\":\"The caption was too long.\",\"code\":36004,\"type\":\"OAuthException\",\"error_subcode\":2207010,\"is_transient\":false,\"error_user_msg\":\"El texto enviado tenía 2336 caracteres. El máximo de caracteres admitido es 2200. Envía contenido multimedia con un texto más corto.\",\"error_user_title\"",
+  "facebook": "https://www.facebook.com/reel/4102371916730908",
+  "youtube": "FALLO HTTP Error 400: Bad Request",
+  "facebook_portada": "ok"
  }
 ]
