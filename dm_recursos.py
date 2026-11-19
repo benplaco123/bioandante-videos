@@ -42,6 +42,8 @@ def manda(recipient, message):
     return call(f'{U}/messages', {'recipient': json.dumps(recipient), 'message': json.dumps(message)})
 
 R = json.load(open('recursos.json'))
+# TUBO, but also Tuboo, Tubi, Tuboooo, Tubooo9, tubos (19 nov: seven people wrote it like that and never got their DM); not tuberculosis
+def pide(k, text): return any(w.startswith(k[:-1]) and len(w) <= len(k) + 3 for w in re.findall(r'\w+', norm(text)))
 st = json.load(open('dm.json')) if os.path.exists('dm.json') else {'comentarios': {}, 'personas': {}}
 hace7 = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=7)).strftime('%Y-%m-%dT%H:%M')
 
@@ -52,7 +54,7 @@ for m in call(f'{U}/media', fields='id,timestamp,comments_count', limit=25).get(
     for c in sorted(todo(m['id'] + '/comments', fields='id,username,text,timestamp', limit=100), key=lambda c: c['timestamp']):   # oldest first: nobody waits hours behind newer comments
         if c['id'] in st['comentarios'] or c.get('username') == 'bio.andante' or c['timestamp'][:16] < hace7: continue
         if HECHOS[0] >= TOPE: break   # the LISTO images go by hand now, so the whole quota is for the DMs
-        clave = next((k for k in R if re.search(r'\b' + k + r'\b', norm(c.get('text')))), None)
+        clave = next((k for k in R if pide(k, c.get('text'))), None)
         if not clave: continue
         if any(p.get('usuario') == c.get('username') and p.get('clave') == clave for p in st['personas'].values()):
             st['comentarios'][c['id']] = 'ya pedido antes'; continue
