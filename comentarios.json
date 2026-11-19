@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "18126360721933975",
+  "quien": "rojo.colorao",
+  "texto": "voto útil para el PSOE en toda España!!!\ncongreso + senado \n🌹",
+  "hora": "2026-11-19T14:41:25+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
+  "red": "instagram",
   "id": "18197885227399066",
   "quien": "camcat.ml",
   "texto": "TUBO",
@@ -445,23 +457,6 @@
  },
  {
   "red": "instagram",
-  "id": "18080794049738478",
-  "quien": "aabrilnavarro",
-  "texto": "Tubo",
-  "hora": "2026-11-18T23:32:58+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
   "id": "18045579722839608",
   "quien": "robicho23",
   "texto": "Tubo por favor!!",
@@ -645,6 +640,18 @@
    {
     "quien": "@Bio.andante",
     "texto": "@emcoga7254 jaja ya, pero de la mayoría de esas especies nadie ha estudiado nunca su comportamiento. 1.500 son las que se han observado, no el total."
+   },
+   {
+    "quien": "@emcoga7254",
+    "texto": "​@Bio.andante jajajajajajajajaja 😂😂😂😂😂😂😂😂😂 te digo porque solo el 0.1% de las especies tienen comportamientos homosexuales, es por tal vez no a corto plazo pero a largo cualquier especies que en mayoría práctique este comportamiento se termina extinguido"
+   },
+   {
+    "quien": "@Bio.andante",
+    "texto": "@emcoga7254pues ya sabes lo que le espera a nuestra especie"
+   },
+   {
+    "quien": "@emcoga7254",
+    "texto": "​@Bio.andante meh, el 5% no es mayoría"
    }
   ],
   "respondido": true,
@@ -23608,16 +23615,16 @@
   "oculto": false,
   "respuestas": [
    {
-    "quien": "yanusluna",
-    "texto": "No, no hay ningún evidencia de que el CO2 , que hace crecer los bosques en todo el planeta sea el culpable, simplemente los estudios escogidos NO INDEPENDIENTES simplemente eliminan otras causas para hacerlo ANTROPOGÉNICO y justificar una medias QUE NO FRENEN NADA, pero mueve miles de millones"
-   },
-   {
     "quien": "bio.andante",
     "texto": "@yanusluna el CO2 hace crecer las plantas sí, pero también calienta, y eso no compensa las sequías ni los incendios. @fran.fgev lo ves tan imposible?"
    },
    {
     "quien": "fran.fgev",
     "texto": "@bio.andante totalmente, alomejor llegan a un acuerdo en un futuro,  pero será lo más tarde posible cuando el mundo esté en la última más última posible y aún así habrá países que no aceptarán."
+   },
+   {
+    "quien": "fran.fgev",
+    "texto": "@bio.andante no hay más que ver la historia, el único momento que el mundo estuvo \"unido\" fue en el imperio español o en el imperio mongol. Ahora mismo que todas las  grandes potencias quieren invadir y dominar territorios, se necesita un imperio o que el pueblo de todo el mundo se una cosa que veo imposible."
    }
   ],
   "respondido": true,
@@ -23635,6 +23642,10 @@
    {
     "quien": "bio.andante",
     "texto": "@fran.fgev China, EEUU, India y Rusia emiten mucho, pero si cada país pequeño dice lo mismo, la mitad de las emisiones se quedan sin tocar. Cómo lo ves?"
+   },
+   {
+    "quien": "fran.fgev",
+    "texto": "@bio.andante mi opinión; China quiere crecer y depende de la contaminación tendría que cambiar todo el sistema lo veo imposible, la india; para cambiar su contaminación se necesitará reeducar a todo dios, son el pais con más habitantes del mundo, sin hablar que necesitarán un líder que no existe en el mundo actual, porque reconducir eso es una locura y por encima no son ricos precisamente. Estados unidos y rusia dos países en plena guerra que se meten en líos constantemente y les da igual arruinar lo que sea por su \"bien\""
    }
   ],
   "respondido": true,
