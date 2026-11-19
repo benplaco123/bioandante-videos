@@ -61,7 +61,15 @@ def instagram(url, e):
 
 def carrusel(e):
     U = f"https://github.com/{REPO}/releases/download/cola/"
-    kids = [call(f'{IGID}/media', {'image_url': U + i, 'is_carousel_item': 'true'})['id'] for i in e['imagenes']]
+    # una lámina .mp4 va como vídeo (Instagram la procesa antes de juntarlas); las demás, como foto
+    kids = [call(f'{IGID}/media', {'media_type': 'VIDEO', 'video_url': U + i, 'is_carousel_item': 'true'} if i.endswith('.mp4')
+                 else {'image_url': U + i, 'is_carousel_item': 'true'})['id'] for i in e['imagenes']]
+    for k in kids:
+        for _ in range(60):
+            st = call(f"{k}?fields=status_code,status")
+            if st.get('status_code') == 'FINISHED': break
+            if st.get('status_code') == 'ERROR': raise RuntimeError('Instagram (lámina): ' + str(st.get('status')))
+            time.sleep(5)
     c = call(f'{IGID}/media', {'media_type': 'CAROUSEL', 'children': ','.join(kids), 'caption': e['texto']})
     for _ in range(30):
         if call(f"{c['id']}?fields=status_code").get('status_code') == 'FINISHED': break
@@ -71,7 +79,8 @@ def carrusel(e):
 
 def carrusel_fb(e):
     U = f"https://github.com/{REPO}/releases/download/cola/"
-    ids = [call(f'{PID}/photos', {'url': U + i, 'published': 'false'}, tok=PT)['id'] for i in e['imagenes']]
+    fija = lambda i: i[:-4] + '.jpg' if i.endswith('.mp4') else i   # Facebook no admite vídeo en un álbum: usa la lámina fija
+    ids = [call(f'{PID}/photos', {'url': U + fija(i), 'published': 'false'}, tok=PT)['id'] for i in e['imagenes']]
     d = {'message': e['texto']}
     for n, i in enumerate(ids): d[f'attached_media[{n}]'] = json.dumps({'media_fbid': i})
     return 'https://www.facebook.com/' + call(f'{PID}/feed', d, tok=PT)['id']
@@ -122,7 +131,7 @@ def main():
         json.dump(cola, open('cola.json', 'w'), ensure_ascii=False, indent=1)
         json.dump(hecho, open('hecho.json', 'w'), ensure_ascii=False, indent=1)
         if 'FALLO' not in json.dumps(res):
-            for a in e['imagenes']: subprocess.run(['gh', 'release', 'delete-asset', 'cola', a, '-y', '-R', REPO])
+            for a in {x for i in e['imagenes'] for x in (i, i[:-4] + '.jpg')}: subprocess.run(['gh', 'release', 'delete-asset', 'cola', a, '-y', '-R', REPO])
         return
     subprocess.run(['curl', '-sL', '-o', 'v.mp4', url], check=True)
     if e.get('portada'): subprocess.run(['curl', '-sL', '-o', 'p.jpg', f"https://github.com/{REPO}/releases/download/cola/{e['portada']}"])
