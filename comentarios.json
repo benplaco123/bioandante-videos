@@ -1,6 +1,23 @@
 [
  {
   "red": "instagram",
+  "id": "18165874018445235",
+  "quien": "jucefig",
+  "texto": "Tubo",
+  "hora": "2026-11-19T14:49:18+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18126360721933975",
   "quien": "rojo.colorao",
   "texto": "voto útil para el PSOE en toda España!!!\ncongreso + senado \n🌹",
@@ -20212,6 +20229,10 @@
    {
     "quien": "bio.andante",
     "texto": "@alex_soler_carreton por dinero de quién? Porque el petróleo mueve muchísimo más dinero que la ciencia del clima"
+   },
+   {
+    "quien": "alex_soler_carreton",
+    "texto": "@bio.andante todos los impuesto que pagamos, puede ser? Tu sabes que antes comprabas plastico y no pagabas impuestos. Ahora compras el mismo plastico y te cobran por kilo de plastico que compras y no es poco lo que pagas. O el impuesto de mas que le meten al gasoil. Eso va a salvar el planeta? El pagar mas dinero por un producto? Enserio? Crees eso? Si? No jodas."
    }
   ],
   "respondido": true,
