@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "17958572778340754",
+  "quien": "julieta_entrelineas",
+  "texto": "Para los que andan repitiendo ideas biologicistas sin ton ni son.",
+  "hora": "2026-11-19T13:12:22+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "«Lo que tú quieras, pero no familia». ¿Y qué dice la biología? 🧬\n\nRepa",
+  "enlace": "https://www.instagram.com/reel/Df5cIclkY9E/"
+ },
+ {
+  "red": "instagram",
   "id": "18418559497089388",
   "quien": "jt.tecnomotriz",
   "texto": "Tubo",
@@ -2648,8 +2660,13 @@
   "texto": "Tuboo gracias!!",
   "hora": "2026-11-17T23:41:29+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -5176,8 +5193,13 @@
   "texto": "Tuboooo",
   "hora": "2026-11-17T13:44:51+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -7890,8 +7912,13 @@
   "texto": "Tubi",
   "hora": "2026-11-17T03:28:02+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -11474,8 +11501,13 @@
   "texto": "Tubooo9",
   "hora": "2026-11-16T23:59:32+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
