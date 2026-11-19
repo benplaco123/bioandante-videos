@@ -708,7 +708,8 @@
   "18149758726571684": "pedido + aviso público",
   "18109542134633841": "pedido + aviso público",
   "18144372517627836": "pedido + aviso público",
-  "17928660546440533": "pedido + aviso público"
+  "17928660546440533": "pedido + aviso público",
+  "18418559497089388": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4466,6 +4467,11 @@
    "usuario": "aracelypagua",
    "clave": "TUBO",
    "pedido": "2026-11-19T12:30:31+00:00"
+  },
+  "980081621428227": {
+   "usuario": "jt.tecnomotriz",
+   "clave": "TUBO",
+   "pedido": "2026-11-19T12:41:35+00:00"
   }
  }
 }
