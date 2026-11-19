@@ -325,18 +325,5 @@
   "facebook": false,
   "youtube": true,
   "prueba": false
- },
- {
-  "nombre": "ciencia-29n-mezcla",
-  "hora": "2026-11-20T09:00:00+01:00",
-  "video": "ciencia-29n-mezcla.mp4",
-  "portada": "ciencia-29n-mezcla-portada.jpg",
-  "texto": "🔬 ¿Cuánto invertiría en investigación cada partido? Esto dicen sus programas para el 29-N.\n\n📍 Punto de partida (INE, 2024): España dedica a I+D el 1,5 % de su PIB; la media de la UE, el 2,26 %. Lo que pone el dinero público: un 0,58 %.\n\nPor orden alfabético:\n🔹 Frente Amplio → 1,25 % público para 2030, y un 3 % sumando a las empresas\n🔹 Podemos → 2 % público para ciencia e innovación\n🔹 PP → no da cifra (su programa de 2019 hablaba de un 2 % total)\n🔹 PSOE → 1,25 % público, y 1,5 % en 2035\n🔹 Vox → no da cifra (en 2024 propuso en el Congreso un 3 % público)\n\nRecuerda: prometer no es presupuestar.\n\nGuárdalo para el 29 y cuéntame: ¿mejor una cifra ambiciosa o ninguna? 💬\n\nFuentes: INE y Eurostat (2024) · programas 2026 de cada partido · PP 2019 · Vox, BOCG D-113 (2024)\n\n#29N #eleccionesgenerales #ciencia #idi #politicacientifica #bioandante",
-  "titulo": "¿Qué propone cada partido para la ciencia el 29-N? 🔬",
-  "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": true,
-  "par": "ciencia-29n"
  }
 ]
