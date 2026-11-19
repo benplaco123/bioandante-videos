@@ -325,5 +325,17 @@
   "facebook": false,
   "youtube": true,
   "prueba": false
+ },
+ {
+  "nombre": "pcr-pixel",
+  "hora": "2026-11-20T15:00:00+01:00",
+  "video": "pcr-pixel.mp4",
+  "portada": "pcr-pixel-portada.jpg",
+  "texto": "🎮 La PCR como si fuera un videojuego: así se copia el ADN millones de veces 🧬\n\nNivel 1 · 95 °C: el calor rompe los puentes de hidrógeno y la doble hélice se abre en dos hebras.\nNivel 2 · 55 °C: los cebadores, trocitos cortos de ADN, se enganchan justo donde empieza el trozo que quieres copiar.\nNivel 3 · 72 °C: la Taq polimerasa, una enzima de una bacteria de aguas termales que aguanta el calor, va añadiendo letras: A con T, G con C.\n\nFin del ciclo: de 1 molécula salen 2. Repite 30 ciclos y tienes más de mil millones de copias (2 elevado a 30). Así funcionan las PCR del COVID, las pruebas de paternidad o la genética forense.\n\n💾 Guárdalo para tu próximo examen\n👾 Mándaselo a tu jugador 2\n➕ Sígueme para más biología explicada fácil\n\n#PCR #biologia #ciencia #ADN #pixelart #videojuegos #divulgacion #genetica #biotecnologia",
+  "titulo": "La PCR como un videojuego 🎮🧬 Así se copia el ADN",
+  "instagram": true,
+  "facebook": false,
+  "youtube": true,
+  "prueba": true
  }
 ]
