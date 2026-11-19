@@ -783,8 +783,13 @@
   "texto": "Hay que compartir estas cosas, y comentar con más de cinco palabras, y votar!",
   "hora": "2026-11-18T18:03:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "jaja eso, comentarios largos que al algoritmo le encantan 😂 gracias por compartirlo 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -955,8 +960,13 @@
   "texto": "Elemental",
   "hora": "2026-11-18T15:49:10+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "elemental, y aun así hay que explicarlo 😅 compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
