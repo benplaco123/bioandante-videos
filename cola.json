@@ -63,7 +63,7 @@
  },
  {
   "nombre": "cucharilla-plastico-cerebro",
-  "hora": "2026-11-22T20:36:00+01:00",
+  "hora": "2026-12-03T20:36:00+01:00",
   "video": "cucharilla-plastico-cerebro.mp4",
   "texto": "¿Tienes una cucharilla de plástico dentro del cerebro? 🥄🧠\n\nSe hizo viral con un estudio de 2025 en Nature Medicine: en cerebros de personas fallecidas midieron una mediana de casi 5 miligramos de plástico por gramo (sobre todo polietileno). Multiplicado por lo que pesa un cerebro, salen unos 7 gramos: lo que pesa una cucharilla 👇\n\n🔥 Cómo se mide: un trocito de tejido se calienta sin aire hasta romperlo (pirólisis) y una máquina lee los pedazos como una huella dactilar.\n⚠️ El problema: la huella del polietileno se parece MUCHO a la de la grasa, y el cerebro es uno de los órganos con más grasa del cuerpo.\n📝 Otros científicos lo cuestionaron en la misma revista: el método pudo confundir grasa con plástico. Los autores respondieron y el debate sigue abierto.\n🩸 Un equipo de la Universidad de Queensland lo probó en sangre y concluyó que hoy esa técnica no sirve para medir polietileno en tejidos.\n\nOjo: eso no quiere decir que no tengas plástico dentro, porque con otros métodos se han visto partículas, por ejemplo en la placenta. Lo que no está demostrado es la cucharilla.\n\n📄 Fuentes: Nihart et al., Nature Medicine 31:1114 (2025); A. Monikh et al., Nature Medicine (2025), carta «Challenges in studying microplastics in human brain», y respuesta de los autores; Rauert et al., Environ Sci Technol 59:1984 (2025); O'Brien y Sampson, J Lipid Res (1965); Ragusa et al., Environ Int 146:106274 (2021).\n\n💬 ¿Tú qué harías? A · me lo creo hasta que lo desmientan · B · no me lo creo hasta ver cómo lo midieron. Te leo\n📌 Guárdalo y mándaselo a quien te contó lo de la cucharilla\n👉 Sígueme en @bio.andante para más curiosidades de biología\n\n#biologia #microplasticos #cerebro #mitos #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación en estilo de lámina científica: una cabeza de perfil cortada que deja ver el cerebro, con una cucharilla de plástico coral dentro; neuronas y vasos sanguíneos al microscopio con una cifra que sube; dos básculas que comparan el peso de un cerebro con el plástico; un horno de pirólisis y una máquina que dibuja picos; la huella del polietileno junto a la de la grasa, casi iguales; las cartas de la revista; sangre al microscopio con partículas que no se distinguen; y, al final, la cabeza con un signo de interrogación y una lupa sobre la gráfica.",
   "titulo": "¿Tienes una cucharilla de plástico dentro del cerebro? 🥄🧠",
@@ -304,5 +304,38 @@
   "youtube": false,
   "prueba": true,
   "par": "grupo-sanguineo-hijo"
+ },
+ {
+  "nombre": "gfp-fluorescencia",
+  "hora": "2026-11-22T20:36:00+01:00",
+  "video": "gfp-fluorescencia.mp4",
+  "texto": "🪼 Ninguna de estas imágenes está pintada. El color es la propia célula encendida 💚\n\nLa fluorescencia es esto: una molécula se traga luz de un color y, al instante, devuelve luz de otro con menos energía. A esas moléculas las llamamos fluoróforos.\n\nDurante décadas los pegábamos a anticuerpos para localizar una proteína, pero solo en células ya muertas y fijadas. Hasta que llegó la GFP, una proteína de la medusa Aequorea victoria: la célula la fabrica ella sola a partir de su gen, se pliega en un barril y forma su propio fluoróforo por dentro, sin añadir nada.\n\nLa clave: si pegas ese gen al de la proteína que quieres estudiar, la célula viva la fabrica ya encendida. Por primera vez se podía seguir una proteína en tiempo real, dentro de un animal vivo. Y de la GFP y de proteínas de corales salieron versiones azules, amarillas y rojas: por eso estas imágenes tienen tantos colores.\n\nEn 2008 le dieron el Nobel de Química a Shimomura, Chalfie y Tsien por esta proteína.\n\nFuentes:\n· Shimomura O, Johnson FH, Saiga Y. J Cell Comp Physiol 1962 · doi 10.1002/jcp.1030590302\n· Chalfie M et al. Green fluorescent protein as a marker for gene expression. Science 1994 · doi 10.1126/science.8303295\n· Premio Nobel de Química 2008 (nobelprize.org)\n\nImágenes: Wikimedia Commons, con sus autores y licencias en pantalla.\n\nSígueme para más ciencia explicada fácil 🧪\n\n#gfp #fluorescencia #biologia #ciencia #divulgacion #microscopia #nobel #biologiamolecular #cienciaenespañol #bioandante",
+  "titulo": "GFP: la luz verde de la medusa que encendió la biología 🪼💚",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false,
+  "portada": "gfp-fluorescencia-portada.jpg"
+ },
+ {
+  "nombre": "gfp-carrusel",
+  "tipo": "carrusel",
+  "hora": "2026-11-27T13:36:00+01:00",
+  "imagenes": [
+   "gfp-carrusel-01.jpg",
+   "gfp-carrusel-02.jpg",
+   "gfp-carrusel-03.jpg",
+   "gfp-carrusel-04.jpg",
+   "gfp-carrusel-05.jpg",
+   "gfp-carrusel-06.jpg",
+   "gfp-carrusel-07.jpg",
+   "gfp-carrusel-08.jpg",
+   "gfp-carrusel-09.jpg",
+   "gfp-carrusel-10.jpg",
+   "gfp-carrusel-11.jpg"
+  ],
+  "texto": "🔬 Ninguna de estas fotos está pintada: el color es la propia célula, encendida 💚\n\nGuárdalo, que es de las cosas más bonitas que hace la biología.\n\nLa fluorescencia es esto: una molécula se traga luz de un color y devuelve luz de otro con menos energía. A esas moléculas las llamamos fluoróforos.\n\nDurante décadas los pegábamos a anticuerpos para localizar una proteína, pero solo en células ya muertas y fijadas. Hasta que llegó la GFP, una proteína de la medusa Aequorea victoria: la célula la fabrica ella sola a partir de su gen, se pliega en un barril y forma su propio fluoróforo por dentro, sin añadir nada.\n\nY ahí está el truco que lo cambió todo: si pegas ese gen al de la proteína que quieres estudiar, la célula viva la fabrica ya encendida. Por primera vez se podía seguir una proteína en tiempo real dentro de un animal vivo. De la GFP y de proteínas de corales salieron después versiones azules, amarillas y rojas, y por eso se pueden marcar varias cosas a la vez.\n\nNobel de Química 2008 para Shimomura, Chalfie y Tsien.\n\nFuentes:\n· Shimomura O, Johnson FH, Saiga Y. J Cell Comp Physiol 1962 · doi 10.1002/jcp.1030590302\n· Chalfie M et al. Science 1994 · doi 10.1126/science.8303295\n· Premio Nobel de Química 2008 (nobelprize.org)\n\nImágenes: Wikimedia Commons, con su autor y licencia en cada lámina.\n\n#gfp #fluorescencia #microscopia #biologia #ciencia #divulgacion #nobel #biologiamolecular #laboratorio #cienciaenespañol #bioandante",
+  "instagram": true,
+  "facebook": true
  }
 ]

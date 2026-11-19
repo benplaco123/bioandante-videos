@@ -111,7 +111,7 @@ def main():
     toca = [e for e in cola if datetime.datetime.fromisoformat(e['hora']) <= now]
     if not toca: print('Nada que publicar'); return
     e = toca[0]  # una por pasada
-    url = f"https://github.com/{REPO}/releases/download/cola/{e['video']}"
+    url = f"https://github.com/{REPO}/releases/download/cola/{e.get('video', '')}"   # los carruseles no llevan vídeo
     res = {'nombre': e['nombre'], 'hora_real': now.isoformat()}
     if e.get('tipo') == 'carrusel':
         for k, f in (('instagram', carrusel), ('facebook', carrusel_fb)):
