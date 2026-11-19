@@ -99,7 +99,7 @@ def youtube(path, e):
     c = json.loads(os.environ['YT_CLIENT'])['installed']
     a = json.loads(urllib.request.urlopen(c['token_uri'], urllib.parse.urlencode(dict(refresh_token=os.environ['YT_REFRESH'],
         client_id=c['client_id'], client_secret=c['client_secret'], grant_type='refresh_token')).encode()).read())['access_token']
-    meta = {'snippet': {'title': e.get('titulo', e['nombre'])[:100], 'description': e['texto'], 'categoryId': '28'},
+    meta = {'snippet': {'title': e.get('titulo', e['nombre'])[:100], 'description': e['texto'].replace('<', '‹').replace('>', '›')[:4900], 'categoryId': '28'},
         'status': {'privacyStatus': 'public', 'selfDeclaredMadeForKids': False}}
     r = urllib.request.Request('https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status',
         data=json.dumps(meta).encode(), headers={'Authorization': 'Bearer ' + a, 'Content-Type': 'application/json',

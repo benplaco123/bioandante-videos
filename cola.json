@@ -313,5 +313,43 @@
   "texto": "🔬 Ninguna de estas fotos está pintada: el color es la propia célula, encendida 💚\n\nGuárdalo, que es de las cosas más bonitas que hace la biología.\n\nLa fluorescencia es esto: una molécula se traga luz de un color y devuelve luz de otro con menos energía. A esas moléculas las llamamos fluoróforos.\n\nDurante décadas los pegábamos a anticuerpos para localizar una proteína, pero solo en células ya muertas y fijadas. Hasta que llegó la GFP, una proteína de la medusa Aequorea victoria: la célula la fabrica ella sola a partir de su gen, se pliega en un barril y forma su propio fluoróforo por dentro, sin añadir nada.\n\nY ahí está el truco que lo cambió todo: si pegas ese gen al de la proteína que quieres estudiar, la célula viva la fabrica ya encendida. Por primera vez se podía seguir una proteína en tiempo real dentro de un animal vivo. De la GFP y de proteínas de corales salieron después versiones azules, amarillas y rojas, y por eso se pueden marcar varias cosas a la vez.\n\nNobel de Química 2008 para Shimomura, Chalfie y Tsien.\n\nFuentes:\n· Shimomura O, Johnson FH, Saiga Y. J Cell Comp Physiol 1962 · doi 10.1002/jcp.1030590302\n· Chalfie M et al. Science 1994 · doi 10.1126/science.8303295\n· Premio Nobel de Química 2008 (nobelprize.org)\n\nImágenes: Wikimedia Commons, con su autor y licencia en cada lámina.\n\n#gfp #fluorescencia #microscopia #biologia #ciencia #divulgacion #nobel #biologiamolecular #laboratorio #cienciaenespañol #bioandante",
   "instagram": true,
   "facebook": true
+ },
+ {
+  "nombre": "biofirmas-exoplanetas",
+  "hora": "2026-11-20T14:00:00+01:00",
+  "video": "biofirmas-exoplanetas.mp4",
+  "portada": "biofirmas-exoplanetas-portada.jpg",
+  "texto": "Buscar vida en otros planetas: una IA elige dónde mirar primero 🪐🔭\n\n¿Cómo sabes si hay vida en un planeta al que nunca podrás ir? Mirando su luz 👇\n\n🌟 Cuando un planeta pasa por delante de su estrella, parte de esa luz cruza su atmósfera, y cada gas se queda con unos colores concretos: deja una «huella» en el espectro.\n🌱 Algunas huellas, como metano y ozono juntos, en la Tierra las mantiene la vida. Se llaman biofirmas. Son pistas, no pruebas: el metano también sale de procesos sin vida.\n❓ Las señales son diminutas. En 2025, un equipo de Cambridge anunció una posible biofirma en el planeta K2-18b. Otros equipos analizaron esos mismos datos del James Webb y no encontraron una señal significativa.\n⏳ En un planeta como TRAPPIST-1e (a unos 40 años luz), el James Webb podría no detectar el ozono de una atmósfera como la nuestra ni en unos 80 tránsitos, toda su misión prevista.\n🤖 Un equipo de la Universidad de Antioquia (Colombia) entrenó una IA con unos 10 millones de espectros simulados para reconocer esas huellas aunque estén enterradas en ruido.\n🚩 En espectros realistas simulados, con solo 4 a 10 tránsitos marcaría como candidatos a más de 6 de cada 10 planetas con biofirmas.\n\n⚠️ La IA no detecta vida ni mide los gases: señala qué planetas merecen observarse a fondo. Y de momento solo se ha probado con planetas simulados, no con datos reales.\n\n📄 Fuente: Duque-Castaño, Zuluaga y Flor-Torres, Monthly Notices of the Royal Astronomical Society (2025). Contexto: Madhusudhan et al., ApJL (2025) y Luque et al., A&A (2025) sobre K2-18b; Lin et al., MNRAS (2021) sobre TRAPPIST-1e; NASA Exoplanet Archive (6451 planetas confirmados, octubre de 2026).\n\n📌 Guárdalo y compártelo con quien siempre pregunta «¿estamos solos?»\n💬 ¿Crees que encontraremos vida fuera de la Tierra en esta década? Te leo\n👉 Sígueme en @bio.andante: tienes la serie «IA como acelerador científico» completa en el perfil\n\n#exoplanetas #astrobiologia #inteligenciaartificial #jameswebb #divulgacioncientifica",
+  "titulo": "Buscar vida en otros planetas: una IA elige dónde mirar primero 🪐🔭",
+  "instagram": true,
+  "facebook": false,
+  "youtube": true,
+  "prueba": false
+ },
+ {
+  "nombre": "ciencia-29n-reel",
+  "hora": "2026-11-20T18:36:00+01:00",
+  "video": "ciencia-29n-reel.mp4",
+  "portada": "ciencia-29n-reel-portada.jpg",
+  "texto": "🗳️ El 29-N también se vota cuánto dinero va a la ciencia.\n\nHoy España pone en investigar 1,5 € de cada 100 que produce (la media europea, 2,26). Y de eso, el dinero público es solo un 0,58 % del PIB. Esa es la cifra con la que comparar cada propuesta:\n\n✏️ Frente Amplio: 1,25 % público en 2030 (3 % contando empresas)\n✏️ Podemos: 2 % público en ciencia e innovación\n✏️ PP: su programa no pone cifra (el de 2019 pedía un 2 % en total)\n✏️ PSOE: 1,25 % público, el de la Ley de la Ciencia, y 1,5 % en 2035\n✏️ Vox: su programa no pone cifra (en 2024 pidió en el Congreso un 3 % público)\n\nOjo: una cifra en un programa no es dinero en un presupuesto.\n\n¿Qué prefieres: una cifra alta aunque cueste cumplirla, o ninguna? Te leo 👇\n\nFuentes: INE, Estadística de I+D 2024 · Eurostat 2024 · programas electorales 2026 (PP 2019; Vox, PNL 161/000493)\n\n#29N #elecciones #ciencia #investigacion #cienciaenespaña #bioandante",
+  "titulo": "¿Cuánto dinero para la ciencia? Lo que propone cada partido el 29-N 🗳️",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": true,
+  "par": "ciencia-29n"
+ },
+ {
+  "nombre": "ciencia-29n-mezcla",
+  "hora": "2026-11-21T18:36:00+01:00",
+  "video": "ciencia-29n-mezcla.mp4",
+  "portada": "ciencia-29n-mezcla-portada.jpg",
+  "texto": "🔬 ¿Cuánto invertiría en investigación cada partido? Esto dicen sus programas para el 29-N.\n\n📍 Punto de partida (INE, 2024): España dedica a I+D el 1,5 % de su PIB; la media de la UE, el 2,26 %. Lo que pone el dinero público: un 0,58 %.\n\nPor orden alfabético:\n🔹 Frente Amplio → 1,25 % público para 2030, y un 3 % sumando a las empresas\n🔹 Podemos → 2 % público para ciencia e innovación\n🔹 PP → no da cifra (su programa de 2019 hablaba de un 2 % total)\n🔹 PSOE → 1,25 % público, y 1,5 % en 2035\n🔹 Vox → no da cifra (en 2024 propuso en el Congreso un 3 % público)\n\nRecuerda: prometer no es presupuestar.\n\nGuárdalo para el 29 y cuéntame: ¿mejor una cifra ambiciosa o ninguna? 💬\n\nFuentes: INE y Eurostat (2024) · programas 2026 de cada partido · PP 2019 · Vox, BOCG D-113 (2024)\n\n#29N #eleccionesgenerales #ciencia #idi #politicacientifica #bioandante",
+  "titulo": "¿Qué propone cada partido para la ciencia el 29-N? 🔬",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": true,
+  "par": "ciencia-29n"
  }
 ]
