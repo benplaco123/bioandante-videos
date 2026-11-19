@@ -1,6 +1,35 @@
 [
  {
   "red": "instagram",
+  "id": "18109066082254012",
+  "quien": "bio.andante",
+  "texto": "Sígueme si te ha gustado 🙌",
+  "hora": "2026-11-19T23:05:26+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
+  "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
+ },
+ {
+  "red": "instagram",
+  "id": "18101812616438870",
+  "quien": "martin.alonso_p",
+  "texto": "Ojalá me paguen 1.300",
+  "hora": "2026-11-19T22:59:32+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@martin.alonso_p parece que he tirado por lo alto 😢😢. Ya estás haciendo la tesis ? En que ?"
+   }
+  ],
+  "respondido": true,
+  "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
+  "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
+ },
+ {
+  "red": "instagram",
   "id": "17915276298567765",
   "quien": "gaspacho_saez",
   "texto": "1300???? Donde firmo wn",
@@ -72,6 +101,26 @@
    {
     "quien": "angelbiedma_",
     "texto": "@bio.andante sí… Trabajando mañana, tarde y noche. Fines de semana. Vacaciones. Ya basta de normalizar la precariedad en la que vivimos. Amo la ciencia y amo mi país, pero ya basta. No todo con vocación y amor la ciencia se sostiene. Tristemente me tendré que ir al extranjero para poder tener estabilidad y una vida digna 😅"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@angelbiedma_ yo al final acabé haciendo una oposición de técnico después del doctorado.. aunque el sueldo es una basura también. En qué campo ?"
+   },
+   {
+    "quien": "angelbiedma_",
+    "texto": "@bio.andante me alegro por ti… hoy en día, querer dedicarse a la academia o ciencia pública, es un carrera de fondo! Trabajo en el campo de la Ciencia e Ingeniería de Materiales 😬"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@angelbiedma_ si la verdad que si. Pues mucha suerte y que vaya lo mejor posible !"
+   },
+   {
+    "quien": "angelbiedma_",
+    "texto": "@bio.andante gracias! Y gracias también por el labor divulgativo que haces 🫂"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@angelbiedma_ gracias a ti por comentar! Y por el apoyo! 🔁"
    }
   ],
   "respondido": true,
@@ -8081,6 +8130,42 @@
    {
     "quien": "bio.andante",
     "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   },
+   {
+    "quien": "karinanan08",
+    "texto": "@hielaguisantes.98 apoco si"
+   },
+   {
+    "quien": "hielaguisantes.98",
+    "texto": "@karinanan08 jajajajajjajsja ni me mandaron nada 🥀"
+   },
+   {
+    "quien": "karinanan08",
+    "texto": "@hielaguisantes.98 jajajjajqjajajwjjwjwjwjwjj😢😢😢😢😢"
+   },
+   {
+    "quien": "_lumi404",
+    "texto": "@hielaguisantes.98  pero no te llegó nada? JAJAJJ"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@hielaguisantes.98 si te lo he mandado"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@hielaguisantes.98 mira en solicitudes de mensaje o algo"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@_lumi404 enviado está…"
+   },
+   {
+    "quien": "isabellaycia",
+    "texto": "@hielaguisantes.98  Checa bien bro"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Exacto jajaj"
    }
   ],
   "respondido": true,
