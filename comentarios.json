@@ -1,5 +1,29 @@
 [
  {
+  "red": "youtube",
+  "id": "UgwQtn0xYm24OzpwZEt4AaABAg",
+  "quien": "@jorgenavarro5661",
+  "texto": "Porque no habla de la tasa de mortalidsd de las crias en parejas homosexuales de aves 🤣.\nHay ventajas y desventajas, si quieren hijos tenganlos y ya.",
+  "hora": "2026-11-19T19:28:19Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
+  "red": "instagram",
+  "id": "18176848360459903",
+  "quien": "germana.roy",
+  "texto": "¿Cómo ha podido llegar tan lejos alguien con el cerebro completamente vacío? 🤦🏼‍♀️",
+  "hora": "2026-11-19T19:06:04+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Dos madres o dos padres va «contra la naturaleza»? Esto dice la biolo",
+  "enlace": "https://www.instagram.com/reel/Df5OBxBlcyi/"
+ },
+ {
   "red": "instagram",
   "id": "18111030377220796",
   "quien": "anitadoncel",
@@ -64,8 +88,13 @@
   "texto": "👏👏👏👏",
   "hora": "2026-11-19T16:58:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@xengell si te ha gustado comparte 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "¿Dos madres o dos padres va «contra la naturaleza»? Esto dice la biolo",
   "enlace": "https://www.instagram.com/reel/Df5OBxBlcyi/"
  },
@@ -151,8 +180,13 @@
   "texto": "¿Y las monomarentales/parentales??? ¿Esas qué son? Memeo",
   "hora": "2026-11-19T15:25:44+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@amandaquintorres pues también es familia por supuesto"
+   }
+  ],
+  "respondido": true,
   "video": "¿Dos madres o dos padres va «contra la naturaleza»? Esto dice la biolo",
   "enlace": "https://www.instagram.com/reel/Df5OBxBlcyi/"
  },
@@ -163,8 +197,13 @@
   "texto": "Por favor, no hagáis pensar a los votantes de derechas, que eso también va en contra la naturaleza 🙄",
   "hora": "2026-11-19T15:24:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@bernat_albet jajaja 😂😂😂"
+   }
+  ],
+  "respondido": true,
   "video": "¿Dos madres o dos padres va «contra la naturaleza»? Esto dice la biolo",
   "enlace": "https://www.instagram.com/reel/Df5OBxBlcyi/"
  },
@@ -18528,6 +18567,14 @@
    {
     "quien": "bio.andante",
     "texto": "@3du_herrera y lo que nos queda 😅 hago uno del método científico?"
+   },
+   {
+    "quien": "3du_herrera",
+    "texto": "@bio.andante hey pues no estaría mal, hay mucha gente a la que le vendría bien enterarse de cómo funciona 🤣"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@3du_herrera jajaja me lo apunto"
    }
   ],
   "respondido": true,
