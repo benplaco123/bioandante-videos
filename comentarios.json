@@ -1,6 +1,30 @@
 [
  {
   "red": "instagram",
+  "id": "18111195959194217",
+  "quien": "laritasilvia",
+  "texto": "Con sueldo protrateado",
+  "hora": "2026-11-20T08:50:20+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
+  "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
+ },
+ {
+  "red": "instagram",
+  "id": "17972303130196645",
+  "quien": "inesiitaa_",
+  "texto": "Y por menos..",
+  "hora": "2026-11-20T08:50:03+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
+  "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
+ },
+ {
+  "red": "instagram",
   "id": "18135109447828092",
   "quien": "bio.manublack",
   "texto": "Re-al ♡🙌🔥",
@@ -42,8 +66,13 @@
   "texto": "Cuando los IP tengan que sacar dinero de los proyectos para pagar las horas extras, que por supuesto no se pagan ahora, cambiará la cosa.",
   "hora": "2026-11-20T07:16:00+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Pero eso se va a hacer ?? Lo dudo …"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
   "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
  },
@@ -17072,6 +17101,10 @@
    {
     "quien": "bio.andante",
     "texto": "@vertigo.fz estamos hablando de la temperatura media del planeta. Como te han explicado en otro comentario eso afecta a las corrientes, y por tanto al clima  de manera extrema"
+   },
+   {
+    "quien": "sergi_tarbe",
+    "texto": "@angelrucu ESO es mucho trabajo, no seais malos"
    }
   ],
   "respondido": true,
@@ -17247,6 +17280,10 @@
    {
     "quien": "mr.fetish.spain.26",
     "texto": "@el_ultimo_ochentero Quedarse en que \"el clima siempre ha cambiado\" y quedarse tan pancho para negar el hecho de que este cambio climático es antropogénico es de una pereza intelectual de aupa"
+   },
+   {
+    "quien": "sergi_tarbe",
+    "texto": "La neurona no da para más, no seais malos"
    }
   ],
   "respondido": true,
