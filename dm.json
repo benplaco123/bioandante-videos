@@ -737,7 +737,8 @@
   "18477475204190752": "pedido + aviso público",
   "18432539050151052": "pedido + aviso público",
   "17942274822399942": "pedido + aviso público",
-  "18118643018127888": "pedido + aviso público"
+  "18118643018127888": "pedido + aviso público",
+  "18038449964893222": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4625,6 +4626,11 @@
    "usuario": "yuanhsin_ch",
    "clave": "TUBO",
    "pedido": "2026-11-20T11:34:50+00:00"
+  },
+  "2310237766489324": {
+   "usuario": "alexx.munoz_z",
+   "clave": "TUBO",
+   "pedido": "2026-11-20T15:02:59+00:00"
   }
  }
 }
