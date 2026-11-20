@@ -729,7 +729,8 @@
   "18094510241226067": "pedido + aviso público",
   "17920307604523455": "pedido + aviso público",
   "18103487324401038": "pedido + aviso público",
-  "18121722154787152": "pedido + aviso público"
+  "18121722154787152": "pedido + aviso público",
+  "17916885798541393": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4577,6 +4578,11 @@
    "usuario": "sofichamorrom",
    "clave": "TUBO",
    "pedido": "2026-11-19T23:52:49+00:00"
+  },
+  "3591964344301724": {
+   "usuario": "jairruizg",
+   "clave": "TUBO",
+   "pedido": "2026-11-20T00:51:03+00:00"
   }
  }
 }
