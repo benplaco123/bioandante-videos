@@ -1,13 +1,30 @@
 [
  {
+  "red": "youtube",
+  "id": "Ugz791SGYoJIeqoKD8B4AaABAg",
+  "quien": "@vetrez60",
+  "texto": "No jodan.....y es que quieren hacerlo obligatorio 😮",
+  "hora": "2026-11-20T18:35:29Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
   "red": "instagram",
   "id": "18478076848137320",
   "quien": "juua_cj",
   "texto": "🔥",
   "hora": "2026-11-20T18:11:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@juua_cj si te ha gustado dale a 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
   "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
  },
@@ -18,8 +35,13 @@
   "texto": "Cuanta ignorancia!! La sanidad no es solo para curar sino para prevenir q es lo mas importante y a lo q se dedica en mayor medida la atencion primaria",
   "hora": "2026-11-20T18:06:07+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "si te ha gustado dale a 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -30,8 +52,13 @@
   "texto": "Tal vez no llegue a ver como el hombre viaja a través del universo, pero si he visto dar los que seguramente son los primeros pasos hacia la exploración galáctica",
   "hora": "2026-11-20T17:11:40+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "si te ha gustado dale a 🔁🙏🏻🙌"
+   }
+  ],
+  "respondido": true,
   "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
   "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
  },
@@ -71,8 +98,13 @@
   "texto": null,
   "hora": "2026-11-20T16:46:55+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@alejoguzrojas jajajaja😮😮"
+   }
+  ],
+  "respondido": true,
   "video": "🐠 En la vida real, el padre de Nemo se habría convertido en su madre.\n",
   "enlace": "https://www.instagram.com/reel/Df9_qzFE1LW/"
  },
@@ -100,8 +132,13 @@
   "texto": "Osea que nemo se hubiera culiado a su papá?",
   "hora": "2026-11-20T16:31:05+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@polano.brian 😂😂😂"
+   }
+  ],
+  "respondido": true,
   "video": "🐠 En la vida real, el padre de Nemo se habría convertido en su madre.\n",
   "enlace": "https://www.instagram.com/reel/Df9_qzFE1LW/"
  },
@@ -124,8 +161,13 @@
   "texto": "Estás cosas me emocionan muchísimo. Tarde para unas cosas, pronto para otras, a tiempo para ver intentos y progreso, que guapo joder!!!",
   "hora": "2026-11-20T16:28:46+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@jpcerbe si te ha gustado dale a 🔁🙏🏻. Fue muy emocionante si! Un gran avance !"
+   }
+  ],
+  "respondido": true,
   "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
   "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
  },
@@ -170,8 +212,13 @@
   "texto": "Explotación para que un/a catedrático/a no haga nada",
   "hora": "2026-11-20T16:03:43+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@albeertorm_ por desgracia es así en muchos casos. Tuviste esa experiencia tú ?"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
   "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
  },
@@ -258,6 +305,10 @@
    {
     "quien": "__zzoee._",
     "texto": "@bio.andante lo hice, espero que le llegue a más gente!"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@__zzoee._ muchas gracias !!"
    }
   ],
   "respondido": true,
@@ -325,6 +376,10 @@
    {
     "quien": "v1ch0salazarg",
     "texto": "@bio.andante la hice en síntesis orgánica ☺️ muy interesante"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Qué guay! Espero que fuera bien"
    }
   ],
   "respondido": true,
@@ -495,6 +550,10 @@
    {
     "quien": "bio.andante",
     "texto": "También si… está fatal la cosa . En tu ciudad también ??"
+   },
+   {
+    "quien": "mjfierrop",
+    "texto": "@bio.andante en toda España yo creo, puede ser que se note más en unas comunidades que en otras pero en la mía aunque dicen que está mejor también se nota, soy del País Vasco"
    }
   ],
   "respondido": true,
@@ -516,6 +575,10 @@
    {
     "quien": "vic190223",
     "texto": "@juanferquindio no. Es el trabajo que deberían llevar 2-3 personas. Un predoc hace su trabajo, el que debería hacer el técnico (porque muchas veces no hay técnico) y, en ocasiones, el que debería hacer el postdoc."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "A eso me refería yo y creo que en el vídeo queda plasmado"
    }
   ],
   "respondido": true,
@@ -537,6 +600,10 @@
    {
     "quien": "laritasilvia",
     "texto": "@bio.andante si, hace 25 años que tuve una beca predoctoral y era casi la misma cuantía que ahora, pero era beca, no contrato (época becario-precario). Ahora estoy pagando al estado la parte esa que no me pagaron ellos para las cotizaciones."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Yo al menos si la hice ya cotizando"
    }
   ],
   "respondido": true,
@@ -19016,6 +19083,14 @@
    {
     "quien": "djordydj",
     "texto": "@michaelillodiazbro el error aquí es utilizar las palabras HOMBRE y MUJER, que se corresponden al género, no al sexo."
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "Ya pero es la forma de que gente si conocimiento lo pueda entender mejor. Tú cómo lo habrías hecho"
+   },
+   {
+    "quien": "djordydj",
+    "texto": "@bio.andante dejando claro que el sexo son los genitales y que el género son roles sociales\nPD: quería responder a @michaelillodiazbro"
    }
   ],
   "respondido": true,
