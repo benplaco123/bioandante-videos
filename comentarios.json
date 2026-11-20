@@ -1,6 +1,23 @@
 [
  {
   "red": "instagram",
+  "id": "17969028773982539",
+  "quien": "damned.v",
+  "texto": "TUBO",
+  "hora": "2026-11-20T01:02:44+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Ya lo tienes en mensajes! 📩 Si te gusta, dale a 🔁 para que llegue a más gente 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "17916885798541393",
   "quien": "jairruizg",
   "texto": "Tubo que tuvo tuvo, que mueve el cuerpo que eso me excita. Tubo que tuvo tuvo, que estás bien buena, tú, mamacita. 🔥",
@@ -9120,6 +9137,10 @@
    {
     "quien": "Bioandante",
     "texto": "Siento mucho lo que viviste. Sin tratamiento era terrible y lo sigue siendo. Lo que ha cambiado es que ahora con tratamiento se vive muchos años y no se transmite, por eso es tan importante hacerse la prueba"
+   },
+   {
+    "quien": null,
+    "texto": "Bioandante un amigo estaba con tratamiento y murio horrible el sida se subio al cerebro ya los medicos no pudieron hacer nada"
    }
   ],
   "respondido": true,
