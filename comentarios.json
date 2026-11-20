@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "18047828633824069",
+  "quien": "ponsbartomeu",
+  "texto": "Están mirando vida como la nuestra con base carbono, pero podría existir otro tipo de vida con otro elemento como base?",
+  "hora": "2026-11-20T14:22:49+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Buscar vida en otros planetas: una IA elige dónde mirar primero 🪐🔭\n\n¿C",
+  "enlace": "https://www.instagram.com/reel/Df9tvb6lLt1/"
+ },
+ {
+  "red": "instagram",
   "id": "18120250150796262",
   "quien": "portelrubio",
   "texto": "es que hay que ser cateto",
@@ -290,8 +302,13 @@
   "texto": "🔥🔥🔥",
   "hora": "2026-11-20T04:20:18+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado dale a 🔁🙏🏻. Gracias !!"
+   }
+  ],
+  "respondido": true,
   "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
   "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
  },
