@@ -1,6 +1,59 @@
 [
  {
   "red": "instagram",
+  "id": "18440206534180275",
+  "quien": "alejoguzrojas",
+  "texto": null,
+  "hora": "2026-11-20T16:46:55+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🐠 En la vida real, el padre de Nemo se habría convertido en su madre.\n",
+  "enlace": "https://www.instagram.com/reel/Df9_qzFE1LW/"
+ },
+ {
+  "red": "instagram",
+  "id": "18123028721472940",
+  "quien": "dna54133",
+  "texto": "Tubo",
+  "hora": "2026-11-20T16:35:18+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18131391961694536",
+  "quien": "polano.brian",
+  "texto": "Osea que nemo se hubiera culiado a su papá?",
+  "hora": "2026-11-20T16:31:05+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🐠 En la vida real, el padre de Nemo se habría convertido en su madre.\n",
+  "enlace": "https://www.instagram.com/reel/Df9_qzFE1LW/"
+ },
+ {
+  "red": "youtube",
+  "id": "UgyVQmvFW6iXZcDTM994AaABAg",
+  "quien": "@J.Roberto_Nietes",
+  "texto": "La señora Ayuso es famosa internacionalmente por tonta y facha. Acá en México es todo un personaje, pero no para bien. 😂... Excelente video.",
+  "hora": "2026-11-20T16:30:31Z",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "YouTube",
+  "enlace": "https://youtube.com/shorts/PRtonm74wMM"
+ },
+ {
+  "red": "instagram",
   "id": "18121960931021835",
   "quien": "jpcerbe",
   "texto": "Estás cosas me emocionan muchísimo. Tarde para unas cosas, pronto para otras, a tiempo para ver intentos y progreso, que guapo joder!!!",
@@ -25240,6 +25293,10 @@
    },
    {
     "quien": "pxbl0_23",
+    "texto": "@jasalfer4 en que te basas, gilipollas? China está llenándose de renovables y es el país número uno en la creación de coches eléctricos, puedes aportar datos?"
+   },
+   {
+    "quien": "pxbl0_23",
     "texto": "@jasalfer4 jo que mono, uno sin estudios"
    },
    {
@@ -25343,6 +25400,10 @@
     "texto": "@manuelcamino83 deja de decir bulos y estupideces. At0nta0"
    },
    {
+    "quien": "jasalfer4",
+    "texto": "@dpc_mm9 claro, y nosotros tenemos que ser los pringaos que tenemos que empobrecernos mientras EEUU y China son cada vez mas y mas ricos a costa de cargarse el planeta.  De verdad crees que le importa algo el que demos ejemplo?. Perdona pero es que hace falta ser estúpido completamente para hacer semejante chorrada"
+   },
+   {
     "quien": "lilianaimar",
     "texto": "@jasalfer4 jajjaja nosotros! España no es ni mucho menos un potencia industrial, pero es parte de la UE que al ir en bloque representa un contrapeso contra esas potencias negacionistas (ahora mismo EEUU e Inglaterra). Es el grano de arena que España va a aportar en medio de las decisiones de los líderes de esos megacontaminantes!"
    },
@@ -25395,6 +25456,10 @@
     "texto": "@jasalfer4 Europa te lo va a imponer 😂🤡😂. Vete tú de Europa a vivir a Dispar0s Unidos. Ademas, China ya está galopando hacia la solar y los coches electricos mientras tú crees pamplinas de negacionist4s. Y claro.... Tesla todos sabemos que es de la India 😂"
    },
    {
+    "quien": "jasalfer4",
+    "texto": "@studiosocrates vete tú subn0rm4l. China es el mas contaminante y cada vez mas. Dile a Trump que deje de contaminar. Yo no niego el cambio climático. At0nta0. Lo que pasa es que tiene que ser un esfuerzo a nivel global y no hacer el pardillo"
+   },
+   {
     "quien": "carlos.mayobre",
     "texto": "@mariagcdf en qué nos ha empobrecido pasar a las renovables, a ver? Di algo"
    },
@@ -25417,6 +25482,10 @@
    {
     "quien": "manof1kvoices",
     "texto": "@jasalfer4 cierto"
+   },
+   {
+    "quien": "jasalfer4",
+    "texto": "@djnt_zzz a ver si el estupido vas a ser tú. Con todo respeto 🙄"
    },
    {
     "quien": "jasalfer4",
