@@ -1,6 +1,47 @@
 [
  {
   "red": "instagram",
+  "id": "18019640663970648",
+  "quien": "alberto85im",
+  "texto": "Tal vez no llegue a ver como el hombre viaja a través del universo, pero si he visto dar los que seguramente son los primeros pasos hacia la exploración galáctica",
+  "hora": "2026-11-20T17:11:40+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
+  "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
+ },
+ {
+  "red": "instagram",
+  "id": "18645540073018368",
+  "quien": "diego_evers",
+  "texto": "Tubo",
+  "hora": "2026-11-20T17:11:21+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18131249836847524",
+  "quien": "simplemente.raquel",
+  "texto": "Tenemos q ir a votar el 29N. No nos podemos permitir quedarnos en casa!",
+  "hora": "2026-11-20T17:07:43+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
+ },
+ {
+  "red": "instagram",
   "id": "18440206534180275",
   "quien": "alejoguzrojas",
   "texto": null,
@@ -189,6 +230,10 @@
    {
     "quien": "bio.andante",
     "texto": "Me alegro que te haya gustado. Compártelo!!"
+   },
+   {
+    "quien": "__zzoee._",
+    "texto": "@bio.andante lo hice, espero que le llegue a más gente!"
    }
   ],
   "respondido": true,
@@ -25293,10 +25338,6 @@
    },
    {
     "quien": "pxbl0_23",
-    "texto": "@jasalfer4 en que te basas, gilipollas? China está llenándose de renovables y es el país número uno en la creación de coches eléctricos, puedes aportar datos?"
-   },
-   {
-    "quien": "pxbl0_23",
     "texto": "@jasalfer4 jo que mono, uno sin estudios"
    },
    {
@@ -25400,10 +25441,6 @@
     "texto": "@manuelcamino83 deja de decir bulos y estupideces. At0nta0"
    },
    {
-    "quien": "jasalfer4",
-    "texto": "@dpc_mm9 claro, y nosotros tenemos que ser los pringaos que tenemos que empobrecernos mientras EEUU y China son cada vez mas y mas ricos a costa de cargarse el planeta.  De verdad crees que le importa algo el que demos ejemplo?. Perdona pero es que hace falta ser estúpido completamente para hacer semejante chorrada"
-   },
-   {
     "quien": "lilianaimar",
     "texto": "@jasalfer4 jajjaja nosotros! España no es ni mucho menos un potencia industrial, pero es parte de la UE que al ir en bloque representa un contrapeso contra esas potencias negacionistas (ahora mismo EEUU e Inglaterra). Es el grano de arena que España va a aportar en medio de las decisiones de los líderes de esos megacontaminantes!"
    },
@@ -25456,10 +25493,6 @@
     "texto": "@jasalfer4 Europa te lo va a imponer 😂🤡😂. Vete tú de Europa a vivir a Dispar0s Unidos. Ademas, China ya está galopando hacia la solar y los coches electricos mientras tú crees pamplinas de negacionist4s. Y claro.... Tesla todos sabemos que es de la India 😂"
    },
    {
-    "quien": "jasalfer4",
-    "texto": "@studiosocrates vete tú subn0rm4l. China es el mas contaminante y cada vez mas. Dile a Trump que deje de contaminar. Yo no niego el cambio climático. At0nta0. Lo que pasa es que tiene que ser un esfuerzo a nivel global y no hacer el pardillo"
-   },
-   {
     "quien": "carlos.mayobre",
     "texto": "@mariagcdf en qué nos ha empobrecido pasar a las renovables, a ver? Di algo"
    },
@@ -25482,10 +25515,6 @@
    {
     "quien": "manof1kvoices",
     "texto": "@jasalfer4 cierto"
-   },
-   {
-    "quien": "jasalfer4",
-    "texto": "@djnt_zzz a ver si el estupido vas a ser tú. Con todo respeto 🙄"
    },
    {
     "quien": "jasalfer4",
