@@ -98,18 +98,6 @@
   "portada": "poliuretano-enzima-ia-portada.jpg"
  },
  {
-  "nombre": "citometria-flujo",
-  "hora": "2026-11-20T20:36:00+01:00",
-  "video": "citometria-flujo.mp4",
-  "texto": "🔬 Imagina buscar UNA célula de leucemia entre diez mil sanas. Al microscopio no la encuentras. Un citómetro de flujo sí.\n\nPrimero se marcan las células con anticuerpos que llevan un tinte brillante y solo se pegan a ciertos tipos. Después, una corriente de líquido las estrecha hasta ponerlas en fila india, y pasan por un láser de una en una, miles por segundo.\n\nLa luz que sigue recta indica el tamaño de la célula; la que sale de lado, cómo es por dentro. Y si lleva etiqueta, se enciende. Cada célula se convierte en un punto y miles de puntos forman nubes, una por tipo celular. Las que buscabas aparecen lejos de las nubes.\n\n⚠️ Ojo: un punto suelto no basta. Por eso se leen cientos de miles de células, una detrás de otra.\n\n😄 Y tú te quejas de la cola del súper.\n\n👇 ¿Sabías que así se detecta una leucemia? Cuéntame en comentarios.\n\nTécnica: citometría de flujo (anticuerpos fluorescentes, dispersión de luz y fluorescencia por láser).\n\n#citometriadeflujo #biologia #ciencia #leucemia #laboratorio #inmunologia #divulgacioncientifica #bioandante #cienciaenespañol",
-  "titulo": "🔬 Imagina buscar UNA célula de leucemia entre diez mil sanas. Al microscopio no la encuent",
-  "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": false,
-  "portada": "citometria-flujo-portada.jpg"
- },
- {
   "nombre": "fluorescencia-adn",
   "hora": "2026-11-23T12:36:00+01:00",
   "video": "fluorescencia-adn.mp4",
