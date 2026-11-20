@@ -373,5 +373,31 @@
     "facebook": false,
     "youtube": true,
     "prueba": true
+  },
+  {
+    "nombre": "axolote",
+    "hora": "2026-12-04T20:36:00+01:00",
+    "video": "axolote.mp4",
+    "portada": "axolote-portada.jpg",
+    "texto": "🦎 Le cortas una pata y vuelve a crecer entera. Sin cicatriz.\n\nEl axolote, un anfibio mexicano, regenera patas, cola, médula espinal y parte del corazón. Cuando pierde una pata, una piel especial tapa la herida y debajo se juntan células que forman un bulto: el blastema.\n\nLo raro: cada célula recuerda qué era. La de músculo vuelve a hacer músculo; la de nervio, nervio. Y recuerda dónde estaba: si cortas por el codo, la pata crece desde el codo.\n\n¿Quién decide si sale pata o cicatriz? Los macrófagos, células del sistema inmune. Si se los quitan al principio, no sale pata: sale cicatriz, como en nosotros. Hay laboratorios buscando qué hacen distinto.\n\nY algo nos queda: en niños pequeños, la puntita del dedo puede volver a crecer.\n\nLo malo: en libertad casi no quedan. Solo viven en los canales de Xochimilco, al sur de Ciudad de México, y están en peligro crítico.\n\nFuentes:\n· Kragl M et al. Cells keep a memory of their tissue origin during axolotl limb regeneration. Nature 2009\n· Godwin JW et al. Macrophages are required for adult salamander limb regeneration. PNAS 2013\n· Cano-Martínez A et al. Functional and structural regeneration in the axolotl heart. Arch Cardiol Mex 2010\n· Laflamme MA, Murry CE. Heart regeneration. Nature 2011\n· Illingworth CM. Trapped fingers and amputated finger tips in children. J Pediatr Surg 1974\n· UICN, Lista Roja: Ambystoma mexicanum\n\nMándaselo a alguien con el corazón roto 💔\nSígueme para más ciencia explicada fácil 🧪\n\n#axolote #ajolote #regeneracion #biologia #ciencia #divulgacion #xochimilco #celulasmadre #sistemainmune #cienciaenespañol #bioandante",
+    "titulo": "🦎 Le cortas una pata y vuelve a crecer entera. Sin cicatriz.",
+    "instagram": true,
+    "facebook": true,
+    "youtube": true,
+    "prueba": false,
+    "par": "axolote"
+  },
+  {
+    "nombre": "axolote-b",
+    "hora": "2026-12-04T20:36:00+01:00",
+    "video": "axolote-b.mp4",
+    "portada": "axolote-b-portada.jpg",
+    "texto": "❤️‍🩹 Tienes 3000 millones de letras de ADN y no te crece ni una pierna. Un animalito mexicano sí puede.\n\nTras un infarto mueren hasta mil millones de células del corazón y no se reponen: queda una cicatriz. El ajolote (axolote) regenera patas, cola, médula y parte del corazón, y lo hace sin cicatriz.\n\nAsí funciona: una piel especial cierra la herida, debajo se forma el blastema, y cada célula vuelve a lo que era (músculo a músculo, nervio a nervio) y al sitio donde estaba. Si cortas por el codo, crece desde el codo.\n\nLa orden la dan los macrófagos, del sistema inmune: sin ellos, cicatriz. Nosotros también los tenemos y se investiga qué hacen distinto los suyos. De momento, a los niños pequeños les puede volver a crecer la punta del dedo.\n\nEn libertad casi no quedan: solo en los canales de Xochimilco, en Ciudad de México.\n\nFuentes:\n· Nowoshilow S et al. The axolotl genome and the evolution of key tissue formation regulators. Nature 2018\n· Laflamme MA, Murry CE. Heart regeneration. Nature 2011\n· Kragl M et al. Nature 2009 · Godwin JW et al. PNAS 2013\n· Cano-Martínez A et al. Arch Cardiol Mex 2010 · Illingworth CM. J Pediatr Surg 1974\n· UICN, Lista Roja\n\nCompártelo con quien diga que no le crece nada 😅\nSígueme para más ciencia explicada fácil 🧪\n\n#ajolote #axolote #regeneracion #adn #corazon #biologia #ciencia #divulgacion #cienciaenespañol #bioandante",
+    "titulo": "❤️‍🩹 Tienes 3000 millones de letras de ADN y no te crece ni una pierna. Un animalito mexicano sí puede.",
+    "instagram": true,
+    "facebook": false,
+    "youtube": false,
+    "prueba": true,
+    "par": "axolote"
   }
 ]
