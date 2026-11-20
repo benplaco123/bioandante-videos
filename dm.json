@@ -734,7 +734,8 @@
   "17969028773982539": "pedido + aviso público",
   "18111602603241476": "pedido + aviso público",
   "18212247346372071": "pedido + aviso público",
-  "18477475204190752": "pedido + aviso público"
+  "18477475204190752": "pedido + aviso público",
+  "18432539050151052": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4607,6 +4608,11 @@
    "usuario": "carlacosse",
    "clave": "TUBO",
    "pedido": "2026-11-20T02:21:37+00:00"
+  },
+  "2402424883944046": {
+   "usuario": "val._.bernal",
+   "clave": "TUBO",
+   "pedido": "2026-11-20T06:33:37+00:00"
   }
  }
 }
