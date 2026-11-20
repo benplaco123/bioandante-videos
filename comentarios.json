@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "18134684935747410",
+  "quien": "hectorkernel",
+  "texto": "🔥🔥🔥",
+  "hora": "2026-11-20T04:20:18+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
+  "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
+ },
+ {
+  "red": "instagram",
   "id": "18180924472452548",
   "quien": "raulrucka",
   "texto": "Esta publicacion me interesa y recomiendo su difusión",
@@ -291,10 +303,6 @@
    {
     "quien": "bio.andante",
     "texto": "@victoriabalam ya… al final como es vocacional va saliendo las cosas ."
-   },
-   {
-    "quien": "jeam._16",
-    "texto": "@bio.andante Dedicarse a una labor por la cual estas dispuesto a hacer, sin recibir algo a cambió"
    }
   ],
   "respondido": true,
@@ -8549,23 +8557,6 @@
  },
  {
   "red": "instagram",
-  "id": "17998207352842968",
-  "quien": "dania_prudhomme",
-  "texto": "Tubo",
-  "hora": "2026-11-17T03:32:31+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
   "id": "18127629469772266",
   "quien": "_mixhttp",
   "texto": "Tubo",
@@ -15151,6 +15142,10 @@
    {
     "quien": "Bioandante",
     "texto": "No hay que promover el miedo. Con información, prevención y tratamiento se puede tener una vida sexual saludable."
+   },
+   {
+    "quien": null,
+    "texto": "Exacto. Y para mí, parte de estar informado y prevenir, es no tener relaciones sexuales con personas con VIH."
    }
   ],
   "respondido": true,
