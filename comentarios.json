@@ -1,6 +1,35 @@
 [
  {
   "red": "instagram",
+  "id": "18121960931021835",
+  "quien": "jpcerbe",
+  "texto": "Estás cosas me emocionan muchísimo. Tarde para unas cosas, pronto para otras, a tiempo para ver intentos y progreso, que guapo joder!!!",
+  "hora": "2026-11-20T16:28:46+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
+  "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
+ },
+ {
+  "red": "instagram",
+  "id": "18357562162264380",
+  "quien": "chalmoal",
+  "texto": "Tubo",
+  "hora": "2026-11-20T16:22:40+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18029400833946005",
   "quien": "ericbrun12_",
   "texto": "Tubo",
@@ -378,6 +407,10 @@
    {
     "quien": "bio.andante",
     "texto": "Súper bajos al final.. tú has hecho la tesis ??"
+   },
+   {
+    "quien": "laritasilvia",
+    "texto": "@bio.andante si, hace 25 años que tuve una beca predoctoral y era casi la misma cuantía que ahora, pero era beca, no contrato (época becario-precario). Ahora estoy pagando al estado la parte esa que no me pagaron ellos para las cotizaciones."
    }
   ],
   "respondido": true,
@@ -18853,6 +18886,10 @@
    {
     "quien": "bio.andante",
     "texto": "@marian.guz No siempre: en el síndrome de Swyer o de insensibilidad a los andrógenos hay mujeres XY, con cuerpo de mujer. ¿Lo conocías?"
+   },
+   {
+    "quien": "djordydj",
+    "texto": "@michaelillodiazbro el error aquí es utilizar las palabras HOMBRE y MUJER, que se corresponden al género, no al sexo."
    }
   ],
   "respondido": true,
