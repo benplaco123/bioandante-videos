@@ -730,7 +730,8 @@
   "17920307604523455": "pedido + aviso público",
   "18103487324401038": "pedido + aviso público",
   "18121722154787152": "pedido + aviso público",
-  "17916885798541393": "pedido + aviso público"
+  "17916885798541393": "pedido + aviso público",
+  "17969028773982539": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4583,6 +4584,11 @@
    "usuario": "jairruizg",
    "clave": "TUBO",
    "pedido": "2026-11-20T00:51:03+00:00"
+  },
+  "1412651023988921": {
+   "usuario": "damned.v",
+   "clave": "TUBO",
+   "pedido": "2026-11-20T01:12:29+00:00"
   }
  }
 }
