@@ -1,6 +1,23 @@
 [
  {
   "red": "instagram",
+  "id": "17988470628105445",
+  "quien": "gabrieru_sw",
+  "texto": "Tubo",
+  "hora": "2026-11-21T12:27:56+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18110647457343976",
   "quien": "pmartin00000",
   "texto": "ese Decreto también data cobertura para todas las Enfermedades de Declaración Obligatoria (EDO) como son tus ejemplos:Tuberculosis, VIH, Sarampión... Eso si creaba barreras burocráticas que dificultaban su diagnostico. Bastantes médicos forzaron su no eschusión con el argumento de \"sospecha de EDO\"",
