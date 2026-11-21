@@ -281,18 +281,6 @@
   "facebook": true
  },
  {
-  "nombre": "carrera-espermatozoide",
-  "hora": "2026-11-21T15:00:00+01:00",
-  "video": "carrera-espermatozoide.mp4",
-  "portada": "carrera-espermatozoide-portada.jpg",
-  "texto": "🏁 La carrera más difícil de tu vida… y la ganaste tú 🧬\n\nUnos 200 millones de espermatozoides salen a la vez. Casi todos se quedan por el camino:\n🟢 El ácido de la vagina (pH 4) acaba con muchísimos.\n🧊 El moco del cuello del útero es un laberinto: solo pasan los que encuentran sus canales.\n🟣 Los glóbulos blancos se comen a muchos, como si fueran intrusos.\n↔️ Hay dos trompas y el óvulo suele estar en una sola: muchos van al lado equivocado.\n\nAl óvulo solo llegan unos cientos. Para entrar tienen que cruzar la corona radiada y la zona pelúcida, y lo hacen con las enzimas que llevan en la punta de la cabeza (el acrosoma). En cuanto uno lo consigue, el óvulo se blinda y ya no entra nadie más.\n\nY ojo: no gana necesariamente el más rápido. Los primeros en llegar a menudo aún no están preparados (la capacitación), y el útero y las trompas les ayudan con sus contracciones.\n\n💾 Guárdalo\n🏆 Etiqueta a un campeón\n➕ Sígueme para más biología explicada fácil\n\n#biologia #ciencia #fecundacion #espermatozoide #ovulo #reproduccion #pixelart #videojuegos #divulgacion",
-  "titulo": "La carrera que ganaste tú 🏁🧬 (en modo videojuego)",
-  "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": true
- },
- {
   "nombre": "starship-pixel",
   "hora": "2026-11-22T15:00:00+01:00",
   "video": "starship-pixel.mp4",
@@ -341,5 +329,18 @@
   "youtube": false,
   "prueba": true,
   "par": "axolote"
+ },
+ {
+  "nombre": "carrera-espermatozoide",
+  "hora": "2026-11-21T14:23:45+00:00",
+  "video": "carrera-espermatozoide.mp4",
+  "portada": "carrera-espermatozoide-portada.jpg",
+  "texto": "🏁 La carrera más difícil de tu vida… y la ganaste tú 🧬\n\nUnos 200 millones de espermatozoides salen a la vez. Casi todos se quedan por el camino:\n🟢 El ácido de la vagina (pH 4) acaba con muchísimos.\n🧊 El moco del cuello del útero es un laberinto: solo pasan los que encuentran sus canales.\n🟣 Los glóbulos blancos se comen a muchos, como si fueran intrusos.\n↔️ Hay dos trompas y el óvulo suele estar en una sola: muchos van al lado equivocado.\n\nAl óvulo solo llegan unos cientos. Para entrar tienen que cruzar la corona radiada y la zona pelúcida, y lo hacen con las enzimas que llevan en la punta de la cabeza (el acrosoma). En cuanto uno lo consigue, el óvulo se blinda y ya no entra nadie más.\n\nY ojo: no gana necesariamente el más rápido. Los primeros en llegar a menudo aún no están preparados (la capacitación), y el útero y las trompas les ayudan con sus contracciones.\n\n💾 Guárdalo\n🏆 Etiqueta a un campeón\n➕ Sígueme para más biología explicada fácil\n\n#biologia #ciencia #fecundacion #espermatozoide #ovulo #reproduccion #pixelart #videojuegos #divulgacion",
+  "titulo": "La carrera que ganaste tú 🏁🧬 (en modo videojuego)",
+  "instagram": true,
+  "facebook": false,
+  "youtube": false,
+  "prueba": true,
+  "intentos": 1
  }
 ]

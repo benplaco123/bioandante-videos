@@ -271,5 +271,14 @@
   "youtube": "https://youtube.com/shorts/9Da_hDgzDXw",
   "facebook_portada": "ok",
   "youtube_portada": "ok"
+ },
+ {
+  "nombre": "carrera-espermatozoide",
+  "hora_real": "2026-11-21T14:03:45.902063+00:00",
+  "instagram": "FALLO 17841434362052739/media_publish: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"code\":2,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AmCg3RPIgCl5ZOE_dYY_B7E\"}}",
+  "facebook": "https://www.facebook.com/reel/1821154042336434",
+  "youtube": "https://youtube.com/shorts/ZOjGXleASI0",
+  "facebook_portada": "ok",
+  "youtube_portada": "ok"
  }
 ]
