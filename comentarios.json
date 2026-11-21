@@ -1,6 +1,47 @@
 [
  {
   "red": "instagram",
+  "id": "18642446077044674",
+  "quien": "javirod_3",
+  "texto": "Estafa climática.",
+  "hora": "2026-11-21T17:14:59+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧊 ¿Dos grados no son nada? Vamos con datos.\n\n🧊 «Dos grados no son nada",
+  "enlace": "https://www.instagram.com/reel/DgAkmXJlHZc/"
+ },
+ {
+  "red": "instagram",
+  "id": "18104588216379745",
+  "quien": "_key.comm",
+  "texto": "tubo",
+  "hora": "2026-11-21T17:07:09+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Te lo he mandado por mensaje privado! 📩 Y si te ha gustado, compártelo con 🔁 para que le llegue a más gente del labo 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "17921860773516747",
+  "quien": "miguel128070",
+  "texto": "Además ahora va a subir 2 grados en 100-200 años mientras q la glaciación tardo decenas de miles",
+  "hora": "2026-11-21T16:52:41+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🧊 ¿Dos grados no son nada? Vamos con datos.\n\n🧊 «Dos grados no son nada",
+  "enlace": "https://www.instagram.com/reel/DgAkmXJlHZc/"
+ },
+ {
+  "red": "instagram",
   "id": "18025309538943701",
   "quien": "milena_gamboablum",
   "texto": "La gente dice 2 grados no es nada pero porque piensan que es local sin pensar en la media global que es lo que se refiere cuando se habla de la subida de temperatura, 2 grados locales no son mucho y puede ser una temporada mas calurosa de lo normal, pero 2 grados más en la media es mucho, ejemplo nuestro cuerpo, de normal estamos en 36.5°c, si nos calentamos a 38.5°c ya se considera fiebre ademas de que para que la media suba 2 grados en los continentes tienen que subir 4 o mas",
@@ -25909,6 +25950,10 @@
    {
     "quien": "lokiv13",
     "texto": "@alvaro.s_zapata los anunaquis"
+   },
+   {
+    "quien": "cultvs.cernvnni",
+    "texto": "@alvaro.s_zapata Desde luego que el 1% fue financiado por las élites económicas, al gran capital le conviene que imbéciles crean que se puede producir y explotar sin límites."
    },
    {
     "quien": "bio.andante",
