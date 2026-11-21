@@ -6,8 +6,13 @@
   "texto": "Para luego estar sufriendo en esta puerca vida",
   "hora": "2026-11-21T15:13:44+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Jajaja este juego de la vida es más difícil no ?"
+   }
+  ],
+  "respondido": true,
   "video": "🏁 La carrera más difícil de tu vida… y la ganaste tú 🧬\n\nUnos 200 millo",
   "enlace": "https://www.instagram.com/reel/DgAcQmOnKeX/"
  },
@@ -18,8 +23,13 @@
   "texto": "Es un ignorante q no sabe de  nada, solo de racismo xenofobia,",
   "hora": "2026-11-21T14:55:29+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@esther_syrah cómo crees que quedará al final ?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -110,8 +120,13 @@
   "texto": "ese Decreto también data cobertura para todas las Enfermedades de Declaración Obligatoria (EDO) como son tus ejemplos:Tuberculosis, VIH, Sarampión... Eso si creaba barreras burocráticas que dificultaban su diagnostico. Bastantes médicos forzaron su no eschusión con el argumento de \"sospecha de EDO\"",
   "hora": "2026-11-21T11:48:40+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@pmartin00000 gracias por tu aporte"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -314,6 +329,10 @@
    {
     "quien": "rafa_18af",
     "texto": "Viajar a la velocidad de la luz es una burrada. Por la dilatación temporal y eso. Pero lo que si se, es que creo que llegaremos a podemos utilizar el motor de curvatura. (Mucho más rápido que la velocidad de la luz (en teoría))"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@rafa_18af ojalaaa"
    }
   ],
   "respondido": true,
