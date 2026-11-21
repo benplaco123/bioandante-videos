@@ -1,15 +1,5 @@
 [
  {
-  "nombre": "07-qu-protege-a-dos-trenes",
-  "hora": "2026-11-21T13:36:00+01:00",
-  "video": "07-qu-protege-a-dos-trenes.mp4",
-  "texto": "Qué protege a dos trenes que comparten vía 🚄\n\nEl 28 de octubre, cerca de Urda (Toledo), un AVE alcanzó a un Iryo que estaba detenido. Un recuerdo para las víctimas y sus familias.\n\n🚦 La regla: en condiciones normales, nunca dos trenes en el mismo tramo (cantón).\n📡 En la Madrid–Sevilla, el sistema LZB manda la velocidad al tren por un cable tendido en la vía.\n🔔 Si falla, quedan las señales y el ASFA, que frena si el maquinista no responde.\n🐢 Pasar una señal en rojo por una incidencia solo se autoriza a un máximo de 40 km/h: la distancia de frenado crece con el cuadrado de la velocidad.\n\n⚠️ Datos provisionales: según el Ministerio, esa mañana falló el LZB en unos 90 km de línea. Qué orden se dio y a qué velocidad iba el AVE lo investigan la CIAF y la Guardia Civil.\n\n📄 Fuentes: Ministerio de Transportes (vía El Español), Xataka, Telecinco, Infobae, Libertad Digital (28-10-2026).\n\nExplico la ciencia que hay detrás de lo que pasa. Si te interesa, bio.andante\n\n#seguridadferroviaria #tren #AVE #Iryo #Toledo divulgacioncientifica",
-  "titulo": "Qué protege a dos trenes que comparten vía 🚄",
-  "instagram": false,
-  "facebook": true,
-  "youtube": true
- },
- {
   "nombre": "08-2-metros-de-adn",
   "hora": "2026-11-22T13:36:00+01:00",
   "video": "08-2-metros-de-adn.mp4",
@@ -298,7 +288,7 @@
   "texto": "🏁 La carrera más difícil de tu vida… y la ganaste tú 🧬\n\nUnos 200 millones de espermatozoides salen a la vez. Casi todos se quedan por el camino:\n🟢 El ácido de la vagina (pH 4) acaba con muchísimos.\n🧊 El moco del cuello del útero es un laberinto: solo pasan los que encuentran sus canales.\n🟣 Los glóbulos blancos se comen a muchos, como si fueran intrusos.\n↔️ Hay dos trompas y el óvulo suele estar en una sola: muchos van al lado equivocado.\n\nAl óvulo solo llegan unos cientos. Para entrar tienen que cruzar la corona radiada y la zona pelúcida, y lo hacen con las enzimas que llevan en la punta de la cabeza (el acrosoma). En cuanto uno lo consigue, el óvulo se blinda y ya no entra nadie más.\n\nY ojo: no gana necesariamente el más rápido. Los primeros en llegar a menudo aún no están preparados (la capacitación), y el útero y las trompas les ayudan con sus contracciones.\n\n💾 Guárdalo\n🏆 Etiqueta a un campeón\n➕ Sígueme para más biología explicada fácil\n\n#biologia #ciencia #fecundacion #espermatozoide #ovulo #reproduccion #pixelart #videojuegos #divulgacion",
   "titulo": "La carrera que ganaste tú 🏁🧬 (en modo videojuego)",
   "instagram": true,
-  "facebook": false,
+  "facebook": true,
   "youtube": true,
   "prueba": true
  },
