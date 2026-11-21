@@ -1,6 +1,23 @@
 [
  {
   "red": "instagram",
+  "id": "18063527501577438",
+  "quien": "martidiaz.e",
+  "texto": "Tubo",
+  "hora": "2026-11-21T13:13:04+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "17988470628105445",
   "quien": "gabrieru_sw",
   "texto": "Tubo",
@@ -223,6 +240,10 @@
    {
     "quien": "bio.andante",
     "texto": "Ojalá poder verlo! cuando crees que llegaremos a Marte ?? Comparte si te gustó 🔁🙏🏻"
+   },
+   {
+    "quien": "rafa_18af",
+    "texto": "Viajar a la velocidad de la luz es una burrada. Por la dilatación temporal y eso. Pero lo que si se, es que creo que llegaremos a podemos utilizar el motor de curvatura. (Mucho más rápido que la velocidad de la luz (en teoría))"
    }
   ],
   "respondido": true,
