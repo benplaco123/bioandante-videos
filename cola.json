@@ -150,18 +150,6 @@
   "par": "nobel-2018"
  },
  {
-  "nombre": "antibioticos-generativos",
-  "hora": "2026-11-21T20:36:00+01:00",
-  "video": "antibioticos-generativos.mp4",
-  "portada": "antibioticos-generativos-portada.jpg",
-  "texto": "Una IA inventó antibióticos que no existían 🧪🦠\n\nLas bacterias resistentes ya matan a más de un millón de personas al año, y casi no llegan antibióticos nuevos 👇\n\n💀 En 2021, la resistencia bacteriana causó directamente unos 1,14 millones de muertes en el mundo.\n🤖 En 2025, un equipo del MIT usó IA generativa para diseñar antibióticos desde cero: no buscó entre moléculas conocidas, las construyó átomo a átomo. Más de 36 millones de candidatas.\n🧹 Un filtro por ordenador descartó casi todas y en el laboratorio solo se fabricaron unas pocas.\n🐭 Dos funcionaron en ratones: NG1 redujo una infección de gonorrea resistente y DN1 redujo unas 10 veces una infección de piel por MRSA (la redujo, no la curó).\n🧬 Y no se parecen a ninguno de los 559 antibacterianos conocidos con los que los compararon.\n\n⚠️ Son resultados en ratones, no en personas. Faltan años de pruebas (la organización sin ánimo de lucro Phare Bio ya los está modificando) y no es seguro que lleguen a ser medicamentos.\n\n📄 Fuente: Krishnan et al., «A generative deep learning approach to de novo antibiotic design», Cell 188:5962 (2025). Contexto: GRAM, The Lancet (2024), sobre las muertes por resistencia bacteriana en 2021.\n\n📌 Guárdalo y compártelo con quien siempre deja los antibióticos a medias\n💬 ¿Te fiarías de un medicamento diseñado por una IA si supera todos los ensayos? Te leo\n👉 Sígueme en @bio.andante: tienes la serie «IA como acelerador científico» completa en el perfil\n\n#antibioticos #superbacterias #inteligenciaartificial #resistenciaantimicrobiana #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación isométrica sobre una placa de Petri: una colonia de bacterias resistentes se multiplica, un brazo robótico de IA dibuja una molécula átomo a átomo, un filtro descarta casi todas las moléculas, unas pocas se fabrican en tubos de ensayo y dos curan en parte a ratones infectados.",
-  "titulo": "Una IA inventó antibióticos que no existían 🧪🦠",
-  "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": false
- },
- {
   "nombre": "ronroneo-gato",
   "hora": "2026-11-28T20:36:00+01:00",
   "video": "ronroneo-gato.mp4",
