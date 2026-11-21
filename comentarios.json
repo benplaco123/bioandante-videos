@@ -6,8 +6,13 @@
   "texto": "🙌 gran reflexión 👏👏👏👏👏",
   "hora": "2026-11-21T10:34:23+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@jessicapesquer muchas gracias si te ha gustado dale a 🔁🙏🏻🤭"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -894,6 +899,10 @@
    {
     "quien": "bio.andante",
     "texto": "Ayuda a difundir el mensaje 🔁🙏🏻"
+   },
+   {
+    "quien": "maitedoulayterapias",
+    "texto": "@bio.andante ya lo he hecho 😉"
    }
   ],
   "respondido": true,
@@ -2620,6 +2629,14 @@
    {
     "quien": "bieeelgor_priv",
     "texto": "@hugo.melo.83 En USA, per ejemplo, la gente llamaba a un Uber porqué era más barato que una ambulancia, y mucha gente depende de donaciones para ponerse pagar un tratamiento que aquí te sale casi gratis"
+   },
+   {
+    "quien": "here.is.cosmo",
+    "texto": "@hugo.melo.83 el sistema sanitario de USA es un puto desastre macho, defendéis lo indefendible"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@here.is.cosmo totalmente"
    }
   ],
   "respondido": true,
@@ -11716,6 +11733,10 @@
    {
     "quien": "bio.andante",
     "texto": "¡Te lo he mandado por mensaje privado! 📩 Mira tu DM"
+   },
+   {
+    "quien": "verorcamacho",
+    "texto": "@bio.andante holaa, nunca llegó el msj 😔"
    }
   ],
   "respondido": true,
