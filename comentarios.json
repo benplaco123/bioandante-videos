@@ -1,6 +1,35 @@
 [
  {
   "red": "instagram",
+  "id": "17913123939583027",
+  "quien": "saraith.morillo",
+  "texto": "Viajaremos a la velocidad de luz , lo sé !",
+  "hora": "2026-11-21T00:12:50+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Nací tarde para el Apolo. Demasiado pronto para viajar a las estrellas",
+  "enlace": "https://www.instagram.com/reel/Df8J8yyC5lt/"
+ },
+ {
+  "red": "instagram",
+  "id": "18122461355101201",
+  "quien": "im_gollo",
+  "texto": "La teoría es buena pero háganle caso al manual del fabricante y al número de rotor he visto como balancean centrifugas con rotores de 6 tubos y lo correcto es usar contrapesos no alternar espacios vacios",
+  "hora": "2026-11-21T00:01:47+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "18156003562551900",
   "quien": "javier.morenogon",
   "texto": "Tubo",
@@ -11381,6 +11410,10 @@
    {
     "quien": "bio.andante",
     "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
+   },
+   {
+    "quien": "erick_ye0",
+    "texto": "@monocytedd que tubo bro"
    }
   ],
   "respondido": true,
