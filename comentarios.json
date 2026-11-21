@@ -1,6 +1,23 @@
 [
  {
   "red": "instagram",
+  "id": "17915073063588467",
+  "quien": "wilfredbermudez5",
+  "texto": "Tubo",
+  "hora": "2026-11-21T06:27:02+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
+   }
+  ],
+  "respondido": true,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "17899611657613022",
   "quien": "roman___lz",
   "texto": "TUBOOO",
@@ -1604,6 +1621,10 @@
    {
     "quien": "@Bio.andante",
     "texto": "Hay estudios que dicen otra cosa"
+   },
+   {
+    "quien": "@gzostx",
+    "texto": "​@Bio.andanteDime qué estudio, que no tenga ningún tipo de sesgo, y lo leo pero no creo que haya ningún tipo de dudas que la heterosexualidad es lo predominante hoy en día."
    }
   ],
   "respondido": true,
