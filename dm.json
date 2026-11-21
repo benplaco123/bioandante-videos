@@ -771,7 +771,8 @@
   "17895845232618429": "pedido + aviso público",
   "18131502952848953": "pedido + aviso público",
   "17889178881502366": "pedido + aviso público",
-  "18116148697874893": "pedido + aviso público"
+  "18116148697874893": "pedido + aviso público",
+  "17992237053092248": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4829,6 +4830,11 @@
    "usuario": "gabito_cs",
    "clave": "TUBO",
    "pedido": "2026-11-21T19:09:49+00:00"
+  },
+  "1189997760377689": {
+   "usuario": "arki24885",
+   "clave": "TUBO",
+   "pedido": "2026-11-21T20:38:26+00:00"
   }
  }
 }
