@@ -778,7 +778,8 @@
   "18117743962862400": "pedido + aviso público",
   "18131431774921845": "pedido + aviso público",
   "18136546697499721": "pedido + aviso público",
-  "18086922245706216": "pedido + aviso público"
+  "18086922245706216": "pedido + aviso público",
+  "18001219983044643": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4871,6 +4872,11 @@
    "usuario": "maytidk",
    "clave": "TUBO",
    "pedido": "2026-11-22T02:44:51+00:00"
+  },
+  "2265769640820600": {
+   "usuario": "nicordz10",
+   "clave": "TUBO",
+   "pedido": "2026-11-22T03:06:14+00:00"
   }
  }
 }
