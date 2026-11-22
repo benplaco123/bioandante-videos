@@ -271,5 +271,17 @@
   "youtube": false,
   "prueba": true,
   "par": "axolote"
+ },
+ {
+  "nombre": "lo-que-haremos",
+  "hora": "2026-11-24T18:00:00+01:00",
+  "video": "lo-que-haremos.mp4",
+  "portada": "lo-que-haremos-portada.jpg",
+  "texto": "Malas noticias, todos los días: guerra, pobreza, un virus nuevo… 📰\n\nPero mira hasta dónde hemos llegado 👇\n\n🔥 Hace unos 400.000 años, el fuego.\n💡 1879: la bombilla.\n✈️ 1903: volamos 12 segundos. 66 años después, pisamos la Luna.\n🧫 1928: la penicilina.\n💉 1980: adiós a la viruela.\n🧬 2003: leemos el genoma humano.\n🤖 2020: una IA aprende a plegar proteínas.\n\n¿Cáncer? ¿Alzhéimer? ¿Clima? ¿Hambre? No es ciencia ficción: ya hay terapias CAR-T, CRISPR aprobado contra una enfermedad de la sangre y fusión nuclear que da más energía de la que le mete el láser.\n\nCada generación heredó un imposible y lo convirtió en rutina. El siguiente es tuyo.\n\n💬 ¿Qué buena noticia te gustaría vivir? Te leo\n👉 Sígueme en @bio.andante para no perderte las que vienen\n\n#ciencia #progreso #buenasnoticias #futuro #divulgacioncientifica #biologia #bioandante #cienciaenespañol",
+  "titulo": "Del fuego a la Luna. ¿Y ahora? 🌍",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "prueba": false
  }
 ]
