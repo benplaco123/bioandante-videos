@@ -1,6 +1,59 @@
 [
  {
   "red": "instagram",
+  "id": "18135527395761780",
+  "quien": "bio.andante",
+  "texto": "Gracias si te ha gustado dale a 🔁🙏🏻",
+  "hora": "2026-11-22T17:18:14+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🔬 Imagina buscar UNA célula de leucemia entre diez mil sanas. Al micro",
+  "enlace": "https://www.instagram.com/reel/Df-bOhnD1B7/"
+ },
+ {
+  "red": "instagram",
+  "id": "17948225379368820",
+  "quien": "ati_adri",
+  "texto": "Fijaros si es tonto",
+  "hora": "2026-11-22T17:07:05+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "17965698342228134",
+  "quien": "rubiajimenez78",
+  "texto": "El 29 N tenemos que frenar a la derecha y  ultraderecha : Por nuestros DERECHOS , por las PENSIONES por la IGUALDAD , por los ANIMALES,  por la LIBERTAD  DE EXPRESIÓN,  defensa de la MUJER , por la PAZ ,\n por una VIVIENDA digna, por la EDUCACIÓN y SANIDAD pública.....Suma y sigue !!!..NI UN PASO ATRÁS !!!..ZURDA SIEMPRE !!! 👏💪💜 VOTO ÚTIL ❤️ ✔️!!!!#españadeizquierdas",
+  "hora": "2026-11-22T17:01:38+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18361000726171575",
+  "quien": "nicolasreal_a",
+  "texto": "👏",
+  "hora": "2026-11-22T16:59:05+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@nicolasreal_a gracias si te ha gustado dale a 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
+  "video": "🔬 Imagina buscar UNA célula de leucemia entre diez mil sanas. Al micro",
+  "enlace": "https://www.instagram.com/reel/Df-bOhnD1B7/"
+ },
+ {
+  "red": "instagram",
   "id": "18081634574751682",
   "quien": "santicivera",
   "texto": null,
@@ -30,8 +83,13 @@
   "texto": "Pero habla como si el contribuye algo. En su p vida a ayudado en nada a España más que chupar del bote.",
   "hora": "2026-11-22T16:22:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@tito.shop7 también estaba en contra de las paguitas menos para cobrarlas jaja"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -42,8 +100,13 @@
   "texto": "Señores, que la mayoría de personas que critican la inmigración tienen un inmigrante trabajando. Que ellos no quieren acabar con la inmigración,  lo que quieren es que le quiten derechos para explotarlos a gusto.",
   "hora": "2026-11-22T16:14:36+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@patrivasco buen punto si"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -102,8 +165,13 @@
   "texto": "Que obsesión con África y el resto de extranjeros?? Claro ellos no enferman.",
   "hora": "2026-11-22T15:51:08+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@najat96199 si tienen dinero no enferman"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -5736,6 +5804,14 @@
    {
     "quien": "marinetido_salvaje",
     "texto": "@bio.andante no dejándoles entrar"
+   },
+   {
+    "quien": "fjlb64",
+    "texto": "@marinetido_salvaje ¿y cómo se sabe si esa  persona tiene una enfermedad contagiosa sin chequeo médico ?"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@fjlb64 pues eso"
    }
   ],
   "respondido": true,
