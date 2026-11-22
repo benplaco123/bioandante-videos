@@ -30,18 +30,6 @@
   "youtube": true
  },
  {
-  "nombre": "levaduras-biofactorias",
-  "hora": "2026-11-22T18:36:00+01:00",
-  "video": "levaduras-biofactorias.mp4",
-  "texto": "🧬 La levadura que te hace subir el pan fabrica medicinas.\n\nLa misma especie que llevas en el cajón de la cocina, Saccharomyces cerevisiae, es la fábrica estándar de la biotecnología. ¿Cómo se le enseña? Clonando genes.\n\nCoges el gen de otra especie, lo copias millones de veces con una PCR y lo metes en un plásmido: un anillo de ADN que abres con enzimas de restricción, esas tijeras que cortan en un punto exacto. Metes el gen, lo sellas, y ya está clonado.\n\nPero ojo, que aquí está el truco que casi nadie cuenta: un gen suelto no se lee. Hay que ponerle delante un promotor, el interruptor que le dice a la célula cuándo fabricar. Sin él no pasa nada.\n\nLuego un choque de calor, la célula se traga el anillo y lo lee como si lo hubiera tenido siempre. Con varios genes no montas una enzima: montas una cadena de producción entera.\n\nAsí se fabrica la vacuna de la hepatitis B. Y cerca de la mitad de la insulina del mundo.\n\n⚠️ Dos matices honestos: la levadura de tu cajón NO fabrica medicinas, hace falta meterle el gen. Y la otra mitad de la insulina se produce en bacterias (E. coli), que es como se hizo la primera insulina recombinante en 1982.\n\n👉 ¿Qué te sorprende más: que el pan y la insulina salgan del mismo bicho, o que haga falta un interruptor para que un gen funcione? Te leo.\n\nFuentes: Baeshen et al., \"Cell factories for insulin production\" (Microbial Cell Factories); vacuna recombinante de hepatitis B en S. cerevisiae, aprobada en 1986.\n\n#biotecnologia #levadura #divulgacioncientifica #cienciaenespañol #biologiamolecular #insulina #adn #cienciaparatodos #microbiologia #bioandante",
-  "titulo": "🧬 La levadura que te hace subir el pan fabrica medicinas.",
-  "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": true,
-  "portada": "levaduras-biofactorias-portada.jpg"
- },
- {
   "nombre": "cucharilla-plastico-cerebro",
   "hora": "2026-12-03T20:36:00+01:00",
   "video": "cucharilla-plastico-cerebro.mp4",
