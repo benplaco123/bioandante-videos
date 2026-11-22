@@ -202,18 +202,6 @@
   "par": "grupo-sanguineo-hijo"
  },
  {
-  "nombre": "gfp-fluorescencia",
-  "hora": "2026-11-22T20:36:00+01:00",
-  "video": "gfp-fluorescencia.mp4",
-  "texto": "🪼 Ninguna de estas imágenes está pintada. El color es la propia célula encendida 💚\n\nLa fluorescencia es esto: una molécula se traga luz de un color y, al instante, devuelve luz de otro con menos energía. A esas moléculas las llamamos fluoróforos.\n\nDurante décadas los pegábamos a anticuerpos para localizar una proteína, pero solo en células ya muertas y fijadas. Hasta que llegó la GFP, una proteína de la medusa Aequorea victoria: la célula la fabrica ella sola a partir de su gen, se pliega en un barril y forma su propio fluoróforo por dentro, sin añadir nada.\n\nLa clave: si pegas ese gen al de la proteína que quieres estudiar, la célula viva la fabrica ya encendida. Por primera vez se podía seguir una proteína en tiempo real, dentro de un animal vivo. Y de la GFP y de proteínas de corales salieron versiones azules, amarillas y rojas: por eso estas imágenes tienen tantos colores.\n\nEn 2008 le dieron el Nobel de Química a Shimomura, Chalfie y Tsien por esta proteína.\n\nFuentes:\n· Shimomura O, Johnson FH, Saiga Y. J Cell Comp Physiol 1962 · doi 10.1002/jcp.1030590302\n· Chalfie M et al. Green fluorescent protein as a marker for gene expression. Science 1994 · doi 10.1126/science.8303295\n· Premio Nobel de Química 2008 (nobelprize.org)\n\nImágenes: Wikimedia Commons, con sus autores y licencias en pantalla.\n\nSígueme para más ciencia explicada fácil 🧪\n\n#gfp #fluorescencia #biologia #ciencia #divulgacion #microscopia #nobel #biologiamolecular #cienciaenespañol #bioandante",
-  "titulo": "GFP: la luz verde de la medusa que encendió la biología 🪼💚",
-  "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": false,
-  "portada": "gfp-fluorescencia-portada.jpg"
- },
- {
   "nombre": "gfp-carrusel",
   "tipo": "carrusel",
   "hora": "2026-11-27T13:36:00+01:00",
