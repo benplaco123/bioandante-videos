@@ -691,6 +691,10 @@
    {
     "quien": "bio.andante",
     "texto": "@rafa_18af ojalaaa"
+   },
+   {
+    "quien": "6jei6cy6",
+    "texto": "Al 99% o doblaremos el espacio"
    }
   ],
   "respondido": true,
@@ -7565,7 +7569,7 @@
  {
   "red": "youtube",
   "id": "UgwmkVaggDa2aTIsyep4AaABAg",
-  "quien": "@MTPCR78",
+  "quien": "@MTPCR78_X_CTPCR24",
   "texto": "Son 🥀",
   "hora": "2026-11-17T13:59:49Z",
   "oculto": false,
@@ -11937,23 +11941,6 @@
    {
     "quien": "bio.andante",
     "texto": "¡Mira tu DM! 📩 Te lo acabo de mandar. Si te ha servido, compártelo con 🔁 🙌"
-   }
-  ],
-  "respondido": true,
-  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
-  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
- },
- {
-  "red": "instagram",
-  "id": "18182819716448758",
-  "quien": "alexandrav_31",
-  "texto": "Tubo",
-  "hora": "2026-11-17T01:49:03+0000",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "bio.andante",
-    "texto": "¡Enviado a tu DM! 🧪 Y si conoces a alguien del labo que lo necesite, compártelo con 🔁"
    }
   ],
   "respondido": true,
@@ -20078,23 +20065,6 @@
    {
     "quien": "@Bio.andante",
     "texto": "Jajaj satisfacción?? 😂"
-   }
-  ],
-  "respondido": true,
-  "video": "YouTube",
-  "enlace": "https://youtube.com/shorts/W1IKi9DuTmc"
- },
- {
-  "red": "youtube",
-  "id": "UgxFBcz-jrg0ftlafdd4AaABAg",
-  "quien": "@Nami_12367",
-  "texto": "Qué es lágrima",
-  "hora": "2026-11-01T14:22:39Z",
-  "oculto": false,
-  "respuestas": [
-   {
-    "quien": "@Bio.andante",
-    "texto": "En España decimos grima cuando algo da asco!! De donde eres ?"
    }
   ],
   "respondido": true,
