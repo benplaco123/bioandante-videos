@@ -779,7 +779,8 @@
   "18131431774921845": "pedido + aviso público",
   "18136546697499721": "pedido + aviso público",
   "18086922245706216": "pedido + aviso público",
-  "18001219983044643": "pedido + aviso público"
+  "18001219983044643": "pedido + aviso público",
+  "18389663530230904": "pedido + aviso público"
  },
  "personas": {
   "975203191982764": {
@@ -4877,6 +4878,11 @@
    "usuario": "nicordz10",
    "clave": "TUBO",
    "pedido": "2026-11-22T03:06:14+00:00"
+  },
+  "891624907344654": {
+   "usuario": "eduardo_n.w",
+   "clave": "TUBO",
+   "pedido": "2026-11-22T04:54:16+00:00"
   }
  }
 }
