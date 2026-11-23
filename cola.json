@@ -262,7 +262,7 @@
  },
  {
   "nombre": "fluorescencia-adn",
-  "hora": "2026-11-23T12:23:17+00:00",
+  "hora": "2026-11-23T12:44:34+00:00",
   "video": "fluorescencia-adn.mp4",
   "texto": "☀️ ¿Crees que si no te quemas, tu piel no ha sufrido ningún daño?\n\nPues el sol puede dañar el ADN de tus células sin que llegues a ponerte rojo. Y se puede ver.\n\nEn el laboratorio usamos anticuerpos que reconocen un tipo concreto de lesión que provoca la radiación ultravioleta en el ADN. Después añadimos otros anticuerpos con moléculas fluorescentes. Al iluminarlas con una luz determinada emiten luz de otro color, y los filtros del microscopio de fluorescencia dejan pasar solo esa luz. Resultado: las células con daño aparecen iluminadas. 🔬\n\nAsí estudiamos cómo afecta la radiación solar a nuestras células y cómo reparan parte de esos daños.\n\n⚠️ Que no te quemes no significa que el sol no haya afectado a tu ADN. Ponte protector, también cuando no te pones rojo.\n\n👇 Cuéntame: ¿conoces a alguien que dice que nunca se quema? Etiquétalo.\n\nTécnica: inmunofluorescencia con microscopio de fluorescencia.\n\n#biologia #ciencia #microscopio #fluorescencia #adn #piel #proteccionsolar #divulgacioncientifica #bioandante #cienciaenespañol",
   "titulo": "☀️ ¿Crees que si no te quemas, tu piel no ha sufrido ningún daño?",
@@ -271,6 +271,6 @@
   "youtube": true,
   "prueba": true,
   "portada": "fluorescencia-adn-portada.jpg",
-  "intentos": 2
+  "intentos": 3
  }
 ]
