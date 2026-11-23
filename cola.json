@@ -250,7 +250,7 @@
  },
  {
   "nombre": "poliuretano-enzima-ia",
-  "hora": "2026-11-23T17:55:27+00:00",
+  "hora": "2026-11-23T18:15:45+00:00",
   "video": "poliuretano-enzima-ia.mp4",
   "texto": "Una IA encontró las tijeras para reciclar tu colchón 🛏️✂️\n\nTu colchón, tu sofá y tus zapatillas llevan poliuretano, un plástico muy difícil de reciclar 👇\n\n🔥 No se puede fundir y volver a moldear como una botella: su estructura está entrecruzada y sus enlaces son muy estables.\n♻️ Y en el mundo solo se recicla un 9 % del plástico (OCDE).\n✂️ Para romperlo hacen falta enzimas, unas «tijeras moleculares», pero las que se conocían casi no funcionan en el reciclaje químico, que usa un disolvente.\n🤖 En 2025, un equipo de China entrenó una IA (GRASE, una red neuronal de grafos) para encontrar enzimas que corten y aguanten esas condiciones.\n🦠 La mejor, AbPURase, salió de una bacteria y es unas cien veces más activa que las anteriores.\n⏱️ Con ella deshicieron casi por completo espuma comercial de poliuretano a escala de kilos en 8 horas (98,6 % según su universidad) y recuperaron las piezas con las que se fabrica.\n\n⚠️ Es un ensayo de laboratorio: falta llevarlo a una planta de reciclaje y fabricar espuma nueva con esas piezas.\n\n📄 Fuente: Chen et al., «Glycolysis-compatible urethanases for polyurethane recycling», Science 390:503 (2025). Contexto: OCDE, Global Plastics Outlook (2022).\n\n📌 Guárdalo y compártelo con quien esté a punto de cambiar de colchón\n💬 ¿Qué otro plástico te gustaría que una IA aprendiera a deshacer? Te leo\n👉 Sígueme en @bio.andante: tienes la serie «IA como acelerador científico» completa en el perfil\n\n#reciclaje #plasticos #inteligenciaartificial #enzimas #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación isométrica sobre un colchón gigante de espuma amarilla: un colchón, un sofá y una zapatilla; una IA puntúa enzimas en una cinta; una bacteria suelta una enzima dorada que deshace bloques de espuma en un reactor; las piezas recuperadas llenan dos tarros y, al final, una fila de enzimas con forma de comecocos se come el colchón.",
   "titulo": "Una IA encontró las tijeras para reciclar tu colchón 🛏️✂️",
@@ -259,6 +259,6 @@
   "youtube": true,
   "prueba": false,
   "portada": "poliuretano-enzima-ia-portada.jpg",
-  "intentos": 2
+  "intentos": 3
  }
 ]
