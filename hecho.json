@@ -384,5 +384,10 @@
   "facebook": "https://www.facebook.com/reel/1055544704226179",
   "youtube": "FALLO HTTP Error 400: Bad Request",
   "facebook_portada": "ok"
+ },
+ {
+  "nombre": "lo-que-haremos",
+  "hora_real": "2026-11-23T19:35:18.181192+00:00",
+  "youtube": "FALLO HTTP Error 400: Bad Request"
  }
 ]
