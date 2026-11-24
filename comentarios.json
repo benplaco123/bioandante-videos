@@ -1,12 +1,65 @@
 [
  {
   "red": "instagram",
+  "id": "17915279871477537",
+  "quien": "nuria_torr",
+  "texto": "Los blancos y rubios esos sí!",
+  "hora": "2026-11-24T09:55:14+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18112000277242679",
+  "quien": "alcantaramartincarmen",
+  "texto": "Lo de trabajadores humildes y esforzados lo dirá por el ????,🤣🤣😂😂",
+  "hora": "2026-11-24T09:52:13+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18057505229589570",
+  "quien": "xavi1594",
+  "texto": "Hombre , va a entender esto un tío que no distingue entre tiempo y clima",
+  "hora": "2026-11-24T09:35:01+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18222946798356983",
+  "quien": "seguinpalomo",
+  "texto": "Es muy careto Abascal",
+  "hora": "2026-11-24T09:31:16+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "18083074151734067",
   "quien": "nuriabenitezprian",
   "texto": "Pero esque esta explicacion no sirve al que  odia. El odio no atiende a la razón,  el racista prefiere perjudicarse a sí mismo y a su país  con tal de que el ser odiado no gane algún beneficio.",
   "hora": "2026-11-24T09:28:58+0000",
   "oculto": false,
-  "respuestas": [],
+  "respuestas": [
+   {
+    "quien": "nuriabenitezprian",
+    "texto": "@nuriabenitezpriapero que conste que ne parece muy buena explicacion y me parece importantisimo  divulgar estas explicaciones .👏"
+   }
+  ],
   "respondido": false,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
@@ -258,6 +311,10 @@
    {
     "quien": "nursb23",
     "texto": "@nursb23 por otro lado, en la mayoría son los inmigrantes sin papeles a los que se refiere. Lo cual, no estamos de acuerdo en que quién entre al país esté debidamente identificado, huella dactilar, pasaporte y dónde encontrarlo si delinque? No lo veo tan descabellado."
+   },
+   {
+    "quien": "queengnothink",
+    "texto": "@nursb23 quizás si dejan de precarizar la sanidad pública (mira que ha pasado en Andalucia con pp y vox) haya menos lista de espera y más eficiencia. Os están engañando y no lo veis... Te crees que tu seguro o cualquier seguro de una persona obrera o no millonaria le da para tratamientos complejos? Olvídate. Estaríamos vendidos y moribundos. Y eso nada tiene que ver con la inmigración. Lo siento."
    }
   ],
   "respondido": false,
@@ -7205,6 +7262,10 @@
    {
     "quien": "su_si_blue",
     "texto": "@el_ultimo_ochentero ay, las paguitas, las paguitas... Pero qué vecinos tienes tú? Yo no conozco a nadie, a NADIE, que viva de eso 😂😂😂 seguro que aún crees en los Reyes Magos"
+   },
+   {
+    "quien": "pcuadrago",
+    "texto": "@bio.andante hay enfermedades que se presupone que en España ya estaban controladas y ahora no , porque será ? A ver si el problema son los países de origen y su sanidad"
    }
   ],
   "respondido": true,
