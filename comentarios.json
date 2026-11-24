@@ -1,6 +1,71 @@
 [
  {
   "red": "instagram",
+  "id": "18118671635012737",
+  "quien": "pirripeke",
+  "texto": "A ver los ingleses y alemanes que viven en toda nuestra costa mediterránea y Andalucía que opina....",
+  "hora": "2026-11-24T20:10:28+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18351067669252414",
+  "quien": "j.david.lm",
+  "texto": "Menos luces que una tienda de campaña",
+  "hora": "2026-11-24T20:08:46+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18346856326279423",
+  "quien": "bio.andante",
+  "texto": "Pásaselo a ese amigo anti vacunas 🙌",
+  "hora": "2026-11-24T20:00:15+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "💉 «La vacuna del sarampión causa autismo». Así nació el bulo… y así se",
+  "enlace": "https://www.instagram.com/reel/DgIsa-6k3eI/"
+ },
+ {
+  "red": "instagram",
+  "id": "17880493800572983",
+  "quien": "arantxa_galvez",
+  "texto": "Que vuelva a dar vergüenza ser facha",
+  "hora": "2026-11-24T19:52:25+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18116274851350756",
+  "quien": "lolapi88",
+  "texto": "Vaya ! Su mujer se quedará fuera , qué pena",
+  "hora": "2026-11-24T19:48:29+0000",
+  "oculto": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@lolapi88 jajaja"
+   }
+  ],
+  "respondido": true,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "18201549043392763",
   "quien": "lluviadoncel",
   "texto": "Hay q saber de lo q se habla, y es evidente q esta persona no sabe de nada, y tampoco le interesa aprender…. Para ser candidato habría q hacer un examen de conocimientos mínimos, con problemas a resolver, etc….es un ridículo",
@@ -109,6 +174,10 @@
    {
     "quien": "bio.andante",
     "texto": "si te ha gustado dale a 🔁🙏🏻"
+   },
+   {
+    "quien": "quedice.layaya",
+    "texto": "@bio.andante  Ya lo he hecho. Es importante"
    }
   ],
   "respondido": true,
@@ -7926,6 +7995,10 @@
    {
     "quien": "mireia_fdez",
     "texto": "@el_ultimo_ochentero en España no puedes recibir prestaciones (o paguitas como tú les llamas) si no estás cotizando (y por tanto, trabajando) si has cotizado y tienes derecho a recibirla, qué más da dónde naciste, si ese dinero se ha revertido en este país? Prefieres q Abascal cobre la paguitas de la luz con la pasta q tiene en vez de alguien q tb ha cotizado y la necesita, si es así, revisa tu clasismo y racismo. En cuanto a la sanidad, como dice en el vídeo es más costo efectivo la prevención que la cronificación. Abascal no se entera pq no necesita la sanidad pública. Está bien votar al partido q te interesa, pero creo q tenéis q revisar sus programas políticos, y si realmente os interesa"
+   },
+   {
+    "quien": "lourdesjorrillo",
+    "texto": "@juanlgnoee No creo que una pandemia, pero es cierto que hay muchas enfermedades contagiosas desde una simple conjuntivitis que te puede tener una semana en casa, hongos, herpes, COVID, gripe A, meningitis.... vamos que no renta que las personas de tu alrededor enfermen, y tampoco que no se vacunen"
    }
   ],
   "respondido": true,
