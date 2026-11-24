@@ -204,15 +204,15 @@
  },
  {
   "nombre": "bulo-vacunas",
-  "hora": "2026-11-24T19:41:13+00:00",
+  "hora": "2026-11-24T20:20:13+00:00",
   "video": "bulo-vacunas.mp4",
   "portada": "bulo-vacunas-portada.jpg",
   "texto": "💉 «La vacuna del sarampión causa autismo». Así nació el bulo… y así se cayó.\n\nEn 1998, un médico publicó un estudio con solo 12 niños. Sin grupo de control. Doce niños no demuestran nada, pero el miedo corrió.\n\nAños después, un periodista revisó los historiales: los datos estaban cambiados. La revista retiró el estudio en 2010 y al médico le quitaron la licencia.\n\nY luego se comprobó a lo grande:\n🇩🇰 Dinamarca siguió a más de 650.000 niños, vacunados y sin vacunar. El autismo aparecía igual en los dos grupos.\n\nEl problema es que el bulo sigue vivo:\n🦠 El sarampión es tan contagioso que hay que vacunar al 95 % para frenarlo.\n📈 En 2024, Europa y Asia Central tuvieron más de 127.000 casos, los más desde 1997.\n🛡️ Desde el año 2000, la vacuna ha evitado unos 60 millones de muertes.\n\nDudar es normal. Lo importante es saber de dónde viene cada dato.\n\n📤 ¿Conoces a alguien que aún se lo cree? Mándale este vídeo.\n\nFuentes: Wakefield et al. (1998), The Lancet, retractado en 2010 · Deer y editorial de Godlee et al. (2011), BMJ · Hviid et al. (2019), Annals of Internal Medicine · OMS/Europa y UNICEF (2025) · CDC/OMS, MMWR (2024). Modelo del cuerpo: BodyParts3D, © DBCLS, CC BY-SA 2.1 JP.\n\n#vacunas #sarampion #autismo #bulos #desinformacion #salud #ciencia #divulgacion #bioandante #cienciaenespañol",
   "titulo": "💉 «La vacuna del sarampión causa autismo». Así nació el bulo… y así se cayó.",
-  "instagram": false,
-  "facebook": false,
+  "instagram": true,
+  "facebook": true,
   "youtube": true,
-  "prueba": false,
+  "prueba": true,
   "intentos": 1
  }
 ]
