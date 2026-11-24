@@ -216,7 +216,7 @@
  },
  {
   "nombre": "dogma-pixel",
-  "hora": "2026-11-24T14:23:59+00:00",
+  "hora": "2026-11-24T14:45:33+00:00",
   "video": "dogma-pixel.mp4",
   "portada": "dogma-pixel-portada.jpg",
   "texto": "🎮 Así fabrica tu cuerpo cada proteína, en modo videojuego 🧬\n\nEl dogma central de la biología molecular: ADN → ARN → proteína.\n📜 El ADN guarda la receta, pero no sale del núcleo.\n✍️ La ARN polimerasa copia un gen en ARN mensajero (ARNm). Ojo: donde el ADN tiene T, el ARN pone U.\n🚪 El ARNm sale del núcleo por un poro nuclear.\n🔤 El ribosoma lo lee de 3 en 3 letras (codones). Cada codón pide un aminoácido, y los ARNt los van trayendo: AUG = Met (el inicio), GCU = Ala, UUC = Phe…\n🛑 Al llegar a un codón STOP (como UAA), la cadena se suelta.\n🧶 La cadena de aminoácidos se pliega y ya es una proteína.\n\n💾 Guárdalo para el examen\n📲 Mándaselo a tu profe\n➕ Sígueme para más biología explicada fácil\n\n#biologia #ADN #ARN #proteinas #dogmacentral #genetica #ciencia #pixelart #videojuegos #divulgacion",
@@ -225,6 +225,6 @@
   "facebook": false,
   "youtube": true,
   "prueba": true,
-  "intentos": 1
+  "intentos": 2
  }
 ]
