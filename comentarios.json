@@ -1,6 +1,42 @@
 [
  {
   "red": "instagram",
+  "id": "18117254792469261",
+  "quien": "jdavix_tr",
+  "texto": "Hablan para borregos 🐏",
+  "hora": "2026-11-25T06:40:40+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18115196879070342",
+  "quien": "nuzelar",
+  "texto": "Me encanta que hayáis pensado en los votantes de Vox y lo hayáis hecho con dibujitos",
+  "hora": "2026-11-25T06:38:23+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "17956930866281712",
+  "quien": "sito_mares",
+  "texto": "No sabe ni lo que significa universal.",
+  "hora": "2026-11-25T06:36:25+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "18378481636210265",
   "quien": "ainhoa_a_secas",
   "texto": "Me pregunto si esto se lo va a decir también a todos los guiris que vienen aquí a jubilarse…",
@@ -65,18 +101,6 @@
   "quien": "sergi.tours",
   "texto": "Muy complejo de entender para Abascal",
   "hora": "2026-11-25T01:38:52+0000",
-  "oculto": false,
-  "respuestas": [],
-  "respondido": false,
-  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
-  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
- },
- {
-  "red": "instagram",
-  "id": "17916204672560951",
-  "quien": "amal.aberkanne",
-  "texto": "De lo mucho que trabaja el, si la hace nacional sería el primero en perder el derecho a la sanidad 😂",
-  "hora": "2026-11-25T00:34:27+0000",
   "oculto": false,
   "respuestas": [],
   "respondido": false,
@@ -4311,6 +4335,10 @@
    {
     "quien": "asociacionavanzamedica",
     "texto": "@bio.andante De acuerdo a lo que haces referencia. No entiendo tu pregunta."
+   },
+   {
+    "quien": "elinstagrz",
+    "texto": "@asociacionavanzamedica un dato que a lo mejor te gusta: la mayoría de inmigrantes irregulares entran por Aeropuertos, el de Madrid sobre todo, un 60%. No veo a los de Vox, si consideran que ese es el problema real manifestando por fuera del Aeropuerto. Es así porque no aportan ni un dato, ni en economía (puro Populismo), ni en tema de inmigración (puro racismo). Yo soy de Canarias, no veo las salas de espera llenas de personas de color negro (que vienen en edad de trabajar ), si veo blancos Belgas, ingleses, etc ... jubilados haciendo un uso desmedido de la Sanidad y de los Servicios sociales"
    }
   ],
   "respondido": true,
@@ -4519,6 +4547,10 @@
    {
     "quien": "auxijimenezzafra",
     "texto": "@bio.andante no soy sanitaria, pero existían informes epidemiológicos sobre los posibles efectos de tener a una parte importante de la población sin control sanitario. De hecho, recuerdo que en esos años aumentaron los casos de tuberculosis (y no solo entre personas migrantes) que era una enfermedad casi erradicada aquí. Lo dicho: de cómo el egoísmo acaba perjudicando también a los egoístas y a los que no lo son 😔"
+   },
+   {
+    "quien": "sandycomin",
+    "texto": "Totalmente cierto. Dos veces la he tenido yo y soy mas Española que el gazpacho. El tratamiento de tuberculosis si no te lo subvenciona la seguridad social saldría  en 700€ al mes aprox. Así que imagina lo que ocurriría si no la pudieran pagar."
    }
   ],
   "respondido": true,
