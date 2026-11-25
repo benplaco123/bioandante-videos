@@ -1,6 +1,30 @@
 [
  {
   "red": "instagram",
+  "id": "18128316698297341",
+  "quien": "soniaurri",
+  "texto": "Este 29N votar para no retroceder. Y a seguir pidiendo mejoras de bienestar social",
+  "hora": "2026-11-25T21:37:25+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "17926625352225965",
+  "quien": "j0selophez",
+  "texto": null,
+  "hora": "2026-11-25T21:28:49+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Nobel 2018: quitarle los frenos a tus defensas 🏅🧬\n\nTus linfocitos T pu",
+  "enlace": "https://www.instagram.com/reel/DgLTOrUNBUN/"
+ },
+ {
+  "red": "instagram",
   "id": "18102333053554476",
   "quien": "curriyaki",
   "texto": "Mucho se le llena la boca de hablar del dinero de los trabajadores para despues votar en contra de todo lo que le beneficia a los trabajadores...",
@@ -2074,7 +2098,12 @@
   "texto": "La sanidad la pagan sólo los españoles \"esforzados\" ? Los inmigrantes no cotizan?",
   "hora": "2026-11-24T05:13:46+0000",
   "oculto": false,
-  "respuestas": [],
+  "respuestas": [
+   {
+    "quien": "olga_17_72",
+    "texto": "@minimiau_artesania lo más fuerte de todo es que la sanidad pública no se financia con las cotizaciones."
+   }
+  ],
   "respondido": false,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
