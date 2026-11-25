@@ -30,8 +30,13 @@
   "texto": "Es un cuñao de  pedigrí.",
   "hora": "2026-11-25T19:09:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@karasur66  si te ha gustado dale a 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1879,6 +1884,10 @@
    {
     "quien": "manupuga__",
     "texto": "@nursb23 es en europa, no solo en españa"
+   },
+   {
+    "quien": "gonzalezmonederosergio",
+    "texto": "@nursb23 porque España es la mejor"
    }
   ],
   "respondido": false,
