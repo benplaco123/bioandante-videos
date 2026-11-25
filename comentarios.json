@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "18138057526586337",
+  "quien": "iamrebegove",
+  "texto": "Para África no, pero para el resto de continentes sí? Pregunto.",
+  "hora": "2026-11-25T11:51:06+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "18113786260915377",
   "quien": "cocostryingtolive",
   "texto": "O Cotizas o no hay NADA para ti. PUNTO. Gratis a casa de tu madre",
@@ -1520,6 +1532,10 @@
    {
     "quien": "marc_pinol",
     "texto": "@nursb23 jajaja así que en vez de invertir en la pública y ya tener ese servicio lo que quieren hacer es pagar exactamente lo mismo + el beneficio que se lleva la privada. Plan sin fisuras, dedicar más dinero público para hacer lo mismo pero que se lo lleven calentito sus amiguetes"
+   },
+   {
+    "quien": "realfinger4death",
+    "texto": "@nursb23 la factura del coste se emite a los países de donde son"
    }
   ],
   "respondido": false,
