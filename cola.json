@@ -46,19 +46,6 @@
   "portada": "protonterapia-portada.jpg"
  },
  {
-  "nombre": "nobel-2018-b",
-  "hora": "2026-11-25T20:36:00+01:00",
-  "video": "nobel-2018-b.mp4",
-  "portada": "nobel-2018-b-portada.jpg",
-  "texto": "Tus defensas tienen unos frenos que dejan crecer a algunos tumores 🧬🛑\n\nTus linfocitos T pueden reconocer y destruir células de cáncer. Pero llevan frenos, para no pasarse y atacar tu propio cuerpo. En los años noventa, James Allison bloqueó uno de esos frenos, la proteína CTLA-4, con un anticuerpo: en ratones con cáncer, en algunos experimentos los tumores desaparecieron. En Japón, Tasuku Honjo había descubierto otro freno, PD-1.\n\nDe ahí salieron tratamientos que no atacan directamente al tumor: le quitan los frenos a tus defensas para que vuelvan a combatirlo. No funcionan con todos los pacientes y pueden tener efectos secundarios importantes. Por estos descubrimientos, Allison y Honjo recibieron el Nobel de Medicina de 2018.\n\nEs el primer episodio de la serie Nobel de Medicina, de 2018 a hoy.\n\nFuentes:\n· Ishida et al., EMBO J 1992 · doi 10.1002/j.1460-2075.1992.tb05481.x\n· Leach, Krummel y Allison, Science 1996 · doi 10.1126/science.271.5256.1734\n· Iwai et al., PNAS 2002 · doi 10.1073/pnas.192461099\n· NobelPrize.org · Premio Nobel de Fisiología o Medicina 2018\nVídeo del linfocito: Ritter et al., Immunity 2015 · CC BY 4.0 · doi 10.1016/j.immuni.2015.04.013\nFoto del linfocito T: NIAID/NIH · dominio público\n\nInformación divulgativa: no sustituye la consulta con tu médico.\n\nSígueme para no perderte el siguiente episodio 🧪\n\n#PremioNobel #inmunoterapia #cancer #ciencia #divulgacion #biologia #inmunologia #NobeldeMedicina #ciencianoesaburrida",
-  "titulo": "Tus defensas tienen unos frenos que dejan crecer a algunos tumores 🧬🛑",
-  "instagram": true,
-  "facebook": false,
-  "youtube": false,
-  "prueba": true,
-  "par": "nobel-2018"
- },
- {
   "nombre": "crispr-explicado",
   "hora": "2026-11-29T20:36:00+01:00",
   "video": "crispr-explicado.mp4",
