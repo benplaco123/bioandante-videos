@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "18113473202627672",
+  "quien": "r.esquide",
+  "texto": "Es que es retrasado",
+  "hora": "2026-11-25T23:17:46+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "18086024081742134",
   "quien": "yisas.1989",
   "texto": "Uh dando donde duele",
@@ -2049,6 +2061,10 @@
    {
     "quien": "gonzalezmonederosergio",
     "texto": "@nursb23 porque España es la mejor"
+   },
+   {
+    "quien": "niurdipre",
+    "texto": "@nursb23 y como sabré si tengo tuberculosis sino se me atiende?"
    }
   ],
   "respondido": false,
