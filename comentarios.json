@@ -1,13 +1,42 @@
 [
  {
   "red": "instagram",
+  "id": "18129412540916298",
+  "quien": "eduardo.diazgonzalez.545",
+  "texto": "La ignorancia es lo que tiene…",
+  "hora": "2026-11-25T19:12:08+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18092917133261740",
+  "quien": "karasur66",
+  "texto": "Es un cuñao de  pedigrí.",
+  "hora": "2026-11-25T19:09:26+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "17968296876220242",
   "quien": "celester1962.5688",
   "texto": "Hay que educarles a los fachas! Por favor!",
   "hora": "2026-11-25T18:26:25+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@celester1962.5688 ayúdame dándole a 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -17615,7 +17644,7 @@
     "texto": "Te lo he enviado por privado 📩 ¿Me ayudas compartiendo el vídeo con 🔁? ¡Gracias! 🙌"
    },
    {
-    "quien": "adnan.kbrn",
+    "quien": "adnan.nmms",
     "texto": "@alondra.nxy 😂"
    }
   ],
