@@ -500,5 +500,12 @@
   "nombre": "ronroneo-gato",
   "hora_real": "2026-11-25T18:08:37.507123+00:00",
   "youtube": "FALLO HTTP Error 400: Bad Request"
+ },
+ {
+  "nombre": "ronroneo-gato",
+  "hora_real": "2026-11-25T18:11:00.532331+00:00",
+  "youtube": "https://youtube.com/shorts/7c_NKVnZmOU",
+  "youtube_portada": "ok",
+  "nota": "subido a mano tras renovar la clave"
  }
 ]
