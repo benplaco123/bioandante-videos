@@ -1,6 +1,30 @@
 [
  {
   "red": "instagram",
+  "id": "18115633487206171",
+  "quien": "rosquillabenito",
+  "texto": "Es que de verdad se quieren cargar el estado de bienestar",
+  "hora": "2026-11-26T23:07:37+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "18253447876311164",
+  "quien": "mena_25vp",
+  "texto": "Tubo",
+  "hora": "2026-11-26T23:03:09+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
   "id": "17939776527407537",
   "quien": "dra.kvitalsaludintegrativa",
   "texto": "Estás que Abascal va a entender algo de epidemiología o salud pública si este habla porque tiene boca",
@@ -136,8 +160,13 @@
   "texto": "Hospites públicos. Si lo tienes que pagar….",
   "hora": "2026-11-26T20:41:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@nane_va lo ideal sería que estuviera cubierto. Pero tengo entendido que ha sido una donación a los hospitales públicos"
+   }
+  ],
+  "respondido": true,
   "video": "Protonterapia: radiación que se para justo en el tumor ⚛️🎯\n\nLos rayos ",
   "enlace": "https://www.instagram.com/reel/DgN4A24JkGT/"
  },
