@@ -534,5 +534,14 @@
   "nombre": "centrifuga-tubos-neon",
   "hora_real": "2026-11-26T19:21:00.966793+00:00",
   "instagram": "FALLO 18116589728145402: {\"error\":{\"message\":\"(#4) Application request limit reached\",\"code\":4,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AeJx_6iAhV0KabY6b6d0fl2\"}}"
+ },
+ {
+  "nombre": "protonterapia",
+  "hora_real": "2026-11-26T19:38:41.382916+00:00",
+  "instagram": "https://www.instagram.com/reel/DgN4A24JkGT/",
+  "facebook": "https://www.facebook.com/reel/3038992899778760",
+  "youtube": "https://youtube.com/shorts/xDYx9EXJPiE",
+  "facebook_portada": "ok",
+  "youtube_portada": "ok"
  }
 ]

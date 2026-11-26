@@ -24,18 +24,6 @@
   "portada": "huracanes-ia-portada.jpg"
  },
  {
-  "nombre": "protonterapia",
-  "hora": "2026-11-26T20:36:00+01:00",
-  "video": "protonterapia.mp4",
-  "texto": "Protonterapia: radiación que se para justo en el tumor ⚛️🎯\n\nLos rayos X de la radioterapia convencional atraviesan el cuerpo y dejan energía por todo el camino, también detrás del tumor. Con protones es distinto: se aceleran en un ciclotrón y, al entrar en el cuerpo, van dejando poca energía por el camino hasta que, justo antes de pararse, sueltan de golpe mucha más. Es el pico de Bragg. Ajustando la energía se elige a qué profundidad ocurre, y los tejidos que quedan detrás reciben muy poca.\n\nPuede ser especialmente útil en algunos tumores infantiles o cerca de órganos delicados, como el cerebro, aunque no es mejor para todos los cánceres. España está incorporando 10 equipos a la sanidad pública, financiados en gran parte con una donación de 280 millones de euros de la Fundación Amancio Ortega.\n\nFuentes:\n· Wilson RR. Radiological use of fast protons. Radiology 1946 · doi 10.1148/47.5.487\n· Mohan R. A review of proton therapy – Current status and future directions. Precision Radiation Oncology 2022 · PMC9499036\n· Convenio Fundación Amancio Ortega – Ministerio de Sanidad, 19 oct. 2021 (lamoncloa.gob.es)\n\nInformación divulgativa: no sustituye la consulta con tu médico.\n\nSígueme para más ciencia explicada fácil 🧪\n\n#protonterapia #ciencia #divulgacion #fisica #cancer #radioterapia #sanidadpublica #ciencianoesaburrida #medicina",
-  "titulo": "Protonterapia: radiación que se para justo en el tumor ⚛️🎯",
-  "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": false,
-  "portada": "protonterapia-portada.jpg"
- },
- {
   "nombre": "crispr-explicado",
   "hora": "2026-11-29T20:36:00+01:00",
   "video": "crispr-explicado.mp4",
