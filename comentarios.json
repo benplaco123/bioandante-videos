@@ -1,6 +1,54 @@
 [
  {
   "red": "instagram",
+  "id": "18111552371191031",
+  "quien": "081226.c",
+  "texto": "Mi centrífuga es de 8 😢",
+  "hora": "2026-11-26T20:46:09+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "2 + 3 = 5 tubos… y ningún tubo de agua 💧❌\n\nMira el punto blanco del ce",
+  "enlace": "https://www.instagram.com/reel/DgN43qKTPlS/"
+ },
+ {
+  "red": "instagram",
+  "id": "18130232215967460",
+  "quien": "nane_va",
+  "texto": "👏👏👏👏👏",
+  "hora": "2026-11-26T20:41:31+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Protonterapia: radiación que se para justo en el tumor ⚛️🎯\n\nLos rayos ",
+  "enlace": "https://www.instagram.com/reel/DgN4A24JkGT/"
+ },
+ {
+  "red": "instagram",
+  "id": "18112314788621037",
+  "quien": "nane_va",
+  "texto": "Hospites públicos. Si lo tienes que pagar….",
+  "hora": "2026-11-26T20:41:26+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Protonterapia: radiación que se para justo en el tumor ⚛️🎯\n\nLos rayos ",
+  "enlace": "https://www.instagram.com/reel/DgN4A24JkGT/"
+ },
+ {
+  "red": "instagram",
+  "id": "17966986632239828",
+  "quien": "juanpichaco",
+  "texto": "No hay metro ni colegios, nene....si no aportas ...no tiene nada ..te vas a donde aportes ..aportes miseria...la misma que aguantamos los trabajadores de otros que no aportan....más que piojos. A pedir .men Tánger",
+  "hora": "2026-11-26T20:36:28+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "17894533743621957",
   "quien": "gloria_tamurejo",
   "texto": "PEDRO SÁNCHEZ 29N VOTO ÚTIL POR NUESTROS DERECHOS 🌹❤️🌹❤️🌹❤️🌹",
@@ -1074,8 +1122,13 @@
   "texto": "Y lo dice un tipo que jamás ha trabajado fuera de los chiringuitos del PP y Vox",
   "hora": "2026-11-25T17:20:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1086,8 +1139,13 @@
   "texto": "Sanidad pública gratuita y universal ❤️. Comparto! Gracias 🫂",
   "hora": "2026-11-25T16:45:41+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1110,8 +1168,13 @@
   "texto": "Este tipo no se ha leído ni la Constitución ni la Carta de Derechos Humanos",
   "hora": "2026-11-25T16:15:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1146,8 +1209,13 @@
   "texto": "Sanidad Pública y universal SIEMPRE.  Son derechos conseguidos. Fuera los fachas de nuestra política 🔥🔥🔥🔥🔥",
   "hora": "2026-11-25T15:28:48+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1158,8 +1226,13 @@
   "texto": "Abascal y Feijoo son un peligro para la salud, ya lo hizo el PP, y recuerdo como un radiólogo me contaba horrorizado, que diagnóstico  un cáncer de mama en un grado terminal porque la mujer emigrante no fue al médico porque no tenía papeles, \"El pecho estaba completamente consumido por el cáncer\".",
   "hora": "2026-11-25T15:24:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -1170,8 +1243,13 @@
   "texto": "A reventar las urnas el 29N por nuestro futuro. Ni un paso atrás 🌹",
   "hora": "2026-11-25T15:22:41+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1182,8 +1260,13 @@
   "texto": "Abascal hijo, piensa un poco antes de hablar 😂",
   "hora": "2026-11-25T15:03:48+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1230,8 +1313,13 @@
   "texto": "Cada comentario suma para dar visibilidad. Pongo mi granito de arena para que este mensaje llegue más lejos y se escuche cada vez más fuerte.\nTodos a votar el 29N, voto útil vota PSOE. Nos jugamos mucho. Ni un paso atrás",
   "hora": "2026-11-25T13:14:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1254,8 +1342,13 @@
   "texto": "La estupidez humana es infinita y Abascal es el ejemplo",
   "hora": "2026-11-25T12:36:42+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1362,8 +1455,13 @@
   "texto": "29N: salgamos todos y todas a votar. Congreso: voto útil según provincias (ante la duda, vota PSOE). Senado: papeleta \"SENADO DE PROGRESO\". Vamooooosssss!!!!!!",
   "hora": "2026-11-25T09:49:30+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1386,8 +1484,13 @@
   "texto": "Yo prefiero q mis impuestos paguen la sanidad para tooooodos los q la necesiten y tengan una vida digna. Q os parece si nuestros impuestos y el de los migrantes no se usan para mantener a esta gentuza y a sus partidos políticos  q solo saben tirar mierdas por la boca",
   "hora": "2026-11-25T08:50:46+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1446,8 +1549,13 @@
   "texto": "Me encanta que hayáis pensado en los votantes de Vox y lo hayáis hecho con dibujitos",
   "hora": "2026-11-25T06:38:23+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1494,8 +1602,13 @@
   "texto": "Está claro que Abascal tampoco es experto en sanidad 😂",
   "hora": "2026-11-25T06:14:31+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1530,8 +1643,13 @@
   "texto": "Muy complejo de entender para Abascal",
   "hora": "2026-11-25T01:38:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1566,8 +1684,13 @@
   "texto": "El no ha sido ni trabajador ni esforzado, solo por tener DNI no debería tener derecho a la sanidad pública, siguiendo su razonamiento",
   "hora": "2026-11-24T23:08:03+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1602,8 +1725,13 @@
   "texto": "Cateto de manual…L  Zurda Todos a votar masa a la izquierda!!!👏🏻👏🏻👏🏻A partir de ahora, todo lo que compartas y lo que comentes de aquí a las elecciones que lleve esto pegado: #Españadeizquierdas",
   "hora": "2026-11-24T22:40:23+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1662,8 +1790,13 @@
   "texto": "Todo ser humano tiene derecho a una sanidad pública, y para que nos atiendan a todos  que pongan más medios más médicos en vez de recortar y decir q es culpa de personas!!!!",
   "hora": "2026-11-24T21:42:03+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1722,8 +1855,13 @@
   "texto": "Todos los que viven en España directamente o indirectamente pagan impuestos todos",
   "hora": "2026-11-24T20:53:10+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -1770,8 +1908,13 @@
   "texto": "Que vuelva a dar vergüenza ser facha",
   "hora": "2026-11-24T19:52:25+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2131,8 +2274,13 @@
   "texto": "Yo creo que quería decir PRIVADA,por eso la están desmantelando la sanidad pública.",
   "hora": "2026-11-24T14:40:31+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2167,8 +2315,13 @@
   "texto": "Por favor voten a vox. Nos gusta ser un meme pues vamos ha hacerlo realidad",
   "hora": "2026-11-24T14:04:39+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2179,8 +2332,13 @@
   "texto": "Sanidad Universal para tod@s. Voto progresista voto izquierda voto útil voto psoe 🌹🌹🌹🌹",
   "hora": "2026-11-24T13:57:56+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -2203,8 +2361,13 @@
   "texto": "Volvemos a lo de siempre con Abascal, que no sabe de nada 😂",
   "hora": "2026-11-24T13:43:36+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2248,6 +2411,14 @@
    {
     "quien": "bio.andante",
     "texto": "si te ha gustado dale a 🔁🙏🏻"
+   },
+   {
+    "quien": "juanpichaco",
+    "texto": "@natural_selection19 señor ..habrás estudiado los 7 años...pero NO eres médico"
+   },
+   {
+    "quien": "natural_selection19",
+    "texto": "Estudié muchos más, viejo facha"
    }
   ],
   "respondido": true,
@@ -2295,8 +2466,13 @@
   "texto": "Me hospitalizaron en Inglaterra de urgencia cuando era estudiante becario sin pagar impuestos aqui. y me  pasaron factura! Dí mi tarjeta sanitaria andaluza y se lo cobraron a traves de mi seguridad social. Abascal dice que urgencias para inmigrantes sí. Que hay de malo en eso? Le sacais punta a todo. No quiero pagar una sanidad publica y que luego  esté colapsada por inmigrantes!",
   "hora": "2026-11-24T11:27:48+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2367,8 +2543,13 @@
   "texto": "Para que te dan ibuprofeno y parecetamol para todas las enfermedades necesitas un pasaporte español ?",
   "hora": "2026-11-24T11:08:12+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2379,8 +2560,13 @@
   "texto": "Si no eres millonario NECESITAS servicios públicos de calidad #nopasaran #votoutil #votaizquierda29n #lafuerzadelagente #yosoyzurdo #españadeizquierdas",
   "hora": "2026-11-24T11:05:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2415,8 +2601,13 @@
   "texto": "La sanidad universal sería lo ideal y restringirla suena muy mal cuando a quien se la restringe es a un migrante que viene con una mano delante y otra detrás, pero qué pasa con los guiris que vienen a tratarse leucemias porque en su país es muy caro, o gente que viene exclusivamente a hacerse un trasplante cardíaco para luego irse de España contribuyendo 0 a la economía y obteniendo tratamientos millonarios. No estoy a favor de VOX, ni mucho menos, pero la sanidad necesita replantearse, no somos una ONG y los tratamientos son muy caros. La prevención de enfermedades infecciosas debe ser prioritaria, y siempre se debe tratar, pero no puede ser que tratamientos que rozan los milloneS se estén dando a gente que pide una ambulancia desde el aeropuerto al hospital.",
   "hora": "2026-11-24T10:55:34+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2451,8 +2642,13 @@
   "texto": "Y los españoles que no trabajan??? Para ellos si o no???😂😂",
   "hora": "2026-11-24T10:09:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2499,8 +2695,13 @@
   "texto": "Es muy careto Abascal",
   "hora": "2026-11-24T09:31:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2540,8 +2741,13 @@
   "texto": "El BONO LUZ PARA QUIEN ES PARA LOS LISTILLOS  NACIONALES,SANTI?",
   "hora": "2026-11-24T08:59:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2564,8 +2770,13 @@
   "texto": "¿Entonces, para que los españoles entiendan que la sanidad debe ser un derecho universal, necesitan percibir la enfermedad de su vecino inmigrante como una amenaza para su propia salud? ¿Solo así conseguimos que importe la salud de todas las personas?",
   "hora": "2026-11-24T08:37:53+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2576,8 +2787,13 @@
   "texto": "El que no sabe nada de economía (Abascal) no sabe que la mejor forma de reducir costes en la sanidad pública es la prevención, no las urgencias.",
   "hora": "2026-11-24T08:35:15+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2600,8 +2816,13 @@
   "texto": "Y contestarán, ¡ yo no quiero a ese vecino ! Pero Manolo hombre siempre habrá inmigración siempree 😅 por más que votes a vox 🤦🏻‍♀️🤌🏼🤌🏼",
   "hora": "2026-11-24T08:15:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2660,8 +2881,13 @@
   "texto": "🆗 El 29 N votamos a la izquierda.😍 Solamente pedimos una vivienda digna 🏡, un salario justo 🤑, igualdad entre todos 🙌 inversión en i+d+i 💻, protección animal 🐶 y forestal 🌳, que los incendios se apaguen en invierno🔥, escuela 🎒 y sanidad ❤️‍🩹 públicas, reparto de riqueza 🫂 y mano dura con la corrupción 😂",
   "hora": "2026-11-24T07:36:56+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -2672,8 +2898,13 @@
   "texto": "Pobres europeos del norte, ya no van a poder seguir viniendo a operarse a España 😢",
   "hora": "2026-11-24T07:35:09+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2684,8 +2915,13 @@
   "texto": "VOX es lo que enferma a la sociedad",
   "hora": "2026-11-24T07:25:55+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2848,6 +3084,10 @@
    {
     "quien": "gomil8",
     "texto": "@adzu92 literal, no lo pueden estar haciendo peor, sinceramente"
+   },
+   {
+    "quien": "ragolopez",
+    "texto": "@nursb23 Uff! Empiezo por el final. La mafia, supongo que te refieres a la corrupción, no está en los partidos, está en las personas, para tu información el PP es el partido político con más casos de corrupción en Europa, y hasta 15 ministros tiene imputados o investigados en casos de corrupción. Por supuesto eso no excusa a la corrupción del PSOE. Segundo, no te voy a decir qué es mejor, pero puedes preguntar a 10 médicos qué es mejor, una sanidad universal o una \"nacional\", digo yo que ellos sabrán más que tú y que yo sobre el tema. Por último, mandar pacientes a la sanidad privada es derivar dinero público a una empresa privada, que no solo presta un servicio sino que además tiene que sacar beneficio..... yo preferiría que ese dinero se destinase a mejorar las condiciones de los médicos y enfermeros/as de este país antes que a engrosar los beneficios de una mutua a la que nunca podré acceder porque  con dos tumores e hipertensión en mi historial, no me quieren, solo visitas y pruebas diagnósticas."
    }
   ],
   "respondido": false,
@@ -5918,6 +6158,14 @@
    {
     "quien": "albertogonzalezfedz",
     "texto": "@tok.tok.tokii en el caso del niño su padre o su madre o los 2, tarde o temprano tendrán que trabajar para poder comer y que lleves más de 2 años en el paro no significa que no hayan cotizado 15 o 20 años de su vida. En el caso de la ama de casa como dices tú su marido a tenido que ganar bien de dinero para poder mantener a toda la familia, y como da la casualidad de que el estado te quita a razón de lo que ganas (y por favor no me digas que no, que no quiero entrar en un debate absurdo) pues ya puedes hacer tus cuentas.\nAhora te pongo yo otro caso también muy real.\nViene un inmigrante a trabajar y consigue los papeles, por lo cual ya es Español y legal.\nAl cabo de unos 2 o tres años se trae sus padres de su país porque están muy malitos y requieren sanidad y también su mujer (que también se ha traído de su país)se trae a los sus padres de su país que también tienen sus enfermedades… y para rematar la jugada tienen 2 hijos.\nCuánto tiene que cotizar esa pareja para hacer frente a todo el gasto médico?\nY aunque parezca un caso extremo te sorprendería la cantidad de extranjeros que conozco de forma personal, no que escuchado por ahí o algo de eso…si no que los conozco de verdad.\nQue no me parece mal al fin y al cabo las reglas del juego las hemos puesto nosotros y ellos acatan con ellas.\nEl problema somos nosotros que hemos hecho las reglas mal… porque mires por donde lo mires no es normal que la mitad de la nómina se te esfume.( más todos los impuestos) si reduces los costes de muchas cosas esos impuestos pueden ir para otras cosas también necesarias ( porque si algo tengo claro es que los impuestos nunca te los van a bajar) pero esto es un país no una ONG y yo no me levanto por la mañana para pagarle los gatos sanitarios a gente que no ha cotizado nadie por ellos en la vida."
+   },
+   {
+    "quien": "tok.tok.tokii",
+    "texto": "@albertogonzalezfedz tu ejemplo y el mío no son esencialmente lo mismo? Ambas familias dependen de las cotizaciones de una única persona. El abuelo pudo haber trabajado mucho, mucho tiempo, pero tal vez nunca cotizó (por ejemplo si trabajaba en el campo). Cuánto tiene que cotizar el padre español para poder pagar la sanidad pública de su familia de 2 abuelos, 2 hijos y 2 progenitores? Por qué ese “reparto” de cotizaciones está bien en una familia española pero de repente está mal en una familia migrante? Además, que un extranjero juegue contra las reglas está mal, pero cuando juega con ellas es peor? Porque primero criticas que trabaje sin cotizar y, cuando planteas el caso de alguien que regulariza su situación, trabaja y cotiza, el problema pasa a ser que su familia también puede beneficiarse del sistema. No te entiendo macho"
+   },
+   {
+    "quien": "albertogonzalezfedz",
+    "texto": "@tok.tok.tokii desde luego que tu ejemplo y el mío son muy distintos.\nCuando una persona trabaja en el campo y vende su cosecha, paga impuestos y está dado de alta como autónomo así que no sé de dónde te sacas eso. Mi abuela era de León y decía que le hacían pagar hasta por la ogaza de pan que llevaba para comer ella.\nEl problema es que por lo que tú me comentas y por lo que veo mucha gente, se piensa que este país se se ha construido con altruismo y buenas obras. Y para nada este país ha construido con la sangre y el esfuerzo de nuestros abuelos. Por eso cuando yo voy al hospital no he cotizado lo suficiente como para construir un hospital pero mis padres mis abuelos y demás si lo hicieron(cuando me refiero cotizado es pagar impuestos en general, no tiene porque ser exclusivamente a la Seguridad Social) cuando viene un extranjero, me da igual que sea de forma legal o de forma ilegal. Se aprovecha de un sistema que ya está construido. Es muy fácil decir, por ejemplo que la carretera por la que voy en coche es gratuita pero de gratis no tiene nada,alguien ha tenido que pagar por ella. Y está claro que una persona que acaba de llegar al país no ha sido la que ha aportado para poder construirla. Es decir, cuando mi abuelo iba al hospital, no existía ni la mitad de infraestructura de la que existe ahora y esa infraestructura la tenemos a base de generaciones y generaciones trabajando. Cuando viene alguien de fuera y paga sus 500 o 1000 € a la Seguridad Social \nO los impuestos que le corresponda me da igual y hay que darle sanidad a otros 4 o 5 personas que ha traído por el camino y se encuentra la infraestructura ya hecha.\nSi para ti tiene el mismo derecho  que un español que su padre ha cotizado su abuela ha cotizado su madre ha cotizado frente a un extranjero que acaba de llegar y conseguir los papeles.está claro que has tenido una vida muy fácil.\n\n##"
    }
   ],
   "respondido": true,
@@ -6847,6 +7095,10 @@
    {
     "quien": "rocio.v.rochi",
     "texto": "@dieguilluuuu y para esa no hay vacuna. Lo mejor defenderse para que no entre en el sistema. Hay que subir el sistema inmunológico del país"
+   },
+   {
+    "quien": "juanpichaco",
+    "texto": "@dieguilluuuu seguro que tienes dos másteres en política...vaya tela ..."
    }
   ],
   "respondido": true,
