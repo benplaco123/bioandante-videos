@@ -44,7 +44,7 @@
   "instagram": true,
   "facebook": true,
   "youtube": true,
-  "prueba": true,
+  "prueba": false,
   "portada": "crispr-explicado-portada.jpg"
  },
  {
@@ -54,9 +54,9 @@
   "texto": "🧬 Han corregido una letra del ADN en embriones humanos. Sin cortar la cadena.\n\nDos estudios recientes en Nature, y por qué importan.\n\n✏️ El primero cambia una sola letra del ADN, como quien arregla una errata.\n0️⃣ Resultado: cero letras añadidas o perdidas por error.\n✅ Como proteína, corrigió todas las copias del gen.\n⛔ Con instrucciones (ARNm), muchos embriones se paraban.\n🔎 Pero aparecieron anomalías raras en los cromosomas. Aún no está libre de riesgos.\n🧩 El segundo apagó NANOG, un gen clave: sin él, las células que darán el cuerpo cambian de papel.\n🐭 Otra capa sigue formándose. En ratón no pasa igual.\n\n⚠️ Todo esto es investigación en laboratorio. No es un tratamiento.\n\n💬 ¿Cuál te ha sorprendido más: A, editar sin cortar, o B, lo de NANOG? Te leo.\n\n📚 Nature, 2026: PMID 42742174 y PMID 42350792.\n\n#biotecnología #ADN #genética #ediciongenética #embriones #ciencia #noticiascientíficas #divulgacióncientífica",
   "titulo": "🧬 Han corregido una letra del ADN en embriones humanos. Sin cortar la cadena.",
   "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": false,
+  "facebook": false,
+  "youtube": false,
+  "prueba": true,
   "portada": "edicion-embriones-portada.jpg"
  },
  {
@@ -66,9 +66,9 @@
   "texto": "✂️ Una sola letra mal escrita en tu ADN puede enfermarte de por vida. Existe una herramienta que la encuentra y la corrige. Y la inventaron las bacterias.\n\nCuando una bacteria sobrevive a un virus, guarda un trocito de su ADN como recuerdo, entre repeticiones idénticas. Esa colección se llama CRISPR, y fue Francisco Mojica, estudiando microbios de las salinas de Santa Pola, quien entendió que era un sistema de defensa.\n\nSi el virus vuelve, la bacteria copia el recuerdo en un ARN guía, que se agarra a la proteína Cas9 y juntas cortan el ADN del virus. Los científicos copiaron el truco: ahora la guía la escribimos nosotros. Cas9 recorre nuestro ADN buscando veinte letras entre más de tres mil millones, y cuando encajan, corta. La célula repara el corte: o apaga el gen, o copia el molde que le damos y escribe la letra correcta.\n\nEn 2023 se aprobó la primera terapia con CRISPR, para la anemia falciforme y la beta talasemia.\n\n⚠️ Ojo: a veces corta donde no debe, y la reparación no siempre sale como queremos.\n\n👇 ¿Sabías que el origen de CRISPR es español? Cuéntamelo en comentarios y compártelo con alguien que crea que el ADN no se puede editar.\n\n#crispr #cas9 #edicióngenética #genetica #biologia #ciencia #mojica #divulgacioncientifica #bioandante #cienciaenespañol",
   "titulo": "✂️ Una sola letra mal escrita en tu ADN puede enfermarte de por vida. Existe una herramienta que la ",
   "instagram": true,
-  "facebook": true,
-  "youtube": true,
-  "prueba": false,
+  "facebook": false,
+  "youtube": false,
+  "prueba": true,
   "portada": "crispr-portada.jpg"
  },
  {
