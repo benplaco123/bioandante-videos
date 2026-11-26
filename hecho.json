@@ -529,5 +529,10 @@
   "youtube": "https://youtube.com/shorts/cusMfnGXLt8",
   "facebook_portada": "ok",
   "youtube_portada": "ok"
+ },
+ {
+  "nombre": "centrifuga-tubos-neon",
+  "hora_real": "2026-11-26T19:21:00.966793+00:00",
+  "instagram": "FALLO 18116589728145402: {\"error\":{\"message\":\"(#4) Application request limit reached\",\"code\":4,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AeJx_6iAhV0KabY6b6d0fl2\"}}"
  }
 ]
