@@ -1,6 +1,42 @@
 [
  {
   "red": "instagram",
+  "id": "17939776527407537",
+  "quien": "dra.kvitalsaludintegrativa",
+  "texto": "Estás que Abascal va a entender algo de epidemiología o salud pública si este habla porque tiene boca",
+  "hora": "2026-11-26T22:24:55+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "17914881804482976",
+  "quien": "odontonema",
+  "texto": "Yo he tenido la suerte de poder tratarme con ella con éxito. Gracias a Don Amancio Ortega por regalar estos aparatos que van a salvar muchas vidas. Ojalá no los necesiten aquellos que tanto lo criticaron ni sus familiares.",
+  "hora": "2026-11-26T22:22:01+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Protonterapia: radiación que se para justo en el tumor ⚛️🎯\n\nLos rayos ",
+  "enlace": "https://www.instagram.com/reel/DgN4A24JkGT/"
+ },
+ {
+  "red": "instagram",
+  "id": "18223445359353222",
+  "quien": "pedro.salvadorca",
+  "texto": "Un cuñao opinando...",
+  "hora": "2026-11-26T22:20:24+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "18069892160792296",
   "quien": "in_awoodmood",
   "texto": "No sé ya si con tanto argumento científico, la gente sigue votando a este cuñao... Uff que llegue a todo el mundo antes del 29! Comparte!",
@@ -213,8 +249,13 @@
   "texto": "Nunca lo había pensado. Maravillosa reflexión. Gracias",
   "hora": "2026-11-26T17:37:50+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -288,8 +329,13 @@
   "texto": "Perfecto",
   "hora": "2026-11-26T16:50:54+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -328,6 +374,18 @@
    {
     "quien": "goat.4122288",
     "texto": "@bio.andante por eso tienes 270mil visitas y solo 14mil likes😂"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@goat.4122288 entra dentro de la normalidad. Incluso el algoritmo de Instagram lo considera un porcentaje alto. Ahí van las pruebas 😉😉"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@bio.andante @goat.4122288"
+   },
+   {
+    "quien": "bio.andante",
+    "texto": "@goat.4122288 tengo todas las estadísticas en verde debido al éxito del video e Instagram lo sigue mostrando una semana después o más …"
    }
   ],
   "respondido": true,
@@ -452,8 +510,13 @@
   "texto": "No hay cifra en los partidos que consideran que la ciencia es una mierda, cuando gestionan ellos no hay inversión en ciencia.",
   "hora": "2026-11-26T13:41:37+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Por eso las cifras importan: sin compromiso de inversión, la ciencia siempre es lo primero que se recorta."
+   }
+  ],
+  "respondido": true,
   "video": "🔬🗳️ ¿Qué propone cada partido para la ciencia el 29-N? Esto es lo que ",
   "enlace": "https://www.instagram.com/p/Df7ZYkWDWC8/"
  },
@@ -547,8 +610,13 @@
   "texto": "Cositas BÁSICAS 👏",
   "hora": "2026-11-26T12:15:53+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -559,8 +627,13 @@
   "texto": "👏",
   "hora": "2026-11-26T11:58:23+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -607,8 +680,13 @@
   "texto": "👏👏👏👏👏👏",
   "hora": "2026-11-26T10:58:24+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -631,8 +709,13 @@
   "texto": "Mi comentario para aumentar visibilidad. Bravo por esa explicación",
   "hora": "2026-11-26T10:11:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -856,8 +939,13 @@
   "texto": "Una pregunta que puede resultar incomoda, si nuestro ADN es igual, nuestra estructura biológica igual, porque esos métodos funcionan en uno y en otros no.., quizás deberías observar los medios alrededor de lo pacientes donde funcionó y en donde no. Hay valores como peso, masa muscular, que condicional medicamentos y tratamiento.",
   "hora": "2026-11-26T00:16:24Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Buena pregunta: el ADN no es idéntico entre personas, y además influyen la edad, el peso, otras enfermedades o el entorno. Por eso los ensayos miden en muchos pacientes."
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/aXruAQF1vy0"
  },
@@ -1020,8 +1108,13 @@
   "texto": "100% fijar un plan, y si no se llegara a cumplir analizar las tendencias, crecimiento etc. Sin metas no hay camino .",
   "hora": "2026-11-25T20:26:37+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Exacto! Una cifra con fecha se puede vigilar; una promesa vaga, no."
+   }
+  ],
+  "respondido": true,
   "video": "🔬🗳️ ¿Qué propone cada partido para la ciencia el 29-N? Esto es lo que ",
   "enlace": "https://www.instagram.com/p/Df7ZYkWDWC8/"
  },
@@ -1891,8 +1984,13 @@
   "texto": "Que bien explicado🙌",
   "hora": "2026-11-24T21:01:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2026,8 +2124,13 @@
   "texto": "❤️",
   "hora": "2026-11-24T19:40:27+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2567,8 +2670,13 @@
   "texto": "Solo tiene fijación con Africa🤔🫩...si no fuera por Africa lo tendríamos crudo ....😂gracias a Africa nos devolvieron la luz en el apagón..",
   "hora": "2026-11-24T11:25:35+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2937,8 +3045,13 @@
   "texto": "Es que les falta cerebro para entender, no dejemos que nos gobiernen. Por un modelo de sociedad que avance \n🌹🔴❤️🌹🔴❤️🌹🔴❤️",
   "hora": "2026-11-24T07:55:37+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -2949,8 +3062,13 @@
   "texto": "Totalmente 🙌🙌🙌",
   "hora": "2026-11-24T07:55:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -3531,8 +3649,13 @@
   "texto": "Yo doy gracias de mi doctorado industrial ya que al final estoy cobrando una nómina que está muy bien, eso sí, trabajando dos jornadas por el precio de 1",
   "hora": "2026-11-23T21:58:45+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Me alegro mucho de que te paguen bien… aunque eso de dos jornadas por el precio de una lo dice todo 😅"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
   "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
  },
@@ -3927,8 +4050,13 @@
   "texto": "Y para centrífugas con 4 castillos?",
   "hora": "2026-11-23T16:43:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Igual: equilibra por parejas enfrentadas. Cada castillo con el de enfrente, mismo peso, y dentro de cada uno los tubos también enfrentados 😉"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -4033,8 +4161,13 @@
   "texto": "👏👏👏👏👏",
   "hora": "2026-11-23T15:12:06+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -4613,8 +4746,13 @@
   "texto": "👏👏👏👏",
   "hora": "2026-11-23T11:59:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -4717,8 +4855,13 @@
   "texto": "🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌",
   "hora": "2026-11-23T11:10:25+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -4816,8 +4959,13 @@
   "texto": "Muy retrogrado decir parejas de hombres y no incluir a las personas hetero, lesbianas, etc.",
   "hora": "2026-11-23T10:29:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "Bioandante",
+    "texto": "Gracias por el apunte. Lo nombramos porque es donde más se estudió, pero indetectable = intransmisible vale para todas las parejas, sean como sean."
+   }
+  ],
+  "respondido": true,
   "video": "🧪 Indetectable = intransmisible. Te explico por qué, y por qué el VIH ",
   "enlace": "https://www.facebook.com/reel/1025207717266198/"
  },
@@ -5054,8 +5202,13 @@
   "texto": "Ingresada, \nen una semana pruebas de gammagrafia osea, tac, tac cerebro, resonancia cerebro, ecos, analíticas, tratamientos  y cuidados.\nSé que estoy en buenas manos. Es el patrimonio de todos, nadie está libre de una enfermedad y verse atendida con calidad y esfuerzo por los trabajadores sanitarios es un orgullo para todos los ciudadanos.\nDebemos cuidar lo público como el tesoro más preciado, abrid los ojos‼️‼️‼️\nSer solidarios nos hace un país más humano entre tanta barbarie.\nEs prioridad. Gracias a todos lo que consiguieron tanto🌹💪🏻‼️💪🏻🌹",
   "hora": "2026-11-23T09:45:41+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -5288,8 +5441,13 @@
   "texto": "Perfectamente explicado,",
   "hora": "2026-11-23T07:11:23+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -5549,8 +5707,13 @@
   "texto": "Perfecto, inmigrantes para fuera entonces.",
   "hora": "2026-11-23T05:55:50+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -5829,8 +5992,13 @@
   "texto": "El fascismo si que es una enfermedad",
   "hora": "2026-11-23T00:24:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -5865,8 +6033,13 @@
   "texto": "Todos a votar por una sanidad pública este domingo 🌹🌹🌹",
   "hora": "2026-11-22T23:24:19+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -5949,8 +6122,13 @@
   "texto": "🌹🐕🌹🐕🌹🐕🌹🐕🌹🐕🌹🐕🌹Razones  para votar al PSOE?\nSanidad pública: defiende una sanidad universal y el fortalecimiento de la atención pública.\nEducación: apuesta por la educación pública y las becas.\nPensiones: defiende el mantenimiento y la revalorización de las pensiones.\nDerechos laborales: promueve mejoras salariales, protección de los trabajadores y empleo de calidad.\nPolíticas sociales: defiende ayudas a familias vulnerables y políticas para reducir las desigualdades.\nVivienda: plantea medidas para facilitar el acceso a la vivienda, especialmente a los jóvenes.🌹🐕🌹🐕🌹🐕🌹🐕🌹🐕🌹🐕🌹Que ser fascista vuelva a dar vergüenza",
   "hora": "2026-11-22T22:47:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -5973,8 +6151,13 @@
   "texto": "Califacha",
   "hora": "2026-11-22T22:05:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6038,8 +6221,13 @@
   "texto": "Madre mía si es que todo lo que dicen o plantean ESTÁ MAL!!!! \n\nEl 29N mandemos a toda esta gentuza al baúl de los recuerdos, del que no debieron haber salido! Que les dé vergüenza ser fascistas!!!! \n\n❤️❤️❤️❤️❤️🌹🌹🌹🌹🌹",
   "hora": "2026-11-22T21:42:45+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6086,8 +6274,13 @@
   "texto": "Prefiero pagar mi sanidad al inmigrante trabajador, antes que a este parasito sinverguenza que solo sabe que chupar del ignorante. Mala persona.",
   "hora": "2026-11-22T20:13:05+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6110,8 +6303,13 @@
   "texto": "👏👏👏👏👏👏👏👏👏",
   "hora": "2026-11-22T20:10:27+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6122,8 +6320,13 @@
   "texto": "Mas cateto no se puede ser",
   "hora": "2026-11-22T20:09:48+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6134,8 +6337,13 @@
   "texto": "Y si es sanidad nacional que pasa con los trabajadores no nacionalizados?",
   "hora": "2026-11-22T20:07:42+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6146,8 +6354,13 @@
   "texto": "Abascal tampoco es experto en sanidad, como puede verse... Si no sabes a quién votar en tu provincia, mira las encuestas de trescincuenta.es y vota al partido que pueda robar el último escaño a ppvox. Si tienes dudas, escríbeme",
   "hora": "2026-11-22T20:03:29+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -6158,8 +6371,13 @@
   "texto": "En 2012 no solo quedaron sin médico los inmigrantes , también muchos españoles real decreto ley 16-2012 del 20 de abril en plena crisis se les negó la sanidad a los parados de larga duración, Alós menores de 26 años que aún no hubiesen cotizado, al que llevaba más de dos años sin cotizar y a los españoles que llevasen 90 días o más residiendo en el extranjero son cotizar en España",
   "hora": "2026-11-22T19:39:43+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6170,8 +6388,13 @@
   "texto": "Prevenir siempre es mejor que curar… voto útil antes que arrepentirse!!!💪🏼👍🏼💪🏼👍🏼💪🏼👍🏼",
   "hora": "2026-11-22T19:32:23+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6206,8 +6429,13 @@
   "texto": "👏👏👏👏👏👏",
   "hora": "2026-11-22T19:18:15+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -6266,8 +6494,13 @@
   "texto": "Es heavy como hay q estar de la cabeza aunque sea un egoísta egocentrico para pensar que es buena idea tener en el territorio español personas enfermas que vienen de otros países sin atención médica. Evidentemente ya no le pido ni mera humanidad por que ni moralidad tiene, pero aunque sea simple matemática básica.  Estamos tontos?!",
   "hora": "2026-11-22T18:48:58+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -7040,8 +7273,13 @@
   "texto": "Yo estoy casada y tengo 3 hijos y somos dos mujeres, dos mujeres es mucho más fácil...",
   "hora": "2026-11-22T11:16:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Qué bonito! Gracias por contarlo 💛 Familias como la tuya son justo lo que dicen los estudios."
+   }
+  ],
+  "respondido": true,
   "video": "¿Dos madres o dos padres va «contra la naturaleza»? Esto dice la biolo",
   "enlace": "https://www.instagram.com/reel/Df5OBxBlcyi/"
  },
@@ -7293,8 +7531,13 @@
   "texto": "el problema a solucionar es de  fronteras y totalmente de acuerdo, pero ojo ahora España es un país de turismo sanitario y el sarampión en cifras q España no veía hace años y no precisamente importado de países \"tercermundistas\", así q hay cosas que requieren mano firme, xq además muchas de las tbc( por ejemplo) se inicia tto, con intención de seguimiento del paciente, control evolutivo y adherencia y en fin.....esto lo sabemos todos los médicos de cualquier país...hay q dar una gran vuelta a esto, grande !!! no  sé si habrá alguien capaz...",
   "hora": "2026-11-22T08:39:56+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -8550,8 +8793,13 @@
   "texto": "Tenemos q ir a votar el 29N. No nos podemos permitir quedarnos en casa!",
   "hora": "2026-11-20T17:07:43+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -8795,8 +9043,13 @@
   "texto": "👏👏👏",
   "hora": "2026-11-20T15:02:03+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -9162,8 +9415,13 @@
   "texto": "Yo estudiare biotechnology en la rama de la salud se que llegare al doctorado menos mal que vivo donde se paga relativamente bien",
   "hora": "2026-11-20T06:43:25+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "¡Mucho ánimo! Es una carrera preciosa. Aquí tienes ciencia para el camino 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "🧪 ¿Cuántos trabajos puedes hacer por 1.300 € al mes? En algunos labora",
   "enlace": "https://www.instagram.com/reel/Df7qoEWCU7n/"
  },
@@ -10346,8 +10604,13 @@
   "texto": "El #29N votamos por mantener y mejorar los servicios publicos y de calidad, FRENTE A UNA ULTRADERECHA QUE RECORTA EN DERECHOS CIUDADANOS.\nEstá en nuestras manos.\nVotemos y votemos bien.\nVotemos a la izquierda.\nLa ultraderecha NUNCA ES LA RESPUESTA A\nPARA MANTENER Y MEJORAR EL ESTADO DE BIENESTAR SOCIAL.\n#somosmásynovanapasar #sibrasilpudonosotrostambién",
   "hora": "2026-11-18T23:33:47+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, ¡compártelo y sígueme para más! 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -10651,8 +10914,13 @@
   "texto": "Estas pero bien mal, de seguro eres gay",
   "hora": "2026-11-18T19:48:30Z",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "@Bio.andante",
+    "texto": "Ser gay no es un insulto. Y los datos son los datos, los diga quien los diga 🏳️‍🌈"
+   }
+  ],
+  "respondido": true,
   "video": "YouTube",
   "enlace": "https://youtube.com/shorts/PRtonm74wMM"
  },
@@ -11259,8 +11527,13 @@
   "texto": "Con las creencias que tienen, la derecha y ultraderecha, las ganas de agarrar dinero, y el poco respeto a la sociedad… nos meterán en muchos más problemas de los que saben manejar. ✊🏼",
   "hora": "2026-11-18T13:42:10+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -11558,8 +11831,13 @@
   "texto": "Que nadie \"compre\" esta idea tan insolidaria y cruel. El 29N vota  Frente Amplio!",
   "hora": "2026-11-18T10:57:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
@@ -11726,8 +12004,13 @@
   "texto": "Opino que el discurso de Vox solo se lo tragan indigentes mentales.",
   "hora": "2026-11-18T07:04:34+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df2l_mCDUQC/"
  },
