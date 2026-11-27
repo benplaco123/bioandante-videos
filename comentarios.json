@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "18095780090207581",
+  "quien": "samya.koubaa",
+  "texto": "Hasta aquí no llega Abascal 🤏🧠",
+  "hora": "2026-11-27T19:49:59+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "18136066579776689",
   "quien": "madpmi",
   "texto": "CIENCIA y CONCIENCIA ✊💫",
@@ -4657,6 +4669,10 @@
    {
     "quien": "bio.andante",
     "texto": "@laiasolyluna 😂 sígueme que voy con más datos"
+   },
+   {
+    "quien": "laiasolyluna",
+    "texto": "@bio.andante del cerebro de Abascal? Jajajajaj"
    }
   ],
   "respondido": true,
