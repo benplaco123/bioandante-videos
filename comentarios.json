@@ -1,6 +1,30 @@
 [
  {
   "red": "instagram",
+  "id": "18004651022814081",
+  "quien": "luchorivarolaortiz",
+  "texto": "Cuándo van a entender que la mayoría de ideas de izquierda es simplemente ciencia? Siguen en el medievo creyendo en fábulas y santos 😂",
+  "hora": "2026-11-27T00:04:32+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
+  "id": "17916421185517181",
+  "quien": "mayritesmadrid84",
+  "texto": "NO AL FASCISMO",
+  "hora": "2026-11-26T23:54:57+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "17916624294490310",
   "quien": "jose.gcf",
   "texto": "La sanidad no se paga por ser español y se paga con el IVA y todos consumimos",
@@ -30,8 +54,13 @@
   "texto": "Es que de verdad se quieren cargar el estado de bienestar",
   "hora": "2026-11-26T23:07:37+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@rosquillabenito crees que es por ahorrar o por otra cosa? te leo 👀"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -42,8 +71,13 @@
   "texto": "Tubo",
   "hora": "2026-11-26T23:03:09+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@mena_25vp Instagram solo me deja mandarlo la primera semana y este vídeo ya la pasó 😅 escríbeme TUBO por privado y te lo envío 📩"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -54,8 +88,13 @@
   "texto": "Estás que Abascal va a entender algo de epidemiología o salud pública si este habla porque tiene boca",
   "hora": "2026-11-26T22:24:55+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@dra.kvitalsaludintegrativa tú que eres del sector, qué es lo que más ves que falla cuando alguien llega tarde a urgencias?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -83,8 +122,13 @@
   "texto": "Un cuñao opinando...",
   "hora": "2026-11-26T22:20:24+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@pedro.salvadorca 😂 por eso van los datos. compártelo con 🔁 si te ha gustado"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -95,8 +139,13 @@
   "texto": "No sé ya si con tanto argumento científico, la gente sigue votando a este cuñao... Uff que llegue a todo el mundo antes del 29! Comparte!",
   "hora": "2026-11-26T21:28:46+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@in_awoodmood ayúdame a que llegue dándole a 🔁🙏🏻"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -107,8 +156,13 @@
   "texto": "Ser fascista es la peor de las enfermedades 🤮",
   "hora": "2026-11-26T21:21:45+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@la_age sin insultos que así no hay debate 😅 qué dato crees que convence más a alguien que vota así?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -119,8 +173,13 @@
   "texto": "@tok.tok.tokii No estás confundido yo no opino que el derecho de ir al hospital se herede. Pero si opino que un extranjero que viene al país y requiere sanidad si no está cotizando o pagando el IRPF o como lo quieras llamar hay que cobrarle al igual que pienso que un extranjero que viene y trabaja y paga sus impuestos tiene derecho a sanidad gratuita. Pero sus padres, su mujer(si también es extranjera), su hermano si no están cotizando si requieren sanidad, deberían de pasarle la factura.\nExactamente igual que si yo me voy a un país extranjero y me pongo malo o tengo seguro médico o lo pago de mi bolsillo punto pelota.\nY en el caso de un inmigrante ilegal no es que no tendría que tener derecho porque por no tener no tiene ni derecho ni estar en el país, así que mucho menos sanidad gratuita.\nY otra cosa para que no crear confusión cuando me refiero un extranjero me refiero a cualquier extranjero, me da igual alemán que musulmán vale.?para que quede claro",
   "hora": "2026-11-26T21:15:35+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@albertogonzalezfedz @tok.tok.tokii lo del seguro tiene su lógica, pero en 2012 se hizo justo eso y murieron unas 80 personas más al año. y el que no puede pagar y tiene tuberculosis, qué hacemos con él?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -131,8 +190,13 @@
   "texto": "Este no utilizo la seguridad social ,está enfermo y se le nota",
   "hora": "2026-11-26T20:58:48+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@antoninogalgoherrera sin insultos que así no convencemos 😅 qué crees que le haría cambiar de idea?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -143,8 +207,13 @@
   "texto": "El no sabe de enfermedades, en realidad no sabe de nada. Nunca ha cotizado, no hizo la mili, no es técnico, ni economista, ni nada … dicho por él. Imagínate un personaje así en el Gobierno, chupando del bote y cobrando bonos de electricidad 🤯🐒🥸",
   "hora": "2026-11-26T20:49:07+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@mosquipau 😂 si te ha gustado compártelo con 🔁, que llegue a quien tiene dudas"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -155,8 +224,13 @@
   "texto": "Mi centrífuga es de 8 😢",
   "hora": "2026-11-26T20:46:09+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@081226.c con 8 huecos te salen los pares 2, 4, 6 y 8, los impares no hay manera 😅 cuántos sueles meter tú?"
+   }
+  ],
+  "respondido": true,
   "video": "2 + 3 = 5 tubos… y ningún tubo de agua 💧❌\n\nMira el punto blanco del ce",
   "enlace": "https://www.instagram.com/reel/DgN43qKTPlS/"
  },
@@ -201,8 +275,13 @@
   "texto": "No hay metro ni colegios, nene....si no aportas ...no tiene nada ..te vas a donde aportes ..aportes miseria...la misma que aguantamos los trabajadores de otros que no aportan....más que piojos. A pedir .men Tánger",
   "hora": "2026-11-26T20:36:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@juanpichaco el problema es que la tuberculosis no mira si aportas: si no le tratan, contagia al que sí aporta. tú qué prefieres, pagar un tratamiento o una epidemia?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -213,8 +292,13 @@
   "texto": "PEDRO SÁNCHEZ 29N VOTO ÚTIL POR NUESTROS DERECHOS 🌹❤️🌹❤️🌹❤️🌹",
   "hora": "2026-11-26T20:04:35+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@gloria_tamurejo aquí van datos, el voto ya es cosa de cada uno 🙌 compártelo con 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -225,8 +309,13 @@
   "texto": "Vox, el club del neurona unico",
   "hora": "2026-11-26T19:55:09+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@hemcehemce sin insultos que luego no hay debate 😅 qué crees que convencería a un votante suyo?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -254,8 +343,13 @@
   "texto": "Tubo",
   "hora": "2026-11-26T19:29:40+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@mardoncita por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -300,8 +394,13 @@
   "texto": "Es de lógica, pero estos la lógica la tienen en el culo!! Cuanto menos gente tratada más  gente contagiada, más muertes , más bajas laborales , más costo en el tratamiento. De toda la pta vida siempre es más barato el preventivo que el correctivo, hasta en las empresas. Estos hunden el país en dos años, si trabajaran para una empresa la quebraban en 1, por eso no han trabajado en la vida en la empresa privada.  Imagina lo que harán estos con el transporte por ahorrar. Ahora habrá errores. pero estos van a dejar hasta sin hierro las vías.",
   "hora": "2026-11-26T17:47:22+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@201855prja eso es, prevenir es más barato que curar, en la salud y en las vías 😂 crees que sus votantes lo ven así o les da igual el coste?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -363,8 +462,13 @@
   "texto": "No es más básico porque ya no hay más niveles que bajar!",
   "hora": "2026-11-26T16:57:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@sonia.cabello 😂😂 si te ha gustado dale a 🔁"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -409,8 +513,17 @@
   "texto": "El todologo cuanto manda",
   "hora": "2026-11-26T16:35:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@crisferlla 😂 y tú, en qué te fías más, en un político o en un estudio de 2021?"
+   },
+   {
+    "quien": "crisferlla",
+    "texto": "@bio.andante en datos claros no en el"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -462,8 +575,13 @@
   "texto": "Escuchen bien los venezolanos y colombianos legales que, por una eventualidad, por ejemplo, que no tengan como pagar la calefacción y quieran la ayuda, serán deportados!!!",
   "hora": "2026-11-26T15:27:00+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@carand15 justo por eso importa la letra pequeña de nacional. crees que mucha gente sabe a quién dejaría fuera?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -495,8 +613,17 @@
   "texto": "Que puto asco de pavo!",
   "hora": "2026-11-26T15:07:17+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@claudiamsaltochaparro mejor con datos que con insultos 😅 compártelo con 🔁 que eso sí escuece"
+   },
+   {
+    "quien": "claudiamsaltochaparro",
+    "texto": "@bio.andante lo sé, pero es que a estas alturas no se merece menos!"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -528,8 +655,13 @@
   "texto": "Sí, pero etiquetadle asi se aprende algo!!!",
   "hora": "2026-11-26T14:29:03+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@dyppygram jajaja no creo que lo vea 😂 pero si quieres etiquétale tú, igual alguien de su equipo sí. lo harías?"
+   }
+  ],
+  "respondido": true,
   "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
   "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
  },
@@ -637,8 +769,13 @@
   "texto": "Tubo",
   "hora": "2026-11-26T13:16:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@angel.cr.21 desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -666,8 +803,13 @@
   "texto": "Tubo",
   "hora": "2026-11-26T12:20:06+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@ali_mznt desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -991,8 +1133,13 @@
   "texto": "Tubo",
   "hora": "2026-11-26T01:25:55+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@jloperamedina por aquí Instagram ya no me deja mandártelo porque el vídeo tiene más de una semana 😅 escríbeme TUBO por privado y te lo paso 📩"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -1003,8 +1150,13 @@
   "texto": "Tubo",
   "hora": "2026-11-26T00:41:58+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@mauro_barrantes_cr ya no me deja enviártelo desde aquí porque el reel tiene más de una semana 😅 mándame TUBO por privado y te llega 📩🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -1197,8 +1349,13 @@
   "texto": "Tubo",
   "hora": "2026-11-25T20:38:10+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@valeri_gonza por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -1459,8 +1616,13 @@
   "texto": "Tubo",
   "hora": "2026-11-25T16:20:57+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@blue_affogato por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -1488,8 +1650,13 @@
   "texto": "Tubo",
   "hora": "2026-11-25T16:03:14+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@golden__midnight desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -1585,8 +1752,13 @@
   "texto": "Tubo",
   "hora": "2026-11-25T15:01:10+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@josue_moreno__ Instagram solo me deja mandarlo la primera semana y este vídeo ya la pasó 😅 escríbeme TUBO por privado y te lo envío 📩"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -1737,6 +1909,10 @@
    {
     "quien": "bio.andante",
     "texto": "@alejandraorrillo depende: con papeles y tarjeta sanitaria no, a un turista sí se le factura a su país o a su seguro. el lío es el que no tiene papeles. tú qué harías con ese caso?"
+   },
+   {
+    "quien": "alejandraorrillo",
+    "texto": "@bio.andante yo veo bn ese sistema, si eres residente y trabajas y aportas si puedes obviamente ir"
    }
   ],
   "respondido": true,
@@ -1954,8 +2130,13 @@
   "texto": "Tubo",
   "hora": "2026-11-25T06:16:48+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@zaijuarez_10 desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -1983,8 +2164,13 @@
   "texto": "Tubo",
   "hora": "2026-11-25T05:11:26+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@paulaaguerreroo por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -2116,8 +2302,13 @@
   "texto": "Tubo",
   "hora": "2026-11-24T22:40:16+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@luchin_sf por aquí Instagram ya no me deja mandártelo porque el vídeo tiene más de una semana 😅 escríbeme TUBO por privado y te lo paso 📩"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -2566,8 +2757,13 @@
   "texto": "Tubo",
   "hora": "2026-11-24T16:37:02+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@aleydis26 desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -2612,8 +2808,13 @@
   "texto": "Tubo",
   "hora": "2026-11-24T15:53:12+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@yazmin_azcmel ya no me deja enviártelo desde aquí porque el reel tiene más de una semana 😅 mándame TUBO por privado y te llega 📩🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -2733,8 +2934,13 @@
   "texto": "Tubo",
   "hora": "2026-11-24T13:56:46+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@jehudie._l por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -3689,8 +3895,13 @@
   "texto": "Tubo",
   "hora": "2026-11-24T03:06:21+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@lealleon7 por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -4518,8 +4729,13 @@
   "texto": "Tubo",
   "hora": "2026-11-23T14:34:08+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@mireldy_andre Instagram solo me deja mandarlo la primera semana y este vídeo ya la pasó 😅 escríbeme TUBO por privado y te lo envío 📩"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -4803,8 +5019,13 @@
   "texto": "Tubo",
   "hora": "2026-11-23T13:21:49+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@akinallier desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6073,8 +6294,13 @@
   "texto": "Tubo",
   "hora": "2026-11-23T03:01:54+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@santiagocolina_2008 desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6085,8 +6311,13 @@
   "texto": "TUBO",
   "hora": "2026-11-23T01:19:05+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@herb.ces2 por aquí Instagram ya no me deja mandártelo porque el vídeo tiene más de una semana 😅 escríbeme TUBO por privado y te lo paso 📩"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6295,8 +6526,13 @@
   "texto": "tubo",
   "hora": "2026-11-22T22:53:03+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@patri.thedog por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6377,8 +6613,13 @@
   "texto": "tubo",
   "hora": "2026-11-22T22:02:53+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@rxbt.rg ya no me deja enviártelo desde aquí porque el reel tiene más de una semana 😅 mándame TUBO por privado y te llega 📩🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6567,6 +6808,10 @@
    {
     "quien": "bio.andante",
     "texto": "Si te ha gustado, compártelo y sígueme para más 🔁😊"
+   },
+   {
+    "quien": "surfeandolaexistencia",
+    "texto": "@bio.andante hecho"
    }
   ],
   "respondido": true,
@@ -6614,8 +6859,13 @@
   "texto": "Tubo",
   "hora": "2026-11-22T19:30:04+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@darellugoleyva desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -6758,8 +7008,13 @@
   "texto": "Tubo",
   "hora": "2026-11-22T18:01:17+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@johncotre por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -7005,8 +7260,13 @@
   "texto": "Tubo",
   "hora": "2026-11-22T15:28:01+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@juliandgj Instagram solo me deja mandarlo la primera semana y este vídeo ya la pasó 😅 escríbeme TUBO por privado y te lo envío 📩"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -7148,8 +7408,13 @@
   "texto": "Tubo",
   "hora": "2026-11-22T15:10:52+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@cg_isaac por aquí ya no puedo mandártelo, Instagram lo corta a los 7 días 🙈 escríbeme TUBO por DM y te lo paso 🙌"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -7232,8 +7497,13 @@
   "texto": "Tubo",
   "hora": "2026-11-22T14:49:25+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@maarce.cc desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -7282,8 +7552,13 @@
   "texto": "Tubo",
   "hora": "2026-11-22T14:11:28+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@alemen310 desde los comentarios ya no me deja enviártelo, el vídeo es de hace más de 7 días 🙈 mándame TUBO por DM y te llega 🧪"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
@@ -7294,8 +7569,13 @@
   "texto": "Tubo",
   "hora": "2026-11-22T14:11:05+0000",
   "oculto": false,
-  "respuestas": [],
-  "respondido": false,
+  "respuestas": [
+   {
+    "quien": "bio.andante",
+    "texto": "@nevermissthebeat por aquí Instagram ya no me deja mandártelo porque el vídeo tiene más de una semana 😅 escríbeme TUBO por privado y te lo paso 📩"
+   }
+  ],
+  "respondido": true,
   "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
   "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
  },
