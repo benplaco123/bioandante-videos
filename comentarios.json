@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "18036616286915038",
+  "quien": "peprios",
+  "texto": "Poder + ignorancia + soberbia + poca inteligencia = superdesastre!!! De verdad lo vais a permitir? No te quedes en casa... 29N VOTA!!!!",
+  "hora": "2026-11-27T06:11:12+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "18506920369103696",
   "quien": "magrijordi",
   "texto": "Pasaré por aquí el 29N. Será un mar de lágrimas😂",
@@ -480,6 +492,14 @@
    {
     "quien": "bio.andante",
     "texto": "@081226.c no tienes ninguna de 12 ?? 😂😂"
+   },
+   {
+    "quien": "081226.c",
+    "texto": "@bio.andante noooo JAJAJAJA tiene q ser pares siempre"
+   },
+   {
+    "quien": "081226.c",
+    "texto": "@bio.andante pues sector salud hermano (yo soy pasante de enfermería, ni soy químico kakaka)"
    }
   ],
   "respondido": true,
@@ -2360,6 +2380,10 @@
    {
     "quien": "bio.andante",
     "texto": "@ainhoa_a_secas buena puntería 😂 a los jubilados británicos y alemanes los atiende la pública y luego su país paga la factura. crees que alguien se ha parado a pensar en ellos?"
+   },
+   {
+    "quien": "ainhoa_a_secas",
+    "texto": "@bio.andante luego su país paga la factura si, pero estando la sanidad como está, estos también saturan, estos también colapsan el sistema, porque aunque luego su país pague la factura nuestro sistema sanitario y nuestros profesionales siguen en condiciones lamentables…"
    }
   ],
   "respondido": true,
