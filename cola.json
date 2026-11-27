@@ -110,18 +110,5 @@
   "facebook": false,
   "youtube": false,
   "prueba": true
- },
- {
-  "nombre": "huracanes-ia",
-  "hora": "2026-11-27T20:42:21+00:00",
-  "video": "huracanes-ia.mp4",
-  "texto": "Cuatro días antes de arrasar Jamaica, el huracán Melissa era solo una tormenta tropical 🌀\n\nY aun así, los meteorólogos avisaron de que iba a explotar. Una de sus pistas venía de una IA de Google DeepMind 👇\n\n🧠 No resuelve las ecuaciones del tiempo: aprendió de 40 años de atmósfera y de casi 5.000 ciclones observados.\n🍝 En menos de un minuto imagina decenas de futuros posibles para cada tormenta.\n📍 El 24 de octubre de 2025, todos sus escenarios coincidían: Melissa sería un gran huracán.\n5️⃣ Con su ayuda y la de otros modelos, el Centro Nacional de Huracanes predijo por primera vez una categoría 5 desde una intensidad tan baja (categoría 1), con casi tres días de aviso.\n💨 Tocó tierra con vientos de unos 296 km/h: el huracán más fuerte registrado en tocar tierra en Jamaica.\n📊 En toda la temporada atlántica, fue el único modelo que superó, por poco, al pronóstico oficial en trayectoria entre las 12 horas y los 3 días (a 3 días, un 18 % menos de error).\n\n⚠️ No sustituye a los meteorólogos: el pronóstico oficial lo hacen personas, y la IA es una guía más. Pero ganar un día de aviso es ganar tiempo para ponerse a salvo.\n\n📄 Fuentes: Alet et al., «Operational tropical cyclone forecasting with AI», Nature 657:680 (2026); Kelly, Álamo y Mahoney, Tropical Cyclone Report: Hurricane Melissa, NHC (2026); Cangialosi et al., NHC Forecast Verification Report 2025 (2026).\n\n💬 ¿Te fiarías de un aviso de huracán hecho con IA? A · sí, si lo revisan los meteorólogos · B · no, prefiero solo los modelos clásicos. Te leo\n📌 Guárdalo y compártelo con quien diga que la IA solo sirve para hacer textos\n👉 Sígueme en @bio.andante: tienes la serie «IA como acelerador científico» en el perfil\n\n#huracanes #meteorologia #inteligenciaartificial #clima #divulgacioncientifica\n\n---\nTexto alternativo (Configuración avanzada > Accesibilidad):\nAnimación isométrica sobre un muelle largo de madera en el mar: un huracán avanza por el agua junto al muelle mientras, en sus estaciones, una boya y un satélite toman datos, un archivo guarda huracanes del pasado, una IA dibuja decenas de trayectorias de colores que acaban coincidiendo sobre una mesa-mapa, un contador sube de categoría 1 a 5 con «296 km/h», la sala del Centro de Huracanes recibe el aviso y un megáfono lo lleva hasta Jamaica.",
-  "titulo": "Cuatro días antes de arrasar Jamaica, el huracán Melissa era solo una tormenta tropical 🌀",
-  "instagram": true,
-  "facebook": false,
-  "youtube": false,
-  "prueba": false,
-  "portada": "huracanes-ia-portada.jpg",
-  "intentos": 3
  }
 ]
