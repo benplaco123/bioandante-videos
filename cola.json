@@ -86,27 +86,6 @@
   "par": "grupo-sanguineo-hijo"
  },
  {
-  "nombre": "gfp-carrusel",
-  "tipo": "carrusel",
-  "hora": "2026-11-27T13:36:00+01:00",
-  "imagenes": [
-   "gfp-carrusel-01.jpg",
-   "gfp-carrusel-02.jpg",
-   "gfp-carrusel-03.jpg",
-   "gfp-carrusel-04.jpg",
-   "gfp-carrusel-05.jpg",
-   "gfp-carrusel-06.jpg",
-   "gfp-carrusel-07.jpg",
-   "gfp-carrusel-08.jpg",
-   "gfp-carrusel-09.jpg",
-   "gfp-carrusel-10.jpg",
-   "gfp-carrusel-11.jpg"
-  ],
-  "texto": "🔬 Ninguna de estas fotos está pintada: el color es la propia célula, encendida 💚\n\nGuárdalo, que es de las cosas más bonitas que hace la biología.\n\nLa fluorescencia es esto: una molécula se traga luz de un color y devuelve luz de otro con menos energía. A esas moléculas las llamamos fluoróforos.\n\nDurante décadas los pegábamos a anticuerpos para localizar una proteína, pero solo en células ya muertas y fijadas. Hasta que llegó la GFP, una proteína de la medusa Aequorea victoria: la célula la fabrica ella sola a partir de su gen, se pliega en un barril y forma su propio fluoróforo por dentro, sin añadir nada.\n\nY ahí está el truco que lo cambió todo: si pegas ese gen al de la proteína que quieres estudiar, la célula viva la fabrica ya encendida. Por primera vez se podía seguir una proteína en tiempo real dentro de un animal vivo. De la GFP y de proteínas de corales salieron después versiones azules, amarillas y rojas, y por eso se pueden marcar varias cosas a la vez.\n\nNobel de Química 2008 para Shimomura, Chalfie y Tsien.\n\nFuentes:\n· Shimomura O, Johnson FH, Saiga Y. J Cell Comp Physiol 1962 · doi 10.1002/jcp.1030590302\n· Chalfie M et al. Science 1994 · doi 10.1126/science.8303295\n· Premio Nobel de Química 2008 (nobelprize.org)\n\nImágenes: Wikimedia Commons, con su autor y licencia en cada lámina.\n\n#gfp #fluorescencia #microscopia #biologia #ciencia #divulgacion #nobel #biologiamolecular #laboratorio #cienciaenespañol #bioandante",
-  "instagram": true,
-  "facebook": true
- },
- {
   "nombre": "axolote",
   "hora": "2026-12-04T20:36:00+01:00",
   "video": "axolote.mp4",
