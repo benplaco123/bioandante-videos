@@ -568,5 +568,10 @@
   "nombre": "huracanes-ia",
   "hora_real": "2026-11-27T20:01:25.821764+00:00",
   "instagram": "FALLO 17841434362052739/media: {\"error\":{\"message\":\"The caption was too long.\",\"code\":36004,\"type\":\"OAuthException\",\"error_subcode\":2207010,\"is_transient\":false,\"error_user_msg\":\"El texto enviado tenía 2276 caracteres. El máximo de caracteres admitido es 2200. Envía contenido multimedia con un texto más corto.\",\"error_user_title\""
+ },
+ {
+  "nombre": "huracanes-ia",
+  "hora_real": "2026-11-27T20:22:21.399940+00:00",
+  "instagram": "FALLO 17841434362052739/media: {\"error\":{\"message\":\"The caption was too long.\",\"code\":36004,\"type\":\"OAuthException\",\"error_subcode\":2207010,\"is_transient\":false,\"error_user_msg\":\"El texto enviado tenía 2276 caracteres. El máximo de caracteres admitido es 2200. Envía contenido multimedia con un texto más corto.\",\"error_user_title\""
  }
 ]
