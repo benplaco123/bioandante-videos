@@ -1,6 +1,18 @@
 [
  {
   "red": "instagram",
+  "id": "18098975432159884",
+  "quien": "jose_aon",
+  "texto": "Alguno defiende que los científicos dicen que es normal que el clima cambie, y que a la mañana salga el sol y por la tarde llueva... No se hasta que punto apoyarán la ciencia....",
+  "hora": "2026-11-28T00:57:47+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "🔬🗳️ ¿Qué propone cada partido para la ciencia el 29-N? Esto es lo que ",
+  "enlace": "https://www.instagram.com/p/Df7ZYkWDWC8/"
+ },
+ {
+  "red": "instagram",
   "id": "18131504420310317",
   "quien": "martanotengo",
   "texto": "Tubo",
@@ -4913,6 +4925,10 @@
    {
     "quien": "bio.andante",
     "texto": "@nursb23 en EEUU sí, pero en media Europa atienden a los sin papeles, Francia tiene su ayuda médica del Estado por ejemplo. y si se van todos genial, pero mientras estén, mejor que vayan al médico. qué opinas? sígueme que traigo más"
+   },
+   {
+    "quien": "edelweisse_blumen",
+    "texto": "@nursb23 las listas de espera se acortan destinando el presupuesto para la publica en la publica y no en la privada"
    }
   ],
   "respondido": true,
