@@ -1,6 +1,30 @@
 [
  {
   "red": "instagram",
+  "id": "18082367471743480",
+  "quien": "adriii.rivas",
+  "texto": "Tubo",
+  "hora": "2026-11-28T10:53:14+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "¿Tú también equilibras la centrífuga con un tubo de agua? No siempre h",
+  "enlace": "https://www.instagram.com/reel/Dfz6NOSDjZl/"
+ },
+ {
+  "red": "instagram",
+  "id": "18392183041230300",
+  "quien": "nayara_sanchez16",
+  "texto": "Si entran legalmente con un certificado de no tener enfermedades ni delitos y contrato de trabajo como iban nuestros abuelos a otros países se evita todo lo que relata el vídeo es muy fácil … 🧠🧠🧠",
+  "hora": "2026-11-28T10:46:22+0000",
+  "oculto": false,
+  "respuestas": [],
+  "respondido": false,
+  "video": "Las enfermedades no tienen pasaporte 🦠🛂\n\nAbascal dice que la sanidad s",
+  "enlace": "https://www.instagram.com/reel/Df3C48XgbGb/"
+ },
+ {
+  "red": "instagram",
   "id": "17899276083616715",
   "quien": "llargandaix_de_flix",
   "texto": "El fascismo mata!",
@@ -7177,6 +7201,10 @@
    {
     "quien": "bio.andante",
     "texto": "@robersan1982 el que viene a operarse suele ser europeo y lo paga su país 😅 el que vive aquí sin papeles es otro caso. cuál te preocupa más? sígueme para más"
+   },
+   {
+    "quien": "robersan1982",
+    "texto": "@bio.andante los europeos no vienen a operarse a España, además habla de sanidad universal, no de europea. No mezcles"
    }
   ],
   "respondido": true,
